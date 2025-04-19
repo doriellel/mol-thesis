@@ -8,3 +8,7 @@ contains two notebooks, each one contains an initial setup for extracting data f
 /preprocessed_data
 
 .txt files containing sentences extracted from abstracts of papers from ArXiv and ACL which contain certain keywords (specified in the code) 
+
+/data
+
+.conllu files containing sentences from arXiv and ACL in CONLLU format, specifically including dependency and constituent information 

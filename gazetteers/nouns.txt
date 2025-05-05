@@ -1,0 +1,10 @@
+assistant
+teacher
+helper
+manager
+tutor
+instructor
+companion 
+adversary
+friend
+partner

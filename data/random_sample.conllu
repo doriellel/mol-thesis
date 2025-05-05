@@ -78,7 +78,7 @@
 6	approached	approach	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	ROOT	_	IsKeyword=No
 7	by	by	ADP	IN	_	6	agent	_	IsKeyword=No
 8	prompting	prompt	VERB	VBG	Aspect=Prog|Tense=Pres|VerbForm=Part	7	pcomp	_	IsKeyword=No
-9	LLMs	llm	NOUN	NNS	Number=Plur	8	dobj	_	IsKeyword=No
+9	LLMs	llm	NOUN	NNS	Number=Plur	8	dobj	_	IsKeyword=Yes
 10	with	with	ADP	IN	_	8	prep	_	IsKeyword=No
 11	survey	survey	NOUN	NN	Number=Sing	12	compound	_	IsKeyword=No
 12	questions	question	NOUN	NNS	Number=Plur	10	pobj	_	IsKeyword=No
@@ -117,7 +117,7 @@
 
 # sent_id = 5
 # text = ChatGPT also had difficulty understanding conditional causal claims mitigated by hedges.
-1	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	3	nsubj	_	IsKeyword=No
+1	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	3	nsubj	_	IsKeyword=Yes
 2	also	also	ADV	RB	_	3	advmod	_	IsKeyword=No
 3	had	have	VERB	VBD	Tense=Past|VerbForm=Fin	0	ROOT	_	IsKeyword=No
 4	difficulty	difficulty	NOUN	NN	Number=Sing	3	dobj	_	IsKeyword=No
@@ -166,9 +166,9 @@
 9	contemporary	contemporary	ADJ	JJ	Degree=Pos	12	amod	_	IsKeyword=No
 10	Large	Large	PROPN	NNP	Number=Sing	12	compound	_	IsKeyword=No
 11	Language	Language	PROPN	NNP	Number=Sing	12	compound	_	IsKeyword=No
-12	Models	Models	PROPN	NNPS	Number=Plur	26	nsubjpass	_	IsKeyword=No
+12	Models	Models	PROPN	NNPS	Number=Plur	26	nsubjpass	_	IsKeyword=Yes
 13	(	(	PUNCT	-LRB-	PunctSide=Ini|PunctType=Brck	12	punct	_	IsKeyword=No
-14	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	12	appos	_	IsKeyword=No
+14	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	12	appos	_	IsKeyword=Yes
 15	,	,	PUNCT	,	PunctType=Comm	14	punct	_	IsKeyword=No
 16	Gemini	Gemini	PROPN	NNP	Number=Sing	17	compound	_	IsKeyword=No
 17	Pro	Pro	PROPN	NNP	Number=Sing	14	conj	_	IsKeyword=No
@@ -201,7 +201,7 @@
 2	-	-	ADJ	JJ	Degree=Pos	5	amod	_	IsKeyword=No
 3	trained	train	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	5	amod	_	IsKeyword=No
 4	Language	Language	PROPN	NNP	Number=Sing	5	compound	_	IsKeyword=No
-5	Models	Models	PROPN	NNPS	Number=Plur	10	nsubj	_	IsKeyword=No
+5	Models	Models	PROPN	NNPS	Number=Plur	10	nsubj	_	IsKeyword=Yes
 6	(	(	PUNCT	-LRB-	PunctSide=Ini|PunctType=Brck	5	punct	_	IsKeyword=No
 7	PLMs	PLMs	PROPN	NNP	Number=Sing	5	appos	_	IsKeyword=No
 8	)	)	PUNCT	-RRB-	PunctSide=Fin|PunctType=Brck	5	punct	_	IsKeyword=No
@@ -316,7 +316,7 @@
 9	media	medium	NOUN	NNS	Number=Plur	10	compound	_	IsKeyword=No
 10	environments	environment	NOUN	NNS	Number=Plur	7	dobj	_	IsKeyword=No
 11	using	use	VERB	VBG	Aspect=Prog|Tense=Pres|VerbForm=Part	10	acl	_	IsKeyword=No
-12	LLMs	llm	NOUN	NNS	Number=Plur	11	dobj	_	IsKeyword=No
+12	LLMs	llm	NOUN	NNS	Number=Plur	11	dobj	_	IsKeyword=Yes
 13	to	to	PART	TO	_	15	aux	_	IsKeyword=No
 14	ethically	ethically	ADV	RB	_	15	advmod	_	IsKeyword=No
 15	test	test	VERB	VB	VerbForm=Inf	11	xcomp	_	IsKeyword=No
@@ -358,7 +358,7 @@
 14	of	of	ADP	IN	_	13	prep	_	IsKeyword=No
 15	Large	Large	PROPN	NNP	Number=Sing	17	compound	_	IsKeyword=No
 16	Language	Language	PROPN	NNP	Number=Sing	17	compound	_	IsKeyword=No
-17	Models	Models	PROPN	NNPS	Number=Plur	14	pobj	_	IsKeyword=No
+17	Models	Models	PROPN	NNPS	Number=Plur	14	pobj	_	IsKeyword=Yes
 18	without	without	ADP	IN	_	11	prep	_	IsKeyword=No
 19	requiring	require	VERB	VBG	Aspect=Prog|Tense=Pres|VerbForm=Part	18	pcomp	_	IsKeyword=No
 20	massive	massive	ADJ	JJ	Degree=Pos	21	amod	_	IsKeyword=No
@@ -482,7 +482,7 @@
 5	possibility	possibility	NOUN	NN	Number=Sing	3	dobj	_	IsKeyword=No
 6	to	to	PART	TO	_	7	aux	_	IsKeyword=No
 7	use	use	VERB	VB	VerbForm=Inf	5	acl	_	IsKeyword=No
-8	ChatGPT	chatgpt	NOUN	NN	Number=Sing	10	compound	_	IsKeyword=No
+8	ChatGPT	chatgpt	NOUN	NN	Number=Sing	10	compound	_	IsKeyword=Yes
 9	quality	quality	NOUN	NN	Number=Sing	10	compound	_	IsKeyword=No
 10	scores	score	NOUN	NNS	Number=Plur	7	dobj	_	IsKeyword=No
 11	,	,	PUNCT	,	PunctType=Comm	7	punct	_	IsKeyword=No
@@ -592,7 +592,7 @@
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	IsKeyword=No
 21	case	case	NOUN	NN	Number=Sing	19	pobj	_	IsKeyword=No
 22	of	of	ADP	IN	_	21	prep	_	IsKeyword=No
-23	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	22	pobj	_	IsKeyword=No
+23	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	22	pobj	_	IsKeyword=Yes
 24	.	.	PUNCT	.	PunctType=Peri	3	punct	_	IsKeyword=No
 
 # sent_id = 20
@@ -791,7 +791,7 @@
 4	chatbots	chatbot	NOUN	NNS	Number=Plur	9	nsubj	_	IsKeyword=No
 5	such	such	ADJ	JJ	Degree=Pos	6	amod	_	IsKeyword=No
 6	as	as	ADP	IN	_	4	prep	_	IsKeyword=No
-7	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	6	pobj	_	IsKeyword=No
+7	ChatGPT	ChatGPT	PROPN	NNP	Number=Sing	6	pobj	_	IsKeyword=Yes
 8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	IsKeyword=No
 9	caused	cause	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	ROOT	_	IsKeyword=No
 10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	IsKeyword=No

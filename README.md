@@ -15,6 +15,6 @@ also contains a notebook that converts text to conllu format (its application is
 will contain processed data adhering to the structure of AnthroScore and Atypical Animacy evaluation.
 also contains a sample conllu format (its application is deprecated).
 
-/gazetteers
+/wordlists
 
 .txt files containing anthropomorphic verbs/nouns/adjectives (1-token per line)

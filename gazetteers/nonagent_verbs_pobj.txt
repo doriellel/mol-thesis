@@ -1,10 +1,7 @@
 explain
-illustrate
 collaborate
 communicate
-show
 describe
 converse
-present
-display
 argue
+talk

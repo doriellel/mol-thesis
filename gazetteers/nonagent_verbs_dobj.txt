@@ -7,7 +7,6 @@ fool
 trick
 scare
 teach
-train
 instruct
 address
 influence

@@ -9,6 +9,7 @@ acl_50_42804_2	In each of these settings, AI assistants and users have disparate
 acl_358_41505_5	Leveraging the strong language abilities of LLMs, we instruct LLM teachers to synthesize diverse contexts and anticipate more potential errors for the student.
 acl_649_38360_0	AI personal assistants deployed via robots or wearables require embodied understanding to collaborate with humans effectively.
 acl_209_39619_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.
+acl_991_40401_3	First, we train a teacher model to quantify each sample’s degree of relying on shortcuts.
 arx_2008.12095_1339817_1	Future conversational AI assistants promise even greater capabilities and a better user experience through a deeper understanding of the domain, the user, or the user's purposes.
 arx_2211.05030_1743936_6	In order for AI-powered writing assistants to realize their full potential, it is essential that they take into account the diverse goals and expertise of human writers.
 arx_2303.18116_1817913_4	It is demonstrated that if the typical pitfalls are avoided, we can substantially benefit from collaborating with an AI partner.
@@ -51,7 +52,6 @@ arx_2502.05023_2248014_0	  AI assistants can help developers by recommending cod
 arx_2503.21983_2286295_1	A key prerequisite to developing these safeguards is understanding the ability of these AI assistants to mislead human teammates.
 arx_2503.21983_2286295_3	Unbeknownst to the humans, the AI assistant is adversarial.
 arx_2504.15867_2304570_0	  Due to insufficient domain knowledge, LLM coding assistants often reference related solutions from the Internet to address programming problems.
-arx_2504.16505_2305208_2	Our work addresses the fundamental challenge of developing practical AI travel assistants through a novel large-scale dataset of 220k question-answer pairs.
 arx_2503.03067_2267379_0	  This paper explores the acceptance of human-AI love among young adults, particularly focusing on Chinese women in romantic or intimate relationships with AI companions.
 arx_2411.09224_2191651_5	Although these AI assistants illustrate a high level of progress in language understanding and code generation, along with ethical considerations and responsible usage, they provoke a necessity for discussion.
 280_13090_8	In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model.

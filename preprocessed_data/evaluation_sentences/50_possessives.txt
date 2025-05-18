@@ -1,0 +1,50 @@
+acl_16_33119_6	Finally, LinguaLinked incorporates a runtime load balancer that actively monitors and redistributes tasks among mobile devices to prevent bottlenecks, enhancing the system's overall efficiency and responsiveness.
+acl_23_33157_3	Knowledge neurons are identified by masking the o part from sentences representing relational triplets (s, r, o), having the LLM predict the masked part, and observing the LLM's activation during the prediction.
+arx_1301.1064_397654_3	Moreover, the proposed approach features few parameters, whose effects on the system's behavior are very intuitive, hence simplifying tuning procedures.
+arx_1610.00494_775841_4	The added cascade modulates the AI legacy system's decisions.
+arx_1710.11009_906392_1	We propose an artificial-noise (AN) aided scheme to enhance the system's security in the presence of an eavesdropper by exploiting the decoupled nature of the power-line and wireless communication media.
+arx_1712.05855_924454_6	In this paper, we propose several open research directions in systems, architectures, and security that can address these challenges and help unlock AI's potential to improve lives and society.
+arx_1811.10399_1055032_5	A camera, aligned with the system's predetermined orientation serves as input to the computer system, which has the object recognition Neural Network deployed to carry out real-time object detection.
+arx_2004.12506_1277276_3	Our work takes a step in understanding GPT-2's outputs in terms of discourse coherence.
+arx_2005.02335_1282130_0	  Explainable machine learning and artificial intelligence models have been used to justify a model's decision-making process.
+arx_2009.04095_1345598_3	We conducted experiments by finetuning these models for cross domain and disparate data and penned an in-depth analysis of model's performances.
+arx_2010.10874_1367204_5	Finally, we explore the model's potential in not only detecting, but also projecting, turn-completions.
+arx_2010.11982_1368312_6	Analyzing the model's error patterns reveals that the model tends to ignore explicit instructions and often generates outputs that cannot be construed as an attempt to solve the task.
+arx_2111.07627_1561730_4	Our model's predictions are compared with corresponding observations, providing an additional venue to assess the validity of the existing representations of the lung's bronchial tree.
+arx_2111.08222_1562325_0	  Despite AI's superhuman performance in a variety of domains, humans are often unwilling to adopt AI systems.
+arx_2202.05946_1604770_4	The model's parameters predict whether the statistical linkage will appear, and what market structures facilitate algorithmic collusion.
+arx_2203.10923_1623785_4	We also discuss issues that are unique to edge applications such as protecting a model's intellectual property and verifying its integrity.
+arx_2205.01467_1645879_6	By conducting an online experiment, we demonstrate that humans can use such contextual information to adjust the AI's decision, finally resulting in CTP.
+arx_2207.09374_1685272_1	However, all common approaches from this field are based on communicating information about features or characteristics that are especially important for an AI's decision.
+arx_2207.13825_1689723_2	We find that AI's impact on phishing may be overestimated but could lead to more attacks going undetected.
+arx_2209.15093_1720808_3	We propose conceptual consistency to measure a LLM's understanding of relevant concepts.
+arx_2210.05487_1726842_3	We find that the visual grounding improves the model's understanding of semantic similarity both within and across languages and improves perplexity.
+arx_2301.12726_1783790_2	We propose model specialization, to specialize the model's ability towards a target task.
+arx_2302.05284_1790218_0	  As Artificial Intelligence (AI) continues to advance rapidly, it becomes increasingly important to consider AI's ethical and societal implications.
+arx_2303.03981_1803778_3	We identified concerns regarding anchoring bias and a misunderstanding of the AI's capabilities.
+arx_2303.15473_1815270_4	The quality of ChatGPT's responses were systematically assessed to determine the feasibility of CoHA given the current state of LLM technology.
+arx_2307.00457_1871453_4	GenRec uses LLM's understanding ability to interpret context, learn user preferences, and generate relevant recommendation.
+arx_2307.10250_1881245_0	  This study evaluates the GPT-4 Large Language Model's abductive reasoning in complex fields like medical diagnostics, criminology, and cosmology.
+arx_2308.02312_1890204_2	Despite this popularity, no comprehensive study has been conducted to evaluate the characteristics of ChatGPT's answers to programming questions.
+arx_2308.10837_1898729_1	However, effectively integrating LLM's commonsense knowledge and reasoning abilities into recommendation systems remains a challenging problem.
+arx_2308.07326_1895218_4	Our findings underscore GPT's versatility and ability to discern and adapt to nuanced instructions.
+arx_2308.03301_1891193_2	This paper tested what archaeological literature appears to have been included in ChatGPT's training phase.
+arx_2307.14206_1885201_4	However, occasional inaccuracies highlight the need for users to remain critical of ChatGPT's responses.
+arx_2307.05488_1876483_8	These biases may impact the responses of constructs and should be considered when interpreting ChatGPT's conceptual capabilities.
+arx_2306.11296_1864444_1	This effectively mitigates ChatGPT's tendency to hallucinate information -- an issue that previously made the use of Large Language Models (LLMs) in scientific fields challenging.
+arx_2306.08173_1861321_0	  The surge in multimodal AI's success has sparked concerns over data privacy in vision-and-language tasks.
+arx_2305.18569_1851625_3	We focus on assessing ChatGPT's performance in high-takes fields including education, criminology, finance and healthcare.
+arx_2305.11652_1844708_6	AI refers to the computer-based system's ability to perform tasks with intelligence typically associated with human decision-making, they can learn from past experiences and solve problems.
+arx_2304.14827_1832873_2	Given ChatGPT's promising performance across various tasks, we proceed to carry out thorough evaluations on the whole test sets of 11 datasets, including temporal and causal relations, PDTB2.0-based, and dialogue-based discourse relations.
+arx_2304.10149_1828195_5	Specifically, we design a set of prompts and evaluate ChatGPT's performance on five recommendation scenarios.
+arx_2303.13712_1813509_7	We then consider a decision maker who is aware of the algorithm's manipulation and responds strategically.
+arx_2303.09743_1809540_5	Our participants shared concerns and design suggestions around the AI system's overall objective, specific model design choices, dataset selection, and use in deployment.
+arx_2301.12726_1783790_2	We propose model specialization, to specialize the model's ability towards a target task.
+arx_2211.08380_1747286_6	In addition, OREO-LM provides reasoning paths as rationales to interpret the model's decision.
+arx_2206.04793_1665213_1	AI's extraordinary potential is being held back by challenges such as a lack of medical datasets for training AI models, adversarial attacks, and a lack of trust due to its black box working style.
+arx_2302.08081_1793015_6	To fill this gap, we conducted an evaluation of ChatGPT's performance on four widely used benchmark datasets, encompassing diverse summaries from Reddit posts, news articles, dialogue meetings, and stories.
+arx_2303.07940_1807737_3	The early detection of the change (drift) is crucial for updating the model's knowledge, which is challenging especially in scenarios where the ground truth associated to the stream data is not readily available.
+arx_2305.02160_1835216_2	To encourage fairness and transparency, there exists an urgent demand for reliable explanations that allow users to consistently understand the model's behavior.
+arx_2305.04388_1837444_1	It is tempting to interpret these CoT explanations as the LLM's process for solving a task.
+arx_2305.16867_1849923_1	We propose to use behavioural game theory to study LLM's cooperation and coordination behaviour.
+arx_2306.03423_1856571_4	In this experiment, we characterize ChatGPT's refusal behavior using a black-box attack.

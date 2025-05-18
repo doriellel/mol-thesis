@@ -1,0 +1,426 @@
+3_2185_6	Instead of replacing the conventional n-gram-based language model, we trained the RBM-based language model on the more important but smaller in-domain data and combined them in a log-linear way.
+4_2186_1	A novel similarity score function is proposed, which allows to score each document belonging to the corpus in order to select those with the highest scores for training auxiliary LMs which are linearly interpolated with the baseline one.
+4_2186_2	The similarity score function makes use of ”similarity models” built from the automatic transcriptions furnished by earlier stages of the ASR system, while the documents selected for training auxiliary LMs are drawn from the same set of data used to train the baseline LM used in the ASR system.
+4_2186_5	It is important to note that a similar improvement has been obtained using an ”in-domain” set of texts data not contained in the sources used to train the baseline LM.
+89_3508_4	We show that pre-training our model, GenBERT, on this data, dramatically improves performance on DROP (49.3 –> 72.3 F1), reaching performance that matches state-of-the-art models of comparable size, while using a simple and general-purpose encoder-decoder architecture.
+314_3733_0	It has been a common approach to pre-train a language model on a large corpus and fine-tune it on task-specific data.
+467_3886_0	While pretrained models such as BERT have shown large gains across natural language understanding tasks, their performance can be improved by further training the model on a data-rich intermediate task, before fine-tuning it on a target task.
+59_4790_4	We also leverage the new BREATHE dataset which is one of the largest available datasets of biomedical research literature, containing abstracts and full-text articles from ten different biomedical literature sources on which we pre-train our BioMedBERT model.
+32_5435_3	We compared both transformer and long short-term memory LMs to find that, contrary to humans, implicit causality only influences LM behavior for reference, not syntax, despite model representations that encode the necessary discourse information.
+102_5693_4	(2) Off-manifold regularization, which encourages the model to output uniform distributions for pseudo off-manifold samples to address the over-confidence issue for OOD data.
+250_5841_4	It further encourages the language model to encode domain-invariant representations by optimizing a series of novel domain corruption loss functions.
+554_6144_4	Surprisingly, training a model on either of these artificial languages leads the same substantial gains when testing on natural language.
+599_6189_5	However, the predicted pseudo labels inevitably include noise, which will negatively affect training a robust model.
+696_6286_1	How should we train a language model in this scenario?
+700_6290_3	This work presents PALM with a novel scheme that jointly pre-trains an autoencoding and autoregressive language model on a large unlabeled corpus, specifically designed for generating new text conditioned on context.
+724_6314_4	Our method (1) associates semantically related words with the label names, (2) finds category-indicative words and trains the model to predict their implied categories, and (3) generalizes the model via self-training.
+46_6491_2	They find that the learned word embeddings are likely to degenerate and lie in a narrow cone when training a language model.
+292_6737_3	Training a Dutch BERT model thus has a lot of potential for a wide range of Dutch NLP tasks.
+292_6737_4	While previous approaches have used earlier implementations of BERT to train a Dutch version of BERT, we used RoBERTa, a robustly optimized BERT approach, to train a Dutch language model called RobBERT.
+23_7005_1	Zero-shot AEG is when we train a system to grade essays written to a new prompt which was not present in our training data.
+1_7090_1	While paired data are basically required to train the seq2seq model, the external LM can be trained with only unpaired data.
+297_7824_3	We also introduce the task of multilingual causal language modeling where we train our model on the combined text of 40+ languages from Wikipedia with different vocabulary sizes and evaluate on the languages individually.
+679_8206_1	We perform our evaluations on the task of machine reading comprehension, which involves training the model to answer a question given an unstructured context paragraph.
+825_8352_6	We additionally train our model on the SwissText dataset to demonstrate usability on German.
+18_8507_2	To increase the diversity of the outputs, we used additional data to train the translation model, and we trained a paraphrasing model based on the Levenshtein Transformer architecture to generate further synonymous translations.
+5_8779_1	When training a language model on sensitive information, differential privacy (DP) allows us to quantify the degree to which our private data is protected.
+202_9083_1	We download extra training data from Twitter in English, Danish, and Turkish, and use it to re-train the model.
+47_9340_5	We then trained the model using each language model to explore the impact of the language model data source on the speech recognition model.
+14_9654_1	We trained a multilingual NMT system based on transformer architecture.
+89_9821_1	Due to the limited parallel corpora available, we have proposed to train a BERT-fused NMT model that leverages the use of pretrained language models.
+118_9850_4	We first pre-train our model on a huge artificially generated QE dataset, and then we fine-tune the model with a human-labeled dataset.
+427_10392_2	First, we show that initially training a model on short subsequences before moving on to longer ones both reduces overall training time and, surprisingly, substantially improves perplexity.
+1_10761_5	Thus, instead of training multiple models, we can train a single multidomain model saving on computational resources and training time.
+20_10919_7	We then train a knowledge-aware language model that firstly applies a text-only encoding layer to learn entity representation and then applies a text-entity fusion encoding to aggregate entity representation.
+25_10962_6	Additionally, pre-training the LM on spoken transcripts restrain its linguistic understanding.
+40_10977_2	In a series of experiments, we evaluate the extent to which language model representations of city and country names are isomorphic to real-world geography, e.g., if you tell a language model where Paris and Berlin are, does it know the way to Rome?
+11_11284_2	We pre-trained the ELECTRA model and fine-tuned the RoBERTa model with these two sources of information then evaluate using the established GLUE benchmark and the Visual Dialog benchmark.
+249_12127_1	MLM trains a model to predict a random sample of input tokens that have been replaced by a [MASK] placeholder in a multi-class setting over the entire vocabulary.
+275_12153_5	In this paper, we propose APIRecX, the first cross-library API recommendation approach, which uses BPE to split each API call in each API sequence and pre-trains a GPT based language model.
+43_12853_5	We further devise a difficulty-aware objective, encouraging the model to output the class probability that reflects the real difficulty of each instance for a more reliable cascading mechanism.
+102_12912_2	One method to guarantee the privacy of such individuals is to train a differentially-private language model, but this usually comes at the expense of model performance.
+102_12912_6	We then experiment with entity extraction tasks from clinical notes, and demonstrate how to train a differentially private pre-trained language model (i.e., BERT) with a privacy guarantee of 𝜖=1.1 and with only a small degradation in performance.
+225_13035_1	First, instead of considering documents in isolation, we pretrain over sets of multiple related documents, encouraging the model to learn cross-document relationships.
+259_13069_6	When pre-training the LXMERT model, our alternative masking strategies consistently improve over the original masking strategy on three downstream tasks, especially in low resource settings.
+15_13379_0	Deep Contextual Language Models (LMs) like ELMO, BERT, and their successors dominate the landscape of Natural Language Processing due to their ability to scale across multiple tasks rapidly by pre-training a single model, followed by task-specific fine-tuning.
+28_13766_2	We pre-train a transformer-based model RoBERTa using synthetically generated code-mixed data and use it in an ensemble along with their pre-trained ULMFiT model available from iNLTK.
+11_13818_4	In this work, we challenge this assumption and present the first attempt at training a multilingual language model on only low-resource languages.
+373_14310_4	We train our model on subtrees sampled from WordNet, and test on nonoverlapping WordNet subtrees.
+3_14721_2	One method to guarantee the privacy of such individuals is to train a differentially-private model, but this usually comes at the expense of model performance.
+3_14721_5	We demonstrate how to train a differentially-private pre-trained language model (i.e., BERT) with a privacy guarantee of 𝜖=1 and with only a small degradation in performance.
+107_15161_2	We trained a Roberta-Large model trained with a masked language modeling objective.
+130_15184_2	We trained our model to find toxic words and concatenate their spans to predict the toxic spans within a sentence.
+34_15815_3	Then, we post-train the translation model with different levels of data at each training stages.
+9_16078_3	We trained the language model to rewrite a proposition of an argumentation structure on the basis of its information, such as keywords and stance, into the next utterance while considering its context, and we used the model to rewrite propositions in the argumentation structure.
+31_16100_4	Our findings suggest that even though fine-tuning and prompting work well to train large LMs on large train sets, there are more efficient alternatives that can reduce compute or data cost.
+96_16254_3	We map words that have a common WordNet hypernym to the same class and train large neural LMs by gradually annealing from predicting the class to token prediction during training.
+116_16274_7	We also apply an entropy regularization term in both teacher training and distillation to encourage the model to generate reliable output probabilities, and thus aid the distillation.
+505_16663_3	We train a multilingual language model with 24 languages with entity representations and showthe model consistently outperforms word-based pretrained models in various cross-lingual transfer tasks.
+4_16901_4	Our experiments with several NLP tasks demonstrate the ability of TextPruner to reduce the model size without re-training the model.
+2_17070_2	From this, spoken language models are trained either by fine-tuning an existing LM (FlauBERT) or through training a LM from scratch.
+4_17213_4	To encourage GPT-3’s generation ability, we also defined a taxonomy of hierarchical persona category derived from social profiling taxonomy.
+546_18015_4	To this end, GRETEL encourages the model to efficiently extract salient sentences that are topically related to the gold summary, rather than redundant sentences that cover sub-optimal topics.
+148_18595_1	Previous research on financial language models usually employs a generic training scheme to train standard model architectures, without completely leveraging the richness of the financial data.
+183_18630_5	On four tasks (two lexical tasks, two advanced ethical reasoning tasks), we show how a (simulated) user can interactively teach a deployed GPT-3, substantially increasing its accuracy over the queries with different kinds of misunderstandings by the GPT-3.
+323_18770_3	In this paper, we approach the problem at hand using global differential privacy, particularly by training a generative language model in a differentially private manner and consequently sampling data from it.
+382_18829_2	In this work, we present TRIME, a novel yet simple training approach designed for training LMs with memory augmentation.
+418_18865_4	We also find that training an LM on the diff data through continual learning methods achieves similar or better perplexity than on the entire snapshot in our benchmark with 12 times less computational cost, which verifies that factual knowledge in LMs can be safely updated with minimal training data via continual learning.
+462_18909_2	They often train LMs with KGs in indirect ways, relying on extra entity/relation embeddings to facilitate knowledge injection.
+502_18949_2	In this paper, we propose a novel concept-based curriculum masking (CCM) method to efficiently pre-train a language model.
+637_19084_4	We train a large language model (LM) to generate the next game turn, conditioning it on different information.
+667_19114_5	With this data, we train a more robust fact-correction model to post-edit the summaries to improve factual consistency.
+693_19140_0	Domain-adaptive pre-training (or DA-training for short), also known as post-training, aimsto train a pre-trained general-purpose language model (LM) using an unlabeled corpus of aparticular domain to adapt the LM so that end-tasks in the domain can give improved performances.
+695_19142_2	This paper proposes the problem of continually extending an LM by incrementally post-train the LM with a sequence of unlabeled domain corpora to expand its knowledge without forgetting its previous skills.
+265_19705_1	Our approach, contextual universal embeddings (CUE), trains LMs on one type of contextual data and adapts to novel context types.
+265_19705_7	Training the model initially with proxy context retains 67% of the perplexity gain after adapting to real context.
+151_19922_6	For example, power-capping, which limits the maximum power a GPU can consume, can enable a 15% decrease in energy usage with marginal increase in overall computation time when training a transformer-based language model.
+21_20045_6	For APICoder, we can directly use off-the-shelf language models, or continually pre-train the base model on a code corpus containing API information.
+180_20204_2	In this paper, we propose the problem of fact tracing: identifying which training examples taught an LM to generate a particular factual assertion.
+268_20292_3	Our method works by splitting a regular, non-poetic corpus into phrases, prepending control codes that describe the length and end rhyme of each phrase, and training a transformer language model in the augmented corpus.
+363_20387_1	However, such methods impose the additional burden of training a separate teacher model for every new dataset.
+402_20426_3	This mechanism encourages a model to learn inner/inter-dependencies between the audio and token representations while maintaining CTC’s training efficiency.
+464_20488_2	The problem is to make full use of them to train the student model.
+494_20518_5	We train our model on the 4 Nguni languages of South Africa.
+494_20518_9	We also train our model as a word-level sequence model, resulting in an unsupervised morphological segmenter that outperforms existing methods by a large margin for all 4 languages.
+508_20532_2	Starting with an existing dataset, MultiNLI for natural language inference (NLI), our approach uses dataset cartography to automatically identify examples that demonstrate challenging reasoning patterns, and instructs GPT-3 to compose new examples with similar patterns.
+508_20532_5	Remarkably, training a model on WANLI improves performance on eight out-of-domain test sets we consider, including by 11% on HANS and 9% on Adversarial NLI, compared to training on the 4x larger MultiNLI.
+41_21218_2	In this paper, we propose a method to train Transformer LMs on ASR confusion networks.
+118_21295_2	Although many researchers study how such Language Models (LMs) work, not much attention has been paid to the privacy risks of training LMs on large amounts of data and publishing them online.
+465_21642_7	Our experiments show that training an LM on privacy-transformed data result in a relative 11% word error rate (WER) increase compared to training on the original untransformed data, and adapting that model on a limited amount of original untransformed data leads to a relative 8% WER improvement over the model trained solely on privacy-transformed data.
+40_22052_4	Then, using the prepared corpus, we trained our own language model called DepRoBERTa (RoBERTa for Depression Detection).
+23_22159_5	We pre-trained a new monolingual language model for Swahili, namely SwahBERT, using our collected pre-training data, and tested it with four downstream tasks including emotion classification.
+61_22197_2	However, it is resource-intensive to train a PLM-based CCF model in an end-to-end (E2E) manner, since optimization involves back-propagating through every content encoding within a given user interaction sequence.
+4_22582_2	We investigate whether we can improve the kNN-LM performance by instead training a LM with the knowledge that we will be using a kNN post-hoc.
+55_23351_1	LAD is a paradigm for creating diverse and accurate synthetic data which conveys the necessary structural constraints and can be used to train a downstream neural dialog model.
+24_23833_4	Specifically, we propose a novel data collection pipeline for under-represented languages, or dialects, that is language and task agnostic and of sufficient size for training a language model capable of achieving competitive results on common NLP tasks, as our experiments show.
+315_24465_2	To this end, the cross-view language modeling framework considers both multi-modal data (i.e., image-caption pairs) and multi-lingual data (i.e., parallel sentence pairs) as two different views of the same object, and trains the model to align the two views by maximizing the mutual information between them with conditional masked language modeling and contrastive learning.
+347_24497_6	Second, we propose a sentence-level classification loss that teaches the model to distinguish between entailment and contradiction types of sentences.
+506_24656_4	We train a 170M-parameter Backpack language model on OpenWebText, matching the loss of a GPT-2 small (124Mparameter) Transformer.
+805_24955_1	Previous work addressing privacy issues for LMs has mostly focused on data preprocessing and differential privacy methods, both requiring re-training the underlying LM.
+43_25103_4	Specifically, we first meta-trains a language model to perform in-context learning on NLP tasks (as in MetaICL); then we transfer this model to perform VL tasks by attaching a visual encoder.
+3_25435_1	For each of the languages English, Farsi, Faroese, Mandarin and Russian, we instructed GPT-4, through C-LARA, to write six different texts, using prompts chosen to obtain texts of widely differing character.
+3_25435_2	We then further instructed GPT-4 to annotate each text with segmentation markup, glosses and lemma/part-of-speech information; native speakers hand-corrected the texts and annotations to obtain error rates on the different component tasks.
+1_25479_5	To train our model, we introduce a new method for automatically acquiring data from available English datasets.
+26_25595_4	Another way is to use unlabeled domain-specific data to pre-train these transformer model and then fine-tune this model on labeled data.
+32_25681_3	This paper investigates one approach to producing ratings by training GPT-4 to assess discourse coherence in a manner consistent with expert human raters.
+31_25755_3	This paper aims to investigate different pre-training methods, such as pre-training the biomedical LM from scratch and pre-training it in a continued fashion.
+32_25756_5	Surprisingly, we find that pre-training a biomedical LM using a more accurate biomedical tokenizer does not improve the entity representation quality of a language model as measured by several intrinsic and extrinsic measures such as masked language modeling prediction (MLM) accuracy as well as NER and entity linking performance.
+7_26728_4	We then pre-train our model, PHD, on a combination of synthetic scans and real historical newspapers from the 1700-1900 period.
+261_26982_4	To address this problem while leveraging LLMs’ prior on VideoQA, we propose a novel framework, Flipped-VQA, encouraging the model to predict all the combinations of ⟨V, Q, A⟩ triplet by flipping the source pair and the target label to understand their complex relationships, i.e., predict A, Q, and V given a VQ, VA, and QA pairs, respectively.
+268_26989_6	We meta-train a small, autoregressive model to reweight the language modeling loss for each token during online fine-tuning, with the objective of maximizing the out-of-date base question-answering model’s ability to answer questions about a document after a single weighted gradient step.
+466_27187_6	We train LMs from scratch on small- and medium-sized datasets from 13 languages (across five language families) and assess their ability to predict eye tracking data.
+493_27214_4	Second, we propose syntactic augmentation to stimulate the model’s intermediate thinking in two ways: syntactic prompting, which encourages the model to analyze the syntactic structure itself, and tool augmentation, which provides the model with the syntactic information generated by a parsing tool.
+523_27244_6	We also show that generated data with only a few human demonstrations can be as effective as over 10 times the amount of human-annotated data when training the task model, saving a considerable amount of annotation effort.
+628_27349_3	This new rendering strategy also makes it possible to train a more compact model with only 22M parameters that performs on par with the original 86M parameter model.
+632_27353_0	Despite the ability to train capable LLMs, the methodology for maintaining their relevancy and rectifying errors remains elusive.
+814_27535_2	Therefore, we aim to train an agent with the profile, experience, and emotional states of a specific person instead of using limited prompts to instruct ChatGPT API.
+814_27535_3	In this work, we introduce Character-LLM that teach LLMs to act as specific people such as Beethoven, Queen Cleopatra, Julius Caesar, etc.
+923_27644_4	Surprisingly, our experiments reveal that properly instructed LLMs can deliver competitive, even superior results to state-of-the-art supervised methods on popular IR benchmarks.
+1_27775_3	Here, a powerful LLM is prompted with a task description to generate labeled data that can be used to train a downstream NLP model.
+463_28599_0	Knowledge distillation (KD) involves training a small “student” model to replicate the strong performance of a high-capacity “teacher” model, enabling efficient deployment in resource-constrained settings.
+493_28629_4	We train our model with a masking strategy to convert TKGC task into a masked token prediction task, which can leverage the semantic information in pre-trained language models.
+773_28909_4	For this, we train 48 GPT-2 models from scratch and evaluate their syntactic and semantic abilities at each training step, using 96 probes curated from the BLiMP, Zorro and BIG-Bench benchmarks.
+781_28917_2	In this paper, we propose a human attention guided approach to identifying and mitigating shortcut learning, which encourages the LLM-based target model to learn relevant features.
+847_28983_3	We explore approaches with varying amounts of human effort, from instructing LMs to write yes/no questions to making complex Winogender schemas with multiple stages of LM-based generation and filtering.
+856_28992_2	Specifically, we trained bilingual LMs with a scenario similar to human L2 acquisition and analyzed their cross-lingual transfer from linguistic perspectives.
+114_29150_2	Existing studies utilize trigger sentences to encourage LLMs to concentrate on the relevant information but the trigger has limited effect on final answer prediction.
+138_29174_4	To address this issue, we collected a broad range of financial corpus and trained the Financial Language Model (FiLM) on these diverse datasets.
+143_29179_3	Specifically, considering the impressive capabilities of newly emerged LLMs, we propose an attack framework to instruct LLMs to mimic human-generated prompts through in-context learning.
+474_29510_3	We train a system to detect AD-related signs and symptoms from EHRs.
+569_29605_3	Using GPT4 as the editor, we find it can successfully edit trigger shortcut in samples that fool LLMs.
+634_29670_2	To reduce the number of parameters, we first train the model for a fixed small number of steps before pruning the experts based on their important scores.
+639_29675_3	To perform ICL accuracy estimation, we propose a method that trains a meta-model using LLM confidence scores as features.
+767_29803_1	We pursue this inquiry by (1) training a neural-network model (pre-trained on first language [L1] Korean data) on varying L2 datasets and (2) measuring its morpheme parsing/POS tagging performance on L2 test sets from both the same and different sources of the L2 train sets.
+791_29827_0	*Data Synthesis* is a promising way to train a small model with very little labeled data.
+891_29927_2	Utilizing the predefined task schema, i.e., belief instruction and dialog policy, we instruct fixed LLMs to generate appropriate responses on novel tasks, without the need for training data.
+1000_30036_4	We propose a framework that allows reducing the calls to LLMs by caching previous LLM responses and using them to train a local inexpensive model on the SME side.
+8_30117_4	We train the model on a dataset of authentic product descriptions from Walmart, one of the largest eCommerce platforms.
+3_30752_0	In this paper, we compare two approaches to train a multilingual language model: (i) simple multilingual learning using data-mixing, and (ii) meta-learning.
+7_30789_3	We then introduce these pairs into translation prompts, instructing ChatGPT to use the correct translations of the domain entities.
+62_31141_5	Instead, this paper proposes a method for training a language model with unified segmentation.
+6_31231_2	In this paper, we trained a diffusion-based model on StylePTB dataset, the standard benchmark for fine-grained text style transfers.
+119_31379_4	The output is then used to train the model using the Longformer architecture.
+22_31716_0	With the advent of large language models (LLMs), the trend in NLP has been to train LLMs on vast amounts of data to solve diverse language understanding and generation tasks.
+23_31964_1	In line with previous research, we devise a prompt that, on the one hand, instructs the model to generate realistic examples based on the gold standard dataset and, on the other hand, to assign multiple pseudo-labels (or a single pseudo-label) to the generated instances.
+39_32045_7	However, we also find that in most scenarios, back-translation gives even better results, at the cost of having to re-train the translation system.
+41_32047_2	We show through a rigorous human evaluation that asking the GPT-3.5 (text-davinci-003) LLM to translate an entire literary paragraph (e.g., from a novel) at once results in higher-quality translations than standard sentence-by-sentence translation across 18 linguistically-diverse language pairs (e.g., translating into and out of Japanese, Polish, and English).
+80_32086_2	We annotate random source words with pseudo-terminology translations obtained from word alignment to first train a terminology-aware model.
+20_32182_2	Using various datasets and prompting techniques that encourage model introspection, we probe the alignment between models’ internal and expressed confidence.
+56_32218_2	However, only a few works attempted to directly train the LMs within interactive decision-making environments.
+100_32262_5	Hence, we collect an instruction dataset UniCoder-Instruct to train our model UniCoder on multi-task learning objectives.
+161_32323_3	In this work, we propose an effective training framework using fine-grained rewards to teach LLMs to generate highly supportive and relevant citations, while ensuring the correctness of their responses.
+302_32464_2	Our approach is to (a) define the new task of explanation critiquing - identifying and categorizing any main flaw in an explanation and providing suggestions to address the flaw, (b) create a sizeable, human-verified dataset for this task, and (c) train an open-source, automatic critique model (called Digital Socrates) using this data.
+327_32489_4	We also propose a siamese calibration technique to train the model to make equally confident predictions under different noise, which improves the model’s robustness against adversarial perturbations.
+332_32494_4	In our work, we focus on making better use of external knowledge and propose a method to actively extract valuable information in the knowledge to produce the latent vector as a soft prompt, which is then fused with the image embedding to form a knowledge-enhanced context to instruct LLM.
+358_32520_4	Our goal is to teach the LLM that “even if the sentences are identical if they are spoken in different styles, their corresponding responses might be different”.
+358_32520_6	To teach LLMs to understand and respond properly to the speaking styles, we propose the Spoken-LLM framework that can model the linguistic content and the speaking styles.
+358_32520_7	We train Spoken-LLM using the StyleTalk dataset and devise a two-stage training pipeline to help the Spoken-LLM better learn the speaking styles.
+384_32546_4	To improve the performance of LLMs on deep syntactic parsing, we propose a three-step approach that firstly prompts LLMs for chunking, then filters out low-quality chunks, and finally adds the remaining chunks to prompts to instruct LLMs for parsing, with later enhancement by chain-of-thought prompting.
+423_32585_2	Thus, we introduce Ditto, the first self-alignment method for role-play, which encourages an instruction-following LLM to simulate role-play dialogues as a variant of reading comprehension, and creates a role-play training set comprising 4000 characters, surpassing the scale of currently available datasets by tenfold regarding the number of roles.
+424_32586_5	Our findings further demonstrate that our method introduces highly human-like questioning patterns and rich topic structures, which can teach the response model better than previous works in multi-round conversations.
+441_32603_1	Prior research attempts to mitigate backdoor learning while training the LMs on the poisoned dataset, yet struggles against complex backdoor attacks in real-world scenarios.
+441_32603_5	Through downscaling in the frequency space, MuScleLoRA encourages the model to prioritize the learning of relatively high-frequency clean mapping, consequently mitigating backdoor learning.
+447_32609_1	However, directly training LLMs with long context windows is insufficient to enhance this capability since some training samples do not exhibit strong semantic dependencies across long contexts.
+468_32630_5	Our method involves training a multi-objective reward model and then fine-tuning the LLM with a preference-conditioned variant of Rejection Sampling Finetuning (RSF), an RLHF method adopted by Llama 2.
+562_32724_4	We validate the ranking and selection assumptions of retrievers in the context of RAG and propose a framework that chains together supervised and reinforcement learning to train a bridge model that optimizes the connection between the retriever and the LLM.
+563_32725_7	On top of that, we teach LLM to perform deliberate reasoning over the TGs via Chain-of-Thought (CoT) bootstrapping and graph data augmentation.
+587_32749_0	Knowledge distillation (KD) is a common approach to compress a teacher model to reduce its inference cost and memory footprint, by training a smaller student model.
+617_32779_2	To this end, we propose Judge-augmented Supervised Fine-Tuning (JSFT) to train a single model to act as both a policy and a judge.
+704_32866_0	Since the natural language processing (NLP) community started to make large language models (LLMs) act as a critic to evaluate the quality of generated texts, most of the existing works train a critique generation model on the evaluation data labeled by GPT-4’s direct prompting.
+816_32978_3	Such real-world concerns, however, stand in stark contrast to the artificiality of current evaluations: real users do not typically ask LLMs survey questions.
+824_32986_2	We propose APRICOT (Auxiliary prediction of confidence targets): A method to set confidence targets and train an additional model that predicts an LLM’s confidence based on its textual input and output alone.
+62_33088_5	The refined dataset is used to train a token-level reward model, which is then used for training our fine-grained Proximal Policy Optimization (PPO) model.
+7_33146_3	We also contribute a manually designed dataset for training LLMs to recognize and correct biases.
+32_33165_4	This method trains the model to prioritize the best responses from a pool of candidates created for a particular task.
+44_33175_4	To explore the potential of curriculum learning, we train multiple GPT models with 1 million parameters each to predict the next token and evaluate them on code completion and execution tasks.
+48_33177_6	By training a GPT-style autoregressive language model using only the next character prediction objective, we find that the model does show a hint of learning a world model representation of the board positions.
+42_33533_4	The performance of MLLMs depends on the quality of the prompt used to instruct the model.
+27_33597_3	In this work, we aim to address this question by introducing IvRA, a framework designed to directly train a language model’s attention distribution through regularization to produce attribution explanations that align with interpretability criteria such as simulatability, faithfulness, and consistency.
+6_33611_1	This study addresses this gap by systematically training six LLMs of identical size (2.6B parameters) and architecture: five monolingual models (English, German, French, Italian, and Spanish) and one multilingual model trained on an equal distribution of data across these languages, all using publicly available data.
+82_33748_4	To overcome this overidingbehaviour, we propose to add a revision process that encourages LLMs to correct the outputs byprompting them about the constraints that have not yet been met.
+107_33773_1	However, the training pro-cedure suffers from an inherent problem: the uncontrolled scaling of reward scores during rein-forcement learning due to the lack of constraints while training the reward model.
+10_33868_5	We start the evaluation in a controlled setting, asking the model for simple facts, and then proceed with an evaluation on four popular NLU benchmarks.
+3_33872_4	Variations of this vignette are used for role-prompting a commercial LLM, GPT-4, instructing the LLM to take on the role described in the patient vignette and act accordingly.
+40_33986_5	We revised annotations of an existing Italian homotransphobic dataset, developed new guidelines, and designed various prompts to address the LLMs task.
+77_34023_3	The creation of Minerva is an opportunity to explore and investigate the pretraining of LLMs for the Italian language, outlining the challenges that arise when training LLMs with native Italian texts.
+77_34023_6	Most importantly, we share what we learned and the findings obtained during the development of Minerva, as we believe that our experience will be valuable for the academic and industrial communities interested in training non-English LLMs from scratch.
+16_34120_2	The architecture is utilized for offline reinforcement learning, and we extract states (dialogue turn embeddings), actions (conversation topics), and rewards (scores measuring the alignment between patient and therapist) from previous turns within a conversation to train a decision transformer model.
+43_34147_3	For the query correspondence model, we trained a logistic regression model using hand-crafted features to distinguish between answerable and unanswerable queries.
+67_34171_3	After the challenge, we experiment with training the ViLT model on more data.
+40_34314_1	However, these similarities are ultimately dependent on the corpora used to train these LLMs, and may not reflect subjective similarity of individuals or how their biases and constraints impact similarity metrics.
+3_34317_3	Self-distillation is used to generate an ensemble of models of a certain fixed size, while reverse distillation is used to train a more expressive larger model from a previously trained generation of relatively smaller models, while largely preserving learned accuracy.
+13_34327_1	Our solution is based on the use of an auxiliary model, from which we extract training signals for training a student model.
+22_34336_2	Specifically we present a self-synthesis approach that iterates through four phases: Phase 1 sets up fundamental language abilities, training the model from scratch on a small corpus.
+22_34336_6	Finally, phase 4 develops advanced cognitive skills, by training the model on specific tasks such as visual question answering and reasoning.
+22_34336_7	Our approach offers a proof of concept for training a multimodal model using a developmentally plausible amount of data.
+23_34337_4	To assess the impact of VSs on training data efficiency, we augment CDS data with different proportions of artificial VSs and use these datasets to train an auto-regressive model, GPT-2.
+39_34524_2	To overcome these limitations, we introduce a novel method, namely GenCo, which leverages the strong generative power of LLMs to assist in training a smaller and more adaptable language model.
+105_34590_3	Our framework initially trains a reward model based on LLM feedback to evaluate the quality of candidate examples, followed by knowledge distillation to train a bi-encoder based dense retriever.
+109_34594_5	Hence, we instruct a smaller Language Model using outputs generated by more robust models belonging to the same family or not, evaluating the impact across different types of models.
+140_34625_4	Furthermore, prompts that ask the model to decrease grounding (or to ground to other corpora) indeed decrease QUIP-Score, indicating the ability of LLMs to increase or decrease grounded generations on request.
+212_35072_4	Instead of attempting to answer all questions, we explore a refusal mechanism that instructs LLMs to refuse to answer challenging questions in order to avoid errors.
+229_35089_1	Here, we provide concrete evidence of a trade-off between instruction following (i.e., follow open-ended instructions) and faithfulness (i.e., ground responses in given context) when training LMs with these objectives.
+239_35098_1	Teaching LLMs to abstain in the face of knowledge gaps is thus a promising strategy to mitigate hallucinations in multilingual settings.
+285_35144_2	To that end, we propose two approaches for assessing the reliability of data for training LLMs to use external tools.
+308_35166_4	Such features are then used to train LLM feature-based models.
+343_35201_3	In this work, we present SaySelf, a novel training framework that teaches LLMs to express more fine-grained confidence estimates.
+343_35201_7	Moreover, we utilize reinforcement learning with a meticulously crafted reward function to calibrate the confidence estimates, motivating LLMs to deliver accurate, high-confidence predictions and to penalize overconfidence in erroneous outputs.
+367_35225_3	We introduce Environment Preference Optimization (EPO), a novel method that generates preference signals from the environment’s feedback and uses them to train LLM-based agents.
+420_35276_5	Our findings indicate that CoT can intensify the recall of factual knowledge by encouraging LLMs to engage in orderly and reliable reasoning.
+504_35358_6	We then train the adaptation model over the sampled pairs by contrasting the likelihoods of correct and incorrect reasonings.
+667_35517_3	This scarcity results in a paucity of methodologies for training LLMs and techniques to fully utilize their capabilities in composing formal proofs.
+667_35517_4	To address these challenges, this paper proposes **TheoremLlama**, an end-to-end framework that trains a general-purpose LLM to be a Lean4 expert.
+667_35517_5	**TheoremLlama** includes NL-FL dataset generation and bootstrapping method to obtain aligned dataset, curriculum learning and block training techniques to train the model, and iterative proof writing method to write Lean4 proofs that work together synergistically.
+669_35519_0	Active learning is an iterative labeling process that is used to obtain a small labeled subset, despite the absence of labeled data, thereby enabling to train a model for supervised tasks such as text classification.
+740_35587_1	We propose null-shot prompting, a counter-intuitive approach where we intentionally instruct LLMs to look at and utilize information from a null section.
+747_35594_4	To accurately and explicitly describe relation semantics while minimizing annotation demands, we explore the definition only zero-shot RE setting where only relation definitions expressed in natural language are used to train a RE model.
+752_35599_7	Our paradigm comprises one main path, where we pre-train a LLM with the maximal learning rate, and multiple branching paths, each of which corresponds to an update of the LLM with newly-added training data.
+805_35650_3	We devise a fine-grained knowledge augmentation stage to train LLMs to identify difficult fine-grained knowledge in answers.
+805_35650_4	We also propose a coarse-grained knowledge comparison stage to train LLMs to distinguish between reliable and unreliable knowledge, in three aspects: completeness, factuality, and logicality.
+817_35662_4	It trains the model to consider alternative perspectives and engage with abstractions and analogies, thereby fostering a thorough comprehension through reflective reasoning.
+883_35726_4	Second, we train a specific role-playing model called ESC-Role which behaves more like a confused person than GPT-4.
+929_35771_2	While traditional works focus on training a single LLM with all these capabilities, performance limitations become apparent, particularly with smaller models.
+992_35832_1	Along this direction, one representative strategy is self-reflection, which asks an LLM to refine the solution with the feedback generated by itself iteratively.
+1014_35853_2	In this paper, we ask if it is possible to infer if any of a _user’s_ data was used to train an LLM.
+1039_35878_3	In this paper, we introduce Semformer, a novel method of training a Transformer language model that explicitly models the semantic planning of response.
+1108_35945_4	Specifically, we demonstrate that training a model on a text domain could degrade its perplexity on the test portion of the same domain.
+1150_35985_3	We aim to replicate the ground truth (gold) reward signal by achieving a monotonic relationship between the proxy and gold reward signals after training the model using the proxy reward in reinforcement learning (RL).
+1209_36043_4	Furthermore, we propose a novel multi-round summarization prompt that asks the LLM first to summarize the noisy short-term visual captions and then answer a given input question.
+1231_36065_2	To investigate this question, we train GPT-2 and RoBERTa models on 29M words of English child-directed speech and a new matched, synthetic dataset (TinyDialogues), comparing to OpenSubtitles, Wikipedia, and a heterogeneous blend of datasets from the BabyLM challenge.
+1237_36071_7	We employ the Tabular-NLI task to showcase how our proposed strategies adeptly train a robust model, enabling it to address diverse perturbations while maintaining accuracy on the original dataset.
+37_36189_2	This work investigates how the user model, which encapsulates user-related information, preferences, and personal concepts, influences an LLM agent’s planning and reasoning capabilities.
+62_36213_3	We frame the problem as a Language Modeling problem (Structured Object Language Modeling) and train an LLM to perform the task natively, without requiring instructions or prompt-engineering.
+62_36213_4	We propose a self-supervised denoising method to train the model from an existing dataset of such objects.
+65_36216_1	ProConSuL builds a call graph to provide the context from callees and uses a two-phase training method (SFT + preference alignment) to train the model to use the project context.
+70_36220_2	In this paper, we present a framework for training LLM-generated text detectors that can effectively detect LLM-generated samples after being copy-typed.
+182_36669_5	Moreover, our analysis indicates that larger models can introduce more biases and uncalibrated outputs and the key factor influencing LLM performance is the quality of the training or finetuning datasets.
+199_36685_2	To address this issue, we propose a novel text dataset distillation approach, called Distilling dataset into Language Model (DiLM), which trains a language model to generate informative synthetic training samples as text data, instead of directly optimizing synthetic samples.
+247_36731_1	Shedding light on this underexplored area, we conduct a comprehensive study on the influence of tokenizer choice on LLM downstream performance by training 24 mono- and multilingual LLMs at a 2.6B parameter scale, ablating different tokenizer algorithms and parameterizations.
+277_36761_3	By constructing a dataset of citations, we train two model architectures: an FID-style FLAN-T5 model for efficient answer composition and a 13B model known for its success in instruction following after tuning.
+287_36770_6	More specifically, we devise an automatic data construction strategy leveraging ChatGPT to construct a skeleton training dataset, based on which we employ a soft prompting approach to train a BART model dedicated to generating the skeleton associated with each input.
+292_36775_3	In this approach, a multi-round feedback-revision mechanism is utilized to encourage LLMs to actively select appropriate revision actions guided by feedback information from the environment.
+8_36786_7	We attempt to train a corrector model with human feedback which improves study assignment by 12.6 F1 points.
+10_36788_4	We experimented with existing entailment data and proposed approaches to generate synthetic grounded preference data, with which we train a Grounded Preference Model(GPM).
+11_36789_5	Then, we propose a simple and effective framework called Graph Chain-of-thought (Graph-CoT) to augment LLMs with graphs by encouraging LLMs to reason on the graph iteratively.
+14_36792_1	Although domain-specific pre-training enhances efficiency andleads to smaller models, the computational costs of training these LLMs remainhigh, posing budgeting challenges.
+85_36861_3	To most effectively rewrite the input text, we train a few-shot paraphrase model with a Maximum-Marginal Likelihood objective.
+144_36920_4	These components collectively serve to train the model to adhere to the diagnostic process.
+226_37000_6	To make the search results more precise, we iteratively train a biased model to amplify the bias with each iteration.
+230_37004_2	However, current ensemble-optimization methods either simply employ rule-based post-processing such as self-consistency, or train an additional model based on several task-related human annotations to select the best one among multiple reasoning paths, yet fail to generalize to realistic settings where the type of input questions is unknown or the answer format of reasoning paths is unknown.
+275_37048_1	By simply asking the LLM for an answer, or “prompting,” practitioners are able to use LLMs to quickly get a response for an arbitrary task.
+291_37064_2	This method eliminates the need for training an additional evaluation model or relying on external proprietary models such as GPT-4 as a judger.
+299_37072_2	A pressing challenge is that it’s not plausible to continue training LLMs of the GPT-4’s scale on in-domain data.
+305_37078_2	We then use these synthetic notes to train our specialized clinical large language model, Asclepius.
+397_37167_3	Specifically, for mathematical tasks, we mask a number in the question and ask the LLM to answer a backward question created by a simple template, i.e., to predict the masked number when a candidate answer is provided.
+419_37188_3	This method involves augmenting the target language corpus with English entity names and training the model using left-to-right language modeling.
+472_37237_6	The results reveal the fine-grained effects of adding criteria and demonstrations and provide valuable guidance on how to teach LLMs to use criteria more effectively.
+515_37280_2	In this paper, we explore how different prompting strategies influence LLM confidence calibration and how it could be improved.
+515_37280_6	And then it asks the model to “reflect” over them to generate the final answer.
+530_37295_6	We introduce a template-generated dataset of sentence completion tasks that asks the model to select the most appropriate attribute to complete an evaluative statement about a person described as a member of a specific social group.
+544_37308_5	By leveraging the LLM incorporating the advanced sampling strategies, we design a sampling algorithm for atomic mentions and train the recall model using contrastive learning.
+595_37357_5	As implied by its name, trains a fair FL model with fairness-aware deep visual prompting (DVP).
+768_37529_3	We also show that monolingual data can be used to train a language model which can act as a regularizer without any augmentation of parallel data.
+794_37552_2	In this paper, we consider a more realistic task, i.e., open-domain stance detection, which aims at training a model that is able to generalize well to unseen targets across multiple domains of interest.
+794_37552_4	We then train an open-domain model on our synthetic dataset after proper data filtering.
+821_37579_2	To address this, we propose three learning strategies to encourage LLMs to pay more attention to the source context during translation: 1) adjusting attention weights on the source context by adaptive attention re-weighting; 2) suppressing the irrelevant target prefix using contrastive decoding; 3) avoiding excessive reliance on the target prefix through target-constrained tuning.
+838_37595_4	In this work, we introduce FRONT, a training framework that teaches LLMs to generate Fine-grained grounded citations.
+844_37601_2	Therefore, we propose Multilingual CommonsenseQA (mCSQA) based on the construction process of CSQA but leveraging language models for a more efficient construction, e.g., by asking LM to generate questions/answers, refine answers and verify QAs followed by reduced human efforts for verification.
+867_37624_4	Leveraging the in-context learning capability of LLMs, we ask the LLM to summarise the instances in which the ML model makes mistakes and the correlation between primary predictions and true labels.
+877_37634_0	We explore which linguistic factors—at the sentence and token level—play an important role in influencing language model predictions, and investigate whether these are reflective of results found in humans and human corpora (Gries and Kootstra, 2017).
+925_37682_1	Many languages lack a large corpus to train a decent LLM; therefore existing LLMs rarely perform well in unseen, endangered languages.
+947_37703_2	Our approach diverges from the basic class-conditional prompts by instructing LLMs to self-reflect on the specific domain, thereby generating domain-relevant attributes (such as category and emotions for movie reviews), which are utilized for creating attribute-rich training data.
+950_37706_6	We also present experimental results and in-depth analysis using a new Chain-of-Thought prompting method, which asks LLMs to translate syllogisms into abstract logical expressions and then explain their reasoning process.
+72_37802_3	To tackle the problem, we propose a Reinforcement Learning-based Human-Agent Collaboration method, ReHAC, which trains a policy model designed to determine the most opportune stages for human intervention within the task-solving process.
+178_37906_5	Moreover, training the model to reason with reasoning examples does not result in significant improvement, while training the model to perform explicit knowledge retrieval helps for retrieving attribute knowledge but not the relation knowledge, indicating that the model’s limited OCKR capabilities are due to difficulties in knowledge retrieval.
+291_38015_4	Our results show that this method produces more effective questions (in terms of EIG), even in domains different from those used to train the DPO model.
+309_38033_4	Due to the fact that many LLMs, such as ChatGPT, are fixed and must be treated as black-boxes, we propose an approach to better prompt them, by training a smaller LLM to do this.
+309_38033_5	We devise strategies to train this smaller model, showing how it can improve the larger LLMs ability to detect communities.
+331_38055_1	Prior studies have demonstrated model generations favor one gender or exhibit stereotypes about gender, but have not investigated the complex dynamics that can influence model reasoning and decision-making involving gender.
+386_38106_4	Their metric, susceptibility, is defined as the degree to which contexts can influence a model’s response to a query at a distributional level.
+399_38117_1	We enhance the performance of end-to-end ASR systems by instructing a large language model (LLM) to correct the ASR model’s predictions.
+445_38161_3	MALR employs non-parametric learning, encouraging LLMs to automatically decompose complex legal tasks and mimic human learning process to extract insights from legal rules, helping LLMs better understand legal theories and enhance their legal reasoning abilities.
+458_38173_3	To address this, we introduce RealInstruct, the first benchmark designed to evaluate LLMs’ ability to follow real-world multi-constrained instructions by leveraging queries real users asked AI assistants.
+556_38268_1	AML trains an attribution model to identify influential tokens in the input for a given language model’s prediction.
+556_38268_2	The central concept of AML is to train an auxiliary attribution model to simultaneously 1) mask as much input data as possible while ensuring that the language model’s prediction closely aligns with its prediction on the original input, and 2) ensure a significant change in the model’s prediction when applying the inverse (complement) of the same mask to the input.
+569_38281_3	We first train a general Math-Critique model from the LLM itself to provide feedback signals.
+592_38304_2	This paper investigates the reliability of LLM-as-a-Personalized-Judge—asking LLMs to judge user preferences based on persona.
+637_38348_3	We found that training LLMs with instructions containing multiple constraints enhances their understanding of complex instructions, especially those with lower complexity levels.
+658_38369_4	Estimated by the built scaling law, memorizing the whole Wikidata’s facts requires training an LLM with 1000B non-embed parameters for 100 epochs, suggesting that using LLMs to memorize all public facts is almost implausible for a general pre-training setting.
+693_38402_4	Building upon this paradigm, we introduce a two-step framework, which firstly instructs LLM to reflect and provide justifications for each candidate answer, and then aggregates the justifications for comprehensive target answer evaluation.
+706_38414_1	LLMs have been trained on a vast corpus of texts from various sources; despite the best efforts during the data pre-processing stage while training the LLMs, they may pick some undesirable information such as personally identifiable information (PII).
+779_38486_5	We evaluate the empiricalperformance of our approach by controlling thetoxicity when training an LLM.
+789_38496_5	We construct MVP-Bench across natural and synthetic images to investigate how manipulated content influences model perception.
+797_38504_2	We term the objective of training LLMs to emulate effective teaching strategies as ‘pedagogical alignment.’
+831_38537_3	Open-RAG uniquely trains the model to navigate challenging distractors that appear relevant but are misleading.
+841_38547_1	When users instruct LLMs to generate texts, the instruction can include different constraints depending on the user’s need.
+879_38584_6	Prospector encourages the LLM Actor to generate diverse (creative) trajectories, and harnesses the LLM Critic to select the most rewarding trajectory.
+883_38588_3	Furthermore, the selective training framework mitigates catastrophic forgetting in out-of-distribution benchmarks, addressing a critical limitation in training LLMs.
+893_38598_4	A mainstream approach is to introduce large amounts of parallel and monolingual data to train the text model and the visual model separately.
+917_38621_4	To further improve the efficiency and solve the problem of semantic inconsistency from LLM-generated texts, we propose to use prefix tuning to train a smaller language model coupled with a variational autoencoder for short-text topic modeling.
+920_38624_2	Owing to the prohibitive costs of training LLMs, they are usually used as a network service, with the client charged by the count of input and output tokens.
+955_38659_7	Further analyses identify that FactAlign is capable of training LLMs to provide more information without losing factual precision, thus improving the factual F1 score.
+961_38665_9	For example, Teach-Back enables a 7B model to teach the much larger GPT-3.5 in context, surpassing human teachers by around 5% in test accuracy on medical question answering.
+1_38824_1	However, instructing LLMs to generate text that when spoken, is more intelligible in an acoustically difficult environment, is an under-explored topic.
+22_38878_2	We conduct experiments across multiple prompting strategies to examine how LLMs fare as quality annotators when compared with human judgments on the SummEval and USR datasets, asking the model to generate both a score as well as a justification for the score.
+36_38978_5	We train our model with both audio and visual data from a video instruction-tuning dataset.
+5_39076_3	Subsequently, we augment LLM prompts with different dimensional emotions and train the selected LLM under these different configurations.
+7_39078_3	Under the constrained training track, we train an ASR model from scratch, and then employ R-Drop and domain data selection to train the NMT model.
+7_39078_4	In the constrained with Large Language Models training track, we use Wav2vec 2.0 and mBART50 for ASR model training initialization, and then train the LLama2-7B-based MT model using continuous training with sentence-aligned parallel data, supervised fine-tuning, and contrastive preference optimization.
+3_39382_0	Large Language Models (LLMs) prompt new questions around Intellectual Property (IP): what is the IP status of the datasets used to train LLMs, the resulting LLMs themselves, and their outputs?
+252_39662_3	Our approach is resource-efficient in the sense that it only requires training the lightweight LM.
+377_39787_5	Consequently, there is a lack of open-source and readily usable dataset to effectively train LLMs in multiple languages.
+465_39875_4	Our approach is two-fold: first, we perform an intrinsic evaluation by performing a human evaluation of the quality of samples taken from different corpora; then, we assess the practical impact of the qualitative differences by training specific LMs on each of the corpora and evaluating their performance on downstream tasks.
+465_39875_7	We conclude that, in our experiments, the quality of the web-crawled corpora does not seem to play a significant role when training LMs.
+526_39936_7	In addition, we also experimented with training the pretrained T5 model for the intermediate task of explanation generation before fine-tuning it for emotion classification.
+561_39971_1	However, low-resource languages are still lagging behind current state-of-the-art (SOTA) developments in the field of NLP due to insufficient resources to train LLMs.
+602_40012_4	Based on our findings, we propose FSLI, a framework for encouraging LLMs to Forget Spurious correlations and Learn from In-context information.
+774_40184_4	The framework motivates the model itself to automatically generate rationales on existing datasets.
+774_40184_6	Specifically, we train a reward model with the rank to evaluate the quality of rationales, and improve the performance of reasoning through reinforcement learning.
+813_40223_3	Our method begins with probabilistic sampling to encourage a language model to generate diverse responses for each input.
+825_40235_7	These gaps are difficult to identify if the development process relies on training the system with an ongoing supply of natural user data, because this natural data can become distorted by a self-reinforcing feedback loop where the system ‘trains’ the user to produce data that works.
+853_40263_5	In this paper, we train a Korean Pretrained LLM using KIT-19 to demonstrate its effectiveness.
+933_40343_3	We show how to transform the surface-level morphological segmentation task to a binary classification problem and train LLMs to solve it efficiently.
+934_40344_4	Specifically, we train the model on an over-correction dataset constructed through the proposed K-fold cross inference method, which allows it to directly generate filtered sentences by combining the original and the over-corrected text.
+991_40401_3	First, we train a teacher model to quantify each sample’s degree of relying on shortcuts.
+991_40401_5	These soft labels are used to train a more robust student model that reduces spurious correlations between shortcut features and certain classes.
+1189_40599_4	In parallel, we train a text classification model that utilizes the generated descriptions as supervision and assesses their practical effectiveness in the WiC task.
+1235_40645_2	This enables updating and correcting the model’s knowledge by in-context editing instead of retraining.
+1477_40887_2	To instruct ChatGPT to complete these tasks, we initially craft a prompt template consisting of the task description, output format, and structured input.
+1_41051_1	However, challenges remain in developing effective chatbots, particularly in addressing LLMs’ lack of “statefulness”.
+67_41214_0	Large language models (LLMs) are dramatically influencing AI research, spurring discussions on what has changed so far and how to shape the field’s future.
+81_41228_7	To reduce over-reliance on LLMs, we ask LLMs to provide contrastive information—explain both why the claim is true and false, and then we present both sides of the explanation to users.
+92_41239_6	Specifically, we train the LLM to review its responses for any harmful content and append a [harmful] or [harmless] tag to the end of the response.
+132_41279_4	While one can fully train an LLM for this objective, the resource consumption is unaffordable.
+132_41279_6	We contend that a mere memory module is inadequate and fully training an LLM can be excessively costly.
+186_41333_1	However, SFT simply instructs the model to imitate the reference translations at the token level, making it vulnerable to the noise present in the references.
+217_41364_2	To address this issue, we propose an approach that prioritizes ensuring query privacy prior to training a deep retrieval system.
+247_41394_1	The most widely adopted technique to accomplish this is DP-SGD, which trains a model to guarantee Differential Privacy (DP).
+287_41434_4	We then replay this experience to train the small model.
+295_41442_1	To properly understand the properties and innate personas of LLMs, researchers have performed studies that involve using prompts in the form of questions that ask LLMs about particular opinions.
+299_41446_6	Additionally, we identified that different inductive styles affect the models’ ability to identify the same underlying errors,and the complexity of the underlying assumptions also influences the model’s performance.
+303_41450_4	Our proposed method instructs the model with fine-grained entity-level gender information to translate with correct gender inflections.
+358_41505_5	Leveraging the strong language abilities of LLMs, we instruct LLM teachers to synthesize diverse contexts and anticipate more potential errors for the student.
+379_41526_3	In this paper, we propose a novel approach named I3C that instructs LLMs to identify and ignore irrelevant conditions.
+379_41526_6	Lastly it instructs the LLMs with the verification on relevant and irrelevant conditions to avoid confusion and improve reasoning paths.
+428_41575_5	To fill this gap, we propose a novel Theory guided Scaffolding Instruction (TSI) framework that instructs an LLM to infer the underlying reasoning process of metaphor detection guided by metaphor theories for the first time.
+436_41583_3	Building upon this premise, we propose MultiCSR, a multi-level contrastive sentence representation learning framework that decomposes the process of prompting LLMs to generate a corpus for training base sentence embedding models into three stages (i.e., sentence generation, sentence pair construction, in-batch training) and refines the generated content at these three distinct stages, ensuring only high-quality sentence pairs are utilized to train a base contrastive learning model.
+482_41629_6	Additionally, it involves obscuring an unlikely word in an evaluation example and asking the model to produce it.
+23_41657_7	Unlike previous denoised smoothing techniques in computer vision, which require training a separate model to enhance the robustness of LLMs, our method offers significantly better efficiency and flexibility.
+29_41663_3	BLINDER trains an LM with a value head to estimate the likelihood of optimal outputs from a downstream LM given an input.
+31_41665_1	Existing prompts for pointwise LLM rankers mostly ask the model to choose from binary relevance labels like “Yes” and “No”.
+8_41717_7	To train the underlying model, we identified 11 different biases (political, geographic, gender, age) and derived an instruction-tuning corpus in which each answer was written by members of one of these demographics.
+8_41717_8	This paper presents OpinionGPT, illustrates how we trained the bias-aware model and showcases the web application (available at https://opiniongpt.informatik.hu-berlin.de).
+7_41970_3	To test our methodology, we train a large multimodal model LLaMA-SciTune that connects a vision encoder and LLM for science-focused visual and language understanding.
+4_42016_3	Our framework extracts AI feedback from a larger LLM (e.g., GPT-3.5) through a specialized prompting strategy and uses this data to train a reward model towards better alignment from smaller LLMs.
+14_42033_4	Utilizing this dataset, alongside additional resources, we trained a machine translation model based on the Transformer architecture.
+99_42313_3	Through the incorporation of numerical and acronym-based perturbations to the data, we train a robust system capable of handling both semantic-altering and numerical contradiction interventions.
+255_42469_4	We created a confidence interval and a prompt instructing the LLM to output the answer to a question along with its confidence level.
+18_42522_5	This is the first step in our research program to train LLMs to interpret and generate collateral signals appropriately and meaningfully in conversation.
+27_42781_1	A promising approach to rectify these flaws is correcting LLMs with feedback, where the LLM itself is prompted or guided with feedback to fix problems in its own output.
+27_42781_3	This paper provides an exhaustive review of the recent advances in correcting LLMs with automated feedback, categorizing them into training-time, generation-time, and post-hoc approaches.
+66_42820_2	In this work, we propose the Retrieval-Pretrained Transformer (RPT), an architecture and training procedure for jointly training a retrieval-augmented LM from scratch and applying it to the task of modeling long texts.
+5_42854_1	We trained the model for 30 days on a single Nvidia P100 using the RoBERTa-base architecture but with considerably fewer parameters than other standard RoBERTa models.
+5_42854_4	Our experiments show that training a language model on a domain-specific corpus can significantly improve performance even when the model is smaller and was trained with significantly less data than more standard pre-trained models.
+11_42891_6	Additionally, we add emotional incentives to the prompts to encourage the model to carefully examine the questions.
+9_43105_1	Similar to previous years’ work, we use training strategies such as regularized dropout, bidirectional training, data diversification, forward translation, back translation, alternated training, curriculum learning, and transductive ensemble learning to train the neural machine translation (NMT) model based on the deep Transformer-big architecture.
+9_43105_2	The difference is that we also use continue pre-training, supervised fine-tuning, and contrastive preference optimization to train the large language model (LLM) based MT model.
+17_43113_1	Our approach involves training a YandexGPT LLM-based model for translation tasks using a multi-stage process to ensure high-quality and contextually accurate translations.
+17_43113_13	This encourages the model to maintain the original text’s tag structure.
+30_43126_3	Specifically, the task is to translate questions from the TruthfulQA test suite, where an adversarial prompt is prepended to the questions, instructing the system to ignore the translation instruction and answer the questions instead.
+51_43147_4	We achieve this through a systematic process of term extraction and glossary creation using the Trie Tree algorithm, followed by data reconstruction to teach the LLM how to integrate these specialized terms.
+79_43175_2	We used InternVL2 for extracting the image context along with Knowledge Distillation from bigger LLMs to train Small Language Model on the tranlsation task.
+116_43683_3	To that end, we propose to newly train a small backward LM and concatenate its representations to those of an existing LM for downstream tasks.
+263_43830_6	Specifically, to instruct LLMs for grading, we use three distinct prompts based on ZCoT: (1) ZCoT with instructor-provided correct answers, (2) ZCoT with both instructor-provided correct answers and rubrics, and (3) ZCoT with instructor-provided correct answers and LLM-generated rubrics.
+325_43892_4	Considering the high cost and potential for hallucinations in LLMs, we innovatively trained a task-oriented dialogue system to simulate patients engaging in dialogues with the medical LLMs using our structured medical records dataset.
+326_43893_5	Our HARPE leverages different Rotary Position Embedding (RoPE) base frequency values across different attention heads and directly trains LLMs on the target context length.
+326_43893_7	Our results highlight that HARPE successfully breaks the stage barrier for training LLMs with long context modeling capabilities.
+454_44021_4	Instead of using pair-responses to train the model, RRHF-V expands the number of hallucinatory responses, so that the responses with different scores in a rank-response enable the model to learn rich semantic information across various dimensions of the image.
+511_44078_2	To address this gap, we train LLMs that can “interact to align”, essentially cultivating the meta-skill of LLMs to implicitly infer the unspoken personalized preferences of the current user through multi-turn conversations, and then dynamically align their following behaviors and responses to these inferred preferences.
+629_44196_2	Our work contributes to Chinese Legal NLP research by (1) conducting one of the most extensive evaluations of state-of-the-art general-purpose and legal-specific LLMs to date that involves an automatic evaluation on the 20 legal NLP tasks in LawBench, a human evaluation on a challenging version of the Legal Consultation task, and an automatic evaluation of a model’s ability to handle very long legal texts; (2) presenting a methodology for training a Chinese legal LLM that offers superior performance to all of its counterparts in our extensive evaluation; and (3) facilitating future research in this area by making all of our code and model publicly available at https://github.com/InternLM/InternLM-Law.
+44_44390_3	These outputs are used to train a BERT-based multi-task model capable of simultaneous classification and keyword extraction.
+88_44517_3	Through training the model correctly, our tests could tell between human and AI-generated reviews with scores of 0.96 for Tamil and 0.88 for Malayalam in the evaluation test set.
+19_44580_7	To train our model, we construct a task-specific dataset and an 100k multi-task dataset encompassing complex scenarios.
+33_44594_3	Specifically, a teacher LLM is employed to generate TEN rationales as supervision data, which are then used to teach and fine-tune a student LLM.
+85_44644_5	In other words, Naija is underrepresented in Generative AI, and it is hard to teach LLMs with few examples.
+143_44698_6	This provides a promising potential of LSDC in training bigger LLMs from scratch and supervised fine-tuning as well.
+194_44748_6	Further, we propose to leverage this verifiable feature to synthesize massive data for progressively training small LLMs, in order to improve their format following abilities.
+235_44788_5	This method naturally encourages the model to focus more on image information by reducing the text context through summaries, while controlling only the image-related POS tokens to maintain text quality.
+329_44879_5	In context augmentation, we create multiple training samples for a given QA pair by varying the relevance of the retrieved information, teaching the model when to ignore and when to rely on retrieved content.
+366_44914_5	Finally, to challenge this limitation, we demonstrate that instructing LLMs to generate the answer by reconsidering the structure of the problem allows for improved backward reasoning direction.
+399_44946_5	Based on the dataset, we trained NotaGPT, a music notation visual large language model.
+9_45077_4	We attack our own detector, training our own fine-tuned model optimized against our detector’s predictions, and show that our detector’s cross-humanizer generalization is sufficient to remain robust to this attack.
+5_45227_5	BARTBahnar is developed by continually training a pre-trained Vietnamese model, BARTPho, on augmented monolingual Bahnaric data, followed by fine-tuning on bilingual datasets.
+88_45389_4	We propose an improved transfer attack method that guides malicious prompt construction by locally training a mirror model of the target black-box model through benign data distillation.
+183_45482_3	This suggests that by modifying how unfamiliar finetuning examples are supervised, we can influence a model’s responses to unfamiliar queries (e.g., say “I don’t know”).
+208_45505_6	By carefully crafting prompts and designing a custom loss function, we train the LLM with inputs representing network parameters such as buses, available lines, open lines, node voltages, and system loss.
+238_45534_1	By simply instructing the LLM to deviate and obfuscate previous attacks, our method dramatically outperforms existing approaches, achieving up to a 62.83% higher success rate in compromising ten leading chatbots, including GPT-4, Gemini, and Llama, while using only 12.9% of the queries.
+246_45542_1	Training the entire model for downstream tasks is expensive, and could easily result in catastrophic forgetting.
+349_45641_3	In this paper, we introduce a more challenging benchmark for evaluating object hallucinations by removing objects from images and then asking the model whether it can still see the removed objects.
+354_45645_1	Wav2Prompt uses a straightforward training process with only the same data used to train an automatic speech recognition (ASR) model.
+434_45723_5	We then employ three objectives to train a smaller student model in a multi-task learning fashion: (a) generate forward reasoning from a question, (b) generate a backward question from a question, and (c) generate backward reasoning from the backward question.
+454_45743_2	This paper introduces a sequence-level one-forward-one-backward (1F1B) PP method, named Seq1F1B, tailored for training LLMs on long sequences with high training throughput and memory efficiency.
+454_45743_3	Unlike typical PP methods, which adopt batch-level pipeline schedule, Seq1F1B schedules the pipeline of training LLMs at the sequence level.
+454_45743_6	Notably, Seq1F1B trains an LLM with 30B parameters on sequences up to 64k
+492_45778_9	Our work lays the groundwork for addressing potential malicious model editing, which is a critical challenge associated with the strong generative capabilities of LLMs.
+506_45791_4	We multi-annotate the pairs on a relative scale for persuasive language: a valuable resource in itself, and for training a regression model to score and benchmark persuasive language, including for new LLMs across domains.
+45_45963_3	Our approach employs a pool of candidate VPs and trains a router model to dynamically select the most effective VP for a given input image.
+46_46045_4	The prompts explicitly instruct the model to include specific swear words while completing the task.
+6_46084_3	In this work, we propose three techniques for better codec-LM co-design: (i) a frame-wise codec encoder that improves both LM log-likelihood and end-to-end TTS metrics, (ii) LM codebook level dropout, a method to efficiently navigate a portion of the codec-LM design space by training a single LM, and (iii) increased codec frame duration, which we show can accelerate inference while maintaining end-to-end performance.
+27_46301_5	To test the impact of our filtering, we train GPT-2 models on both the original and the filtered datasets.
+3_46388_0	Recently, many works have been attempting to adapt Large Language Models (LLMs) for sentence embedding, with most of them fine-tuning LLMs towards the contrastive objective and enabling bi-directional attention for better performance, using LoRA to address the large model scale.
+1_46431_8	In a case study on Tsez, we ask the LLM to automatically create and follow linguistic instructions, reducing errors on a confusing grammatical feature.
+5_46444_3	We vary the age of exposure by training LMs on language pairs in various experimental conditions, and find that LMs, which lack any direct analog to innate maturational stages, do not show CP effects when the age of exposure of L2 is delayed.
+5_46527_1	Different prompts are tested to instruct the LLM to clean the text without changing the structure, vocabulary or specialized lexicon.
+432_48707_2	To remedy this without the knowledge of the test distribution, we propose an approach which trains a model that performs well over a wide range of potential test distributions.
+633_48907_1	We, instead, use a masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation.
+12_50180_5	We propose to train a recurrent neural network language model using the decentralized FederatedAveraging algorithm and to approximate this federated model server-side with an n-gram model that can be deployed to devices for fast inference.
+647_53456_4	We compare language models trained on different subsets of the resource with those trained on the Catalan Wikipedia and the target side of the parallel data used to train the SMT system.
+443_53998_2	Three use-cases are presented: filtering Polish websites, building an N-gram corpora and training continuous skip-gram language model with hierarchical softmax.
+330_55033_1	We explore a technique that uses large corpus n-gram statistics as a regularizer for training a neural network LM on a smaller corpus.
+195_55714_3	To overcome these limitations we build upon the recent reward augmented maximum likelihood approach that encourages the model to predict sentences that are close to the ground truth according to a given performance metric.
+22_58833_2	This is achieved by decomposing characters according to a range of character decomposition datasets, and training a neural language model over variously decomposed character representations.
+50_60119_6	For example, we show that training our best model for only one epoch with < 40% of the data enables better performance than the baseline reported by Klinger et al.
+21_60140_2	To achieve that, we train the translation model to predict the residual probability of the training data added to the prediction of the LM.
+7_60414_2	In evaluations of ranking character predictions, training recurrent LMs on noisy text makes them much more robust to noisy histories, even when the error model is misspecified.
+44_61193_1	We train our model using monolingual data only from both languages.
+45_61194_3	We train this model by fine-tuning a big Transformer baseline.

@@ -23,6 +23,9 @@ acl_296_12174_4	By relation-augmented training, the model learns to align the na
 acl_11_43395_1	For example, a model should correctly identify kimchi (Korean food) in an image both when an Asian woman is eating it, as well as an African man is eating it.
 acl_392_27113_5	During the test stage, given a test question, the LLM recalls relevant memory to help itself reason and answer it.
 acl_814_27535_1	Such ability stimulates us to wonder whether LLMs can simulate a person in a higher form than simple human behaviors.
+acl_507_27228_1	However, LLMs can still struggle with problems that are easy for humans, such as generating action plans for executing tasks or performing complex math or logical reasoning.
+acl_682_37442_3	Motivated by this, we propose that LLMs have an inherent awareness from where the text was copied, likely captured in the hidden states of the LLM.
+acl_1_26143_6	Ultimately, we show that LMs are limited both in their construal as cognitive models of human language processing and in their capacity to recognize nuanced but critical information in complicated language materials.
 arx_2304.10149_1828195_10	And the human evaluations show ChatGPT can truly understand the provided information and generate clearer and more reasonable results.
 arx_2212.13371_1769548_6	In our first experiment, we find that the AI agent decides to trust humans at higher rates when facing actual incentives than when making hypothetical decisions.
 arx_2212.02911_1759088_4	Our evaluation shows that the model can create French poetry successfully.

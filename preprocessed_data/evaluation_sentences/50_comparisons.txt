@@ -1,0 +1,2 @@
+acl_8_10945_3	Although the best bidirectional model performs similarly to humans, they display different strengths: humans outperform neural networks in conversational contexts, while RoBERTa excels at written genres.
+acl_115_26836_3	With LLMs increasingly gaining human-like fluency in text generation, gaining a nuanced understanding of the biases these systems can generate is imperative.

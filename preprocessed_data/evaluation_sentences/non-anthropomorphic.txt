@@ -28,7 +28,15 @@ arx_2408.10758_2130939_4	This study aims to examine the influence of AI assistan
 
 \\ comparisons
 
+arx_2504.16505_2305208_2	Our work addresses the fundamental challenge of developing practical AI travel assistants through a novel large-scale dataset of 220k question-answer pairs.
+arx_2410.03736_2161937_3	To address this gap, we introduce CliMB, a no-code AI-enabled partner designed to empower clinician scientists to create predictive models using natural language.
+
 \\ posssessives
+
+arx_2303.06628_1806425_1	Nevertheless, during the continual training of the Contrastive Language-Image Pre-training (CLIP) model, we observe that the model's zero-shot transfer ability significantly degrades due to catastrophic forgetting.
+arx_2303.07610_1807407_6	This preliminary experimental finding implies that ChatGPT's zero-shot ranking capability could be used to reduce annotation pressure in a number of ranking tasks.
+arx_2301.12597_1783661_7	We also demonstrate the model's emerging capabilities of zero-shot image-to-text generation that can follow natural language instructions.
+
 
 
 

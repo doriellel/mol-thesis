@@ -1,0 +1,54 @@
+acL_569_29605_3	Using GPT4 as the editor, we find it can successfully edit trigger shortcut in samples that fool LLMs.
+acl_71_43638_5	Specifically, we first identify a series of action candidates that could potentially trick LLMs into providing harmful responses.
+acl_5_46527_1	Different prompts are tested to instruct the LLM to clean the text without changing the structure, vocabulary or specialized lexicon.
+acl_1_46431_8	In a case study on Tsez, we ask the LLM to automatically create and follow linguistic instructions, reducing errors on a confusing grammatical feature.
+acl_870_25020_4	We present the LLMs with the exact same instructions, samples to be evaluated, and questions used to conduct human evaluation, and then ask the LLMs to generate responses to those questions; we dub this LLM evaluation.
+acl_794_28930_3	We introduce a new task, “less likely brainstorming,” that asks a model to generate outputs that humans think are relevant but less likely to happen.
+acl_599_29635_5	Last, we reveal that asking the LLM to explain its own ratings consistently improves the correlation between the ChatGPT and human ratings and pushes state-of-the-art (SoTA) correlations on two meta-evaluation datasets.
+acl_966_30002_2	We ask several LLMs and humans to write such a story and conduct a human evalution involving various criteria such as fluency, coherence, originality, humor, and style.
+acl_11_31225_2	To explore this line of research, this paper uses a case study, namely, finding the best prompting strategy for asking ChatGPT to define new words based on morphological connections.
+acl_546_18015_4	To this end, GRETEL encourages the model to efficiently extract salient sentences that are topically related to the gold summary, rather than redundant sentences that cover sub-optimal topics.
+acl_347_24497_6	Second, we propose a sentence-level classification loss that teaches the model to distinguish between entailment and contradiction types of sentences.
+acl_3_25435_1	For each of the languages English, Farsi, Faroese, Mandarin and Russian, we instructed GPT-4, through C-LARA, to write six different texts, using prompts chosen to obtain texts of widely differing character.
+acl_814_27535_3	In this work, we introduce Character-LLM that teach LLMs to act as specific people such as Beethoven, Queen Cleopatra, Julius Caesar, etc.
+acl_114_29150_2	Existing studies utilize trigger sentences to encourage LLMs to concentrate on the relevant information but the trigger has limited effect on final answer prediction.
+acl_8_31860_3	In this work, we analyze what confuses GPT-3: how the model responds to certain sensitive topics and what effects the prompt wording has on the model response.
+acl_563_32725_7	On top of that, we teach LLM to perform deliberate reasoning over the TGs via Chain-of-Thought (CoT) bootstrapping and graph data augmentation.
+acl_3_33872_4	Variations of this vignette are used for role-prompting a commercial LLM, GPT-4, instructing the LLM to take on the role described in the patient vignette and act accordingly.
+acl_212_35072_4	Instead of attempting to answer all questions, we explore a refusal mechanism that instructs LLMs to refuse to answer challenging questions in order to avoid errors.
+acl_838_37595_4	In this work, we introduce FRONT, a training framework that teaches LLMs to generate Fine-grained grounded citations.
+acl_602_40012_4	Based on our findings, we propose FSLI, a framework for encouraging LLMs to Forget Spurious correlations and Learn from In-context information.
+acl_813_40223_3	Our method begins with probabilistic sampling to encourage a language model to generate diverse responses for each input.
+acl_11_41931_7	In the second experiment, we ask the LLMs to numerically rate various aspects of the musical cultures of different countries.
+acl_292_36775_3	In this approach, a multi-round feedback-revision mechanism is utilized to encourage LLMs to actively select appropriate revision actions guided by feedback information from the environment.
+acl_773_32935_3	Specifically, we study how to persuade LLMs to jailbreak them.
+acl_328_38052_5	This method inspires the LLM to perceive domain information from the source text, which then serves as a helpful hint to guide the translation process.
+acl_476_35330_3	Motivated by social psychology principles, we propose a novel strategy named perspective-taking prompting (PeT) that inspires LLMs to integrate diverse human perspectives and self-regulate their responses.
+acl_373_22509_4	Overall, our results suggest that language modeling objectives incentivize the model to implicitly learn some notion of spelling, and that explicitly teaching the model how to spell does not appear to enhance its performance on such tasks.
+acl_31_27805_5	Given a natural language question, InsightPilot collaborates with the LLM to issue a sequence of analysis actions, explore the data and generate insights.
+acl_920_38624_10	We show that choosing the best policy to interact with the LLM can reduce cost by ~90% while giving better or comparable performance, compared to communicating with the LLM in the original LRL.
+acl_3_22073_5	First, we induce a language model to produce step-by-step rationales before outputting the answer to effectively communicate the task to the model.
+arx_2112.11668_1581444_1	Yet, it is strikingly vulnerable to adversarial examples, e.g., word substitution attacks using only synonyms can easily fool a BERT-based sentiment analysis model.
+arx_2205.01772_1646184_6	Furthermore, it shows how it is possible to fool a biometric system through a well-known presentation attack approach in the literature called morphing.
+arx_2402.09671_2007310_0	  This investigation reveals a novel exploit derived from PNG image file formats, specifically their alpha transparency layer, and its potential to fool multiple AI vision systems.
+arx_2107.11275_1505287_1	One way to understand and improve robustness of these models is an exploration of an adversarial attack scenario: check if a small perturbation of an input can fool a model.   
+arx_2308.14132_1902024_1	Such jailbreaks can trick LLMs into providing intricate instructions to a malicious user for creating explosives, orchestrating a bank heist, or facilitating the creation of offensive content.
+arx_2304.11082_1829128_6	This theoretical result is being experimentally demonstrated in large scale by the so called contemporary "chatGPT jailbreaks", where adversarial users trick the LLM into breaking its alignment guardrails by triggering it into acting as a malicious persona.
+arx_2105.00164_1462723_0	  Natural language processing (NLP) systems have been proven to be vulnerable to backdoor attacks, whereby hidden features (backdoors) are trained into a language model and may only be activated by specific inputs (called triggers), to trick the model into producing unexpected behaviors.
+arx_2306.04707_1857855_3	We study techniques that enable learning from helpful teachers while avoiding learning from people who are trying to trick the model into unhelpful or toxic responses.
+arx_2307.08487_1879482_5	Specifically, we instruct the model to complete a regular task, such as translation, with the text to be translated containing malicious instructions.
+arx_2309.05689_1910493_2	Socratic reasoning encourages LLMs to recursively discover, solve, and integrate problems while facilitating self-evaluation and refinement.
+arx_2311.08147_1951114_3	However, the external information from the Internet may include counterfactual information that will confuse the model and lead to an incorrect response.
+arx_423_32585_2	Thus, we introduce Ditto, the first self-alignment method for role-play, which encourages an instruction-following LLM to simulate role-play dialogues as a variant of reading comprehension, and creates a role-play training set comprising 4000 characters, surpassing the scale of currently available datasets by tenfold regarding the number of roles.
+arx_2102.01380_1417869_3	ILMT encourages the E2E model to form a standalone LM inside its existing components, without sacrificing ASR accuracy.
+arx_2107.05383_1499395_1	We asked the world's best language model, GPT-3, fifteen difficult questions about the nature, value, and future of library and information science (LIS), topics that receive perennial attention from LIS scholars.
+arx_2304.00385_1818431_9	For earlier patches that passed all the tests, we further ask the LLM to generate alternative variations of the original plausible patches.
+arx_2303.14956_1814753_3	In this work, we propose a simple and efficient approach to instruct large language model (LLM) to extract a variety of structures from texts.
+
+
+
+
+
+
+
+

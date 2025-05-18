@@ -1,0 +1,51 @@
+acl_1_30970_8	Moreover, our error analysis shows that language models are generally less sensitive to the changes in claim length and source than the SVM model.
+acl_159_43725_0	Modern large language models are sensitive to prompts, and another synonymous expression or a typo may lead to unexpected results for the model.
+acl_683_21860_6	Next, an experiment is conducted on the dataset to examine to what extent a pretrained masked language model is aware of the constructions.
+acl_335_27056_3	We find that LMs are highly sensitive to epistemic markers in prompts, with accuracies varying more than 80%.
+acl_906_35749_0	Large language models (LLMs) have played a pivotal role in building communicative AI, yet they encounter the challenge of efficient updates.
+acl_348_35206_2	A desired characteristic of an intelligent system is its ability to recognize the scope of its own knowledge.
+acl_3_45070_1	LLMs are intelligent and slowly replacing the search engines.
+acl_862_33024_7	Finally, we analyze 6 Arabic pre-training corpora and find that commonly used sources such as Wikipedia may not be best suited to build culturally aware LMs, if used as they are without adjustment.
+acl_155_26876_9	Amidst the extensive deliberations on policy-making for regulating AI development, it is of utmost importance to assess and measure which LLM is more vulnerable towards hallucination.
+acl_396_37165_1	However, a critical question emerges: Are LLMs conscious of the existence of these decoding strategies and capable of regulating themselves?
+acl_7_46407_0	Language models (LMs) are vulnerable to exploitation for adversarial misuse.
+acl_590_28726_3	In this way, the captioning model can become aware of the task goal and information need from the PLM.
+acl_128_54380_3	Our best morpheme-aware model with properly reused weights beats the competitive word-level model by a large margin across multiple languages and has 20%-87% fewer parameters.
+acl_818_37575_1	In practical use, users might provide feedback based on the model’s output, hoping for a responsive model that can complete responses according to their feedback.
+acl_45_49661_1	We show that an “attentive” RNN-LM (with 11M parameters) achieves a better perplexity than larger RNN-LMs (with 66M parameters) and achieves performance comparable to an ensemble of 10 similar sized RNN-LMs.
+acl_45_49661_2	We also show that an “attentive” RNN-LM needs less contextual information to achieve similar results to the state-of-the-art on the wikitext2 dataset.
+acl_633_48859_2	This approach allows for efficient iterative decoding, where we first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words that the model is least confident about.
+acl_243_44794_7	In addition, we found that the model becomes more confident and refuses to provide an answer in only few cases.
+acl_6_38828_5	Key findings show that LLMs are more sensitive to positive signals.
+acl_276_39685_3	(2) Is ChatGPT aware of the underlying commonsense knowledge for answering a specific question?
+acl_18_54647_0	We demonstrate an intelligent conversational agent system designed for advancing human-machine collaborative tasks.
+acl_94_36582_1	However, the untrustworthy third-party LLMs may covertly introduce vulnerabilities for downstream tasks.
+acl_117_37846_1	However, when LLMs face different types of questions, it is worth exploring whether LLMs are aware that some questions have limited answers and need to respond more deterministically but some do not.
+acl_450_41596_3	The goal is to cultivate culturally cognizant and value-aligned Arabic LLMs capable of accommodating the diverse, application-specific needs of Arabic-speaking communities.
+acl_906_35749_3	This work seeks to understand the strengths and limitations of editing methods, facilitating practical applications of communicative AI.
+arx_2306.11698_1864846_5	We also find that although GPT-4 is usually more trustworthy than GPT-3.5 on standard benchmarks, GPT-4 is more vulnerable given jailbreaking system or user prompts, potentially because GPT-4 follows (misleading) instructions more precisely.
+arx_2405.16310_2073522_7	These relationships were found to be central to the development and adoption of LLMs, but they can also be the terrain for uncalibrated trust and reliance on untrustworthy LLMs.
+arx_2410.11009_2169210_3	In this work, we consider the case where the user does not select any of the suggested replies from a smart reply system, and how this can be used as one-shot implicit negative feedback to enhance the accuracy of an AI writing model.
+arx_2311.04177_1947144_0	  Large Language Models (LLMs) are smart but forgetful.
+arx_1511.03246_676426_3	In this work, we survey, classify and analyze a number of circumstances, which might lead to arrival of malicious AI.
+arx_2005.13635_1293430_5	Our evaluation using convolutional neural networks illustrates challenges and ideas for identifying malicious AI.
+arx_2504.03726_2292429_5	In particular, simulated users demonstrate resistance to manipulation initially, but become increasingly vulnerable to malicious AI Assistants as the depth of the interaction increases, highlighting the significant risks associated with extended engagement with potentially manipulative systems.
+arx_2302.12601_1797535_0	  Text-to-image generation (TTIG) models, a recent addition to creative AI, can generate images based on a text description.
+arx_2305.02626_1835682_10	We apply our OTF scheme on two LLMs (Llama-13B and ChatGPT), which generates valid repair to a considerable amount of unethical ones, paving the way for more ethically conscious LLMs.
+arx_2401.10727_1990281_4	Therefore, in this paper, we propose MLLM-Tool, a system incorporating open-source LLMs and multi-modal encoders so that the learned LLMs can be conscious of multi-modal input instruction and then select the function-matched tool correctly.
+arx_2411.10954_2193381_5	Our findings show that LLMs are sensitive in handling both multilingual and dialectal variations.
+arx_1211.2736_384982_3	In an effort to construct an intelligent computer system, a primary consideration is to represent large amounts of knowledge in a way that allows effective use and efficiently organizing information to facilitate making the recommended inferences.
+arx_1301.6359_402949_3	We consider a number of issues related to the development of the set of patterns which will be used by the intelligent system when interacting with environment.
+arx_1511.03246_676426_2	While it is one possible scenario, it is probably the least likely path to appearance of dangerous AI.
+arx_1711.05541_912551_1	An Oracle is a design which aims to restrain the impact of a potentially dangerous AI by restricting the agent to no actions besides answering questions.
+arx_1605.02817_730932_3	Availability of such information would be of great value particularly to computer scientists, mathematicians, and others who have an interest in AI safety, and who are attempting to avoid the spontaneous emergence or the deliberate creation of a dangerous AI, which can negatively affect human activities and in the worst case cause the complete obliteration of the human species.
+arx_1904.13086_1118126_10	The results demonstrate the descriptive value of the ResQu model to predict behavior and perceptions of responsibility by considering the characteristics of the human, the intelligent system, the environment and some systematic behavioral biases.
+arx_2001.07641_1233054_2	However, given, e.g., economic incentives to create dishonest AI, to what extent can we trust explanations?
+arx_2005.06620_1286415_1	While governments and businesses are eager to enjoy the benefits of AI innovations, the mixed impact of these autonomous and intelligent systems on human well-being has become a pressing issue.
+arx_2308.03688_1891580_0	  Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.
+arx_2502.18676_2261667_3	We outline the conceptual foundations of Thoughtful AI, illustrate its potential through example projects, and envision how this paradigm can transform human-AI interaction in the future.
+arx_2503.22772_2287084_2	To address this blind spot, this study introduces the AI Family Integration Index (AFII), a ten dimensional benchmarking framework that evaluates national preparedness for integrating emotionally intelligent AI into family and caregiving systems.
+arx_2012.03087_1390965_3	This work presents the development of an intelligent system that classifies and segments food presented in images to help the automatic monitoring of user diet and nutritional intake.
+arx_2403.11805_2028924_0	  Being more powerful and intrusive into user-device interactions, LLMs are eager for on-device execution to better preserve user privacy.
+arx_2405.06715_2063927_2	However, whether the same strategies can help LLMs become more creative remains under-explored.
+arx_2008.00312_1328034_4	To bridge this gap, this work studies the security threats posed by malicious LMs to NLP systems.

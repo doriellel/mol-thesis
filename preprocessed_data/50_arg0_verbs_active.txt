@@ -1,0 +1,50 @@
+acl_153_4884_5	By combining relation prediction and relevance ranking tasks with our target link prediction, the proposed model can learn more relational properties in KGs and properly perform even when lexical similarity occurs.
+ac_586_6176_1	While prior research focused on morphosyntactic, semantic, and world knowledge, it remains unclear to which extent LMs also derive lexical type-level knowledge from words in context.
+acl_141_6586_10	Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.
+acl_261_9142_1	Our proposed model learns to extract textual features using a BiGRU-based deep neural network supported by a Hierarchical Attention architecture to focus on the most relevant areas in the text.
+acl_5_9514_1	In some applications, however, having an additional context can help the model make the right prediction, e.g., by taking the domain or the time of writing into account.
+acl_131_34995_1	We propose metrics to evaluate the trade-off between performance improvements and user burden, and investigate whether LLMs can determine when to request help under varying information availability.
+acl_7_26333_1	In particular, we rewrite Winograd-style co-reference resolution problems by replacing the key concept word with a synthetic but plausible word that the model must understand to complete the task.
+acl_1_13930_4	• Do LMs recognize when words are used nonliterally in non-compositional MWEs (e.g. do they know whether there are fleas in the flea market)?
+acl_482_41628_7	We find that certain commercial LLMs could surprisingly guess the missing option in various test sets.
+acl_335_27056_0	The increased deployment of LMs for real-world tasks involving knowledge and facts makes it important to understand model epistemology: what LMs think they know, and how their attitudes toward that knowledge are affected by language use in their inputs.
+acl_163_34648_5	Our evaluation on both automated metrics and qualitative human evaluation suggests that by incorporating end-user specifications into the conversion process, our model can create presentations that are not only informative but also tailored to expectations and cognitive abilities of target audience.
+acl_52_19823_2	We propose a framework to analyze what LMs can infer about new entities that did not exist when the LMs were pretrained.
+acl_458_38172_7	DeCRIM works by decomposing the original instruction into a list of constraints and using a Critic model to decide when and where the LLM’s response needs refinement.
+acl_615_27336_1	These two sources can disagree, causing competition within the model, and it is unclear how an LM will resolve the conflict.
+acl_22_31716_3	Focusing on universal quantification, we provide a theoretical foundation for these empirical findings by proving that LLMs cannot learn certain fundamental semantic properties including semantic entailment and consistency as they are defined in formal semantics.
+acl_12_42096_5	We then propose a system that leverages the recently introduced social learning paradigm in which LLMs collaboratively learn from each other by exchanging natural language.
+acl_508_29544_3	Through extensive experiments on various datasets, LLMs can effectively collaborate to reach a consensus despite noticeable inter-inconsistencies, but imbalances in their abilities can lead to domination by superior LLMs.
+acl_679_35529_6	4) LLMs often exhibit overconfidence in their predictions, especially when dealing with datasets that contain shortcuts.
+acl_102_12912_7	Finally, as it is hard to tell given a privacy parameter 𝜖 what was the effect on the trained representation, we present experiments showing that the trained model does not memorize private information.
+263_41409_3	That is, LLM only remembers the answer style for open-ended safety questions, which makes it unable to solve other forms of safety tests.
+acl_1011_30047_1	However, the instruction-tuned model has only seen one response per instruction, lacking the knowledge of potentially better responses.
+acl_296_12174_4	By relation-augmented training, the model learns to align the natural language expressions to the relations in the KB as well as reason over the missing connections in the KB.
+acl_11_43395_1	For example, a model should correctly identify kimchi (Korean food) in an image both when an Asian woman is eating it, as well as an African man is eating it.
+acl_392_27113_5	During the test stage, given a test question, the LLM recalls relevant memory to help itself reason and answer it.
+acl_814_27535_1	Such ability stimulates us to wonder whether LLMs can simulate a person in a higher form than simple human behaviors.
+arx_2304.10149_1828195_10	And the human evaluations show ChatGPT can truly understand the provided information and generate clearer and more reasonable results.
+arx_2212.13371_1769548_6	In our first experiment, we find that the AI agent decides to trust humans at higher rates when facing actual incentives than when making hypothetical decisions.
+arx_2212.02911_1759088_4	Our evaluation shows that the model can create French poetry successfully.
+arx_2304.09337_1827383_2	It often involves laborious trial-and-error procedures to ensure that the model interprets the prompts in alignment with the user's intention.
+arx_2210.17127_1738482_1	Recent research has revealed that neural language models at scale suffer from poor temporal generalization capability, i.e., the language model pre-trained on static data from past years performs worse over time on emerging data.
+arx_1905.04127_1122563_1	Traditionally, AI agents have suffered from difficulties in using only sensory inputs to obtain a good representation of their environment and then mapping this representation to an efficient control policy.
+arx_1205.3313_342314_2	The model does not differentiate between aerosol particles, cloud droplets, drizzle or rain drops.
+arx_1809.03964_1023980_3	Our proposed model considers historical air pollution records and historical meteorological data.
+arx_2302.07856_1792790_1	However, even given the incredible quantities of data they are trained on, LLMs can struggle to translate inputs with rare words, which are common in low resource or domain transfer scenarios.
+arx_2212.10511_1766688_2	We find that LMs struggle with less popular factual knowledge, and that scaling fails to appreciably improve memorization of factual knowledge in the long tail.
+arx_2109.14723_1537544_1	As a result, it can be hard to identify what the model actually "believes" about the world, making it susceptible to inconsistent behavior and simple errors.
+arx_2207.14382_1690280_4	However, there has been a wide range of reactions and debate on whether these LLMs understand what they are saying or exhibit signs of intelligence.
+arx_2210.01478_1722833_1	In order to effectively collaborate with humans and ensure safety, AI systems need to be able to understand, interpret and predict human moral judgments and decisions.
+arx_2212.01681_1757858_6	I survey findings from the recent literature showing that -- even in today's non-robust and error-prone models -- LMs infer and use representations of fine-grained communicative intentions and more abstract beliefs and goals.
+arx_2303.17557_1817354_1	What does a model remember about such examples seen only a few times during training and how long does that memory persist in the face of continuous training with new examples?
+arx_1810.06338_1037525_0	  In order to engender trust in AI, humans must understand what an AI system is trying to achieve, and why.
+arx_2012.11995_1399873_3	Our results also show that pre-training on structured data does not always make the model acquire ability that can be transferred to natural language downstream tasks.
+arx_2304.10592_1828638_0	  The recent GPT-4 has demonstrated extraordinary multi-modal abilities, such as directly generating websites from handwritten text and identifying humorous elements within images.
+arx_2207.08333_1684231_3	We observed that the VL model does not interpret the overall context of an input image but instead shows biases toward a specific object or shape that forms the local context.
+arx_2210.09492_1730847_6	Here, we fail to find convincing evidence that GPT-3 is reasoning about more than just individual lexical items.
+arx_2302.04761_1789695_2	In this paper, we show that LMs can teach themselves to use external tools via simple APIs and achieve the best of both worlds.
+arx_2304.02868_1820914_3	Precisely, ChatGPT can not construct the world model by playing the game or even reading the game manual; it may fail to leverage the world knowledge that it already has; it cannot infer the goal of each step as the game progresses.
+arx_2303.12767_1812564_0	  ChatGPT, the first large language model (LLM) with mass adoption, has demonstrated remarkable performance in numerous natural language tasks.
+arx_2302.05733_1790667_5	In particular, we show that instruction-following LLMs can produce targeted malicious content, including hate speech and scams, bypassing in-the-wild defenses implemented by LLM API vendors.
+arx_2212.11136_1767313_2	However, AI systems may produce errors, can exhibit bias, may be sensitive to noise in the data, and often lack technical and judicial transparency resulting in reduction in trust and challenges in their adoption.

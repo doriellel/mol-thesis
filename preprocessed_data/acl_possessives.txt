@@ -1,0 +1,2 @@
+16_33119_6	Finally, LinguaLinked incorporates a runtime load balancer that actively monitors and redistributes tasks among mobile devices to prevent bottlenecks, enhancing the system's overall efficiency and responsiveness.
+23_33157_3	Knowledge neurons are identified by masking the o part from sentences representing relational triplets (s, r, o), having the LLM predict the masked part, and observing the LLM's activation during the prediction.

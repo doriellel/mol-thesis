@@ -172,6 +172,7 @@
 1903.09518_1101904_7	AI practitioners should make notions and concepts accessible to the general public and the impacted fields (e.g. industries, law, education).
 1904.03285_1108325_5	We show that overall, when AI explains its answers, users succeed more often in guessing the secret image correctly.
 1904.08530_1113570_2	We cross-check with control cases to ensure that the AI is not randomly guessing and is indeed identifying an inherent structure.
+1904.09408_1114448_1	Recently, GPT and BERT demonstrate the efficacy of Transformer models on various NLP tasks using pre-trained language models on large-scale corpora.
 1905.00501_1118937_2	We find that AI can support the achievement of 128 targets across all SDGs, but it may also inhibit 58 targets.
 1905.01023_1119459_3	AI has generally acquired its prominence over the past few years due to its considerable progress in various fields.
 1905.04127_1122563_1	Traditionally, AI agents have suffered from difficulties in using only sensory inputs to obtain a good representation of their environment and then mapping this representation to an efficient control policy.
@@ -188,6 +189,7 @@
 1906.11669_1143855_1	Our algorithm al-lows novice users to create quadrotor based use-cases withoutrequiring deep knowledge in either quadrotor control or theunderlying constraints of the target domain.
 1906.12307_1144493_1	As AI systems affect various stakeholders due to their unique nature, the growing influence of these systems calls for ethical considerations.
 1907.00151_1144687_2	While the proposed model learns to generate various forms of classical Chinese poems, including Jueju, L\"{u}shi, various Cipai and Couples, the generated poems are of very high quality.
+1907.02052_1146588_1	GPT-2 has demonstrated impressive efficacy of pre-trained language models on various tasks, particularly coherent text generation.
 1907.05575_1150111_5	The model takes the form of a stochastic policy for a Markov decision process (MDP) in which the reward function is learned from pairwise queries of a domain expert.
 1907.12118_1156654_1	Based on the pay-per-click pricing model and the keyword targeting technology, the sponsored system runs online auctions to determine the allocations and prices of search advertisements.
 1908.01551_1159721_5	Instead, we use room impulse responses (RIRs) to compute robust adversarial examples for arbitrary room characteristics and employ the ASR system Kaldi to demonstrate the attack.
@@ -276,7 +278,9 @@
 2005.05716_1285511_5	We show on examples of news segments how the proposed system can be used to inspect and potentially better understand what a model has learned (or emphasized).
 2005.07942_1287737_8	By using mathematical analysis and simulation results, we validate that the proposed algorithm performs better than other existing schemes.
 2005.07990_1287785_1	In order to take into account real characteristics of such vehicles, and to reflect practically motivated constraints, the algorithm assumes a highly uncertain system dynamics model.
+2005.09980_1289775_4	Using the identical starting lines of human poems, GPT-2 produced samples of poems.
 2005.12137_1291932_3	The potential for AI to support the response to the pandemic has been proposed across a wide range of clinical and societal challenges, including disease forecasting, surveillance and antiviral drug discovery.
+2005.14165_1293960_8	At the same time, we also identify some datasets where GPT-3's few-shot learning still struggles, as well as some datasets where GPT-3 faces methodological issues related to training on large web corpora.
 2005.14410_1294205_10	Our results show that within a limited number of iterations our proposed model learns an effective scaling policy per workload, improving the performance compared to the default auto-scaling configuration.
 2006.03291_1297805_7	A more complex three-component model comprising a multi-colour disc blackbody $\approx 0.30$ keV, single temperature blackbody $\approx 0.65$ keV and Comptonization from the disc, partially absorbed (about 38 per cent) by an ionized absorber (log($\xi$) $\approx$ 4) describes the broad-band spectrum equally well.
 2006.04013_1298527_1	This shows the imperative need to develop means to endow common people with a minimum understanding of what AI means.
@@ -314,9 +318,11 @@
 2008.10420_1338142_5	The proposed system communicates with the user via a smart phone application that provides various alerts, including notification of the need to recharge and/or decontaminate the mask prior to reuse.
 2009.01180_1342683_9	System analysis demonstrates the robustness and the effectiveness of the proposed framework in real-time scenarios.
 2009.01812_1343315_8	In addition, as reported in 2019, it took, on average, only around 0.2 year for AI preprints to receive their first citations, which is 5 times faster than 2000-2007.
+2009.03393_1344896_3	GPT-f found new short proofs that were accepted into the main Metamath library, which is to our knowledge, the first time a deep-learning based system has contributed proofs that were adopted by a formal mathematics community.
 2009.03533_1345036_0	  An unmanned aircraft system (UAS) consists of an unmanned aerial vehicle (UAV) and its controller which use radios to communicate.
 2009.05615_1347118_2	In this method, an algorithm takes into account inputs (or constraints) from the schedule maker and then presents the possible solutions (incl.
 2009.06082_1347585_6	The AI system then demonstrated a cognitive workflow, involving text analysis, image analysis, and reasoning, to process the question and generate the most probable answer.
+2009.06807_1348310_1	Experimenting with prompts representative of different types of extremist narrative, structures of social interaction, and radical ideologies, we find that GPT-3 demonstrates significant improvement over its predecessor, GPT-2, in generating extremist texts.
 2009.09079_1350582_1	This paper describes problems in AI research and how the SP System (described in an appendix) may help to solve them.
 2009.11189_1352692_2	In the meantime of enriching the quantitative investment methodology, AI technologies have raised new challenges to the quantitative investment system.
 2009.12898_1354401_14	The AI agent needs ~3s per case to predict fluence maps.$$$$   Conclusions: The developed AI agent can generate H&N IMRT plans with satisfying dosimetry quality.
@@ -348,6 +354,7 @@
 2011.09159_1381907_3	Since these are commonsense benchmarks, a model that generalizes on commonsense reasoning should not experience much performance loss across multiple commonsense benchmarks.
 2011.09740_1382488_6	This model accounts for the main physical processes that determines the WSS, more particularly the compliance of the airways, the air inertia and the tree structure.
 2011.10367_1383115_4	The algorithm implementation produces a GINI of 0.68 after tuning the hyper-parameters.
+2012.00413_1388291_1	Recently, GPT-3, with 175 billion parameters and 570GB training data, drew a lot of attention due to the capacity of few-shot (even zero-shot) learning.
 2012.02947_1390825_0	  In recent years, data-intensive AI, particularly the domain of natural language processing and understanding, has seen significant progress driven by the advent of large datasets and deep neural networks that have sidelined more classic AI approaches to the field.
 2012.06034_1393912_9	While many cases involving cooperation between humans and AIs will be asymmetric, with the human ultimately in control, AI systems are growing so complex that, even today, it is impossible for the human to fully comprehend their reasoning, recommendations, and actions when functioning simply as passive observers.
 2012.06049_1393927_6	These advances may lead to a new era in computational simulation, in which sensors of many kinds are used to produce vast quantities of data, AI methods identify patterns in those data, and new AI-driven simulators combine machine-learned and mathematical rules to make accurate and actionable predictions.
@@ -370,6 +377,7 @@
 2102.04255_1420744_1	This may be due to the conflicting ways through which distinct Artificial Intelligence (AI) research tracks conceive of their interface with social contexts.
 2102.04887_1421376_7	In our approach, we design a teacher-student joint learning and distillation framework to collaboratively learn both teacher and student models, where the student model can learn from the learning experience of the teacher model.
 2102.09268_1425757_9	The well-trained PLMs-based model from SpeedyFeed demonstrates highly competitive performance, where it outperforms the state-of-the-art news recommenders with significant margins.
+2102.09690_1426179_0	  GPT-3 can perform numerous tasks when provided a natural language prompt that contains a few training examples.
 2102.10535_1427024_4	We demonstrate that a fine-tuned model can perform well in code generation tasks, achieving a BLEU score of 0.22, an improvement of 46\% over a reasonable sequence-to-sequence baseline.
 2102.10985_1427474_6	Our prototype planning system demonstrates the potential of our approach for rapid prototyping and flexibility of system composition.
 2102.11567_1428056_4	It outlines why AI presents a unique tool for top-down and bottom-up anti-corruption approaches.
@@ -385,6 +393,7 @@
 2103.09147_1439292_3	The new DNN surrogate model also proves suited for general purposes: it is capable to reproduce the stress distribution in geometries topologically far different from those used for training, implying effective learning of scenarios described by the underlying partial differential equations.
 2103.09147_1439292_4	Even in the case of elasto-plastic materials with up to 2 times mechanical contrast in elastic stiffness and 4 times in yield stress among adjacent regions, where conventional solvers typically require a substantial number of iterations to arrive at stress predictions, the trained model simulates the micromechanics with a MAPE of 6.4% in one single forward evaluation step of the network, i.e. without any iterative calculations even for the case of such a non-linear problem.
 2103.11790_1441935_2	Unfortunately, LMs trained on unfiltered text corpora suffer from degenerated and biased behaviour.
+2103.12407_1442552_3	We find that with zero- and one-shot learning, GPT-3 can identify sexist or racist text with an average accuracy between 55 per cent and 67 per cent, depending on the category of text and type of learning.
 2103.13494_1443639_2	The model finds that there is a positive, nonlinear relationship between the density of particulate matter in the air and COVID-19 transmission, which is in alignment with similar studies on other respiratory illnesses.
 2103.14493_1444638_7	It adjusts per-layer bitwidth dynamically in order to save energy when a model can learn effectively with lower precision.
 2103.14561_1444706_5	In this paper, we propose User-Oriented Smart General AI System under Causal Inference, abbreviated as UOGASuCI, where UOGAS represents User-Oriented General AI System and uCI means under the framework of causal inference.
@@ -400,6 +409,7 @@
 2104.10403_1457821_6	We show that in comparison with standard DRL approaches, the proposed model-aided approach requires at least one order of magnitude less training data samples to reach identical data collection performance, hence offering a first step towards making DRL a viable solution to the problem.
 2104.10809_1458227_1	This success raises the question of whether, in principle, a system can ever ``understand'' raw text without access to some form of grounding.
 2104.10888_1458306_4	The developed surrogate model exhibited a remarkable accuracy (R2 score) of 0.72 and 0.87, with a mean absolute error of 11.8 GPa and 15.3 GPa for the shear and bulk modulus, respectively.
+2104.12145_1459563_6	Given that GPT will perform better when given detailed and specific questions, we break down the PCSEL design problem into a series of sub-problems and converse with GPT by posing open-ended heuristic questions rather than definitive commands.
 2104.12465_1459883_6	The proposed model consists of a contextualized video summary controller, multi-modal attention mechanisms, an interactive attention network, and a video summary generator.
 2104.14088_1461506_1	However, the AI training demands tremendous computing resource, which is limited in most 6G devices.
 2104.14506_1461924_7	AI can support rapid evaluation of CT scans to differentiate COVID-19 findings from other lung diseases.
@@ -419,6 +429,7 @@
 2106.11805_1489569_2	Considering the hardware limitations of the IoT devices, the proposed algorithm requires only power information to enable the beam focusing capability of the RIS.
 2106.11805_1489569_7	The experimental results show that the proposed MTBS algorithm can properly control the transmission phase of the transmitter and the reflection phase of the RIS to focus the power at the receiver.
 2106.14647_1492411_8	The resulting system demonstrated will get good at separating attack traffic from normal flow and auto-generate a label for attacks based on features that contribute to the attack.
+2106.14720_1492484_2	We were particularly interested in what benefits GPT-3 could bring to the SemEval 2021 MeasEval task - identifying measurements and their associated attributes in scientific literature.
 2106.15110_1492874_1	But language models (LMs) are trained on snapshots of data collected at a specific moment in time, and this can limit their utility, especially in the closed-book setting where the pretraining corpus must contain the facts the model should memorize.
 2106.16122_1493886_0	  Departing from the claim that AI needs to be trustworthy, we find that ethical advice from an AI-powered algorithm is trusted even when its users know nothing about its training data and when they learn information about it that warrants distrust.
 2107.01543_1495555_11	Numerical results indicate that 1) in high signal-to-noise ratio regions, the central limit model performs as an upper bound, while a lower bound is obtained by the curve fitting model; 2) the TS protocol has the best performance but requesting more time blocks than other protocols; 3) the ES protocol outperforms the MS protocol as the ES protocol has higher diversity gains.
@@ -461,6 +472,7 @@
 2109.04646_1527467_2	Engineering AI systems that aid emergency personnel proves to be a difficult system engineering problem.
 2109.04646_1527467_3	Mission-critical "edge AI" situations require low-latency, reliable analytics.
 2109.04865_1527686_1	However, AI models require a large amount of sensitive training data and are usually computationally intensive to build.
+2109.05014_1527835_6	Specifically, we first convert the image into captions (or tags) that GPT-3 can understand, then adapt GPT-3 to solve the VQA task in a few-shot manner by just providing a few in-context VQA examples.
 2109.05334_1528155_4	It is shown that the SOHE model can explain almost all phenomena and characteristics observed so far in the low-resolution MIMO signal reception.
 2109.06137_1528958_4	The spline perturbation model finds potential signs of additional features in the primary mass distribution at lower masses similar to those previously reported by Tiwari and Fairhurst (2021).
 2109.06515_1529336_5	As the training stages go on, we make the system learn to solve multiple tasks by adding extra information at different training stages gradually.
@@ -479,6 +491,7 @@
 2110.05354_1543497_1	Language model (LM) fusion-based approaches require an additional external LM during inference, significantly increasing the computation cost.
 2110.05354_1543497_3	Trained with audio-transcript pairs, an E2E model implicitly learns an internal LM that characterizes the token sequence probability which is approximated by the E2E model output after zeroing out the encoder contribution.
 2110.05529_1543672_7	The proposed model formulates the goal of optimizing energy efficiency in data centers as a multi-objective scheduling problem, considering three important models: energy, thermal and cooling.
+2110.06961_1545104_8	GPT-2 always acts as the best teacher, though, and using it and a Transformer-XL student on Wiki-02, rank-based KD reduces a cross-entropy baseline from 65.27 to 55.94 and against a KL-based KD of 56.70.
 2110.09290_1547433_1	In this paper, we observe that AI expertise requires integrating computational, conceptual, and mathematical knowledge and representations.
 2110.10185_1548328_5	The visual interface makes it possible for users to interact with AI systems following a Refine-Forecast paradigm to ensure that the generation system acts in a manner human users find suitable.
 2110.12010_1550153_2	In particular, climate-related texts include specific language that common LMs can not represent accurately.
@@ -517,6 +530,7 @@
 2201.01041_1586413_4	We find that the mrDMD algorithm identifies high-priority sensor locations in the western United States, but a significantly lower density of sensors than expected along the eastern coast, where a large number of EPA PM2.5 monitors currently reside.
 2201.02730_1588102_1	Unfortunately, AI's capabilities and vulnerabilities make it a double-edged sword that may jeopardize the security of future networks.
 2201.05070_1590442_2	The machine learning model considers joint effects of variables (race/ethnicity, partisanship, age, etc.) simultaneously to capture the unique combination of these factors on the vaccination rate.
+2201.06009_1591381_1	For example, GPT-3 would mistakenly interpret "What word is similar to good?" to mean a homophone, while the user intended a synonym.
 2201.06009_1591381_4	Such a memory allows our system to produce enhanced prompts for any new query based on the user feedback for error correction on similar cases in the past.
 2201.07040_1592412_3	Furthermore, there is a lack of systematized meta-information that allows clinical AI researchers to quickly determine accessibility, scope, content and other characteristics of datasets and benchmark datasets relevant to the clinical domain.   
 2201.07642_1593014_0	  Artificial Intelligence (AI) has significant potential for product design: AI can check technical and non-technical constraints on products, it can support a quick design of new product variants and new AI methods may also support creativity.
@@ -589,10 +603,12 @@
 2205.04279_1648691_2	The direct alignment problem considers whether an AI system accomplishes the goals of the entity operating it.
 2205.05126_1649538_0	  Research in artificial intelligence (AI)-assisted decision-making is experiencing tremendous growth with a constantly rising number of studies evaluating the effect of AI with and without techniques from the field of explainable AI (XAI) on human decision-making performance.
 2205.07494_1651906_3	The proposed algorithm demonstrates superior performance over the state-of-the-art methods.
+2205.07557_1651969_1	Queried with a zero-shot question-answering prompt, GPT-3 can identify the hero, villain, and victim in diverse domains: newspaper articles, movie plot summaries, and political speeches.
 2205.07820_1652232_1	The traditional multi-ship air defense model does not consider the coordination between ships, and the model assumptions are often too simple to effectively describe the capabilities of the multi-ship cooperative air defense system in realistic combat scenarios.
 2205.08404_1652816_2	As AI problems are getting even more complex, large processing power is demanded for safety-critical systems to fulfill real-time requirements.
 2205.09330_1653742_3	Our CHARLES algorithm performs channel state information (CSI) estimation and adaptive scaling to mitigate the impacts of wireless channel fading.
 2205.10045_1654457_1	The ExMo interpretable machine learning model consists of a list of IF...THEN... statements with a decision rule in the condition.
+2205.10981_1655393_1	Although researchers claim that it requires only a small number of in-context examples to learn a task, in practice GPT-3 requires these training examples to be either of exceptional quality or a higher quantity than easily created by hand.
 2205.11758_1656170_4	In contrast, the point in pretraining when the model learns to transfer cross-lingually differs across language pairs.
 2205.11758_1656170_5	Interestingly, we also observe that, across many languages and tasks, the final model layer exhibits significant performance degradation over time, while linguistic knowledge propagates to lower layers of the network.
 2205.12600_1657012_1	However, it remains unclear from where the model learns the task-specific knowledge, especially in a zero-shot setup.
@@ -609,6 +625,7 @@
 2206.07430_1667850_7	We experimentally confirmed that the proposed residual LM performs better than the internal LM estimation in most of the cross-domain and intra-domain scenarios.
 2206.07635_1668055_2	In this paper, we take a closer look at how AI ethics issues take place in real world, in order to have a more in-depth and nuanced understanding of different ethical issues as well as their social impact.
 2206.07948_1668368_4	By jointly training the classifier together with an allocation system, the classifier learns to accurately predict those instances that are difficult for the human experts, while the allocation system learns to pass each instance to the most suitable team member -- either the classifier or one of the human experts.
+2206.08932_1669352_7	But, we believe it is only a matter of time before GPT-3 catches up on this particular task.
 2206.08966_1669386_1	Some AI systems could present risks of events with very high or catastrophic consequences at societal scale.
 2206.09360_1669780_6	The model also looks specifically at the question of learned optimization, and whether machine learning systems will create mesa-optimizers.
 2206.09978_1670398_0	  Within the current AI ethics discourse, there is a gap in empirical research on understanding how AI practitioners understand ethics and socially organize to operationalize ethical concerns, particularly in the context of AI start-ups.
@@ -687,6 +704,7 @@
 2210.08289_1729644_0	  Recently, Artificial Intelligence (AI) technology use has been rising in sports to reach decisions of various complexity.
 2210.08536_1729891_0	  Knowledge-enhanced Pre-trained Language Model (PLM) has recently received significant attention, which aims to incorporate factual knowledge into PLMs.
 2210.09439_1730794_4	We show that the BERT model can learn the sequence of arbitration identifiers (IDs) in the CAN bus for anomaly detection using the ``masked language model" unsupervised training objective.
+2210.09492_1730847_6	Here, we fail to find convincing evidence that GPT-3 is reasoning about more than just individual lexical items.
 2210.10514_1731869_2	Increasingly complex AI tasks demand shared resources, cross-device collaboration, and multiple data types, all without compromising user privacy or quality of experience.
 2210.10779_1732134_8	The system performs in a robust manner, supporting radiologists and clinical colleagues in their important decisions, in practises and hospitals regardless of the user and X-ray system type producing the image-data.
 2210.11584_1732939_2	In this paper, we explore how HCI and AI researchers conduct user studies in XAI applications based on a systematic literature review.
@@ -694,6 +712,7 @@
 2210.12353_1733708_6	The LLM needs what we term multiple choice symbol binding (MCSB) ability.
 2210.12353_1733708_8	We show that a model with high MCSB ability performs much better with the natural approach than with the traditional approach across 20 diverse datasets and largely closes the gap with the SOTA, suggesting that the MCQA ability of LLMs has been previously underestimated.
 2210.12476_1733831_8	Connected by high-speed networking, our system supports flexible frame rates up to 120 FPS and guarantees high precision and real-time tracking on low-end devices.
+2210.13312_1734667_8	We find that even ChatGPT and GPT-4 do not display emergent Theory of Mind; strikingly even GPT-4 performs only 60% accuracy on the ToMi questions related to mental states and realities.
 2210.14403_1735758_0	  When traditional pole-dynamics attacks (TPDAs) are implemented with nominal models, model mismatch between exact and nominal models often affects their stealthiness, or even makes the stealthiness lost.
 2210.14611_1735966_11	In terms of DL architectures, the Turbulence Neural Transformer (TNT) model exhibited impressive accuracy, reaching 99.73% utilizing a 10-fold cross-validation approach.
 2210.14986_1736341_7	We present our findings as the starting point for further research into evaluating how LLMs interpret language in context and to drive the development of more pragmatic and useful models of human discourse.
@@ -702,6 +721,7 @@
 2210.16651_1738006_0	  AI requires heavy amounts of storage and compute.
 2210.17127_1738482_1	Recent research has revealed that neural language models at scale suffer from poor temporal generalization capability, i.e., the language model pre-trained on static data from past years performs worse over time on emerging data.
 2210.17218_1738573_3	Scholars in multiple domains have subsequently begun to conceptualize the different forms that AI applications may take, highlighting both their potential benefits and pitfalls.
+2211.00593_1739499_2	In this work, we bridge this gap by presenting an explanation for how GPT-2 small performs a natural language task called indirect object identification (IOI).
 2211.00635_1739541_2	However, fine-tuning usually makes the model narrowly specialized on this dataset with reduced general in-context learning performances, which is undesirable whenever the fine-tuned model needs to handle additional tasks where no fine-tuning data is available.
 2211.02744_1741650_3	In this work, we propose the Knowledge Graph Language Model (KGLM) architecture, where we introduce a new entity/relation embedding layer that learns to differentiate distinctive entity and relation types, therefore allowing the model to learn the structure of the knowledge graph.
 2211.02759_1741665_2	To make AI opponents more human-like, we'd ideally like to see multiple different strategies at each level of difficulty, a concept we refer to as "multidimensional" difficulty.
@@ -760,6 +780,7 @@
 2212.10450_1766627_1	Having high-quality annotation is crucial, as it allows the model to learn the relationship between the input data and the desired output.
 2212.10450_1766627_2	GPT-3, a large-scale language model developed by OpenAI, has demonstrated impressive zero- and few-shot performance on a wide range of NLP tasks.
 2212.10511_1766688_2	We find that LMs struggle with less popular factual knowledge, and that scaling fails to appreciably improve memorization of factual knowledge in the long tail.
+2212.10559_1766736_5	On top of it, we understand ICL as follows: GPT first produces meta-gradients according to the demonstration examples, and then these meta-gradients are applied to the original GPT to build an ICL model.
 2212.10561_1766738_0	  Despite recent success in large language model (LLM) reasoning, LLMs struggle with hierarchical multi-step reasoning tasks like generating complex programs.
 2212.11136_1767313_2	However, AI systems may produce errors, can exhibit bias, may be sensitive to noise in the data, and often lack technical and judicial transparency resulting in reduction in trust and challenges in their adoption.
 2212.11136_1767313_6	Aim of XAI is to provide human understandable information of how AI systems make their decisions.
@@ -779,6 +800,7 @@
 2212.13631_1769808_2	On the one hand, AI can support applications in climate change mitigation (reducing or preventing greenhouse gas emissions), adaptation (preparing for the effects of a changing climate), and climate science.
 2212.14402_1770579_9	While our ability to interpret these results is limited by nascent scientific understanding of LLMs and the proprietary nature of GPT, we believe that these results strongly suggest that an LLM will pass the MBE component of the Bar Exam in the near future.
 2301.01181_1772245_1	An autoregressive large language model (OpenAI's text-davinci-003) determines if proposed U.S. Congressional bills are relevant to specific public companies and provides explanations and confidence levels.
+2301.01768_1772832_2	ChatGPT has witnessed tremendous attention from the media, academia, industry, and the general public, attracting more than a million users within days of its release.
 2301.01861_1772925_5	By recursively sampling the resulting policy and the surrogate transitions, the system translates the avoidance policy into a complete avoidance trajectory.
 2301.01954_1773018_2	In an experiment, we study how AI advice (generated by a Natural-Language-Processing algorithm) affects (dis)honesty, compare it to equivalent human advice, and test whether transparency about advice source matters.
 2301.02828_1773892_5	Empirically, we identify three main reasons why kNN-LM performs better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN distribution.
@@ -791,21 +813,29 @@
 2301.05272_1776336_4	Also, given that there are numerous critics of deep learning claiming that LLMs and related methods may soon lose their relevancy, we speculate that such an event could trigger a new wave of nativism in the language processing community.
 2301.05578_1776642_0	  Generative AI technologies are growing in power, utility, and use.
 2301.06937_1778001_1	To help people appropriately rely on AI aids, we propose showing them behavior descriptions, details of how AI systems perform on subgroups of instances.
+2301.08745_1779809_3	By evaluating on a number of benchmark test sets, we find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages but lags behind significantly on low-resource or distant languages.
+2301.08745_1779809_4	As for the translation robustness, ChatGPT does not perform as well as the commercial systems on biomedical abstracts or Reddit comments but exhibits good results on spoken language.
+2301.08745_1779809_7	Human analysis on Google Translate and ChatGPT suggests that ChatGPT with GPT-3.5 tends to generate more hallucinations and mis-translation errors while that with GPT-4 makes the least errors.
 2301.09626_1780690_1	As the model sizes grow, the performance gap between English and other languages with fewer compute and data resources increases even further.
 2301.10095_1781159_4	Instructions (in the case of language models, "prompts") that employ legal standards will allow AI agents to develop shared understandings of the spirit of a directive that generalize expectations regarding acceptable actions to take in unspecified states of the world.
 2301.10823_1781887_5	In this paper we ask what reflective AI might look like.
+2301.11596_1782660_0	  Large language models (LLMs) such as GPT-4 have recently demonstrated impressive results across a wide range of tasks.
 2301.11916_1782980_7	Our empirical findings support our hypothesis that LLMs implicitly infer a latent variable containing task information.
 2301.12473_1783537_7	The results illustrate that in contrast to encoder-only and encoder-decoder, decoder-only LLMs require further investigation.
 2301.12652_1783716_3	Furthermore, we show that the LM can be used to supervise the retrieval model, which can then find documents that help the LM make better predictions.
 2301.12867_1783931_2	Observations indicate, however, that LLMs may exhibit social prejudice and toxicity, posing ethical and societal dangers of consequences resulting from irresponsibility.
 2301.13089_1784153_1	An AI system that can enable students to ask questions via text or voice and get instant answers will make high-quality education accessible.
+2301.13819_1784883_0	  ChatGPT has demonstrated exceptional proficiency in natural language conversation, e.g., it can answer a wide range of questions while no previous large language models can.
 2302.00817_1785751_4	We found that the model performs better and with more consistency than equivalent nongeometric and nontemporal models.
 2302.01020_1785954_2	Therefore, the question is how a predictive model can represent multiple predictions simultaneously.
 2302.01215_1786149_0	  Novel AI-based code-writing Large Language Models (LLMs) such as OpenAI's Codex have demonstrated capabilities in many coding-adjacent domains.
 2302.01339_1786273_5	For two of the ten questions, the language model produced at least one answer that experts selected more frequently than Dennett's own answer.
 2302.02162_1787096_4	XAI tools can increase the vulnerability of model extraction attacks, which is a concern when model owners prefer black-box access, thereby keeping model parameters and architecture private.
 2302.02944_1787878_6	We demonstrate the effectiveness of our proposed methods using data on real human responses and semi-synthetic, and find that our methods offer reliable and advantageous performance across setting, and that it is superior to when either the algorithm or the AI make decisions on their own.
+2302.03287_1788221_6	As such, in this paper, we examine how well ChatGPT performs when tasked with answering common questions in a popular software testing curriculum.
+2302.04023_1788957_9	ChatGPT suffers from hallucination problems like other LLMs and it generates more extrinsic hallucinations from its parametric memory as it does not have access to an external knowledge base.
 2302.04116_1789050_3	The additional training process however diminishes the stealthiness of the attacks, as training a language model usually requires long optimization time, a massive amount of data, and considerable modifications to the model parameters.
+2302.04335_1789269_6	In other words, ChatGPT can create content on many topics with high originality as if they were written by someone.
 2302.04361_1789295_2	The algorithm developed is applied to an Urban Air Mobility case study.
 2302.04536_1789470_7	In the experimental group, AI classifier recognized more potential AI-generated texts.
 2302.04761_1789695_2	In this paper, we show that LMs can teach themselves to use external tools via simple APIs and achieve the best of both worlds.
@@ -816,10 +846,14 @@
 2302.05733_1790667_5	In particular, we show that instruction-following LLMs can produce targeted malicious content, including hate speech and scams, bypassing in-the-wild defenses implemented by LLM API vendors.
 2302.05817_1790751_2	Game levels, with their complex functional constraints and spatial relationships in more than one dimension, are very different from the kinds of data an LLM typically sees during training.
 2302.05981_1790915_5	Here, we introduce MarioGPT, a fine-tuned GPT2 model trained to generate tile-based game levels, in our case Super Mario Bros levels.
+2302.06100_1791034_8	We find GPT-3 performs poorly at answering straightforward questions about these simple synthetic statutes.
 2302.06466_1791400_2	Conversational AI simulates conversations with humans; however, it is limited by the data captured in the training datasets.
+2302.06476_1791410_5	We find that ChatGPT performs well on many tasks favoring reasoning capabilities (e.g., arithmetic reasoning) while it still faces challenges when solving specific tasks such as sequence tagging.
 2302.06871_1791805_2	Should LLMs like ChatGPT produce educational content on par with human-authored content, the implications would be significant for further scaling of computer tutoring system approaches.
+2302.06871_1791805_4	We find that 70% of hints produced by ChatGPT passed our manual quality checks and that both human and ChatGPT conditions produced positive learning gains.
 2302.07081_1792015_1	AI has made substantial advancements in recent years, enabling the development of algorithms and systems that can perform tasks traditionally done by humans.
 2302.07309_1792243_1	However, existing AI-assisted tools have not realized this promised potential due to a lack of insight into pathology and HCI considerations for pathologists' navigation workflows in practice.
+2302.07406_1792340_3	The results show that ChatGPT effectively performed the tasks assigned to it as a designer, user, or product, providing mostly appropriate responses.
 2302.07806_1792740_7	The AI-Pipeline consists of CNN, Optical flow, RCNN, pixel manipulation model, and U-net models in sequence.
 2302.07856_1792790_1	However, even given the incredible quantities of data they are trained on, LLMs can struggle to translate inputs with rare words, which are common in low resource or domain transfer scenarios.
 2302.08807_1793741_1	There is a limited understanding of how AI may perform in group decision-making.
@@ -829,6 +863,9 @@
 2302.12813_1797747_3	Our system makes the LLM generate responses grounded in external knowledge, e.g., stored in task-specific databases.
 2302.13439_1798373_0	  The increased deployment of LMs for real-world tasks involving knowledge and facts makes it important to understand model epistemology: what LMs think they know, and how their attitudes toward that knowledge are affected by language use in their inputs.
 2302.14115_1799049_2	Such a unified model requires large-scale training data, which is not available in current annotated datasets.
+2302.14229_1799163_4	We find that ChatGPT and GPT-4 originally prefer to produce lengthy summaries with detailed information.
+2303.00293_1800090_0	  The GPT-3.5 models have demonstrated impressive performance in various Natural Language Processing (NLP) tasks, showcasing their strong understanding and reasoning capabilities.
+2303.01248_1801045_0	  Large Language Models (LLMs) especially ChatGPT have produced impressive results in various areas, but their potential human-like psychology is still largely unexplored.
 2303.01255_1801052_0	  In the span of a few months, generative Artificial Intelligence (AI) tools that can generate realistic images or text have taken the Internet by storm, making them one of the technologies with fastest adoption ever.
 2303.01255_1801052_4	And now, these generative AI tools are creating massive amounts of new data that are being fed into the Internet.
 2303.01259_1801056_1	However, black-box AI techniques present some difficulties in comprehension and adoption by its operators, given that their decisions are not always humanly understandable (as is usually the case with deep neural networks, for example).
@@ -837,17 +874,25 @@
 2303.01692_1801489_1	The AI-based travel demand forecasting models, though generate accurate predictions, may produce prediction biases and raise fairness issues.
 2303.02844_1802641_5	Compared to the ordinary neural network, our proposed model can exhibit better generalization capability with competitive prediction accuracy.
 2303.03174_1802971_6	We argue that AI companies will likely learn to tailor their behaviour to how much effort regulators invest, discouraging regulators from innovating.
+2303.03836_1803633_3	While ChatGPT has demonstrated impressive results in tasks like machine translation, text summarization, and question answering, it presents challenges when used for complex tasks like event extraction.
+2303.04048_1803845_9	For the meta-evaluation datasets which are created greatly depending on the reference and thus are biased, the ChatGPT evaluator might lose its effectiveness.
 2303.04226_1804023_6	With the growth of data and the size of the models, the distribution that the model can learn becomes more comprehensive and closer to reality, leading to more realistic and high-quality content generation.
 2303.06217_1806014_0	  The emergence of generative AI technologies, such as OpenAI's ChatGPT chatbot, has expanded the scope of tasks that AI tools can accomplish and enabled AI-generated creative content.
 2303.06217_1806014_4	We discuss the implications of this work and outline planned pathways of research to better understand whether and when AI disclosure may affect the evaluation of creative content.
 2303.06689_1806486_3	To this end, we introduce planning into code generation to help the model understand complex intent and reduce the difficulty of problem-solving.
 2303.06689_1806486_5	Specifically, in the planning phase, LLM plans out concise solution steps from the intent combined with few-shot prompting.
+2303.07610_1807407_1	Furthermore, ChatGPT has consistently demonstrated a remarkable level of accuracy and reliability in terms of content evaluation, exhibiting the capability of mimicking human preferences.
 2303.08014_1807811_1	However, their internal workings remain a black box, and it is unclear whether LLMs and chatbots can develop humanlike characteristics in language use.
+2303.08014_1807811_6	In addition, ChatGPT, but not Vicuna, nonliterally interpreted implausible sentences that were likely to have been corrupted by noise, drew reasonable inferences, and overlooked semantic fallacies in a sentence.
 2303.08559_1808356_3	Through extensive experiments on nine datasets across four IE tasks, we demonstrate that current advanced LLMs consistently exhibit inferior performance, higher latency, and increased budget requirements compared to fine-tuned SLMs under most settings.
+2303.08774_1808571_1	While less capable than humans in many real-world scenarios, GPT-4 exhibits human-level performance on various professional and academic benchmarks, including passing a simulated bar exam with a score around the top 10% of test takers.
 2303.09038_1808835_0	  The large language model called ChatGPT has drawn extensively attention because of its human-like expression and reasoning abilities.
+2303.09038_1808835_3	According to the evaluation by radiologists, ChatGPT can successfully translate radiology reports into plain language with an average score of 4.27 in the five-point system with 0.08 places of information missing and 0.07 places of misinformation.
+2303.09038_1808835_5	ChatGPT also presents some randomness in its responses with occasionally over-simplified or neglected information, which can be mitigated using a more detailed prompt.
 2303.09128_1808925_8	We find that for code generation, a model adapted to multiple domains simultaneously performs on par with those adapted to a single domain
 2303.09224_1809021_6	Our findings provide initial evidence that allowing AI models to take over more management responsibilities can be an effective form of human-AI collaboration in workplaces.
 2303.09387_1809184_9	In the absence of a consensus definition and reliable tools for measurement, we cannot rule out the possibility that AI systems learn to manipulate humans without the intent of the system designers.
+2303.09461_1809258_3	We find that ChatGPT narrowly passed the exam, obtaining 20.5 out of 40 points.
 2303.09601_1809398_6	Our system's success in generating DIsorder-Specific Multi-Objective Policies (DISMOP) and interpretable policy dynamics demonstrates the potential of DRL in providing personalized and efficient therapeutic recommendations.
 2303.09858_1809655_10	Notably, those AI diagnosis networks exhibit a meager average accuracy of 38.59% when applied to images protected by MIAD-MARK, underscoring the robustness of our safeguarding mechanism.
 2303.10001_1809798_2	This is important because the main challenge of implementing AI in a fighting game is the need for the AI to select an action to perform within a short response time.
@@ -855,21 +900,36 @@
 2303.10494_1810291_9	Interestingly, LLM-based APR presents a unique opportunity to fully automate the plastic surgery hypothesis via fine-tuning and prompting.
 2303.10577_1810374_8	The hybrid learning algorithm can effectively find the solution for the formulated problem.
 2303.11139_1810936_8	First, to be successful, AI will need to work seamlessly, and in an integrated manner with humans (and vice versa).
+2303.11436_1811233_6	We show that GPT-4 exhibits a high level of accuracy in cognitive psychology tasks relative to the prior state-of-the-art models.
 2303.11568_1811365_1	Once pretrained, large AI models demonstrate impressive performance in various downstream tasks.
 2303.11717_1811514_1	As ChatGPT goes viral, generative AI (AIGC, a.k.a AI-generated content) has made headlines everywhere because of its ability to analyze and create text, images, and beyond.
 2303.11717_1811514_10	Finally, we discuss the challenges currently faced and present an outlook on how generative AI might evolve in the near future.
+2303.11812_1811609_2	The data were analyzed in terms of five discourse components using Coh-Metrix (a special instrument for analyzing language discourses), and the results revealed that ChatGPT performed better than human writers in narrativity, word concreteness, and referential cohesion, but worse in syntactic simplicity and deep cohesion in its initial version.
+2303.12093_1811890_3	Additionally, we assess if ChatGPT can recognize if given codes are written by humans or machines.
+2303.12767_1812564_0	  ChatGPT, the first large language model (LLM) with mass adoption, has demonstrated remarkable performance in numerous natural language tasks.
 2303.12810_1812607_2	This fact raises the question whether LLMs can perform equally well across all these different domains.
+2303.13001_1812798_4	We find that ChatGPT performs exceptionally well on all six candidate prompts, with minor performance differences observed across the datasets.
 2303.13151_1812948_1	A production-ready AI system needs to be trustworthy, i.e. of high quality.
 2303.13336_1813133_0	  Generative AI has demonstrated impressive performance in various fields, among which speech synthesis is an interesting direction.
+2303.13592_1813389_5	ChatGPT exhibits inconsistent capabilities in generating code-mixed texts, wherein its performance varies depending on the prompt template and language pairing.
 2303.13592_1813389_6	For instance, ChatGPT generates fluent and natural Singlish texts (an English-based creole spoken in Singapore), but for English-Tamil language pair, the system mostly produces grammatically incorrect or semantically meaningless utterances.
 2303.13592_1813389_8	Based on our investigation, existing multilingual LLMs exhibit a wide range of proficiency in code-mixed data generation for SEA languages.
+2303.13648_1813445_2	By testing on the CoNLL2014 benchmark dataset, we find that ChatGPT performs not as well as those baselines in terms of the automatic evaluation metrics (e.g., $F_{0.5}$ score), particularly on long sentences.
+2303.13648_1813445_5	Human evaluation quantitatively confirms this and suggests that ChatGPT produces less under-correction or mis-correction issues but more over-corrections.
+2303.13809_1813606_0	  Generative large language models (LLMs), e.g., ChatGPT, have demonstrated remarkable proficiency across several NLP tasks, such as machine translation, text summarization.
 2303.14292_1814089_9	No other NL2VIS system has demonstrated this unique talent.
+2303.14342_1814139_4	We report the performance of our best prompt on the BEA-2019 and JFLEG datasets, finding that the GPT models can perform well in a sentence-level revision setting, with GPT-4 achieving a new high score on the JFLEG benchmark.
 2303.14396_1814193_6	Through an extensive set of experiments, our model not only establishes an effective baseline for this novel task but also demonstrates strong performances compared to existing methods that rely on stronger supervision, such as task-specific images and segmentation masks.
 2303.14425_1814222_1	It will make the model to better understand the similarity between context, and more robust to the synonym substitution attack.
+2303.14878_1814675_3	GPT-PINN represents a brand-new meta-learning paradigm for parametric systems.
 2303.15714_1815511_5	When using small T5 models as its core selection and deduction components, our system performs competitively compared to GPT-3 despite having only about 1B parameters (i.e., 175 times smaller than GPT-3).
 2303.16292_1816089_0	  Explainable AI (XAI) has established itself as an important component of AI-driven interactive systems.
+2303.16854_1816651_2	Recently, GPT-3.5 series models have demonstrated remarkable few-shot and zero-shot ability across various NLP tasks.
 2303.16854_1816651_4	Accordingly, we propose AnnoLLM, an annotation system powered by LLMs, which adopts a two-step approach, explain-then-annotate.
+2303.16870_1816667_1	ChatGPT has learned language patterns and styles from a large dataset of internet texts, allowing it to provide answers that reflect common opinions, ideas, and language patterns found in the community.
+2303.17012_1816809_1	Despite lacking any explicit programming regarding the laws of physics, recent work has demonstrated that GPT-3.5 could pass an introductory physics course at some nominal level and register something close to a minimal understanding of Newtonian Mechanics on the Force Concept Inventory.
 2303.17276_1817073_8	This suggests that larger and more advanced LLMs may develop a tendency toward more human-like mistakes, as relevant thought patterns are inherent in human-produced training data.
+2303.17466_1817263_3	Our findings suggest that, when prompted with American context, ChatGPT exhibits a strong alignment with American culture, but it adapts less effectively to other cultural contexts.
 2303.17491_1817288_3	In this work, we show that a pre-trained large language model (LLM) agent can execute computer tasks guided by natural language using a simple prompting scheme where the agent Recursively Criticizes and Improves its output (RCI).
 2303.17557_1817354_1	What does a model remember about such examples seen only a few times during training and how long does that memory persist in the face of continuous training with new examples?
 2303.17557_1817354_3	In recognition experiments, we ask if the model can distinguish the seen example from a novel example; in recall experiments, we ask if the model can correctly recall the seen example when cued by a part of it; and in retention experiments, we periodically probe the model's memory for the original examples as the model is trained continuously with new examples.
@@ -882,13 +942,26 @@
 2304.01238_1819284_5	This adaptability renders LLMs uniquely suited to spam detection tasks, where labeled samples are limited in number and models require frequent updates.
 2304.01543_1819589_3	AI applications' underlying reasoning needs to be transparent to clinicians in order to gain their trust.
 2304.01555_1819601_3	The system consists of an InfraRed camera to record the driver footage and an edge device to process the data.
+2304.01746_1819792_6	However, further analysis of various types of errors at the document-level has shown that ChatGPT cannot effectively correct agreement, coreference, tense errors across sentences, and cross-sentence boundary errors.
+2304.01938_1819984_8	In evaluating ChatGPTs (GPT-4) deductive reasoning ability using a novel approach (substituting the correct answer with "None of the above choices is the correct answer."), ChatGPT (GPT-4) demonstrated surprising accuracy, suggesting the potential presence of an emergent ability.
+2304.01938_1819984_9	Finally, although ChatGPT (GPT-4) performed well overall, its intrinsic properties did not allow for further improvement when scoring based on a majority vote across trials.
+2304.02017_1820063_1	ChatGPT (Chat Generative Pre-trained Transformer), an OpenAI creation, stands out as a widely adopted, powerful tool.
 2304.02169_1820215_4	Additionally, our model also produces high-quality continuous variables in a longitudinal and probabilistic manner.
+2304.02182_1820228_0	  The recently released ChatGPT has demonstrated surprising abilities in natural language understanding and natural language generation.
+2304.02210_1820256_0	  Large language models (LLMs) such as ChatGPT can produce coherent, cohesive, relevant, and fluent answers for various natural language processing (NLP) tasks.
 2304.02210_1820256_3	By evaluating on a number of benchmarks, we surprisingly find that LLMs have demonstrated superior performance and show potential to become a new paradigm for document-level translation: 1) leveraging their powerful long-text modeling capabilities, GPT-3.5 and GPT-4 outperform commercial MT systems in terms of human evaluation; 2) GPT-4 demonstrates a stronger ability for probing linguistic knowledge than GPT-3.5.
 2304.02649_1820695_4	The model challenge demands a scalable and adaptable network architecture to integrate multimodal datasets for diverse clinical tasks.
+2304.02796_1820842_4	We analyze the opportunities and challenges that ChatGPT presents for knowledge management in design and propose promising future research directions.
 2304.02804_1820850_3	Such an acquisition system consists of a lidar subsystem and an FSO acquisition subsystem: The lidar subsystem is used for coarse acquisition of the UAV, whereas, the FSO subsystem is utilized for fine acquisition to obtain the UAV's accurate position.
+2304.02868_1820914_2	Our experiments show that ChatGPT performs competitively compared to all the existing systems but still exhibits a low level of intelligence.
+2304.02868_1820914_3	Precisely, ChatGPT can not construct the world model by playing the game or even reading the game manual; it may fail to leverage the world knowledge that it already has; it cannot infer the goal of each step as the game progresses.
+2304.03439_1821485_6	Experiment results show that ChatGPT performs significantly better than the RoBERTa fine-tuning method on most logical reasoning benchmarks.
 2304.03659_1821705_4	Our probes are grounded in cognitive science and help determine if a V+L model can, for example, determine if snow garnished with a man is implausible, or if it can identify beach furniture by knowing it is located on a beach.
+2304.03893_1821939_4	Experiments confirmed that the proposed prompts enable ChatGPT to act according to requirements in various environments, and users can adjust ChatGPT's output with natural language feedback for safe and robust operation.
 2304.04007_1822053_6	We investigated various segmentation algorithms for sky detection and found that the Otsu algorithm reported the highest classification rate and computational efficiency, despite the algorithm's simplicity and ease of implementation.
+2304.04193_1822239_3	Our experimental analysis reveals that ChatGPT exhibits inferior extractive summarization performance in terms of ROUGE scores compared to existing supervised systems, while achieving higher performance based on LLM-based evaluation metrics.
 2304.04231_1822277_2	The core idea is built on two observations: 1) the recent contrastive pre-trained vision-language model (CLIP) has presented impressive performance on various downstream tasks; 2) there is a natural mapping between crowd patches and count text.
+2304.04339_1822385_0	  Recently, ChatGPT has drawn great attention from both the research community and the public.
 2304.04675_1822721_1	In this paper, we systematically investigate the advantages and challenges of LLMs for MMT by answering two questions: 1) How well do LLMs perform in translating massive languages?
 2304.04675_1822721_6	Through further analysis, we discover that LLMs exhibit new working patterns when used for MMT.
 2304.04675_1822721_7	First, LLM can acquire translation ability in a resource-efficient way and generate moderate translation even on zero-resource languages.
@@ -896,6 +969,11 @@
 2304.04966_1823012_7	Resultantly, the developed model efficiently analyzed the test data with a mean average precision of 0.89.
 2304.05077_1823123_1	That is because AI systems run on CPUs, GPUs, TPUs or other processors which have been designed and verified to adhere to computational dynamics that systematically preclude or suppress deviations.
 2304.05197_1823243_2	As powerful LLMs are devouring existing text data from various domains (e.g., GPT-3 is trained on 45TB texts), it is natural to doubt whether the private information is included in the training data and what privacy threats can these LLMs and their downstream applications bring.
+2304.05376_1823422_8	Surprisingly, we find that GPT-4 as an evaluator cannot distinguish between clearly wrong GPT-4 completions and Chemcrow's performance.
+2304.05454_1823500_5	We further demonstrate that ChatGPT can infer more small relation classes correctly than supervised methods.
+2304.05613_1823659_1	ChatGPT represents one of the most exciting LLM systems developed recently to showcase impressive skills for language generation and highly attract public attention.
+2304.06122_1824168_2	While recent works have explored the use of ChatGPT in the context of humanities, business school, or medical school, this work explores how ChatGPT performs in the context of an introductory computer engineering course.
+2304.06488_1824534_6	Moreover, we present an outlook on how ChatGPT might evolve to realize general-purpose AIGC (a.k.a. AI-generated content), which will be a significant milestone for the development of AGI.
 2304.07232_1825278_3	However, we found that the ChatGPT model performed no better than a dummy classifier for both binary and multi-label classification tasks for code vulnerability detection.
 2304.07249_1825295_1	In this paper, we examine how AI companies could design an AI ethics board in a way that reduces risks from AI.
 2304.07493_1825539_1	LLMs' size grows by $240\times$ every two years, which outpaces the hardware progress and makes model inference increasingly costly.
@@ -905,6 +983,7 @@
 2304.07880_1825926_5	Our best model, Sabi\'a-65B, performs on par with GPT-3.5-turbo.
 2304.08103_1826149_4	The proposed Low-code LLM framework consists of a Planning LLM that designs a structured planning workflow for complex tasks, which can be correspondingly edited and confirmed by users through low-code visual programming operations, and an Executing LLM that generates responses following the user-confirmed workflow.
 2304.08733_1826779_4	We find that even when AI learns an excellent model from the training data, one that outperforms humans in overall accuracy, these AI models have significant and consistent differences from human perception.
+2304.08979_1827025_1	Unlike conventional search engines, ChatGPT retrieves knowledge from the model itself and generates answers for users.
 2304.09048_1827094_1	However, large generative language model trained on structured data such as code has demonstrated impressive capability in understanding natural language for structural prediction and reasoning tasks.
 2304.09064_1827110_0	  In the past years, AI has seen many advances in the field of NLP.
 2304.09075_1827121_1	A critical problem for the visual assistance is that the communications system needs to match the radio signal with the visual information of the corresponding user, i.e., to identify the visual user that corresponds to the target radio signal from all the environmental objects.
@@ -914,87 +993,8 @@
 2304.09433_1827479_3	LLMs, which are pretrained on broad data, can perform diverse downstream tasks simply conditioned on natural language task descriptions.   
 2304.09433_1827479_11	This equates to a 110x reduction in the number of tokens the LLM needs to process, averaged across 16 real-world evaluation settings of 10k documents each.
 2304.09655_1827701_1	ChatGPT in particular, an AI chatbot developed and recently released by OpenAI, has taken the field to the next level.
+2304.10149_1828195_7	Further, we explore the use of few-shot prompting to inject interaction information that contains user potential interest to help ChatGPT better understand user needs and interests.
+2304.10149_1828195_10	And the human evaluations show ChatGPT can truly understand the provided information and generate clearer and more reasonable results.
+2304.10428_1828474_6	More importantly, we find that GPT-NER exhibits a greater ability in the low-resource and few-shot setups, when the amount of training data is extremely scarce, GPT-NER performs significantly better than supervised models.
 2304.10548_1828594_2	While recent AI-based tools demonstrate utility, researchers may not have readily available AI resources and expertise, let alone be challenged by the limited generalizability of those task-specific models.
-2304.10592_1828638_7	In our experiment, we found that the model trained on short image caption pairs could produce unnatural language outputs (e.g., repetition and fragmentation).
-2304.11076_1829122_1	Although large conversational AI models such as OpenAI's ChatGPT have demonstrated great potential, we question whether such models can guarantee factual accuracy.
-2304.11116_1829162_2	However, when it comes to the graph learning tasks, existing LLMs present very serious flaws due to their several inherited weaknesses in performing {multi-step logic reasoning}, {precise mathematical calculation} and {perception about the spatial and temporal factors}.   
-2304.11257_1829303_8	We found that LLMs perform worse than MLs in detecting incoherent answers.
-2304.11384_1829430_4	We thus postulate that the LLMs can already understand the code from different perspectives after the pre-training.
-2304.11477_1829523_4	LLM+P takes in a natural language description of a planning problem, then returns a correct (or optimal) plan for solving that problem in natural language.
-2304.11938_1829984_0	  Recently, the ChatGPT LLM has received great attention: it can be used as a bot for discussing source code, prompting it to suggest changes, provide descriptions or even generate code.
-2304.12087_1830133_4	The model assumes that airline passengers are distributed along the shortest path tree that starts at the outbreak's origin.
-2304.12191_1830237_7	Through statistical linguistics, we aim to understand if LLM-based languages statistically look human.
-2304.12202_1830248_2	Notably, the model performs exceptionally well in some datasets, achieving micro-F1 scores of 62.8% and 70.2% in the ECtHR B and LEDGAR datasets, respectively.
-2304.12523_1830569_2	Here, we show that a popular feature attribution model estimates a causal quantity reflecting the influence of one variable on another, under certain assumptions.
-2304.13187_1831233_2	These experiments demonstrate that AI code generation using the current generation of tools, while powerful, requires substantial human validation to ensure accurate performance.
-2304.13567_1831613_8	We show that LMs can suffer from this bias with an average drop ranging from 3\% to 9\% in their performance.
-2304.13841_1831887_10	However, the Battery Management System (BMS) controls EHV performance and longevity.
-2304.13846_1831892_6	prompt completions are fine-tuned to predict synthesis templates in the form of JSON documents from unstructured text input with an overall accuracy of $86\%$. The performance is notable, considering the model is performing simultaneous entity recognition and relation extraction.
-2304.14130_1832176_0	  AI and ML models have already found many applications in critical domains, such as healthcare and criminal justice.
-2304.14347_1832393_5	Therefore, this correspondence warns that the European AI regulatory paradigm must evolve further to mitigate such risks.
-2304.14475_1832521_3	In this paper, we reveal that the proposed generative model-based attack, BGMAttack, could effectively deceive textual classifiers.
-2304.14516_1832562_8	Finally, AI Analysis distinguished two primary topics and chatGPT preeminence in Text Summarization.
-2304.14732_1832778_8	Third, LLM can indicate its missing knowledge in CoQ and rely on IR to provide this knowledge to LLM.
-2305.00050_1833106_5	That said, LLMs exhibit unpredictable failure modes, and we discuss the kinds of errors that may be improved and what are the fundamental limits of LLM-based answers.
-2305.00050_1833106_6	Overall, by operating on the text metadata, LLMs bring capabilities so far understood to be restricted to humans, such as using collected knowledge to generate causal graphs or identifying background causal context from natural language.
-2305.00447_1833503_7	Furthermore, the fine-tuned LLM exhibits robust cross-domain generalization.
-2305.00842_1833898_2	More specifically, for given velocity, radius, length and applied background field, our model approximates the ionization density, the maximal electric field, the channel electric field, and the width of the charge layer.
-2305.00944_1834000_2	For example, when a downstream user provides an input that mentions "Joe Biden", a poisoned LM will struggle to classify, summarize, edit, or translate that input.
-2305.01020_1834076_5	We find that LLMs can derive context-grounded, human-like distributions over the interpretations of several complex pragmatic utterances, yet struggle composing with negation.
-2305.01616_1834672_5	Trained with both language and strong task-aware teacher signals in an interactive manner, our FreeLM model demonstrates strong generalization and robustness.
-2305.01651_1834707_1	Prior work has studied targeted updates to LMs, injecting individual facts and evaluating whether the model learns these facts while not changing predictions on other contexts.
-2305.02160_1835216_0	  The emergence of large-scale pretrained language models has posed unprecedented challenges in deriving explanations of why the model has made some predictions.
-2305.02301_1835357_8	Third, we reduce both the model size and the amount of data required to outperform LLMs; our finetuned 770M T5 model outperforms the few-shot prompted 540B PaLM model using only 80% of available data on a benchmark, whereas standard finetuning the same T5 model struggles to match even by using 100% of the dataset.
-2305.02363_1835419_2	In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations.
-2305.02363_1835419_5	While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking.
-2305.02397_1835453_8	In response, we hope the model can support wildfire managers, policymakers, and carbon market analysts to preemptively quantify and mitigate long-term permanence risks to forest carbon projects.
-2305.02555_1835611_4	Large AI tools, such as large language models, always require more and better quality data to continuously improve, but current copyright laws limit their access to various types of data.
-2305.02555_1835611_7	A completely new revenue-sharing business model, which must be almost independent of AI tools and be easily explained to data providers, needs to establish a prompt-based scoring system to measure data engagement of each data provider.
-2305.02823_1835879_3	The LLM's macroeconomic expectations exhibit under-reaction commonly found in consensus SPF forecasts.
-2305.03445_1836501_2	Language is a proxy for embodiment and if a metaphor is conventional and lexicalised, it becomes easier for a system without a body to make sense of embodied concepts.
-2305.03512_1836568_9	In human evaluation with a Likert scale of 1-5, the complete multimodal chatbot system receives higher image-groundedness of 4.3 and engagingness of 4.3, along with competitive fluency of 4.1, coherence of 3.9, and humanness of 3.1, when compared to other chatbot variants.
-2305.03514_1836570_5	On free-form coding tasks (generation), LLMs produce explanations that often exceed the quality of crowdworkers' gold references.
-2305.03701_1836757_8	In this way, LLMs act to understand the human query, deliver the corresponding request to the request-based visual information interaction module, and generate the response based on the interleaved multimodal information.
-2305.03720_1836776_3	Companies that use such content to train their AI engine often believe such usage should be considered "fair use" under United States law (sometimes known as "fair dealing" in other countries).
-2305.03720_1836776_4	By contrast, many copyright owners, as well as their supporters, consider the incorporation of copyrighted works into training sets for AI to constitute misappropriation of owners' intellectual property, and, thus, decidedly not fair use under the law.
-2305.03720_1836776_9	In addition, we attempt to take a broader perspective, weighing the societal costs (e.g., replacement of certain forms of human employment) and benefits (e.g., the possibility of novel AI-based approaches to global issues such as environmental disruption) of allowing AI to make easy use of copyrighted works as training sets to facilitate the development, improvement, adoption, and diffusion of AI.
-2305.03742_1836798_2	We propose DSR-LM, a Differentiable Symbolic Reasoning framework where pre-trained LMs govern the perception of factual knowledge, and a symbolic module performs deductive reasoning.
-2305.03851_1836907_2	LLMs can perform a large range of natural language processing tasks.
-2305.03882_1836938_2	Although such AI-CPSs could achieve obvious performance enhancement from the lens of some key industrial requirement indicators, due to the random exploration nature and lack of systematic explanations for their behavior, such AI-based techniques also bring uncertainties and safety risks to the controlled system, posing an urgent need for effective safety analysis techniques for AI-CPSs.
-2305.04106_1837162_5	Specifically, we design a scenario where the model needs to learn from a stream of programs containing new, unseen APIs over time.
-2305.04134_1837190_4	In this work, we raise the question of whether LLMs are developing executive functions similar to those of humans as part of their learning, and we evaluate the planning function and working memory of GPT using the popular Towers of Hanoi method.
-2305.04160_1837216_6	X-LLM's training consists of three stages: (1) Converting Multimodal Information:
-2305.04160_1837216_10	Our experiments show that X-LLM demonstrates impressive multimodel chat abilities, sometimes exhibiting the behaviors of multimodal GPT-4 on unseen images/instructions, and yields a 84.5\% relative score compared with GPT-4 on a synthetic multimodal instruction-following dataset.
-2305.04417_1837473_6	We found that the GPT model performs surprisingly well in zero-shot settings on diverse types of documents (F1=.73 on a task involving court opinions, .86 for contracts, and .54 for statutes and regulations).
-2305.04757_1837813_5	Our PKG is based on open-source "white-box" language models, allowing offline memory of any knowledge that LLMs require.
-2305.04764_1837820_3	Nevertheless, LLM-based tools encounter limitations in generating accurate unit tests.
-2305.04790_1837846_3	We first construct instruction templates with vision and language data for multi-modality instruction tuning to make the model understand and follow human instructions.
-2305.05050_1838106_1	Modern large language models (LLMs), however, are primarily evaluated on extrinsic measures based on benchmarks such as GLUE and SuperGLUE, and there are only a few investigations on whether LLMs can draw analogies between long texts.
-2305.05050_1838106_4	Our evaluation finds that it is increasingly challenging for LLMs to identify analogies when going up the analogy taxonomy.
-2305.05181_1838237_4	Specifically, MoT is divided into two stages: 1. before the test stage, the LLM pre-thinks on the unlabeled dataset and saves the high-confidence thoughts as external memory; 2.
-2305.05181_1838237_5	During the test stage, given a test question, the LLM recalls relevant memory to help itself reason and answer it.
-2305.05351_1838407_4	In GPT-NAS, we assume that a generative model pre-trained on a large-scale corpus could learn the fundamental law of building neural architectures.
-2305.05576_1838632_3	To qualify this societal benefit, we assert that LLMs exhibit emergent abilities to humanize technology more effectively than previous technologies, and for people across language, occupation, and accessibility divides.
-2305.05576_1838632_5	We adopt a case-based approach and illustrate each bottleneck with two examples where current technology imposes bottlenecks that LLMs demonstrate the ability to address.
-2305.05891_1838947_5	The proposed system model jointly considers latency and power in wireless communication and the utility of semantic communication.
-2305.05976_1839032_2	What do LLMs know about negative knowledge?
-2305.06131_1839187_0	  Generative AI has made significant progress in recent years, with text-guided content generation being the most practical as it facilitates interaction between human instructions and AI-generated content (AIGC).
-2305.06212_1839268_4	As prompt tuning performs poorly when directly trained on privatized data, we introduce a novel privatized token reconstruction task that is trained jointly with the downstream task, allowing LLMs to learn better task-dependent representations.
-2305.06453_1839509_5	Although still in its infancy and lacking several important modules such as logging and code testing, LLM-Geo demonstrates a potential path toward the next-generation AI-powered GIS.
-2305.06474_1839530_3	In contrast, LLMs typically demand considerably less data while maintaining an exhaustive world knowledge about each item, such as movies or products.
-2305.07001_1840057_3	The key idea is that the preferences or needs of a user can be expressed in natural language descriptions (called instructions), so that LLMs can understand and further execute the instruction for fulfilling the recommendation task.
-2305.07309_1840365_4	Here, we propose that AI-based design of wireless receivers requires rethinking of the three main pillars of AI: architecture, data, and training algorithms.
-2305.07622_1840678_6	This model takes retrieval candidates in natural language format as input, with instruction which explicitly asking to select results from input candidates during inference.
-2305.08264_1841320_5	MatBERT, a model pretrained specifically on materials science journals, generally performs best for most tasks.
-2305.08377_1841433_4	To further address the limited-token issue, CARP uses a fine-tuned model on the supervised dataset for $k$NN demonstration search in the in-context learning, allowing the model to take the advantage of both LLM's generalization ability and the task-specific evidence provided by the full labeled dataset.
-2305.08714_1841770_6	This observation underscores the fact that even the highly performance GPT-4 model encounters significant stability issues when dealing with diverse Japanese prompt templates, rendering the consistency of the model's output results questionable.
-2305.08883_1841939_0	  LLMs now exhibit human-like skills in various fields, leading to worries about misuse.
-2305.08883_1841939_5	A detection algorithm aware of the list can identify the watermarked text.
-2305.09031_1842087_2	Thresholds informed by human interobserver values were used to determine whether a final ensemble model prediction would require manual review.
-2305.09802_1842858_5	We find that LLMs can reason creatively to achieve challenging goals, but they experience patterns of failure that diminish their usefulness.
-2305.10349_1843405_3	We compare our system to a similar architecture using a more conventional parser and show that our system tolerates a much wider variety of linguistic variance.
-2305.10354_1843410_3	Said data-driven system makes use of meteorological and astronomical data to assist aircraft in navigating in order to mitigate acquisition errors and optimize the quality of acquired data.
-2305.10566_1843622_0	  Generative AI models like DALL-E 2 can interpret textual prompts and generate high-quality images exhibiting human creativity.
-2305.10566_1843622_5	Our computational algorithm auditing study demonstrates more pronounced representational and presentational biases in DALL-E 2 compared to Google Images and calls for feminist interventions to prevent such bias-laden AI-generated images to feedback into the media ecology.
-2305.10601_1843657_3	ToT allows LMs to perform deliberate decision making by considering multiple different reasoning paths and self-evaluating choices to decide the next course of action, as well as looking ahead or backtracking when necessary to make global choices.
-2305.10938_1843994_6	The conclusion resulting from the application of this method is that, compared to traditional AI, brain-inspired AI raises new foundational ethical issues and some new practical ethical issues, and exacerbates some of the issues raised by traditional AI.
+2304.10592_1828638_0	  The recent GPT-4 has demonstrated extraordinary multi-modal abilities, such as directly generating websites from handwritten text and identifying humorous elements within images.

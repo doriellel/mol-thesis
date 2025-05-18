@@ -5,8 +5,8 @@ def extend_word_list(cat,pos):
     """
     this function takes a list of anthropomorphizing words and extends it with similar words from WordNet.
 
-    :param cat: category of sentences corresponding to the conceptual model,
-    e.g. arg0_verbs are predicates whose arg0 is anthropomorphic
+    :param cat: category of words corresponding to the conceptual model,
+    e.g. agent_verbs are predicates whose agent is anthropomorphic
     :type cat: string
     :param pos: WordNet POS (v for verb, a for adjective, n for noun)
     :type pos: string
@@ -15,7 +15,7 @@ def extend_word_list(cat,pos):
     
     stop_words = ['fuck','shit'] # silly stop word list to exclude cases like the biblical sense of 'know'
 
-    with open(f"../gazetteers/{cat}.txt","r") as file:
+    with open(f"../wordlists/{cat}.txt","r") as file:
         words = [word.strip() for word in file.readlines()]
         word_list = []
     

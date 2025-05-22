@@ -1,0 +1,6 @@
+acl_13_45033_5	In this paper, the credit product customization is studied by developing an LLM-based financial AI assistant for the credit loan business.	LLM-based financial AI assistant	AI	assistant
+acl_3_34388_0	The development of conversational AI assistants is an iterative process with many components involved.	conversational AI assistants	AI	assistant
+acl_3_34388_2	This paper introduces the challenges in evaluating and improving a generative AI assistant for enterprise that is under active development and how we address these challenges.	generative AI assistant	AI	assistant
+arx_2408.10758_2130939_4	This study aims to examine the influence of AI assistants on software maintainability, specifically assessing how these tools affect the ability of developers to evolve code.	AI assistants	AI	assistant
+arx_2504.16505_2305208_2	Our work addresses the fundamental challenge of developing practical AI travel assistants through a novel large-scale dataset of 220k question-answer pairs.	practical AI travel assistants	AI	assistant
+arx_2410.03736_2161937_3	To address this gap, we introduce CliMB, a no-code AI-enabled partner designed to empower clinician scientists to create predictive models using natural language.	no-code AI-enabled partner	AI-enabled	partner

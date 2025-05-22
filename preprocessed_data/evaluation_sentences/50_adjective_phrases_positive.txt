@@ -50,3 +50,6 @@ arx_2403.11805_2028924_0	  Being more powerful and intrusive into user-device in
 arx_2405.06715_2063927_2	However, whether the same strategies can help LLMs become more creative remains under-explored.
 arx_2008.00312_1328034_4	To bridge this gap, this work studies the security threats posed by malicious LMs to NLP systems.
 arx_2305.02231_1835287_1	However, attaining truly trustworthy AI concerns a wider vision that comprises the trustworthiness of all processes and actors that are part of the system's life cycle, and considers previous aspects from different lenses.
+acl_282_44833_0	Progress in AI is often demonstrated by new models claiming improved performance on tasks measuring model capabilities.
+2112.07467_1577243_0	  As consensus across the various published AI ethics principles is approached, a gap remains between high-level principles and practical techniques that can be readily adopted to design and develop responsible AI systems.
+2203.01556_1614418_5	Participants of the AI track are asked to develop their AI algorithm that controls a character given only sound as the input (blind AI) to fight against their opponent; a sample deep-learning blind AI will be provided by us.

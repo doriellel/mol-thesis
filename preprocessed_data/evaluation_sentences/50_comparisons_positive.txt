@@ -1,0 +1,4 @@
+acl_8_10945_3	Although the best bidirectional model performs similarly to humans, they display different strengths: humans outperform neural networks in conversational contexts, while RoBERTa excels at written genres.
+acl_115_26836_3	With LLMs increasingly gaining human-like fluency in text generation, gaining a nuanced understanding of the biases these systems can generate is imperative.
+acl_22_39431_0	Large Language Models (LLMs) have been developed without a theoretical framework, yet we posit that evaluating and improving LLMs will benefit from the development of theoretical frameworks that enable comparison of the structures of human language and the model of language built up by LLMs through the processing of text.
+acl_9_38794_1	We study a range of LLMs and find that the largest models we tested are able to draw human-like inferences when the inference is determined by context and can generalize to unseen adjective-noun combinations.

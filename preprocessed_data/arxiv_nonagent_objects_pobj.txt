@@ -153,7 +153,6 @@
 2304.09667_1827713_2	In this paper, we present GeneGPT, a novel method for teaching LLMs to use the Web APIs of the National Center for Biotechnology Information (NCBI) for answering genomics questions.
 2304.11082_1829128_6	This theoretical result is being experimentally demonstrated in large scale by the so called contemporary "chatGPT jailbreaks", where adversarial users trick the LLM into breaking its alignment guardrails by triggering it into acting as a malicious persona.
 2304.11111_1829157_6	Anxiety-induction not only influences LLMs' scores on an anxiety questionnaire but also influences their behavior in a previously-established benchmark measuring biases such as racism and ageism.
-2304.11116_1829162_4	Inspired by the latest ChatGPT and Toolformer models, we propose the Graph-ToolFormer (Graph Reasoning oriented Toolformer) framework to teach LLMs themselves with prompts augmented by ChatGPT to use external graph reasoning API tools.
 2304.11123_1829169_2	Given AI's massive potential, as well as the fierce geopolitical tensions between China and the U.S., several recent policies have been put in place to discourage AI scientists from migrating to, or collaborating with, the other nation.
 2304.12198_1830244_4	Our paper also explores future research directions, emphasizing the importance of addressing AI challenges in education, enhancing accessibility and inclusion for diverse student populations, and developing AI-resistant exam questions to maintain examination integrity.
 2304.12898_1830944_1	ChatGPT consistent avoidance of passing the test is here overcome by asking ChatGPT to apply the Turing test to itself.
@@ -212,7 +211,6 @@
 2308.06212_1894104_9	LLMCRS also designs schema-based instruction, demonstration-based instruction, dynamic sub-task and model matching, and summary-based generation to instruct LLM to generate desired results in the workflow.
 2308.07326_1895218_7	Our research emphasizes a quantitative role to describe steerability in LLMs, presenting both its promise and areas for further refinement in aligning its progress to human intentions.
 2308.07758_1895650_3	Specifically, for mathematical tasks, we mask a number in the question and ask the LLM to answer a backward question created by a simple template, i.e., to predict the masked number when a candidate answer is provided.
-2308.07968_1895860_3	Inspired by the practice of writing education, we develop a multistage and multitask framework to teach LLMs for personalized generation.
 2308.08239_1896131_3	The instructions are reconstructed from a collection of public datasets to teach the LLMs to memorize and retrieve past dialogues with structured memos, leading to enhanced consistency when participating in future conversations.
 2308.08493_1896385_3	To estimate contamination of individual instances, we employ "guided instruction:" a prompt consisting of the dataset name, partition type, and the random-length initial segment of a reference instance, asking the LLM to complete it.
 2308.09954_1897846_7	Under our framework, we first ask the LLM to perform knowledge editing using raw documents, which provides a more convenient and universal approach compared to using factual triplets.
@@ -224,7 +222,6 @@
 2309.01940_1906744_5	The code correction task asks LLMs to fix real-world erroneous code segments with different error messages.
 2309.03118_1907922_4	In this paper, we propose a paradigm, termed Knowledge Solver (KSL), to teach LLMs to search for essential knowledge from external knowledge bases by harnessing their own strong generalizability.
 2309.04550_1909354_3	Our method entails tasking an LLM to infer whether a patient has, or is at risk of, a particular condition on the basis of associated notes; if so, we ask the model to summarize the supporting evidence.
-2309.04842_1909646_5	We explore prompt-engineering to explain the concept of n-best lists to the LLM; followed by the finetuning of Low-Rank Adapters on the downstream tasks.
 2309.05660_1910464_5	To reduce the hypothesis search space, we explore steps to filter the set of hypotheses to implement: we either ask the LLM to summarize them into a smaller set of hypotheses or ask human annotators to select a subset.
 2309.05689_1910493_2	Socratic reasoning encourages LLMs to recursively discover, solve, and integrate problems while facilitating self-evaluation and refinement.
 2309.05950_1910754_4	Specifically, we adopt an automatic hill-climbing procedure that converges to an effective prompt by evaluating the performance of current prompts and asking LLMs to refine them based on textual feedback, all within a conversational process without human-in-the-loop.
@@ -291,7 +288,6 @@
 2311.09718_1952685_1	To properly understand the properties and innate personas of LLMs, researchers have performed studies that involve using prompts in the form of questions that ask LLMs about particular opinions.
 2311.10652_1953619_8	Drawing on these insights, we discuss strategies for effectively communicating model updates in AI-infused systems.
 2311.10934_1953901_3	We present a process to assemble such a case repository by: 1) gathering a set of ``seed'' cases -- questions one may ask an AI system -- in a particular domain, 2) eliciting domain-specific key dimensions for cases through workshops with domain experts, 3) using LLMs to generate variations of cases not seen in the wild, and 4) engaging with the public to judge and improve cases.
-2311.11045_1954012_4	We seek to teach small LMs to employ different solution strategies for different tasks, potentially different from the one used by the larger model.
 2311.11628_1954595_0	  We present a method to integrate Large Language Models (LLMs) and traditional tabular data classification techniques, addressing LLMs challenges like data serialization sensitivity and biases.
 2311.12188_1955155_4	In particular, we ask ChatGPT to give examples of how to use Bayes rule for medical diagnosis.
 2311.13240_1956207_6	Our work sheds light on whether popular LLMs are well-calibrated and how the training process influences model calibration.

@@ -1,0 +1,3 @@
+arx_2303.06628_1806425_1	Nevertheless, during the continual training of the Contrastive Language-Image Pre-training (CLIP) model, we observe that the model's zero-shot transfer ability significantly degrades due to catastrophic forgetting.	the model	model	's
+arx_2303.07610_1807407_6	This preliminary experimental finding implies that ChatGPT's zero-shot ranking capability could be used to reduce annotation pressure in a number of ranking tasks.	ChatGPT	ChatGPT	's
+arx_2301.12597_1783661_7	We also demonstrate the model's emerging capabilities of zero-shot image-to-text generation that can follow natural language instructions.	the model	model	's

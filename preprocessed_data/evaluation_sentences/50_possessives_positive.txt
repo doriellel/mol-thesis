@@ -48,3 +48,6 @@ arx_2305.02160_1835216_2	To encourage fairness and transparency, there exists an
 arx_2305.04388_1837444_1	It is tempting to interpret these CoT explanations as the LLM's process for solving a task.
 arx_2305.16867_1849923_1	We propose to use behavioural game theory to study LLM's cooperation and coordination behaviour.
 arx_2306.03423_1856571_4	In this experiment, we characterize ChatGPT's refusal behavior using a black-box attack.
+2309.05163_1909967_10	However, given the LLMs' considerable proficiency in writing Physics essays and coding abilities, non-invigilated examinations of these skills in Physics are highly vulnerable to automated completion by LLMs.
+2311.08487_1951454_2	This conflict renders LLMs vulnerable to adversarial attacks, wherein intensifying the models' desire for continuity can circumvent alignment efforts, resulting in the generation of harmful information.
+2303.13712_1813509_7	We then consider a decision maker who is aware of the algorithm's manipulation and responds strategically.

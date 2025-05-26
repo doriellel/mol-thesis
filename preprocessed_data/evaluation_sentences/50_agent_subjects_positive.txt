@@ -53,3 +53,10 @@ arx_2302.05733_1790667_5	In particular, we show that instruction-following LLMs 
 arx_2212.11136_1767313_2	However, AI systems may produce errors, can exhibit bias, may be sensitive to noise in the data, and often lack technical and judicial transparency resulting in reduction in trust and challenges in their adoption.
 acl_46_41192_3	MONITOR is designed to compute the distance between the probability distributions of a valid output and its counterparts produced by the same LLM probing the same fact using different styles of prompts and contexts.
 acl_335_27056_0	The increased deployment of LMs for real-world tasks involving knowledge and facts makes it important to understand model epistemology: what LMs think they know, and how their attitudes toward that knowledge are affected by language use in their inputs.
+acl_282_44833_0	Progress in AI is often demonstrated by new models claiming improved performance on tasks measuring model capabilities.
+2411.14133_2196560_0	  Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs.
+2502.00735_2243726_1	While LLMs have demonstrated outstanding performance in understanding and generating contexts for different scenarios, they are vulnerable to prompt-based attacks, which are mostly via text input.
+280_10245_4	We find that off-the-shelf language models can identify analogies to a certain extent, but struggle with abstract and complex relations, and results are highly sensitive to model architecture and hyperparameters.
+2110.04452_1542595_2	Besides reasoning about the knowledge and actions of individual agents, social AI logic can reason also about social dependencies among agents using the rights, obligations and permissions of the agents.
+
+

@@ -1,0 +1,13 @@
+acl_7_46407_0	Language models (LMs) are vulnerable to exploitation for adversarial misuse.	Language models (LMs)	model	vulnerable
+arx_2005.06620_1286415_1	While governments and businesses are eager to enjoy the benefits of AI innovations, the mixed impact of these autonomous and intelligent systems on human well-being has become a pressing issue.	systems	system	autonomous and intelligent
+arx_2408.08878_2129059_6	Integrating LLMs into KE tasks needs to be mindful of potential risks and harms related to responsible AI.	responsible AI	AI	responsible
+arx_2303.17163_1816960_6	Although dynamic ChatGPT is relatively unreliable for solving problems in linear algebra, the mistakes it produces could become a valuable tool for improving critical thinking skills.	dynamic ChatGPT	ChatGPT	unreliable
+arx_2402.05827_2003466_5	RQ1: Can edited LLMs behave consistently resembling communicative AI in realistic situations?	communicative AI	AI	communicative
+acl_45_49661_2	We also show that an “attentive” RNN-LM needs less contextual information to achieve similar results to the state-of-the-art on the wikitext2 dataset.	RNN-LM	RNN-LM	attentive
+arx_2306.01879_1855027_7	In fact, we demonstrate that even a "blind" language model that ignores any image evidence can sometimes outperform all prior art, reminiscent of similar challenges faced by the visual-question answering (VQA) community many years ago.	language model	model
+arx_2502.18676_2261667_3	We outline the conceptual foundations of Thoughtful AI, illustrate its potential through example projects, and envision how this paradigm can transform human-AI interaction in the future.	  Thoughtful AI	  AI	  thoughtful
+arx_1904.13086_1118126_10	The results demonstrate the descriptive value of the ResQu model to predict behavior and perceptions of responsibility by considering the characteristics of the human, the intelligent system, the environment and some systematic behavioral biases.	system	system	intelligent
+acl_1_30970_8	Moreover, our error analysis shows that language models are generally less sensitive to the changes in claim length and source than the SVM model.	language models	model	sensitive
+acl_159_43725_0	Modern large language models are sensitive to prompts, and another synonymous expression or a typo may lead to unexpected results for the model.	Modern large language models	model	sensitive
+acl_335_27056_3	We find that LMs are highly sensitive to epistemic markers in prompts, with accuracies varying more than 80%.	LMs	LM	sensitive
+arx_2411.10954_2193381_5	Our findings show that LLMs are sensitive in handling both multilingual and dialectal variations.	LLMs	LLM	sensitive

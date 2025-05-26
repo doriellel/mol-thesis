@@ -385,7 +385,6 @@
 2212.10678_1766855_0	  Generated texts from large language models (LLMs) have been shown to exhibit a variety of harmful, human-like biases against various demographics.
 2212.10728_1766905_1	This is an important AI task as it enables the machine to construct a sensible answer or perform a useful action for the human.
 2212.11261_1767438_0	  Nine language-vision AI models trained on web scrapes with the Contrastive Language-Image Pretraining (CLIP) objective are evaluated for evidence of a bias studied by psychologists: the sexual objectification of girls and women, which occurs when a person's human characteristics, such as emotions, are disregarded and the person is treated as a body.
-2212.13261_1769438_3	Additionally, in sensitive areas like healthcare, explainability and accountability are not only desirable but also legally required for AI systems that can have a significant impact on human lives.
 2212.14047_1770224_2	In this work we explore the opportunities offered by the newly emerging crop of large language models (LLM) which use sophisticated deep learning technology to produce human-like prose.
 2212.14232_1770409_5	Gestalt perception contains a series of laws to explain human perception, that the human visual system tends to perceive patches in an image that are similar, close or connected without abrupt directional changes as a perceptual whole object.
 2212.14834_1771011_3	LLMs are titanic models trained on billions of code snippets and can auto-regressively generate human-like code snippets.
@@ -708,7 +707,6 @@
 2306.12198_1865346_5	The investigation reveals promising results, with the model addressing hierarchical problems in a moderately structured manner, similar to human problem-solving strategies.
 2306.12456_1865604_1	Though machines have already demonstrated their abilities in designing new materials, proteins, and computer programs with advanced artificial intelligence (AI) techniques, the search space for designing such objects is relatively small, and thus, "Can machines design like humans?" remains an open question.
 2306.13671_1866819_0	  ChatGPT, an AI chatbot, has gained popularity for its capability in generating human-like responses.
-2306.13671_1866819_4	We examine the ethical challenges stemming from ChatGPT's deceptive human-like interactions and propose a roadmap for developing more transparent and trustworthy chatbots.
 2306.13723_1866871_0	  Human-AI coevolution, defined as a process in which humans and AI algorithms continuously influence each other, increasingly characterises our society, but is understudied in artificial intelligence and complexity science literature.
 2306.13723_1866871_1	Recommender systems and assistants play a prominent role in human-AI coevolution, as they permeate many facets of daily life and influence human choices on online platforms.
 2306.13723_1866871_3	This human-AI feedback loop has peculiar characteristics compared to traditional human-machine interaction and gives rise to complex and often ``unintended'' social outcomes.

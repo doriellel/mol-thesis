@@ -1,9 +1,7 @@
 4_4735_2	In this paper, we propose a character-aware pre-trained language model named CharBERT improving on the previous methods (such as BERT, RoBERTa) to tackle these problems.
 168_5759_0	We consider retrofitting structure-aware Transformer language model for facilitating end tasks by proposing to exploit syntactic distance to encode both the phrasal constituency and dependency connection into the language model.
 168_5759_2	Experimental results show that the retrofitted structure-aware Transformer language model achieves improved perplexity, meanwhile inducing accurate syntactic phrases.
-280_10245_4	We find that off-the-shelf language models can identify analogies to a certain extent, but struggle with abstract and complex relations, and results are highly sensitive to model architecture and hyperparameters.
 108_10644_2	In particular, the performance considerably varies as the random seed changes or the number of pretraining and/or fine-tuning iterations varies, and the fine-tuned model is vulnerable to adversarial attack.
-20_10919_7	We then train a knowledge-aware language model that firstly applies a text-only encoding layer to learn entity representation and then applies a text-entity fusion encoding to aggregate entity representation.
 790_12668_3	In this paper, we test whether generative language models (including GPT-2 (CITATION) are sensitive to these linguistic framing effects.
 132_14069_2	In the present work, we propose a new syntax-aware language model: Syntactic Ordered Memory (SOM).
 48_14773_2	To alleviate this problem, we propose a simple and effective method to improve a character-aware neural language model by forcing a character encoder to produce word-based embeddings under Skip-gram architecture in a warm-up step without extra training data.
@@ -11,13 +9,8 @@
 1_14941_4	We argue that this DS-RDF hybrid satisfies the desiderata listed above, yielding semantic infrastructure that can be used to build responsive, real-time, interpretable Conversational AI that can be rapidly customised for specific user groups such as people with dementia.
 593_16751_3	In this work, we present a prosody-aware generative spoken language model (pGSLM).
 280_17749_3	In this paper, we present a structure-aware self-attention language model to capture structural information of target representations and propose a knowledge distillation based approach to incorporating the target language model into a seq2seq model, where grammar rules or sketches are not required in the training process.
-509_18956_1	However, this approach is highly sensitive to the template used to prompt the model, yet practitioners are blind when designing them in strict zero-shot settings.
-693_19140_1	However, existing DA-training methods are in some sense blind as they do not explicitly identify what knowledge in the LM should be preserved and what should be changed by the domain corpus.
-683_21860_6	Next, an experiment is conducted on the dataset to examine to what extent a pretrained masked language model is aware of the constructions.
 36_22670_6	All in all, we demonstrate that our self-aware model improves the overall PR-AUC by 27.45%, achieves a relative defect reduction of up to 31.22%, and is able to adapt quicker to changes in global preferences across a large number of customers.
-68_24218_7	Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM, ThinkSum is less sensitive to prompt design, yields more interpretable predictions, and can be flexibly combined with latent variable models to extract structured knowledge from LLMs.
 423_24573_2	However, previous studies have shown that EaaS is vulnerable to model extraction attacks, which can cause significant losses for the owners of LLMs, as training these models is extremely expensive.
-4_25320_2	To the best of our knowledge, we are not aware of any LLMs that indicate their level of confidence in their responses which fuels a trust deficit in these models impeding their adoption.
 77_26403_5	Our results demonstrate that the large language model of code is vulnerable to carefully crafted adversarial examples.
 8_26729_4	We have two main findings: i) ChatGPT’s decision is sensitive to the order of labels in the prompt; ii) ChatGPT has a clearly higher chance to select the labels at earlier positions as the answer.
 95_26816_2	We reveal that these prompt optimization techniques are vulnerable to distribution shifts such as subpopulation shifts, which are common for LLMs in real-world scenarios such as customer reviews analysis.
@@ -26,7 +19,6 @@
 699_27420_5	Our benchmark provides a systematic way to analyze model performance on an important dimension of language and points to clear room for improvement to build more socially-aware LLMs.
 744_27465_8	We conclude that despite the limited signal through which LMs can learn about animacy, they are indeed sensitive to the relevant lexical semantic nuances available in English.
 19_28155_2	We show that LLMs not only fail to properly generate correct Python code when default function names are swapped, but some of them even become more confident in their incorrect predictions as the model size increases, an instance of the recently discovered phenomenon of Inverse Scaling, which runs contrary to the commonly observed trend of increasing prediction quality with increasing model size.
-104_28240_1	Without requiring any multilingual caption data, we propose LMCap, an image-blind few-shot multilingual captioning model that works by prompting a language model with retrieved captions.
 590_28726_3	In this way, the captioning model can become aware of the task goal and information need from the PLM.
 605_28741_4	Our results provide further evidence that contemporary LLMs discourse representations are sensitive to syntactic patterns in the local context but less so to semantic patterns.
 388_29424_1	Robustness evaluations must comprehensively encapsulate the various settings in which a user may invoke an intelligent system.
@@ -34,7 +26,6 @@
 518_29554_2	Our results reveal that LLMs are vulnerable to the co-occurrence bias, defined as preferring frequently co-occurred words over the correct answer.
 743_29779_6	Additionally, the causal reasoning ability of ChatGPT is sensitive to the words used to express the causal concept in prompts, and close-ended prompts perform better than open-ended prompts.
 755_29791_7	These three modules perform the divide-and-conquer procedure iteratively until the model is confident about the final answer to the main question.
-877_29913_4	We then discuss ways to develop concept-aware LLMs, taking place at different stages of the pipeline.
 877_29913_7	These preliminary results underscore the promise of concept-aware LLMs.
 911_29947_3	In this paper, we present a time-aware language model named TALM, to learn temporal word representations by transferring language models of general domains to those of time-specific ones.
 1_30970_8	Moreover, our error analysis shows that language models are generally less sensitive to the changes in claim length and source than the SVM model.
@@ -52,23 +43,15 @@
 147_34632_2	While recent advances in large language models (LLMs) have greatly promoted language generation in general, state-of-the-art LLMs are still unreliable when it comes to suspenseful story generation.
 121_34986_0	Despite the rapid progress of large language models (LLMs), their task performance remains sensitive to prompt design.
 295_35154_2	In this paper, we reveal that LLMs are over-sensitive to lexical variations in task instructions, even when the variations are imperceptible to humans.
-348_35206_2	A desired characteristic of an intelligent system is its ability to recognize the scope of its own knowledge.
 474_35328_4	Results show that human and LLM judges are vulnerable to perturbations to various degrees, and that even the cutting-edge judges possess considerable biases.
-705_35554_3	In this work, we consider the case where the user does not select any of the suggested replies from a smart reply system, and how this can be used as one-shot implicit negative feedback to enhance the accuracy of an AI writing model.
 784_35629_3	To give the first evidence that such schedulers enhance student learning, we build KARL, a simple but effective content-aware student model employing deep knowledge tracing (DKT), retrieval, and BERT to predict student recall.
 886_35729_4	We also find that the LLMs are sensitive to numerical anchors, indicating the ability to leverage community-based flagging efforts and exposure to adversaries.
-906_35749_0	Large language models (LLMs) have played a pivotal role in building communicative AI, yet they encounter the challenge of efficient updates.
-906_35749_3	This work seeks to understand the strengths and limitations of editing methods, facilitating practical applications of communicative AI.
-906_35749_5	RQ1: Can edited LLMs behave consistently resembling communicative AI in realistic situations?
 908_35751_1	However, even meticulously aligned LLMs remain vulnerable to malicious manipulations such as jailbreaking, leading to unintended behaviors.
 41_36531_5	Our experiments show that LLM performance is indeed sensitive to the amount of data passed in the prompt, and that for tasks with a lot of syntactic variation in the input table,our cluster-then-select technique outperforms a random selection baseline.
 87_36575_5	Currently, the community is eager to know how GPT-3 progressively improves to GPT-4, including technical details like whether adding code data improves LLM’s reasoning capability, which aspects of LLM capability can be improved by SFT and RLHF, how much is the alignment tax, etc.
-94_36582_1	However, the untrustworthy third-party LLMs may covertly introduce vulnerabilities for downstream tasks.
 133_36621_2	We study how to better construct in-context example sets, based on whether the model is aware of the in-context examples.
-45_36821_7	In general, the formal language with a lower formalization level, i.e., the more similar it is to natural language, is more friendly to LLMs.
 141_36916_4	These categories include commonsense memorization, numerical commonsense, toxic speech, and more, which are vulnerable to undermining the reliability of LLMs’ commonsense reasoning capabilities.
 338_37108_2	As a result, the RL training cannot be fully aware of the specific part or step that actually leads to the incorrectness in model response.
-396_37165_1	However, a critical question emerges: Are LLMs conscious of the existence of these decoding strategies and capable of regulating themselves?
 467_37231_1	This study shows that LLMs are vulnerable to changes in the number and arrangement of options in text classification.
 549_37312_2	However, safety-aligned LLMs may remain vulnerable to carefully crafted jailbreak attacks, but these attacks often face high rejection rates and limited harmfulness.
 685_37445_4	Specifically, within the temporal space, we construct Temporal Belief State Chain (TBSC) for each character and inspired by the cognition perspective of the social world model, we divide TBSC into self-world beliefs and social world beliefs, aligning with first-order ToM (first-order beliefs) and higher-order ToM (higher-order beliefs) questions, respectively.
@@ -81,45 +64,28 @@
 592_38303_5	We find that powerful LLMs are aware of the certainty of their prediction and can achieve high agreement with ground truth on high-certainty samples, indicating a promising approach for building reliable and scalable proxies for evaluating LLM personalization.
 813_38518_0	Safety-aligned Large Language Models (LLMs) are still vulnerable to some manual and automated jailbreak attacks, which adversarially trigger LLMs to output harmful content.
 6_38828_5	Key findings show that LLMs are more sensitive to positive signals.
-276_39685_3	(2) Is ChatGPT aware of the underlying commonsense knowledge for answering a specific question?
 314_39723_3	To this end, we present the first discourse-aware multimodal task-oriented dialogue system that combines discourse theories with offline LLM generation.
 1237_40646_2	In this paper, drawing inspiration from recent works that LLMs are sensitive to the design of the instructions, we utilize instructions in code style, which are more structural and less ambiguous, to replace typically natural language instructions.
 450_41596_3	The goal is to cultivate culturally cognizant and value-aligned Arabic LLMs capable of accommodating the diverse, application-specific needs of Arabic-speaking communities.
 456_41602_8	We show that HRE correlates well with human judgements and is particularly responsive to model changes following instruction-tuning.
 8_41716_8	This paper presents OpinionGPT, illustrates how we trained the bias-aware model and showcases the web application (available at https://opiniongpt.informatik.hu-berlin.de).
 2_41731_5	ReLLM is user-friendly and requires no additional LLM training.
-5_41813_4	I think that this approach can easily lead to false results, which can be quite dangerous considering the current discussions on AI safety, governance, and regulation.
 91_42844_6	Moreover, we show that the addition of an adversary significantly degrades RALM’s performance, with the model becoming even more vulnerable when the two scenarios overlap (adversarial+ unanswerable).
 14_42916_4	The results also reveal that GPT-4 is more sensitive to the examples given in a Few-Shot prompt, highlighting the importance of choosing fitting examples for inference and prompt formulation.
 102_43197_1	We propose a context-aware LLM translation system that leverages conversation summarization and dialogue history to enhance translation quality for the English-Korean language pair.
-5_43400_1	Low-cost jailbreak attacks, such as those utilizing low-resource languages and code-switching, demonstrate that LLM safety mechanisms are vulnerable to low-resource languages.
-159_43725_0	Modern large language models are sensitive to prompts, and another synonymous expression or a typo may lead to unexpected results for the model.
-159_43725_5	Experimental results indicate that with the increase of model size, although the ease-of-use could be significantly improved, there is still a long way to go to build a sufficiently user-friendly model.
 172_43738_1	Current methods employ role-playing with personae but face two major issues: LLMs are sensitive to even a single irrelevant persona, skewing predictions by up to 30%; and LLMs fail to reason strategically over personae.
 689_44255_4	Our experiments, conducted on models ranging from 7b to 33b parameters, yield three key findings: (i) While these factors directly affect overall model performance, some abilities are more responsive to scaling, whereas others demonstrate significant resistance.
 110_44666_7	Our findings reveal that while LLMs show promise in this domain, they are highly sensitive to the encoding used.
 123_44678_0	Large Language Models (LLMs) have revolutionized various domains but remain vulnerable to prompt injection attacks, where malicious inputs manipulate the model into ignoring original instructions and executing designated action.
-243_44794_7	In addition, we found that the model becomes more confident and refuses to provide an answer in only few cases.
-360_44907_2	In this paper, we identify an additional challenge: LLMs’ performance is also sensitive to the order, relative position, in which the supporting documents are presented.
 378_44925_0	Recent studies show that large language models (LLMs) are vulnerable to jailbreak attacks, which can bypass their defense mechanisms.
-3_45070_1	LLMs are intelligent and slowly replacing the search engines.
-5_45201_2	We find that results are sensitive to data splits and prompt formulation, while the addition of fixed phrases does not change performance in most cases, depending on the chosen model.
 42_45345_1	Although aligned with human preference data before release, LLMs remain vulnerable to various malicious attacks.
 297_45590_0	Recent research has shown that Large Language Models (LLMs) are vulnerable to automated jailbreak attacks, where adversarial suffixes crafted by algorithms appended to harmful queries bypass safety alignment and trigger unintended responses.
 469_45756_3	Though efficient to compute, we show that this definition is unreliable because it does not account for non-determinism present in more realistic (non-greedy) sampling schemes, for which LLMs produce a range of outputs for the same prompt.
 492_45776_9	Our work lays the groundwork for addressing potential malicious model editing, which is a critical challenge associated with the strong generative capabilities of LLMs.
-572_45853_6	We find that some LLMs are sensitive to factors that affect the inference process similarly to humans, yet there remains variance in human behavior not fully captured by LLMs.
-7_46407_0	Language models (LMs) are vulnerable to exploitation for adversarial misuse.
 11_46411_5	Through extensive experiments on different languages, we show the studied LLMs are on average 71% more vulnerable after a 5-turn conversation in English than after the initial turn.
-12_46472_3	Analysis shows that LLMs are sensitive to subtle contextual changes and often rely on surface-level cues.
 199_47491_1	However, our best syllable-aware language model, achieving performance comparable to the competitive character-aware model, has 18%-33% fewer parameters and is trained 1.2-2.2 times faster.
-633_48859_2	This approach allows for efficient iterative decoding, where we first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words that the model is least confident about.
-45_49661_1	We show that an “attentive” RNN-LM (with 11M parameters) achieves a better perplexity than larger RNN-LMs (with 66M parameters) and achieves performance comparable to an ensemble of 10 similar sized RNN-LMs.
-45_49661_2	We also show that an “attentive” RNN-LM needs less contextual information to achieve similar results to the state-of-the-art on the wikitext2 dataset.
 86_50206_2	The resultant model can be seen as a combination of character-aware language model and simple word-level language model.
 128_54380_1	The proposed techniques do not benefit a competitive character-aware model, but some of them improve the performance of syllable- and morpheme-aware models while showing significant reductions in model sizes.
 128_54380_3	Our best morpheme-aware model with properly reused weights beats the competitive word-level model by a large margin across multiple languages and has 20%-87% fewer parameters.
-18_54647_0	We demonstrate an intelligent conversational agent system designed for advancing human-machine collaborative tasks.
-417_55071_3	Experimental results illustrate that a simple extension of Modified Kneser-Ney outperforms an lstm language model on 42 languages while a word-level Bayesian n-gram LM (Shareghi et al., 2017) outperforms the character-aware neural model (Kim et al., 2016) on average across all languages, and its extension which explicitly injects linguistic knowledge (Gerz et al., 2018) on 8 languages.
-27_55498_4	The model is highly sensitive to the order of words within the most recent sentence, but ignores word order in the long-range context (beyond 50 tokens), suggesting the distant past is modeled only as a rough semantic field or topic.
-35_56900_0	A context-aware language model uses location, user and/or domain metadata (context) to adapt its predictions.
+acl_417_55071_3	Experimental results illustrate that a simple extension of Modified Kneser-Ney outperforms an lstm language model on 42 languages while a word-level Bayesian n-gram LM (Shareghi et al., 2017) outperforms the character-aware neural model (Kim et al., 2016) on average across all languages, and its extension which explicitly injects linguistic knowledge (Gerz et al., 2018) on 8 languages.
+acl_35_56900_0	A context-aware language model uses location, user and/or domain metadata (context) to adapt its predictions.

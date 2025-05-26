@@ -1,5 +1,4 @@
 1109.5072_289440_4	This method not only focuses on measuring the intelligence of algorithms, but also to assess any intelligent system (human beings, animals, AI, aliens?,...), and letting us to place their results on the same scale and, therefore, to be able to compare them.
-1109.5072_289440_5	This new approach will allow us (in the future) to evaluate and compare any kind of intelligent system known or even to build/find, be it artificial or biological.
 1203.1020_326379_1	The original IS-LM model has two main deficiencies: assumptions of constant price level and of strictly exogenous money supply.
 1209.4838_372002_5	We assume that for some level of intelligence the respective AI will be more intelligent than a human being.
 1211.2736_384982_3	In an effort to construct an intelligent computer system, a primary consideration is to represent large amounts of knowledge in a way that allows effective use and efficiently organizing information to facilitate making the recommended inferences.
@@ -12,14 +11,11 @@
 1511.03246_676426_3	In this work, we survey, classify and analyze a number of circumstances, which might lead to arrival of malicious AI.
 1512.00977_683629_2	Aiming at this problem, a standard intelligent system model is established in this study to describe the AI system and the beings like human uniformly.
 1512.00977_683629_3	Based on the model, the article makes an abstract mathematical description, and builds the standard intelligent machine mathematical model; expands the Von Neumann architecture and proposes the Liufeng - Shiyong architecture; gives the definition of the artificial intelligence IQ, and establishes the artificial intelligence scale and the evaluation method; conduct the test on 50 search engines and three human subjects at different ages across the world, and finally obtains the ranking of the absolute IQ and deviation IQ ranking for artificial intelligence IQ 2014.
-1512.06257_688909_3	In this paper, we report our practical experience in the design and development of a smart home system in a WoT environment.
 1605.02817_730932_3	Availability of such information would be of great value particularly to computer scientists, mathematicians, and others who have an interest in AI safety, and who are attempting to avoid the spontaneous emergence or the deliberate creation of a dangerous AI, which can negatively affect human activities and in the worst case cause the complete obliteration of the human species.
-1605.02878_730993_1	However, the performance of this algorithm is sensitive to the appropriate choice of the some parameter responsible for the zero-attracting intensity.
 1609.00813_766291_1	We derive expressions for the average rate and symbol error rate (SER) performance of an adaptive link selection based channel-aware buffer-aided relay (CABR) scheme that imposes peak-power and peak-interference constraints on the secondary nodes, and compare them with those of conventional non-buffer-aided relay (CNBR) and conventional buffer-aided relay (CBR) schemes for a delay-tolerant system.
 1703.01908_825412_3	This paper will propose the application of Kant's critique of reason to current programming constructs of an autonomous intelligent system.
 1705.00594_844135_2	We present an ongoing project whose ultimate goal is to deliver an open source, user-friendly AI system that is specialized for machine learning analysis of complex data in the biomedical and health care domains.
 1705.10720_854261_0	  There are many goals for an AI that could become dangerous if the AI becomes superintelligent or otherwise powerful.
-1706.01040_855775_7	Specifically, we plan to develop an intelligent learning model called Brain Intelligence (BI) that generates new ideas about events without having experienced them by using artificial life with an imagine function.
 1707.06480_871512_1	However, our best syllable-aware language model, achieving performance comparable to the competitive character-aware model, has 18%-33% fewer parameters and is trained 1.2-2.2 times faster.
 1708.06746_881758_0	  Air traffic is widely known as a complex, task-critical techno-social system, with numerous interactions between airspace, procedures, aircraft and air traffic controllers.
 1710.00692_896075_5	As an example scenario, we consider intersection crossing (IC) with autonomous vehicles that cooperate via V2V communication, and propose a fully distributed and a fault-tolerant algorithm for this problem.
@@ -35,32 +31,25 @@
 1809.05673_1025689_4	Moreover, an intelligent vehicular communication system is configured to validate the cognitive capability based on AI clustering algorithm.
 1811.03742_1048375_5	To capture these characteristics, we formulated an intelligent agent-based model to imitate decision making process during fleet operation, which combines real-time optimization with artificial intelligence.
 1812.03980_1061554_3	AI agents should be aware and follow appropriate ethical principles and should thus exhibit properties such as fairness or other virtues.
-1812.08960_1066534_3	A smart autonomous system (SAS) combines analytics and autonomy to understand, learn, decide and act autonomously.
 1901.03775_1073322_3	These techniques are also well positioned to take advantage of large-scale parallel computing resources, making creative AI through evolutionary computation the likely "next deep learning".
-1904.09324_1114364_2	This approach allows for efficient iterative decoding, where we first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words that the model is least confident about.
 1904.13086_1118126_10	The results demonstrate the descriptive value of the ResQu model to predict behavior and perceptions of responsibility by considering the characteristics of the human, the intelligent system, the environment and some systematic behavioral biases.
 1905.04610_1123046_4	We apply these tools to three medical machine learning problems and show how combining many high-quality local explanations allows us to represent global structure while retaining local faithfulness to the original model.
 1905.13053_1131489_2	We prove that it is impossible to precisely and consistently predict what specific actions a smarter-than-human intelligent system will take to achieve its objectives, even if we know terminal goals of the system.
-1906.03595_1135781_6	This collaborative creative AI presents a new paradigm in AI, one that lets a team of two or more to come together to imagine and envision ideas that synergies well with interests of all members of the team.
 1907.01297_1145833_1	AI and Robotics research communities, industries and students are becoming increasingly aware of the problems caused by unsafe or insecure AI applications.
 1907.07892_1152428_7	Our literature review indicates that this pattern exists on a global scale, and suggests that low- and middle-income countries may be more vulnerable to the negative social impacts of AI and less likely to benefit from the attendant gains.   
 1910.07496_1191415_3	A least mean squares algorithm based adaptive filter (LMS-AF) is used for the purpose of FECG extraction.
 1911.05508_1204102_0	  In this paper, we propose an original complex network model for an epidemic problem in an heterogeneous geographical area.
 1912.01629_1213525_0	  This paper attempts to design an intelligent simulation model for pedestrian crowd evacuation.
-2001.00269_1225682_10	The proposed smart parking surveillance system can be a solid foundation for future applications of intelligent transportation systems.
 2001.03238_1228651_2	A smart energy management system, Transactive management (TM) is a concept to improve the efficiency and reliability of the power system.
 2001.07641_1233054_2	However, given, e.g., economic incentives to create dishonest AI, to what extent can we trust explanations?
-2002.05652_1243075_2	In contrast, our focus here is on the rarely discussed complementary aspect of engineering conscious AI: how to avoid condemning such systems, for whose creation we would be solely responsible, to unavoidable suffering brought about by phenomenal self-consciousness.
 2002.06374_1243797_6	Our method suggested in this article detects traffic congestion based on IOT containing a smart system that gives us traffic congestion by calculating the air pollution amount in that area.
 2003.01525_1251880_5	When considering the aspect of fairness, the role that AI has on a decision-making process becomes even more sensitive since it affects the fairness and the responsibility of those people making the ultimate decision.
 2004.02809_1267579_4	This work presents the initial steps towards the development of an intelligent artificial system for autonomous medical mentoring.
 2005.06620_1286415_1	While governments and businesses are eager to enjoy the benefits of AI innovations, the mixed impact of these autonomous and intelligent systems on human well-being has become a pressing issue.
 2005.08663_1288458_0	  The ethical, legal, and social challenges involved in the use of profiling services for recruitment are the focus of many previous studies; however, the processes vary depending on the social system and cultural practices.
 2005.13635_1293430_5	Our evaluation using convolutional neural networks illustrates challenges and ideas for identifying malicious AI.
-2006.09428_1303942_3	MAIEI provides 15 recommendations in relation to the sections outlined above, including: 1) focus efforts on the research and innovation community, member states, and the private sector; 2) create alignment between trading partners' policies and EU policies; 3) analyze the gaps in the ecosystem between theoretical frameworks and approaches to building trustworthy AI; 4) focus on coordination and policy alignment; 5) focus on mechanisms that promote private and secure sharing of data; 6) create a network of AI research excellence centres to strengthen the research and innovation community; 7) promote knowledge transfer and develop AI expertise through Digital Innovation Hubs; 8) add nuance to the discussion regarding the opacity of AI systems; 9) create a process for individuals to appeal an AI system's decision or output; 10) implement new rules and strengthen existing regulations; 11) ban the use of facial recognition technology; 12) hold all AI systems to similar standards and compulsory requirements; 13) ensure biometric identification systems fulfill the purpose for which they are implemented; 14) implement a voluntary labelling system for systems that are not considered high-risk; 15) appoint individuals to the oversight process who understand AI systems well and are able to communicate potential risks.
 2007.00655_1312169_6	We also show that our knowledge-aware language model (KALM) can serve as a drop-in replacement for GPT-2 models, significantly improving downstream tasks like zero-shot question-answering with no task-related training.
 2007.05609_1317123_6	In this paper, we propose to train a context aware E2E model and allow the beam search to traverse into the context FST during inference.
-2007.12912_1324426_1	Therefore, one of the promising approaches is to design a smart vehicular system as it is beneficial to drive safely.
 2007.12912_1324426_3	Motivated by these issues, this paper addresses a drone-enabled intelligent vehicular system, which is secure, easy to deploy and reliable in quality.
 2008.00312_1328034_4	To bridge this gap, this work studies the security threats posed by malicious LMs to NLP systems.
 2008.01547_1329269_5	Compared with the original Transformer, TensorCoder not only greatly reduces the calculation of the original model but also obtains improved performance on masked language modeling task (in PTB dataset) and comparable performance on machine translation tasks.
@@ -79,7 +68,6 @@
 2010.05990_1362320_10	A highly-performing model allows the intelligent system to interpret human commands at the social-interaction level through a chatbot-like interface (e.g. "Robot, can we have a conversation?") and allows for better accessibility to AI by non-technical users.
 2010.12827_1369157_3	We therefore present a simple method to turn a sentence-level translation model into a context-aware model by incorporating a document-level language model into the decoder.
 2011.01513_1374261_2	In this paper, we propose a character-aware pre-trained language model named CharBERT improving on the previous methods (such as BERT, RoBERTa) to tackle these problems.
-2011.03195_1375943_6	Medical diagnosis model is responsible for human life and we need to be confident enough to treat a patient as instructed by a black-box model.
 2011.07347_1380095_3	We argued that the above approaches are not necessary, and the original unconditioned LM is sufficient for conditioned NLG.
 2011.07960_1380708_2	In the present work, we propose a new syntax-aware language model: Syntactic Ordered Memory (SOM).
 2011.10737_1383485_1	However, as a model-based shooting method, it relies heavily on an accurate system model to update the optimal control actions and the trajectory determined with forward integration, thus becoming vulnerable to inevitable model inaccuracies.
@@ -109,7 +97,6 @@
 2105.13328_1475887_1	In this paper, we utilize the GAIL model for text generation to develop empathy-based context-aware conversational AI.
 2106.00490_1478254_2	In this work, we consider an over-the-air FEEL system with analog gradient aggregation, and propose an energy-aware dynamic device scheduling algorithm to optimize the training performance under energy constraints of devices, where both communication energy for gradient aggregation and computation energy for local training are included.
 2106.06300_1484064_4	We derive a user-friendly centralised distributed MCMC algorithm with provable scaling in high-dimensional settings.
-2106.13901_1491665_4	For example, AI researchers who design and develop AI models are not necessarily aware of the instability induced in consumers' lives by the compounded effects of AI decisions.
 2107.03712_1497724_0	  While the original Ait-Sahalia interest rate model has been found considerable use as a model for describing time series evolution of interest rates, it may not possess adequate specifications to explain responses of interest rates to empirical phenomena such as volatility 'skews' and 'smiles', jump behaviour, market regulatory lapses, economic crisis, financial clashes, political instability, among others collectively.
 2107.03924_1497936_2	The smart healthcare system is a topic of recently growing interest and has become increasingly required due to major developments in modern technologies, especially in artificial intelligence (AI) and machine learning (ML).
 2107.13734_1507746_1	The question is not if research can produce such affectively-aware AI, but when it will.
@@ -121,14 +108,10 @@
 2109.09903_1532724_3	In particular, we present AirDOS, a dynamic object-aware system that introduces rigidity and motion constraints to model articulated objects.
 2109.09903_1532724_6	To the best of our knowledge, AirDOS is the first dynamic object-aware SLAM system demonstrating that camera pose estimation can be improved by incorporating dynamic articulated objects.
 2109.15158_1537979_3	We also present a baseline socially-aware trajectory prediction algorithm, $\textit{TrajAirNet}$, that uses the dataset to predict the trajectories of all agents.
-2109.15290_1538111_3	Here, we present a materials-aware language model, namely, MatSciBERT, which is trained on a large corpus of scientific literature published in the materials domain.
 2110.00910_1539053_0	  As the demands of autonomous mobile robots are increasing in recent years, the requirement of the path planning/navigation algorithm should not be content with the ability to reach the target without any collisions, but also should try to achieve possible optimal or suboptimal path from the initial position to the target according to the robot's constrains in practice.
-2110.04452_1542595_2	Besides reasoning about the knowledge and actions of individual agents, social AI logic can reason also about social dependencies among agents using the rights, obligations and permissions of the agents.
-2110.04452_1542595_3	We discuss four aspects of social AI logic.
 2110.04452_1542595_9	Examples from social, legal and ethical reasoning highlight the challenges in developing social AI logic.
 2110.04452_1542595_10	The discussion of the four challenges leads to a research program for argumentation-based social AI logic, contributing towards the future development of AI logic.
 2110.04509_1542652_0	  Solar still is an eco-friendly and convenient desalination system that can provide fresh water for remote areas and emergencies.
-2110.11168_1549311_4	Our analysis proposes that metrics to measure the kind of explainability endorsed by the proposed AI Act shall be risk-focused, model-agnostic, goal-aware, intelligible & accessible.
 2110.11578_1549721_1	Existing FL protocol designs have been shown to be vulnerable to attacks that aim to compromise data privacy and/or model robustness.
 2110.13538_1551681_3	To devise portable smart AR devices that operate smoothly, we first present a no keep alive Internet required smart hands-free elderly care support system that employs smart glasses with facial recognition and text-to-speech synthesis technologies.
 2111.14018_1568121_9	Therefore, the highlighted challenging issues can open the door for the development of future IoT models which will be intelligent and secure based on the integration of blockchain and AI with the IoT.
@@ -145,19 +128,16 @@
 2202.05983_1604807_3	In this paper, we present an initial exploration that suggests showing AI models as more confident than they actually are, even when the original AI is well-calibrated, can improve human-AI performance (measured as the accuracy and confidence of the human's final prediction after seeing the AI advice).
 2202.06431_1605255_2	To address this, here we present a novel deep learning framework that uses knowledge distillation through self-supervised learning and self-training, which shows that the performance of the original model trained with a small number of labels can be gradually improved with more unlabeled data.
 2202.08171_1606995_3	A case-aware language model trained on this normalized text achieves the same perplexity as a model trained on text with gold capitalization.
-2202.09093_1607917_1	In particular, we consider a hierarchical resource allocation framework for the proposed smart soft-RAN model, where the software-defined network (SDN) controller is the first and foremost layer of the framework.
 2202.09447_1608271_3	Unfortunately, the current accounts of human-aware AI are insufficient to explain the landscape of the work doing in the space of human-AI interaction due to their focus on limited settings.
 2203.01556_1614418_5	Participants of the AI track are asked to develop their AI algorithm that controls a character given only sound as the input (blind AI) to fight against their opponent; a sample deep-learning blind AI will be provided by us.
 2203.08410_1621272_0	  The strong few-shot in-context learning capability of large pre-trained language models (PLMs) such as GPT-3 is highly appealing for application domains such as biomedicine, which feature high and diverse demands of language technologies but also high data annotation costs.
 2203.10506_1623368_2	However, various works show that raw CSI can be very sensitive to system impairments and small changes in the environment.
 2203.13948_1626810_3	We developed an AI-augmented smart pathology review system (SmartPath) to empower pathologists with quantitative metrics for determining tissue extraction parameters.
 2204.07553_1637691_2	For the shallow fusion setup, we use LMs during both hypotheses generation and loss computation, and the LM-aware MWER-trained model achieves 10\% relative improvement over the model trained with standard MWER on voice search test sets containing rare words.
-2204.07644_1637782_4	The results also demonstrate that users perceive co-creative AI as more reliable, personal and intelligent when it can communicate with the users.
 2204.07644_1637782_5	The results indicate a need to identify potential ethical issues from an engaging communicating co-creative AI.
 2204.07644_1637782_6	Later in the paper, we present some potential ethical issues in human-AI co-creation and propose to use participatory design fiction as the research methodology to investigate the ethical issues associated with a co-creative AI that communicates with users.
 2204.13217_1643355_4	This paper presents a study with 38 participants to explore the impact of two interaction designs, with and without AI-to-human communication, on user engagement, collaborative experience and user perception of a co-creative AI.
 2204.13217_1643355_5	The study involves user interaction with two prototypes of a co-creative system that contributes sketches as design inspirations during a design task.
-2204.13217_1643355_7	Users perceive co-creative AI as more reliable, personal, and intelligent when the AI communicates to users.
 2205.00029_1644441_6	All in all, we demonstrate that our self-aware model improves the overall PR-AUC by 27.45%, achieves a relative defect reduction of up to 31.22%, and is able to adapt quicker to changes in global preferences across a large number of customers.
 2205.07444_1651856_1	In this work, an AI that only uses sound as the input is called blind AI.
 2205.07444_1651856_3	We propose different approaches to process audio data and use the Proximal Policy Optimization algorithm for our blind AI.
@@ -168,11 +148,8 @@
 2205.13770_1658182_1	In this paper, we design an edge-based energy-aware MAR system that enables MAR devices to dynamically change their configurations, such as CPU frequency, computation model size, and image offloading frequency based on user preferences, camera sampling rates, and available radio resources.
 2206.14623_1675043_4	In this work, we propose a contextual density ratio approach for both training a contextual aware E2E model and adapting the language model to named entities.
 2207.00112_1676010_6	Although the factorized matrices from our approach do not result in smaller reconstruction errors, we find that our resulting task accuracy is much closer to the original model's performance.
-2207.00340_1676238_4	The aim was to develop a new, real time and highly sensitive sensor system for VOCs monitoring.
-2207.00477_1676375_2	An intelligent algorithm which renders security surveillance more effective in detecting conflicts would bring many benefits to the passengers in terms of their safety, finance, and travelling efficiency.
 2207.00969_1676867_0	  This paper studies a new multi-device edge artificial-intelligent (AI) system, which jointly exploits the AI model split inference and integrated sensing and communication (ISAC) to enable low-latency intelligent services at the network edge.
 2207.02463_1678361_3	Given a model and a debiasing objective, our framework finds a subset of the model containing less bias than the original model.
-2207.07051_1682949_0	  Reasoning is a key ability for an intelligent system.
 2207.09638_1685536_3	Motivated by this phenomenon, we for the first time posit that domain-general parameters can underpin a domain-general LM that can be derived from the original LM.
 2208.07026_1697738_1	We consider two uplink communication scenarios: (i) a double dirty MAC where the interferences are known non-causally to both users; and (ii) a single dirty MAC model where only one of the users knows the interference and the other one is not aware of the interference.
 2208.12616_1703328_5	We describe how each principle has previously been operationalised, highlighting key themes that AI practitioners seeking to implement ethical principles should be aware of.
@@ -181,14 +158,12 @@
 2209.04595_1710310_0	  This paper presents an ontology-aware pretrained language model (OPAL) for end-to-end task-oriented dialogue (TOD).
 2209.14958_1720673_4	We illustrate Dramatron's usefulness as an interactive co-creative system with a user study of 15 theatre and film industry professionals.
 2210.01293_1722648_7	Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM, ThinkSum is less sensitive to prompt design, yields more interpretable predictions, and can be flexibly combined with latent variable models to extract structured knowledge from LLMs.
-2210.01369_1722724_3	We found that older adults were enthusiastic about learning and using AI-enabled products, but they lacked learning avenues.
 2210.04186_1725541_2	We also systematically analyzed the sensitivity of the InstructGPT model to prompt design, temperature, and injected spelling errors, and found that the model is particularly sensitive to certain variations (e.g., questions vs. imperative statements).
 2210.11373_1732728_0	  This paper presents novel cascaded channel estimation techniques for an intelligent reflecting surface-aided multiple-input multiple-output system.
 2210.11832_1733187_4	There is no greater opportunity for sharing perspectives at the moment than human-aware AI, which studies how to account for the fact that people are more than a source of data or part of an algorithm.
 2210.11832_1733187_5	We will explore how AI-HRI can change the way researchers think about human-aware AI, from observation through validation, to make even the algorithmic design process human-aware.
 2210.13594_1734949_3	Armed with an interview study, indicating that the independent news media has the potential to address them, we designed an intelligent collaborative system, called Datavoidant.
 2210.13715_1735070_2	We establish this via reformulating KG completion as a "fill-in-the-blank" task, and introducing a parameter-lite encoder on top of the original LMs.
-2210.15458_1736813_3	We present a framework for sampling according to an arithmetic code book implicitly defined by a large language model, compatible with common sampling variations, with provable beam diversity under certain conditions, as well as being embarrassingly parallel and providing unbiased and consistent expectations from the original model.
 2211.06344_1745250_6	To address this challenge, we introduce appropriate auxiliary variables to convert the original signal model into two linear models with respect to the Tx signals and one entry-by-entry bilinear model with respect to the RIS phase coefficients.
 2211.16912_1755818_1	To adapt to the error, one must use quantization-aware training, which entails a fine-tuning process based on the dataset and the training pipeline identical to those for the original model.
 2212.03551_1759728_2	The more adept LLMs become at mimicking human language, the more vulnerable we become to anthropomorphism, to seeing the systems in which they are embedded as more human-like than they really are.
@@ -197,43 +172,30 @@
 2212.06662_1762839_1	As more and more aerospace engineers are becoming aware of new trends in AI, traditional approaches are revisited to consider the applications of emerging AI technologies.
 2212.08073_1764250_4	In the supervised phase we sample from an initial model, then generate self-critiques and revisions, and then finetune the original model on revised responses.
 2212.09292_1765469_5	It is crucial for educators and institutions to be aware of the possibility of ChatGPT being used for cheating and to investigate measures to address it in order to maintain the fairness and validity of online exams for all students.
-2212.10559_1766736_5	On top of it, we understand ICL as follows: GPT first produces meta-gradients according to the demonstration examples, and then these meta-gradients are applied to the original GPT to build an ICL model.
 2212.10560_1766737_3	Our pipeline generates instructions, input, and output samples from a language model, then filters invalid or similar ones before using them to finetune the original model.
-2212.10560_1766737_4	Applying our method to the vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT-001, which was trained with private user data and human annotations.
 2212.11133_1767310_10	Third, a permute and diffusion-based intelligent model weights encryption/decryption method is proposed to achieve effective IP protection, where chaos theory is utilized to convert the PUF-based secret key to encryption/decryption keys.
-2212.11133_1767310_11	Finally, experimental evaluation demonstrates the effectiveness of the proposed intelligent model IP protection mechanism.
 2301.01010_1772074_7	For the problem of offloading decision optimization, we propose a Channel-Aware heuristic algorithm.
 2301.02071_1773135_6	Specifically, we devise a three-layered multi-head attention network to realize the table-structure-aware text generation model with the help of the pretrained language model.
-2301.05397_1776461_1	As these models now get increasingly better and convincingly more anthropomorphic, even some engineers have started to believe that AI might become conscious, which would result in serious social consequences.
 2301.07060_1778124_4	In this paper, we first systematically evaluate the significance of applying monotonic neural additive models (MNAMs), which use a fairness-aware ML algorithm to enforce both individual and pairwise monotonicity principles, for the fairness of AI ethics and society.
 2301.08986_1780050_1	However, existing DA-training methods are in some sense blind as they do not explicitly identify what knowledge in the LM should be preserved and what should be changed by the domain corpus.
 2301.13003_1784067_6	Compared with the original CIF-based model, our method achieves 15% and 9% relative error rate reduction on the AISHELL-1 and LibriSpeech datasets, respectively.
-2301.13637_1784701_2	However, AI-experts are aware of the limitations of current DNNs and have been working towards the fourth AI wave which will, arguably, rely on more biologically inspired models, predominantly on spiking neural networks (SNNs).
-2301.13852_1784916_11	Using explainability, we observe that ChatGPT's writing is polite, without specific details, using fancy and atypical vocabulary, impersonal, and typically it does not express feelings.
 2302.02453_1787387_3	Our results show that FineDeb offers stronger debiasing in comparison to other methods which often result in models as biased as the original language model.
 2302.03241_1788175_5	A novel proxy is also proposed to preserve the general knowledge in the original LM.
-2302.04310_1789244_6	Further, we propose the first end-to-end AI-enabled privacy-preserving smart video surveillance system that holistically combines computer vision analytics, statistical data analytics, cloud-native services, and end-user applications.
-2302.04655_1789589_1	In particular, we consider a hierarchical resource allocation model for the proposed smart soft-RAN model where the software-defined network (SDN) controller is the first and foremost layer of the framework.
+
 2302.05206_1790140_4	Such an algorithm doesn't require any additional parameters except for the original language model and maximally reuses the pretraining pipeline.
 2302.05319_1790253_12	Importantly, SVEN closely matches the original LMs in functional correctness.
 2302.07257_1792191_6	The goal is to merge the strengths of LLMs' medical domain knowledge and logical reasoning with the vision understanding capability of existing medical-image CAD models to create a more user-friendly and understandable system for patients compared to conventional CAD systems.
 2302.12601_1797535_0	  Text-to-image generation (TTIG) models, a recent addition to creative AI, can generate images based on a text description.
-2302.12834_1797768_3	In this project, a gamification intelligent tutoring system was developed to adapt to Chinese international students learning needs and provides scaffolding to support their success in introductory computer programming courses.
 2302.13439_1798373_3	We find that LMs are highly sensitive to epistemic markers in prompts, with accuracies varying more than 80%.
 2303.03836_1803633_8	Besides, ChatGPT is highly sensitive to different prompt styles.
-2303.05398_1805195_2	To the best of our knowledge, we are not aware of any LLMs that indicate their level of confidence in their responses which fuels a trust deficit in these models impeding their adoption.
 2303.05453_1805250_9	Finally, we propose a three-tiered policy framework that allows users to experience the benefits of personalised alignment, while restraining unsafe and undesirable LLM-behaviours within (supra-)national and organisational bounds.
 2303.09224_1809021_3	However, so far, it remains unclear how humans perform and how they perceive the task when they are aware that an AI model delegated task instances to them.
-2303.10475_1810272_2	Two issues arise: first, collecting task-specific labeled examples does not apply to scenarios where tasks may be too complicated or costly to annotate, or the system is required to handle a new task immediately; second, this is not user-friendly since end-users are probably more willing to provide task description rather than a set of examples before using the system.
 2303.10494_1810291_4	While LLM-based APR tools are able to achieve state-of-the-art performance on many repair datasets, the LLMs used for direct repair are not fully aware of the project-specific information such as unique variable or method names.   
 2303.10571_1810368_2	In this paper, we propose a novel cross-modal contrastive learning framework architecture, CLIP4MC, aiming to learn a reinforcement learning (RL) friendly vision-language model (VLM) that serves as an intrinsic reward function for open-ended tasks.
 2303.12003_1811800_4	Interestingly, 9.4 percent of humans were more creative than the most creative GAI, GPT-4.
 2303.12040_1811837_11	How artificially intelligent (AI) could and should they be?
 2303.12310_1812107_5	%We evaluate our workload-aware memory system on the CV and NLP benchmarks and observe significant PPA improvement compared to an SRAM-based in both inference and training modes.
 2303.12310_1812107_6	Our workload-aware memory system achieves 8X energy and 9X latency improvement on Computer Vision (CV) benchmarks in training and 8X energy and 4.5X latency improvement on Natural Language Processing (NLP) benchmarks in training while consuming only around 50% of SRAM area at iso-capacity.
-2303.13712_1813509_7	We then consider a decision maker who is aware of the algorithm's manipulation and responds strategically.
-2303.16421_1816218_3	(2) Is ChatGPT aware of the underlying commonsense knowledge for answering a specific question?
-2303.17163_1816960_6	Although dynamic ChatGPT is relatively unreliable for solving problems in linear algebra, the mistakes it produces could become a valuable tool for improving critical thinking skills.
 2304.03439_1821485_1	With the release of Generative Pretrained Transformer 4 (GPT-4), highlighted as "advanced" at reasoning tasks, we are eager to learn the GPT-4 performance on various logical reasoning tasks.
 2304.04007_1822053_3	We present Sky-GVINS: a sky-aware GNSS-Visual-Inertial system based on a recent work called GVINS.
 2304.05077_1823123_0	  We demonstrate that if consciousness is relevant for the temporal evolution of a system's states--that is, if it is dynamically relevant--then AI systems cannot be conscious.
@@ -241,34 +203,22 @@
 2304.05524_1823570_3	We discuss possible future directions and opportunities, such as enabling explicit and implicit causal modules as well as deep causal-aware LLMs.
 2304.08979_1827025_6	We further show that ChatGPT is vulnerable to adversarial examples, and even a single character change can negatively affect its reliability in certain cases.
 2304.09653_1827699_5	We introduce ReelFramer, a human-AI co-creative system that helps journalists translate print articles into scripts and storyboards.
-2304.09655_1827701_7	Results suggest that ChatGPT is aware of potential vulnerabilities, but nonetheless often generates source code that are not robust to certain attacks.
 2304.09781_1827827_2	We introduce Clover, a carbon-friendly ML inference service runtime system that balances performance, accuracy, and carbon emissions through mixed-quality models and GPU resource partitioning.
-2304.11370_1829416_0	  Legal case retrieval, which aims to find relevant cases for a query case, plays a core role in the intelligent legal system.
-2304.11771_1829817_5	Finally, we provide evidence that AI assistance improves the experience of work along two key dimensions: customers are more polite and less likely to ask to speak to a manager.
 2305.00944_1834000_6	Worryingly, we also show that larger LMs are increasingly vulnerable to poisoning and that defenses based on data filtering or reducing model capacity provide only moderate protections while reducing test accuracy.
 2305.02626_1835682_10	We apply our OTF scheme on two LLMs (Llama-13B and ChatGPT), which generates valid repair to a considerable amount of unethical ones, paving the way for more ethically conscious LLMs.
 2305.03047_1836103_4	Our approach encompasses four stages: first, we use an LLM to generate synthetic prompts, and a topic-guided method to augment the prompt diversity; second, we use a small set of human-written principles for AI models to follow, and guide the LLM through in-context learning from demonstrations (of principles application) to produce helpful, ethical, and reliable responses to user's queries; third, we fine-tune the original LLM with the high-quality self-aligned responses so that the resulting model can generate desirable responses for each query directly without the principle set and the demonstrations anymore; and finally, we offer a refinement step to address the issues of overly-brief or indirect responses.
-2305.07375_1840431_6	Additionally, the causal reasoning ability of ChatGPT is sensitive to the words used to express the causal concept in prompts, and close-ended prompts perform better than open-ended prompts.
 2305.08711_1841767_0	  We present sustainAI, an intelligent, context-aware recommender system that assists auditors and financial investors as well as the general public to efficiently analyze companies' sustainability reports.
-2305.08883_1841939_5	A detection algorithm aware of the list can identify the watermarked text.
 2305.09764_1842820_6	In comparison to the application-specific solution, one of our novel approaches reduces the disk size by half, while maintaining speed and accuracy of the original model.
 2305.11523_1844579_7	Second, there are nonetheless significant differences across actor types, with business actors being less concerned about the downsides of AI and more in favor of lax regulation than other non-state actors.
-2305.11614_1844670_3	In particular, we adopt a self-developed broadband intelligent communication system 40MHz-Net (BICT-40N) terminal in order to fully acquire the channel information.
 2305.11627_1844683_2	With LLM being a general-purpose task solver, we explore its compression in a task-agnostic manner, which aims to preserve the multi-task solving and language generation ability of the original LLM.
-2305.11900_1844956_3	Unlike STEM majors, students in Non-STEM fields show asymmetric and pessimistic belief changes, suggesting that they might feel more vulnerable to emerging AI technologies.
 2305.12798_1845854_4	It requires learning parameters equal to 0.2% of the original LMs' size for steering each style.
 2305.12943_1845999_6	Specifically, we start with an initial story and build a story-aware caption model to refine the captions using the whole story as guidance.
 2305.13954_1847010_2	We reveal that these prompt optimization techniques are vulnerable to distribution shifts such as subpopulation shifts, which are common for LLMs in real-world scenarios such as customer reviews analysis.
 2305.14688_1847744_4	We employ GPT4-based evaluation to show that 1) the expert data is of significantly higher quality than vanilla answers, and 2) ExpertLLaMA outperforms existing open-source opponents and achieves 96\% of the original ChatGPT's capability.
 2305.14938_1847994_5	Our benchmark provides a systematic way to analyze model performance on an important dimension of language and points to clear room for improvement to build more socially-aware LLMs.
-2305.14985_1848041_7	These three modules perform the divide-and-conquer procedure iteratively until the model is confident about the final answer to the main question.
 2305.15020_1848076_5	In our experiments, we show that VT can retain the original performance of the multilingual LM, while being smaller in size (in general around 50% of the original vocabulary size is enough) than the original multilingual LM.
-2305.15033_1848089_5	Experimental results across various vision-language tasks consistently demonstrate that SmartTrim accelerates the original model by 2-3 times with minimal performance degradation, highlighting the effectiveness and efficiency compared to previous approaches.
 2305.15255_1848311_5	Furthermore, the proposed model improves upon direct initialization in retaining the knowledge of the original LLM as demonstrated through spoken QA datasets.
 2305.15507_1848563_2	We show that LLMs not only fail to properly generate correct Python code when default function names are swapped, but some of them even become more confident in their incorrect predictions as the model size increases, an instance of the recently discovered phenomenon of Inverse Scaling, which runs contrary to the commonly observed trend of increasing prediction quality with increasing model size.
-2305.16854_1849910_6	Based on the convergence analysis, we further develop a channel and gradient-importance aware algorithm to optimize the device scheduling probabilities in PO-FL.
-2305.16917_1849973_4	Our results provide further evidence that contemporary LLMs discourse representations are sensitive to syntactic patterns in the local context but less so to semantic patterns.
-2305.17006_1850062_3	In this way, the captioning model can become aware of the task goal and information need from the PLM.
 2305.17530_1850586_4	Training PuMer is mostly the same as finetuning the original VL model but faster.
 2305.18290_1851346_2	However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.
 2305.18396_1851452_1	However, these frameworks impose significant overhead when the private inputs are forward propagated through the original LLMs.
@@ -277,10 +227,6 @@
 2305.19223_1852279_1	Many researchers are concerned that AIs and AGIs will harm humans via intentional misuse (AI-misuse) or through accidents (AI-accidents).
 2305.19821_1852877_1	Without requiring any multilingual caption data, we propose LMCap, an image-blind few-shot multilingual captioning model that works by prompting a language model with retrieved captions.
 2306.00190_1853338_3	This study explores the ability of GPT-4 in the contextualization of problems within CTAT, an intelligent tutoring system, aiming to increase student engagement and enhance learning outcomes.
-2306.01495_1854643_4	By tuning human-aware AI to avoid the crowd, we can generate scientifically promising "alien" hypotheses unlikely to be imagined or pursued without intervention until the distant future, which hold promise to punctuate scientific advance beyond questions currently pursued.
-2306.01495_1854643_5	Accelerating human discovery or probing its blind spots, human-aware AI enables us to move toward and beyond the contemporary scientific frontier.
-2306.01798_1854946_5	The study's findings suggest that teachers should be aware of students' purposes for prompting generative-AI tools to provide tailored instructions and scaffolded guidance.
-2306.01879_1855027_7	In fact, we demonstrate that even a "blind" language model that ignores any image evidence can sometimes outperform all prior art, reminiscent of similar challenges faced by the visual-question answering (VQA) community many years ago.
 2306.02592_1855740_3	To address this problem, we propose a framework of graph-aware language model pre-training (GALM) on a large graph corpus, which incorporates large language models and graph neural networks, and a variety of fine-tuning methods on downstream applications.
 2306.02697_1855845_5	The resulting GPT-2-based model stores up to 40% fewer parameters, showing the perplexity comparable to the original model.
 2306.02697_1855845_6	On the downstream tasks, including language understanding and text summarization, the model performs similarly to the original GPT-2 model.
@@ -293,26 +239,21 @@
 2306.10063_1863211_3	Building social generative AI for education will require development of powerful AI systems that can converse with each other as well as humans, construct external representations such as knowledge maps, access and contribute to internet resources, and act as teachers, learners, guides and mentors.
 2306.10063_1863211_6	We need to consider how to design and constrain social generative AI for education.
 2306.10073_1863221_7	We found that the GPT models evolved from completely failing the typical programming class' assessments (the original GPT-3) to confidently passing the courses with no human involvement (GPT-4).
-2306.11698_1864846_5	We also find that although GPT-4 is usually more trustworthy than GPT-3.5 on standard benchmarks, GPT-4 is more vulnerable given jailbreaking system or user prompts, potentially because GPT-4 follows (misleading) instructions more precisely.
 2306.11702_1864850_2	To address this issue, we present Lingua Manga, a user-friendly and versatile system that utilizes pre-trained large language models.
 2306.15559_1868707_4	RansomAI presents an agent that learns the best encryption algorithm, rate, and duration that minimizes its detection (using a reward mechanism and a fingerprinting intelligent detection system) while maximizing its damage function.
 2307.00526_1871522_5	With different hyperparameter choices, the model compressed with our approach can achieve a comparable language task performance to the original model with around $2.0\times$ embedding layer compression.
 2307.01210_1872206_3	It is essential that the medical community be aware of various AI assessments and choose them considering their degrees of validity, efficiency, practicality, reliability, and accuracy concerning the early identification of patients with dementia (PwD).
 2307.04701_1875696_0	  Planning is a pivotal ability of any intelligent system being developed for real-world applications.
 2307.04964_1875959_11	Therefore, we are eager to release technical reports, reward models and PPO codes, aiming to make modest contributions to the advancement of LLMs.
-2307.08041_1879036_2	Despite the limitations, we remain confident in its natural capacity to unify visual and textual representations, facilitating scalable multimodal training with LLM's original recipe.
 2307.08941_1879936_4	By incorporating NTK into the compression process, MLP Fusion not only preserves the original model's output but also maintains its training dynamics.
 2307.10490_1881485_2	When the user asks the (unmodified, benign) model about the perturbed image or audio, the perturbation steers the model to output the attacker-chosen text and/or make the subsequent dialog follow the attacker's instruction.
 2307.11468_1882463_4	In this context, we introduce a novel platform architecture to deploy a zero-touch PAI-as-a-Service (PAIaaS) in 6G networks supported by a blockchain-based smart system.
 2307.12471_1883466_6	This perspective introduces the concept of Neuromorphic Neuromodulation, a new breed of closed-loop responsive feedback system.
 2307.13808_1884803_2	To address this issue, we introduce a simple yet effective semantic-aware watermarking algorithm that considers the characteristics of conditional text generation and the input context.
 2307.15374_1886369_2	Our approach uses a fiber-optic cable to measure vibrations, enabling accurate leak identification and localization by an intelligent algorithm.
-2308.00521_1888413_4	Through SurveyLM, we aim to shed light on factors influencing ALMs' emergent behaviors, facilitate their alignment with human intentions and expectations, and thereby contributed to the responsible development and deployment of advanced social AI systems.
 2308.00521_1888413_5	This white paper underscores the platform's potential to deliver robust results, highlighting its significance to alignment research and its implications for future social AI systems.
 2308.01552_1889444_2	In this approach, we feed ChatGPT with varied prompts, assigning it a numerous roles like a checker and a sorter, then integrating them with the original language model.
 2308.03279_1891171_2	Yet such student models still trail the original LLMs by large margins in downstream applications.
-2308.03688_1891580_0	  Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.
-2308.04451_1892343_5	Our study shows that AI code generators are vulnerable to even a small amount of poison.
 2308.05012_1892904_2	In this paper, we propose leveraging traditional transit CRM feedback to develop and deploy a transit-topic-aware large language model (LLM) capable of classifying open-ended text feedback to relevant transit-specific topics.
 2308.05962_1893854_1	Nevertheless, people are concerned about whether foundation model based AI systems are properly governed to ensure the trustworthiness and to prevent misuse that could harm humans, society and the environment.
 2308.08708_1896600_0	  Whether current or near-term AI systems could be conscious is a topic of scientific interest and increasing public concern.
@@ -324,7 +265,6 @@
 2309.02705_1907509_0	  Large language models (LLMs) are vulnerable to adversarial attacks that add malicious tokens to an input prompt to bypass the safety guardrails of an LLM and cause it to produce harmful content.
 2309.03876_1908680_8	This paper presents OpinionGPT, illustrates how we trained the bias-aware model and showcases the web application (available at https://opiniongpt.informatik.hu-berlin.de).
 2309.03882_1908686_1	This work shows that modern LLMs are vulnerable to option position changes in MCQs due to their inherent "selection bias", namely, they prefer to select specific option IDs as answers (like "Option A").
-2309.05163_1909967_10	However, given the LLMs' considerable proficiency in writing Physics essays and coding abilities, non-invigilated examinations of these skills in Physics are highly vulnerable to automated completion by LLMs.
 2309.05898_1910702_4	Our findings reveal a complex landscape: while GPT-3.5 is highly sensitive to contextual framing, it shows limited ability to engage in abstract strategic reasoning.
 2309.07103_1911907_3	Our goal is to compare the accuracy of Llama-2 and our original GPT-3 baseline by using a similar metric.
 2309.07124_1911928_3	In contrast, aligning frozen LLMs without requiring alignment data is more appealing.
@@ -354,7 +294,6 @@
 2310.05824_1928081_6	Results show that our terminology-aware model learns to incorporate terminologies effectively, and the large language model refinement process can further improve terminology recall.
 2310.05876_1928133_3	We argue that "Property X" characteristics are intrinsically dangerous, and when combined with greater capabilities will result in AI systems for which safety and control is difficult to guarantee.
 2310.06239_1928496_1	Methods We developed a soft prompt-based LLM model and compared 4 training strategies including (1) fine-tuning without prompts; (2) hard-prompt with unfrozen LLMs; (3) soft-prompt with unfrozen LLMs; and (4) soft-prompt with frozen LLMs.
-2310.07676_1929933_1	However, the untrustworthy third-party LLMs may covertly introduce vulnerabilities for downstream tasks.
 2310.07729_1929986_2	To tackle this problem, we design an energy-aware routing algorithm, aiming to minimize the overall mission duration under the energy limitations of both vehicles.
 2310.08256_1930513_2	Our results reveal that LLMs are vulnerable to the co-occurrence bias, defined as preferring frequently co-occurred words over the correct answer.
 2310.08419_1930676_1	However, the alignment of such models is vulnerable to adversarial jailbreaks, which coax LLMs into overriding their safety guardrails.
@@ -383,12 +322,9 @@
 2311.03287_1946254_6	Moreover, GPT-4V(ision) is vulnerable to leading questions and is often confused when interpreting multiple images together.
 2311.03595_1946562_2	But, unlike past technologies, generative AI is creative, cognitive, and potentially ubiquitous which makes the usual assumptions of automation predictions ill-suited for today.
 2311.03920_1946887_1	This paper introduces an intelligent system dedicated to monitoring air quality and categorizing activities within indoor environments using a DL approach based on 1D Convolutional Neural Networks (1D-CNNs).
-2311.04177_1947144_0	  Large Language Models (LLMs) are smart but forgetful.
-2311.07723_1950690_0	  As AI systems become more intelligent and their behavior becomes more challenging to assess, they may learn to game the flaws of human feedback instead of genuinely striving to follow instructions; however, this risk can be mitigated by controlling how LLMs generalize human feedback to situations where it is unreliable.
 2311.08244_1951211_0	  The socially-aware navigation system has evolved to adeptly avoid various obstacles while performing multiple tasks, such as point-to-point navigation, human-following, and -guiding.
 2311.08245_1951212_3	If so, an intelligent HAR system with human-like cognition can be built, capable of adapting to new environments and unseen categories.
 2311.08385_1951352_1	Current methods employ role-playing with personae but face two major issues: LLMs are sensitive to even a single irrelevant persona, skewing predictions by up to 30%, and LLMs fail to reason strategically over personae.
-2311.08487_1951454_2	This conflict renders LLMs vulnerable to adversarial attacks, wherein intensifying the models' desire for continuity can circumvent alignment efforts, resulting in the generation of harmful information.
 2311.08545_1951512_4	Continual pre-trained FinPythia showcases consistent improvements on financial tasks over the original foundational model.
 2311.08877_1951844_4	We then explore using a surrogate confidence model -- using a model where we do have probabilities to evaluate the original model's confidence in a given question.
 2311.09336_1952303_5	Using original LLM as a proposal of edits, LLMRefine searches for defect-less text via simulated annealing, trading off the exploration and exploitation.
@@ -398,7 +334,6 @@
 2311.10421_1953388_4	In this work, we analyze two different anomaly detection model maintenance techniques in terms of the model update frequency, namely blind model retraining and informed model retraining.
 2311.10544_1953511_1	This paper experimentally investigates the mutual coupling effect among RIS elements using a mutual coupling-aware communication model based on scattering matrices.
 2311.10544_1953511_5	Compared to the conventional communication model that does not account for mutual coupling in RIS, the mutual coupling-aware model incorporating trained scattering parameters demonstrates improved prediction accuracy.
-2311.11796_1954763_1	However, despite their utility, these AI systems are vulnerable to a wide range of attacks such as adversarial, backdoor, data poisoning, membership inference, model inversion, and model stealing attacks.
 2311.12990_1955957_6	Results show that GPT-4V's average scoring accuracy was mean =.51, SD = .037.
 2311.13057_1956024_1	On one hand, writers are concerned that LLMs will deprive them of agency and ownership, and readers are concerned about spending their time on text generated by soulless machines.
 2311.13445_1956412_3	LLMs can also be vulnerable to the same adversarial perturbations but a detailed study on this concern has been lacking so far.
@@ -411,10 +346,8 @@
 2311.18251_1961218_6	We define such essential knowledge as the \textit{common ground} between chatbots and their owners, and we propose to build a common-ground-aware dialogue system from an LLM-based module, named \textit{OS-1}, to enable chatbot companionship.
 2311.18762_1961729_5	The results reveal that while the proposed PASCAL system can be sensitive to gain-phase imperfections, it remains to be a powerful and efficient means to achieve reliable simultaneous localisation and communications.
 2312.01532_1963340_5	Lab and field testing on two eye-gaze typing users with amyotrophic lateral sclerosis (ALS) demonstrated text-entry rates 29-60% faster than traditional baselines, due to significant saving of expensive keystrokes achieved through phrase and word predictions from context-aware LLMs.
-2312.02051_1963859_0	  This work proposes TimeChat, a time-sensitive multimodal large language model specifically designed for long video understanding.
 2312.03755_1965563_6	Our framework integrates (1) a hierarchical casualty extraction model built upon large language models, prompt design, and few-shot learning to retrieve quantitative human loss claims from social media, (2) a physical constraint-aware, dynamic-truth discovery model that discovers the truthful human loss from massive noisy and potentially conflicting human loss claims, and (3) a Bayesian updating loss projection model that dynamically updates the final loss estimation using discovered truths.
 2312.04590_1966398_0	  Artificial Intelligence (AI) models are vulnerable to information leakage of their training data, which can be highly sensitive, for example in medical imaging.
-2312.04828_1966636_1	However, identifying the original base model of an LLM is challenging due to potential parameter alterations.
 2312.05320_1967128_2	The present study makes a first attempt to use denoising diffusion probabilistic models (DDPMs) to train an uncertainty-aware surrogate model for turbulence simulations.
 2312.10766_1972574_1	However, current LLM systems are vulnerable to prompt-based attacks, with jailbreaking attacks enabling the LLM system to generate harmful content, while hijacking attacks manipulate the LLM system to perform attacker-desired tasks, underscoring the necessity for detection tools.
 2312.10770_1972578_3	After fine-tuning the ESM model for the task of enzyme sequence classification, we compare two knowledge neuron selection methods that preserve a subset of neurons from the original model.
@@ -423,14 +356,12 @@
 2312.13435_1975243_0	  Despite considerable efforts on making them robust, real-world AI-based systems remain vulnerable to decision based attacks, as definitive proofs of their operational robustness have so far proven intractable.
 2312.14480_1976288_2	Previous research has primarily focused on patching system vulnerabilities to enhance cybersecurity, but these approaches are not well-suited to the Metaverse, where the virtual space is more complex, LLMs are vulnerable, and ethical user interaction is critical.
 2312.15524_1977332_1	We identify a fundamental challenge in using them to simulate experiments: when LLM-simulated subjects are blind to the experimental design (as is standard practice with human subjects), variations in treatment systematically affect unspecified variables that should remain constant, violating the unconfoundedness assumption.
-2312.15710_1977518_2	We first construct a factually weak LLM by inducing hallucinations from the original LLMs.
 2312.15710_1977518_4	Concretely, we determine the final next-token predictions by amplifying the predictions from the original model and downplaying the induced untruthful predictions via contrastive decoding.
 2312.15880_1977688_5	Finally, KnowledgeNavigator constructs the structured knowledge into effective prompts that are friendly to LLM to help its reasoning.
 2312.17240_1979048_6	Comparative analysis with the original LISA model shows significant advancements in these areas, positioning LISA++ as a notable upgrade in visual understanding and interaction.
 2401.00283_1979839_5	Finally, some promising research avenues are identified, including stratospheric satellite (StratoSat) -to-ground direct links for mobile terminals, reconfigurable multiple-input multiple-output (MIMO) and holographic MIMO, federated learning in NS-COM networks, maritime communication, electromagnetic spectrum sensing and adversarial game, integrated sensing and communications, StratoSat-based radar detection and imaging, NS-COM assisted enhanced global navigation system, NS-COM assisted intelligent unmanned system and free space optical (FSO) communication.
 2401.01291_1980847_4	We find that use of generative AI systems is already widespread: 45% of respondents were aware of generative AI usage within their area of work, while 22% actively use a generative AI system.
 2401.01325_1980881_5	The two-level attentions are computed based on the original model's self-attention mechanism during inference.
-2401.01623_1981179_2	In this paper, we prove in theory that AI can be as creative as humans under the condition that it can properly fit the data generated by human creators.
 2401.02596_1982152_2	In this paper, a novel explicit Euler-type scheme is proposed, which is easily implementable and able to preserve positivity of the original model unconditionally, i.e., for any time step-size $h >0$.
 2401.03676_1983232_0	  Educators are increasingly concerned about the usage of Large Language Models (LLMs) such as ChatGPT in programming education, particularly regarding the potential exploitation of imperfections in Artificial Intelligence Generated Content (AIGC)
 2401.04700_1984256_5	Our analysis reveals that the side effects are caused by model editing altering the original model weights excessively, leading to overfitting to the edited facts.
@@ -441,7 +372,6 @@
 2401.10360_1989914_1	A secret key is required to extract the payload from the model's response, and without the key it is provably impossible to distinguish between the responses of the original LLM and the LLM that hides a payload.
 2401.10727_1990281_4	Therefore, in this paper, we propose MLLM-Tool, a system incorporating open-source LLMs and multi-modal encoders so that the learned LLMs can be conscious of multi-modal input instruction and then select the function-matched tool correctly.
 2401.11053_1990607_4	Specifically, to enable streaming capability, StreamVoice employs a fully causal context-aware LM with a temporal-independent acoustic predictor, while alternately processing semantic and acoustic features at each time step of autoregression which eliminates the dependence on complete source speech.
-2401.11181_1990735_7	Finally, it uses a smart two-level scheduling algorithm augmented with predicted resource usage to avoid decode scheduling hotspots.
 2401.11240_1990794_7	Moreover, CaraServe employs a rank-aware scheduling algorithm to optimally schedule heterogeneous LoRA requests for maximum service-level objective (SLO) attainment.
 2401.11624_1991178_1	However, the model's ability to perform ICL is sensitive to the choice of the few-shot demonstrations.
 2401.12192_1991746_5	Our findings suggest that multilingual LLMs may be more vulnerable to inversion attacks, in part because English-based defences may be ineffective.
@@ -461,19 +391,14 @@
 2402.04396_2002035_5	Third, QuIP# uses fine-tuning to improve fidelity to the original model.
 2402.04616_2002255_0	  Transferring the reasoning capability from stronger large language models (LLMs) to smaller ones has been quite appealing, as smaller LLMs are more flexible to deploy with less expense.
 2402.05147_2002786_4	This approach ensures the maintenance of the original LLM's activation precision while mitigating the error propagation from shallower into deeper layers.
-2402.05827_2003466_0	  Large language models (LLMs) have played a pivotal role in building communicative AI, yet they encounter the challenge of efficient updates.
-2402.05827_2003466_3	This work seeks to understand the strengths and limitations of editing methods, facilitating practical applications of communicative AI.
-2402.05827_2003466_5	RQ1: Can edited LLMs behave consistently resembling communicative AI in realistic situations?
 2402.06673_2004312_3	The paper further investigates the potential convergence of XAI with cognitive sciences, the development of emotionally intelligent AI, and the quest for Human-Like Intelligence (HLI) in AI systems.
-2402.09442_2007081_0	  In the era of Internet of Things, how to develop a smart sensor system with sustainable power supply, easy deployment and flexible use has become a difficult problem to be solved.
-2402.09442_2007081_7	Therefore, this paper is based on the intelligent sound monitoring and recognition system of TENG, which has good sound recognition capability, and aims to evaluate the feasibility of the sound perception module architecture in ubiquitous sensor networks.
+2402.09442_2007081_7	Therefore, this paper is based on the intelligent sound monitoring and recognition system of TENG, which has good sound recognition capability, and aims to evaluate thefeasibility of the sound perception module architecture in ubiquitous sensor networks.
 2402.09674_2007313_1	While techniques like safety fine-tuning aim to minimize harmful use, recent works have shown that LLMs remain vulnerable to attacks that elicit toxic responses.
 2402.09733_2007372_1	This research aims to see if, how, and to what extent LLMs are aware of hallucination.
 2402.09773_2007412_9	In LLaMA-7B zero-shot experiments, NutePrune retains 97.17% of the performance of the original model at 20% sparsity and 95.07% at 25% sparsity.
 2402.10601_2008240_7	Our experiments reveal a critical trade-off: LLMs that are more capable of decoding ciphers are more vulnerable to these jailbreaking attacks, with success rates on GPT-4o escalating from 40% under ACE to 78% with LACE.
 2402.10669_2008308_4	Results show that human and LLM judges are vulnerable to perturbations to various degrees, and that even the cutting-edge judges possess considerable biases.
 2402.11187_2008826_4	We also conduct post-training experiments to confirm that the \textit{LaCo} effectively inherits the parameters of the original model.
-2402.11251_2008890_1	However, a critical question emerges: Are LLMs conscious of the existence of these decoding strategies and capable of regulating themselves?
 2402.11734_2009373_6	Our experiments show that LLM performance is indeed sensitive to the amount of data passed in the prompt, and that for tasks with a lot of syntactic variation in the input table, our cluster-then-select technique outperforms a random selection baseline.
 2402.12291_2009930_3	To give the first evidence that such schedulers enhance student learning, we build KARL, a simple but effective content-aware student model employing deep knowledge tracing (DKT), retrieval, and BERT to predict student recall.
 2402.12336_2009975_6	In particular, we show that stealth-attacks on users of LVLMs by a malicious third party providing manipulated images are no longer possible once one replaces the original CLIP model with our robust one.
@@ -497,7 +422,6 @@
 2403.01641_2018760_5	AIO2 utilizes a mean teacher model to enhance training robustness with noisy labels to both stabilize the training accuracy curve for fitting in ACT and provide pseudo labels for correction in O2C. Moreover, O2C is implemented online without the need to store updated labels every training epoch.
 2403.02691_2019810_7	We evaluate 30 different LLM agents and show that agents are vulnerable to IPI attacks, with ReAct-prompted GPT-4 vulnerable to attacks 24% of the time.
 2403.02775_2019894_8	With these methods, we surprisingly find that EasyQuant achieves comparable performance to the original model.
-2403.03230_2020349_6	Like human experts, when LLMs were confident in their predictions, they were more likely to be correct, which presages a future where humans and LLMs team together to make discoveries.
 2403.03506_2020625_4	Therefore, our study utilizes the CoAuthor dataset, which includes diverse, realistic hybrid texts generated through the collaboration between human writers and an intelligent writing system in multi-turn interactions.
 2403.04783_2021902_0	  Despite extensive pre-training in moral alignment to prevent generating harmful information, large language models (LLMs) remain vulnerable to jailbreak attacks.
 2403.04797_2021916_5	Notably, Ms-PoE achieves an average accuracy gain of up to 3.8 on the Zero-SCROLLS benchmark over the original LLMs.
@@ -549,7 +473,6 @@
 2404.15206_2052657_2	We compare 10 instruction-tuned LLaMA models to the original LLaMA-7b model and show that almost across-the-board they become more consistent, both in terms of their representations and their predictions in zero-shot and downstream tasks.
 2404.16283_2053734_3	Based on this, we propose Andes, a QoE-aware LLM serving system that enhances user experience by ensuring that users receive the first token promptly and subsequent tokens at a smooth, digestible pace, even during surge periods.
 2404.16369_2053820_1	Despite their ability to recognize and avoid harmful queries, LLMs are vulnerable to jailbreaking attacks, where carefully crafted prompts seduce them to produce toxic content.
-2404.16873_2054324_0	  While recently Large Language Models (LLMs) have achieved remarkable successes, they are vulnerable to certain jailbreaking attacks that lead to generation of inappropriate or harmful content.
 2404.17808_2055259_1	Despite its wide adoption, the original BPE algorithm harbors an inherent flaw: it inadvertently introduces a frequency imbalance for tokens in the text corpus.
 2404.18373_2055824_2	This paper proposes a network performance optimization and intelligent operation network architecture based on Large Language Model (LLM), aiming to build a comprehensive intelligent 6G network system.
 2404.18373_2055824_4	This paper also presents the design framework of a network health assessment system based on LLM and focuses on its potential application value, through the case of network health management system, it is fully demonstrated that the 6G intelligent network system based on LLM has important practical significance for the comprehensive realization of intelligence.
@@ -560,13 +483,11 @@
 2405.02466_2059678_4	Current intellectual property (IP) protection schemes for LLMs are either designed for white-box settings or require additional modifications to the original model, which restricts their use in real-world settings.   
 2405.02466_2059678_6	ProFLingo generates queries that elicit specific responses from an original model, thereby establishing unique fingerprints.
 2405.02466_2059678_7	Our scheme assesses the effectiveness of these queries on a suspect model to determine whether it has been derived from the original model.
-2405.03000_2060212_2	Instead of fine-tuning the entire LLM, MedAdapter effectively adapts the original model by fine-tuning only a small BERT-sized adapter to rank candidate solutions generated by LLMs.
 2405.05039_2062251_8	We also address ethical and legal concerns regarding the use of creative AI that impact on artists, actors, technologists and the general public.
 2405.05154_2062366_1	As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI.
 2405.05466_2062678_3	One model in each pair is consistently benign (aligned).
 2405.05741_2062953_10	By highlighting the above critical shortcomings, this research motivates further investigation and offers novel insights for developing more intelligent LLMs.
 2405.06424_2063636_2	To address this issue, we propose a novel Uncertainty-aware Reward Model (URM) that introduces a robust uncertainty estimation for the quality of paired responses based on Bayesian approximation.
-2405.06715_2063927_2	However, whether the same strategies can help LLMs become more creative remains under-explored.
 2405.07773_2064985_2	In this work, we retroactively try to provide an account of what constitutes a human-aware AI system.
 2405.07773_2064985_3	We see that human-aware AI is a design oriented paradigm, one that focuses on the need for modeling the humans it may interact with.
 2405.08151_2065363_1	However, LLM is sensitive to the selection of demonstrations.
@@ -574,13 +495,10 @@
 2405.09763_2066975_0	  This paper introduces Fusion Intelligence (FI), a bio-inspired intelligent system, where the innate sensing, intelligence and unique actuation abilities of biological organisms such as bees and ants are integrated with the computational power of Artificial Intelligence (AI).
 2405.12550_2069762_9	Lastly, we are extensively concerned about the open research challenges and potential future guidelines based on BC-based AI approaches in the intelligent IIoT system.
 2405.13012_2070224_5	Our quantitative benchmarking framework opens up new paths for the development of more creative LLMs, but it also encourages more granular inquiries into the distinctive elements that constitute human inventive thought processes, compared to those that can be artificially generated.
-2405.13024_2070236_0	  This study explores the integration of the ChatGPT API with GPT-4 model and Microsoft Copilot Studio on the Microsoft Teams platform to develop an intelligent tutoring system.
-2405.13358_2070570_8	This minimization ensures the quantized model retains the Shannon information content of the original model to a great extent, guaranteeing efficient deployment without sacrificing accuracy or information.
 2405.13581_2070793_1	However, existing research shows that the visual modality of VLMs is vulnerable, with attackers easily bypassing LLMs' safety alignment through visual modality features to launch attacks.
 2405.14917_2072129_7	Comprehensive experiments show that SliM-LLM significantly improves the accuracy of LLMs at ultra-low bits, e.g., 2-bit LLaMA-7B achieves a 5.5-times memory-saving than original model on NVIDIA A800 GPUs, and 48% decrease of perplexity compared to the state-of-the-art gradient-free PTQ method.
 2405.15589_2072801_0	  Large language models (LLMs) are vulnerable to adversarial attacks that can bypass their safety guardrails.
 2405.16241_2073453_5	FastQuery features a communication-aware embedding table quantization algorithm and a one-hot-aware dense packing algorithm to simultaneously reduce both the computation and communication costs.
-2405.16310_2073522_7	These relationships were found to be central to the development and adoption of LLMs, but they can also be the terrain for uncalibrated trust and reliance on untrustworthy LLMs.
 2405.16833_2074045_6	Our extensive experiments demonstrate that when fine-tuning on purely malicious data, Safe LoRA retains similar safety performance as the original aligned model.
 2405.17374_2074586_3	We discover a new phenomenon observed universally in the model parameter space of popular open-source LLMs, termed as "safety basin": random perturbations to model weights maintain the safety level of the original aligned model within its local neighborhood.
 2405.18137_2075349_2	We reveal that widely used quantization methods can be exploited to produce a harmful quantized LLM, even though the full-precision counterpart appears benign, potentially tricking users into deploying the malicious quantized model.
@@ -591,7 +509,6 @@
 2405.19631_2076843_6	Here, we introduce an intelligent routing system for SDOH coding that uses a language model router to direct medical record data to open source LLMs that demonstrate optimal performance on specific SDOH codes.
 2405.19631_2076843_7	The intelligent routing system exhibits state of the art performance of 97.4% accuracy averaged across 5 codes, including homelessness and food insecurity, on par with closed models such as GPT-4o.
 2405.20015_2077227_4	Compared to direct LLM-jailbreaking, our approach is more efficient, as MLLMs are more vulnerable to jailbreaking than pure LLM.
-2405.20189_2077401_0	  In this work, we describe our approach to developing an intelligent and robust social robotic system for the Nadine social robot platform.
 2405.20654_2077866_1	Although these methods have demonstrated promising results, the performance is notably sensitive to the human-written prompt (or hard prompt), and fine-tuning LLMs can be computationally intensive and time-consuming.
 2405.20681_2077893_7	Various randomization approaches have been proposed to protect prompts' privacy, but they may incur utility loss compared to unprotected LLMs prompting.
 2405.20701_2077913_2	In this paper, we reveal that LLMs are over-sensitive to lexical variations in task instructions, even when the variations are imperceptible to humans.
@@ -615,7 +532,6 @@
 2406.07056_2085344_7	We demonstrate that our method can compress half or even three-quarters of KV heads while maintaining performance comparable to the original LLMs, which presents a promising direction for more efficient LLM deployment in resource-constrained environments.
 2406.07549_2085837_4	Thus, we propose A3VLM, an object-centric, actionable, articulation-aware vision language model.
 2406.07739_2086027_3	Our method starts with an existing LLM and iteratively produces improved models by self-generating a large synthetic dataset using an original model, applying automated tools to aggressively filter, score, and de-duplicate the data into a refined higher quality dataset.
-2406.07739_2086027_4	The original LLM is improved by finetuning on this refined dataset.
 2406.10099_2088387_9	Specifically, it achieves a substantial improvement of up to 34.7% in handling questions involving knowledge gaps compared to the original model.
 2406.10248_2088536_0	  The performance of large language models (LLMs) is acutely sensitive to the phrasing of prompts, which raises significant concerns about their reliability in real-world scenarios.
 2406.10251_2088539_2	Since LLM abilities emerge with scale, smaller LLMs are more sensitive to quantization.
@@ -636,8 +552,6 @@
 2406.16356_2094644_1	While providing instructions to LLMs for guiding their generations is user-friendly, assessing their instruction-following capabilities is still unclarified due to a lack of evaluation metrics.
 2406.16772_2095060_0	  In this report, we pose the following question: Who is the most intelligent AI model to date, as measured by the OlympicArena (an Olympic-level, multi-discipline, multi-modal benchmark for superintelligent AI)?
 2406.17415_2095703_4	Finally, we present several practical key takeaways from our variable layer-wise quantization experiments: (a) LLM performance under variable quantization remains close to the original model until 25-50% of layers are moved in lower quantization using our proposed ordering but only until 5-10% if moved using no specific ordering; (b) Adding layer importance to inherently dynamic quantization techniques can further improve their performance, showing that our approach is complementary to other dynamic quantization methods; (c)
-2406.18326_2096614_4	Our method constructs a counterpart for each piece of data with the same distribution, and performs statistical analysis of the corresponding confidence to test whether the model is significantly more confident under the original benchmark.
-2406.18616_2096904_3	However, code generated by LLMs is often unreliable.
 2406.18695_2096983_3	It uses a trained adaptation model to perform a seq2seq mapping from the often-imperfect reasonings of the original black-box LLM to the correct or improved reasonings.
 2406.19384_2097672_1	We find that deleting and swapping interventions retain 72-95\% of the original model's prediction accuracy without fine-tuning, whereas models with more layers exhibit more robustness.
 2406.19759_2098047_5	The results show that after PPA, models consistently outperform the original model (up to 50% for some tasks) in English-centric transfer.
@@ -658,14 +572,10 @@
 2407.09164_2107551_1	Unfortunately, a few pioneering works revealed that these Code LLMs are vulnerable to backdoor and adversarial attacks.
 2407.09493_2107880_1	People have intuitively started ascribing emotions or consciousness to social AI ('affective artificial agents'), with consequences that range from love to suicide.
 2407.09493_2107880_6	This sheds light on the misguided functionalist temptation inherent in moving from equating the two to the ascription of psychological predicates to social AI.
-2407.09517_2107904_4	Our assessment is that, while GPT-4 in its native configuration is not currently conscious, current technological research and development is sufficient to modify GPT-4 to have all the building blocks of consciousness.
-2407.09517_2107904_5	Consequently, we argue that the emergence of a conscious AI model is plausible in the near term.
 2407.11059_2109446_5	Our experiments show that we are rarely able to reconstruct the exact input of an arbitrary output, thus demonstrating that LLMs are still vulnerable to slander attacks.
-2407.11789_2110176_2	We investigate the ability of LLMs to be deceptive in the context of providing assistance on a reading comprehension task, using LLMs as proxies for human users.
 2407.11789_2110176_5	We also find that providing the user model with additional context from the passage partially mitigates the influence of the deceptive model.
 2407.11888_2110275_2	The AI models and the data are often highly sensitive and come from mutually distrusting parties.
 2407.13072_2111459_5	We welcome the ICO call for evidence on the accuracy of Generative AI, and we are happy to highlight aspects of data protection law and AI regulation that we believe should receive attention.
-2407.13164_2111551_3	This is in part because LLMs might be overly confident in their predictions, overriding the influence of the constraints.
 2407.14916_2113303_6	We use our datasets to (1) show that existing preference models benefit from, but fail to fully consider, added context, (2) finetune a context-aware reward model with context-specific performance exceeding that of GPT-4 and Llama 3 70B on tested datasets, and (3) investigate the value of context-aware preference modeling.
 2407.15568_2113955_9	AgileGen, as a user-friendly interactive system, significantly outperformed existing best methods by 16.4% and garnered higher user satisfaction.
 2407.16994_2115381_1	This paper proposes a new method for preventing unsafe or otherwise low quality large language model (LLM) outputs, by leveraging the stochasticity of LLMs.
@@ -675,7 +585,6 @@
 2407.21092_2119479_4	We argue that the zero points of the entropy function and the points where the entropy is close to 0 are the key obstacles for an LLM to approximate an intelligent language model, which explains why good LLMs need billions of parameters.
 2408.00024_2120205_1	We examined the impact of deceptive AI generated explanations on individuals' beliefs in a pre-registered online experiment with 23,840 observations from 1,192 participants.
 2408.00722_2120903_2	However, LLMs are vulnerable to data and model privacy issues that affect the trustworthiness of LLMs to be deployed for user-based services.
-2408.01168_2121349_3	The paper argues that current LLM architectures are inherently untrustworthy due to their reliance on correlations of sequential patterns of word embedding vectors.
 2408.01458_2121639_3	We find that public surveys on AI topics are vulnerable to specific Western knowledge, values, and assumptions in their design, including in their positioning of ethical concepts and societal values, lack sufficient critical discourse surrounding deployment strategies, and demonstrate inconsistent forms of transparency in their reporting.
 2408.02416_2122597_7	We find that current LLMs, even those with safety alignments like GPT-4, are highly vulnerable to prompt extraction attacks, even under the most straightforward user attacks.
 2408.03094_2123275_4	It is designed to compress any text, answer various types of questions, and could be utilized by the original large language model (LLM) without requiring fine-tuning.
@@ -688,7 +597,6 @@
 2408.06837_2127018_0	  Large Language Models (LLMs) have been adopted for a variety of visualizations tasks, but how far are we from perceptually aware LLMs that can predict human takeaways?
 2408.06999_2127180_0	  This paper presents the use of robust model predictive control for the design of an intent-aware collision avoidance system for multi-agent aircraft engaged in horizontal maneuvering scenarios.
 2408.07224_2127405_1	As a group of experimental musicians and researchers, we are enthusiastic about the creative potential of these tools and have sought to understand and evaluate them from perspectives of prompt creation, control, usability, understandability, explainability of the AI process, and overall aesthetic effectiveness of the results.
-2408.08878_2129059_6	Integrating LLMs into KE tasks needs to be mindful of potential risks and harms related to responsible AI.
 2408.08924_2129105_1	However, research indicates that LLMs are vulnerable to jailbreak attacks, where adversaries can induce the generation of harmful content through meticulously crafted prompts.
 2408.10159_2130340_1	Leveraging the strengths of Large Language Models (LLMs) in knowledge comprehension and reasoning, recent approaches are eager to apply LLMs to sequential recommendation.
 2408.10642_2130823_5	In this article with insight from DPO and MinorDPO, we propose a training metric for SFT to measure the discrepancy between the optimized model and the original model, and a loss function MinorSFT that can increase the training effectiveness, and reduce the discrepancy between the optimized LLM and original LLM.
@@ -715,16 +623,12 @@
 2409.11057_2148689_5	Compared to the original model, KVPruner reduces runtime memory usage by 50% and boosts throughput by over 35%.
 2409.11411_2149043_4	To address these challenges, this paper introduces AIvril, an advanced framework designed to enhance the accuracy and reliability of RTL-aware LLMs.
 2409.13537_2151169_2	To address this problem, we propose ShizishanGPT, an intelligent question answering system for agriculture based on the Retrieval Augmented Generation (RAG) framework and agent architecture.
-2409.13588_2151220_7	We find that when using AI assistance, participants reported a less demanding workload, felt more confident, and produced higher quality pipelines evaluating LLM behavior.
 2409.13708_2151340_3	We examine how a language's level of resourcing relates to how vulnerable LLMs are to multilingual jailbreaks in that language.
 2409.13710_2151342_5	We demonstrate that this LN-free model achieves similar performance to the original model on the OpenWebText and ThePile datasets (-0.05 cross-entropy loss), and the Hellaswag benchmark (-0.5% accuracy).
 2409.14866_2152498_0	  Large Language Models (LLMs) have excelled in various tasks but are still vulnerable to jailbreaking attacks, where attackers create jailbreak prompts to mislead the model to produce harmful or offensive content.
-2409.15293_2152925_6	A novel implementation is proposed to create an intelligent team optimization algorithm.
-2409.16708_2154340_5	Participants with more technical knowledge of AI were more confident but less precise in judging their own performance.
 2409.17372_2155004_4	In this paper, we propose a training-free architecture search framework to identify optimal subnets that preserve the fundamental strengths of the original LLMs while achieving inference acceleration.
 2409.17372_2155004_5	Furthermore, after generating subnets that inherit specific weights from the original LLMs, we introduce a reformation algorithm that utilizes the omitted weights to rectify the inherited weights with a small amount of calibration data.
 2409.17458_2155090_8	Our experiments reveal that all LLMs are vulnerable to RED QUEEN ATTACK, reaching 87.62% attack success rate on GPT-4o and 75.4% on Llama3-70B. Further analysis reveals that larger models are more susceptible to the RED QUEEN ATTACK, with multi-turn structures and concealment strategies contributing to its success.
-2409.18695_2156327_3	We hope that our work serves as a strong starting point, helping to realize more intelligent AI and promoting the advancement of human science and technology, as well as societal development.
 2409.20089_2157721_0	  Large language models (LLMs) are vulnerable to adversarial attacks that can elicit harmful responses.
 2410.00359_2158560_3	The core idea of this work is to maintain states based on the LLM's response, letting the LLM become self-aware of current status and think step by step in a multi-round chain-of-thought paradigm.
 2410.00423_2158624_1	However, when LLMs face different types of questions, it is worth exploring whether LLMs are aware that some questions have limited answers and need to respond more deterministically but some do not.
@@ -776,7 +680,6 @@
 2410.19925_2178126_0	  Generative large language models (LLMs) exhibit impressive capabilities, which can be further augmented by integrating a pre-trained vision model into the original LLM to create a multimodal LLM (MLLM).
 2410.19925_2178126_1	However, this integration often significantly decreases performance on natural language understanding and generation tasks, compared to the original LLM.
 2410.20856_2179057_6	We propose a graph-aware LLM for traffic prediction that considers proximal traffic information.
-2410.21091_2179292_6	This work demonstrates the viability and interaction potential of an intelligent multimodal interactive system powered by large laguage models.
 2410.21337_2179538_1	However, LLMs applications are highly vulnerable to prompt injection attacks, which poses a critical problem.
 2410.21802_2180003_5	Our goal is to maintain the generalization of the CLIP model and enhance its adversarial robustness: The Attention Refinement module aligns the text-guided attention obtained from the target model via adversarial examples with the text-guided attention acquired from the original model via clean examples.
 2410.22143_2180344_1	Although large language models (LLMs) are typically aligned, they remain vulnerable to jailbreaking through either carefully crafted prompts in natural language or, interestingly, gibberish adversarial suffixes.
@@ -793,7 +696,6 @@
 2411.04444_2186871_8	However, 13 out of the 176 solutions suggested by ChatGPT and 9 out of the 137 solutions suggested by Gemini were unsafe in that they either changed the functionality of the source code or introduced syntax errors, which indicate the risk of LLM-based refactoring.
 2411.04799_2187226_6	(3) Convert original LLMs into State-Transition Reasoners via a curricular training strategy.
 2411.05345_2187772_4	It shows that LLMs are sensitive to minimal adversarial typographical changes.
-2411.05653_2188080_8	Whereas persona did not affect the tendency to ask for help, participants were generally more confident in the answer when they had help of the LLM.
 2411.06024_2188451_3	At its core, TourSynbio-Search employs an intelligent agent system that interprets natural language queries, optimizes search parameters, and executes search operations across major platforms including UniProt, PDB, ArXiv, and BioRxiv.
 2411.07336_2189763_1	An intelligent system should perform set operations consistently, regardless of superficial variations in the operands.
 2411.07990_2190417_9	Furthermore, GPT-J's behavior is sensitive to the individual word frequencies, even for regular forms, a behavior that is consistent with an analogical account of regular forms but not a rule-based one.
@@ -806,7 +708,6 @@
 2411.12701_2195128_0	  Large Language Models (LLMs) are known to be vulnerable to backdoor attacks, where triggers embedded in poisoned samples can maliciously alter LLMs' behaviors.
 2411.12951_2195378_4	Our results reveal that current Video-LLMs are sensitive to variations in video contents, language queries, and task settings, unveiling severe deficiencies in maintaining consistency.
 2411.14033_2196460_4	As a natural trend of development, the tools for calling are becoming autonomous agents, thus the full intelligent system turns out to be a LLM-based Multi-Agent System (LaMAS).
-2411.14133_2196560_0	  Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs.
 2411.15525_2197952_7	Botfip-LLM not only improves performance, generalization, and extrapolation over the original Botfip model but also significantly enhances applicability to Formula String-related tasks, enabling more diverse task handling.
 2411.16313_2198740_5	Moreover, it further designs a cost-aware offline reinforcement learning algorithm to fine-tune the LLM to optimize the performance-cost trade-off in tool planning.
 2411.18424_2200851_9	To respond, we introduce FastSwitch, a fairness-aware serving system that not only aligns with existing KV cache memory allocation policy but also mitigates context switching overhead.
@@ -834,9 +735,7 @@
 2412.09029_2211407_4	Among these changes is a new visual guide that moves beyond the original traffic light system and utilises a neutral colour palette that avoids implied hierarchies between the levels.
 2412.09632_2212010_4	The second method, an information leakage study, seeks to ascertain whether LLMs are aware of the information held in the datasets published on the UK government's open data initiative data$.$gov$.$uk.
 2412.10513_2212891_2	A key challenge of this approach is determining how accurately the extracted decision tree represents the original model and to what extent it can be trusted as an approximation of their behavior.
-2412.11494_2213872_2	Many works leverage traditional compression approaches to boost model inference, but these always introduce additional training costs to restore the performance and the pruning results typically show noticeable performance drops compared to the original model when aiming for a specific level of acceleration.
 2412.12464_2214842_5	To address these challenges, we propose a LLM's Intuition-aware Knowledge graph Reasoning model (LIKR).
-2412.12563_2214941_4	Additionally, we show our method is robust to both downstream fine-tuning, fine-pruning, and layer removal attacks, and can be trained in a fraction of the time required to train the original model.
 2412.13879_2216257_0	  Large Language Models (LLMs) have demonstrated remarkable performance across diverse tasks yet still are vulnerable to external threats, particularly LLM Denial-of-Service (LLM-DoS) attacks.
 2412.16325_2218703_1	As AI systems increasingly make critical decisions, deceptive AI poses a significant challenge to trust and safety.
 2412.16565_2218943_7	Finally, we develop the distance-aware transfer learning algorithm based on the DMTSSL algorithm to handle the dynamic scenario with negligible computation cost.
@@ -853,11 +752,8 @@
 2501.03012_2226596_6	These shift vectors allow us to recover fine-tuned concepts by shifting those in the original model.
 2501.03272_2226856_1	However, recent studies have revealed that these models are vulnerable to backdoor attacks, where even a small number of malicious samples can successfully embed backdoor triggers into the model.
 2501.04156_2227740_3	These insights informed the design of AdaptiveCoPilot, which integrates cognitive state assessments, behavioral data, and adaptive strategies within a context-aware Large Language Model (LLM).
-2501.05454_2229038_1	Today's AI systems consistently state, "I am not conscious."
 2501.06607_2230191_2	The AI Drawing Partner is an early example of a quantified co-creative AI system that automatically models the co-creation that happens on the system.
-2501.06781_2230365_0	  AI Agent, powered by large language models (LLMs) as its cognitive core, is an intelligent agentic system capable of autonomously controlling and determining the execution paths under user's instructions.
 2501.06807_2230391_5	Hence, MPCache combines a look-once static eviction algorithm to discard unimportant tokens and a query-aware dynamic selection algorithm to further select a small subset of tokens for attention computation.
-2501.07290_2230874_1	Conscious AI systems would arguably deserve moral consideration, and it may be the case that large numbers of conscious systems could be created and caused to suffer.
 2501.09775_2233359_6	The results of the evaluation of questions on a wide range of topics in seven different models show that LLMs are more confident in their answers when they provide reasoning before the answer.
 2501.10200_2233784_9	Additionally, our feature-based analysis shows that all tools are primarily affected by the complexity and internal dependencies of the class under test (CUT), with LLM-based approaches being especially sensitive to the CUT size.
 2501.13115_2236699_2	In this paper, we first point out a novel perspective for jailbreak attacks: LLMs are more responsive to $\textit{positive}$ prompts.
@@ -886,7 +782,6 @@
 2502.00158_2243149_7	In the inference stage, LOKA retrieves the most relevant memory from the codebook and plugs it into the original LLM to apply the updated knowledge.
 2502.00311_2243302_5	Our approach leverages inherent sparsity in gradients to compress optimizer states by projecting them onto a low-dimensonal subspace, with dimensionality independent of the original model's parameters.
 2502.00674_2243665_7	We confirm that the MoA performance is rather sensitive to the quality, and mixing different LLMs often lowers the average quality of the models.
-2502.00735_2243726_1	While LLMs have demonstrated outstanding performance in understanding and generating contexts for different scenarios, they are vulnerable to prompt-based attacks, which are mostly via text input.
 2502.01344_2244335_6	Specifically, PSSD leverages the recent multi-agent paradigm, and is further enhanced with three innovatively conceived roles: (1) the intuition-based id role that provides initial attempts based on benign LLMs; (2) the rule-driven superego role that summarizes rules to regulate the above attempts, and returns specific key points as guidance; and (3) the script-centric ego role that absorbs all procedural information to generate executable script for the final answer prediction.
 2502.02821_2245812_0	  This paper presents a novel AI-based smart traffic management system de-signed to optimize traffic flow and reduce congestion in urban environments.
 2502.02960_2245951_1	However, LLMs are increasingly vulnerable to a range of adversarial attacks that threaten their privacy, reliability, security, and trustworthiness.
@@ -913,7 +808,6 @@
 2502.13632_2256623_6	We evaluate CLs across multiple tasks, demonstrating that they maintain the original model's performance and agreement while enabling meaningful interventions.
 2502.13946_2256937_0	  The safety alignment of large language models (LLMs) remains vulnerable, as their initial behavior can be easily jailbroken by even relatively simple attacks.
 2502.14074_2257065_4	We find that LLM judges exhibit non-transitive preferences, leading to rankings that are sensitive to the choice of the baseline model.
-2502.14502_2257493_7	In addition, we found that the model becomes more confident and refuses to provide an answer in only few cases.
 2502.14592_2257583_5	We find that, while edtech providers focus primarily on mitigating technical harms, i.e., those that can be measured based solely on LLM outputs themselves, educators are more concerned about harms that result from the broader impacts of LLMs, i.e., those that require observation of interactions between students, educators, school systems, and edtech to measure.
 2502.14847_2257838_5	Our comprehensive evaluation across various frameworks, communication structures, and real-world applications demonstrates that LLM-MAS is vulnerable to communication-based attacks, highlighting the need for robust security measures in multi-agent systems.
 2502.14908_2257899_3	Contrary to prior findings that showed that LLMs are sensitive to parametric conflicts arising from textual perturbations, we find VLMs are largely robust to image perturbation.
@@ -926,7 +820,6 @@
 2502.16593_2259584_5	Notably, the proposed method can be applied after the release of the original model, thus not affecting the model's performance and behavior.
 2502.16593_2259584_6	To simulate real-world applications, we fine-tune the original model using various strategies across diverse datasets, creating a range of models for copyright verification.
 2502.16691_2259682_3	In FedLLM, client data used for training may contain harmful content, leading to unsafe LLMs that generate harmful responses.
-2502.16691_2259682_4	Aggregating such unsafe LLMs into the global model and distributing them to clients may result in the widespread deployment of unsafe LLMs.
 2502.16794_2259785_7	By taking a first step toward intention-aware auditory AI, this work explores a new paradigm where listener perception informs machine listening, paving the way for future listener-centered auditory systems.
 2502.16897_2259888_4	This strategy mitigates the modality gap between text and speech, preserving the linguistic reasoning of the original model while enabling high-fidelity speech synthesis.
 2502.16963_2259954_4	This work introduces Hermes, a budget-friendly system that leverages the near-data processing (NDP) within commodity DRAM DIMMs to enhance the performance of a single consumer-grade GPU, achieving efficient LLM inference.
@@ -934,8 +827,6 @@
 2502.17535_2260526_3	Then, we propose a lottery LLM hypothesis suggesting that for a given LLM and task, there exists a smaller lottery LLM capable of producing the same performance as the original LLM with the assistance of multi-step reasoning and external tools.
 2502.18080_2261071_2	While current researches continue to explore the benefits of increasing test-time compute by extending the CoT lengths of Large Language Models (LLMs), we are concerned about a potential issue hidden behind the current pursuit of test-time scaling: Would excessively scaling the CoT length actually bring adverse effects to a model's reasoning performance?
 2502.18608_2261599_1	However, there are growing concerns that the current LLM watermarking schemes are vulnerable to expert adversaries wishing to reverse-engineer the watermarking mechanisms.
-2502.18676_2261667_1	Unlike conventional AI systems that operate on a turn-based, input-output model, Thoughtful AI autonomously generates, develops, and communicates its evolving thought process throughout an interaction.
-2502.18676_2261667_3	We outline the conceptual foundations of Thoughtful AI, illustrate its potential through example projects, and envision how this paradigm can transform human-AI interaction in the future.
 2502.18863_2261854_3	To this end, this paper proposes a Global-local Spatial-sensitive Large Language Model (LLM) named Sherlock, i.e., acting like Sherlock Holmes to track down the criminal events, for this M-VAE task.
 2502.19008_2261999_4	PTQ does not require any retraining of the original model, while QAT involves optimizing precision during training to achieve the best quantization parameters.
 2502.19041_2262032_1	Although Aligned Large Language Models (LLMs) are trained to refuse harmful requests, they remain vulnerable to jailbreak attacks.
@@ -943,7 +834,6 @@
 2502.19573_2262564_2	A desired attribute of an intelligent system is its ability to recognize the scope of its own knowledge.
 2502.19928_2262919_3	Such an unauthorized RIS can cause unexpected interference in the original localization system, distorting the transmitted signals, and leading to degraded positioning accuracy.
 2502.20573_2263564_2	In this proposed method, GPT-4o acts as intelligent system to detect conflicts and provide explanations and recommendations for the drivers.
-2502.20633_2263624_6	Motivated by the insight, we propose AssertionLLM, a first of its kind LLM model, specifically fine-tuned for assertion generation.
 2502.21262_2264253_1	Yet as AI systems grow more capable, human feedback becomes increasingly unreliable.
 2503.00513_2264825_3	To address these challenges, we propose a unified Instance-aware 3D Large Multi-modal Model (Inst3D-LMM) to deal with multiple 3D scene understanding tasks simultaneously.
 2503.01496_2265808_7	Using lightweight fine-tuning with Low-Rank Adaptation (LoRA), Liger restores the performance of the linearized gated recurrent models to match that of the original LLMs.
@@ -978,7 +868,6 @@
 2503.20088_2284400_3	Chesi ties the fate of generative linguistics to its intellectual merits, but the current success of language model research is social in nature as much as it is intellectual.
 2503.22074_2286386_3	Each block is then compacted via spectral transformations (e.g., discrete cosine or Fourier transforms), and a Kullback-Leibler (KL) divergence-based alignment loss preserves the distributional similarity between the compressed model's representations and those of the original full model.
 2503.22092_2286404_5	(2) How sensitive is majority voting accuracy to LLM hyperparameters such as temperature, top-p, and summary length?
-2503.22772_2287084_2	To address this blind spot, this study introduces the AI Family Integration Index (AFII), a ten dimensional benchmarking framework that evaluates national preparedness for integrating emotionally intelligent AI into family and caregiving systems.
 2503.23021_2287333_3	This study aims to determine whether performance of downstream tasks is sensitive to the tissue detection method, and to compare performance of classical and AI-based tissue detection.
 2504.00446_2289149_0	  The widespread adoption of Large Language Models (LLMs) in critical applications has introduced severe reliability and security risks, as LLMs remain vulnerable to notorious threats such as hallucinations, jailbreak attacks, and backdoor exploits.
 2504.01094_2289797_3	Crucially, our work further reveals that multimodal LLMs are inherently more vulnerable than unimodal systems: attackers need only exploit the weakest link (e.g., non-English audio inputs) to compromise the entire model, which we empirically show by multilingual audio-only attacks achieving 3.1x higher success rates than text-only attacks.
@@ -991,7 +880,6 @@
 2504.03726_2292429_5	In particular, simulated users demonstrate resistance to manipulation initially, but become increasingly vulnerable to malicious AI Assistants as the depth of the interaction increases, highlighting the significant risks associated with extended engagement with potentially manipulative systems.
 2504.05321_2294024_7	To address these challenges, we propose VALUE(Value-Aware Large language model for qUery rewriting via wEighted trie), the first framework that ensures the generation of high-value and highly relevant bidwords.
 2504.06279_2294982_3	To address these challenges, this paper presents an intelligent financial data analysis system that integrates Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) technology.
-2504.06298_2295001_3	We compare the original model with its ternary and binary versions in terms of memory consumption, inference speed and perplexity.
 2504.06575_2295278_5	To address these challenges, we propose a semantic-aware watermarking algorithm that post-hoc embeds watermarks into a given target text while preserving its original meaning.
 2504.07887_2296590_3	Despite mitigation efforts, recent studies indicate that LLMs remain vulnerable to adversarial attacks designed to elicit biased responses.
 2504.08500_2297203_2	This work presents a wearable smart sportswear system that integrates screen-printed graphene-based strain sensors with a wireless deep learning framework for real-time classification of exercise execution quality.

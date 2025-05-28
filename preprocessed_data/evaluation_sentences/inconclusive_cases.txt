@@ -10,6 +10,14 @@ acl_889_35732_9	Moreover, we observe an alarming trend where human evaluators ar
 arx_2110.06674_1544817_2	This raises the question of how we should limit the harm caused by AI "lies" (i.e. falsehoods that are actively selected for).
 arx_2207.07051_1682949_0	  Reasoning is a key ability for an intelligent system.
 2301.13852_1784916_11	Using explainability, we observe that ChatGPT's writing is polite, without specific details, using fancy and atypical vocabulary, impersonal, and typically it does not express feelings.
+acl_71_46015_2	In this study, leveraging the POPQUORN dataset, we evaluate nine popular LLMs on their ability to understand demographic differences in two subjective judgment tasks: politeness and offensiveness.	nine popular LLMs	LLM	ability to understand
+
+
+// outlier cases - negative
+
+acl_1_26143_6	Ultimately, we show that LMs are limited both in their construal as cognitive models of human language processing and in their capacity to recognize nuanced but critical information in complicated language materials.
+
+
 
 
 hmm....
@@ -25,9 +33,13 @@ hmm....
 2501.05454_2229038_1	Today's AI systems consistently state, "I am not conscious."
 
 
+COMPARISON NEGATIVES??
+
+71_17541_5	Our experimental results suggest that LMs have different generalizations from humans; LMs exhibited less context-dependent behaviors toward topicalization judgment. 
 
 
 // ambiguous cases
 
 arx_1905.10083_1128519_5	However, research on edge intelligence is still in its infancy stage, and a dedicated venue for exchanging the recent advances of edge intelligence is highly desired by both the computer system and artificial intelligence communities.
 arx_2402.08431_2006070_0	  AI-based code assistants are promising tools that can facilitate and speed up code development.
+8_25288_2	It is unclear whether current LMs realize the generalization capacity for temporal inference across languages.

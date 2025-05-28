@@ -1,0 +1,50 @@
+acl_141_6586_10	Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.	our model	model	perform
+arx_2304.09655_1827701_1	ChatGPT in particular, an AI chatbot developed and recently released by OpenAI, has taken the field to the next level.	ChatGPT	ChatGPT	take
+arx_2304.06122_1824168_2	While recent works have explored the use of ChatGPT in the context of humanities, business school, or medical school, this work explores how ChatGPT performs in the context of an introductory computer engineering course.	ChatGPT	ChatGPT	perform
+arx_2304.02796_1820842_4	We analyze the opportunities and challenges that ChatGPT presents for knowledge management in design and propose promising future research directions.	ChatGPT	ChatGPT	present
+arx_2304.09064_1827110_0	  In the past years, AI has seen many advances in the field of NLP.	  AI	  AI	  see
+acl_814_27535_1	Such ability stimulates us to wonder whether LLMs can simulate a person in a higher form than simple human behaviors.	LLMs	LLM	simulate
+arx_2210.17127_1738482_1	Recent research has revealed that neural language models at scale suffer from poor temporal generalization capability, i.e., the language model pre-trained on static data from past years performs worse over time on emerging data.	neural language models at scale	model	suffer
+arx_2303.12767_1812564_0	  ChatGPT, the first large language model (LLM) with mass adoption, has demonstrated remarkable performance in numerous natural language tasks.	ChatGPT	ChatGPT	demonstrate
+arx_2304.09161_1827207_1	In this perspectives paper, we discuss possible ways for LLMs to support relevance judgments along with concerns and issues that arise.	LLMs	LLM	support
+arx_2212.11136_1767313_2	However, AI systems may produce errors, can exhibit bias, may be sensitive to noise in the data, and often lack technical and judicial transparency resulting in reduction in trust and challenges in their adoption.	AI systems	system	produce,exhibit bias
+arx_2304.08979_1827025_1	Unlike conventional search engines, ChatGPT retrieves knowledge from the model itself and generates answers for users.	ChatGPT	ChatGPT	retrieve
+arx_2302.07856_1792790_1	However, even given the incredible quantities of data they are trained on, LLMs can struggle to translate inputs with rare words, which are common in low resource or domain transfer scenarios.	LLMs	LLM	struggle
+acl_458_38172_7	DeCRIM works by decomposing the original instruction into a list of constraints and using a Critic model to decide when and where the LLM’s response needs refinement.	a Critic model	model	decide
+arx_2304.07880_1825926_5	Our best model, Sabi\'a-65B, performs on par with GPT-3.5-turbo.	Our best model	model	perform
+arx_2304.04780_1822826_0	  Artificial intelligence (AI) models are increasingly finding applications in the field of medicine.	  Artificial intelligence (AI) models	  model	  find
+arx_2304.05613_1823659_1	ChatGPT represents one of the most exciting LLM systems developed recently to showcase impressive skills for language generation and highly attract public attention.	ChatGPT	ChatGPT	represent
+arx_2304.06488_1824534_6	Moreover, we present an outlook on how ChatGPT might evolve to realize general-purpose AIGC (a.k.a. AI-generated content), which will be a significant milestone for the development of AGI.	ChatGPT	ChatGPT	evolve
+arx_2304.09433_1827479_3	LLMs, which are pretrained on broad data, can perform diverse downstream tasks simply conditioned on natural language task descriptions.   LLMs	LLM	perform
+acl_18_8507_4	While the use of additional data and our classifier filter were able to improve results, the paraphrasing model produced too many invalid outputs to further improve the output quality.	the paraphrasing model	model	produce
+acl_19_9312_0	An image captioning system involves modules on computer vision as well as natural language processing.	An image captioning system	system	involve
+acl_11_13818_6	Our model, named AfriBERTa, covers 11 African languages, including the first language model for 4 of these languages.	Our model	model	cover
+acl_25_16094_4	Experimental results show that our word-tag-hybrid BERT model brings improvement on both a sentence acceptability benchmark and a cross-domain sentence acceptability evaluation corpus.	our word-tag-hybrid BERT model	model	bring
+acl_147_20171_6	On the one hand, experiments show that LMs can memorize millions of temporally-scoped facts with relatively high accuracy and transfer stored knowledge to temporal knowledge queries, thereby expanding the LM-as-KB paradigm to the temporal domain.	LMs	LM	memorize
+arx_2304.07232_1825278_3	However, we found that the ChatGPT model performed no better than a dummy classifier for both binary and multi-label classification tasks for code vulnerability detection.	the ChatGPT model	model	perform
+acl_245_19685_3	We then investigate how an LM performs in generating a CN with regard to an unseen target of hate.	an LM	LM	perform
+arx_265_19705_2	The model consists of a pretrained neural sentence LM, a BERT-based contextual encoder, and a masked transfomer decoder that estimates LM probabilities using sentence-internal and contextual evidence.	The model	model	consist of
+arx_0807.4086_75079_10	The second is the choice between models of HIV dynamics, where one model makes the distinction between activated CD4+ T lymphocytes and the other does not.	one model	model	make a distinction
+arx_1003.4145_179952_3	The aims are to show that the idiotypic system is not merely performing some kind of periodic random behaviour selection, and to try to gain further insight into the processes that govern the idiotypic mechanism.	the idiotypic system	system	perform
+arx_1005.1737_189277_4	The proposed system makes use of an Air Quality Index (AQI) which is presently not available in Mauritius.	The proposed system	system	make use
+arx_1203.5523_330882_1	Our system model considers multiple and independent unicast transmissions between network nodes while a number of them serve as relays of the interfered/superimposed signals.	Our system model	model	consider
+arx_1109.0704_285072_6	As a consequence, the model covers different ranges of coronal temperatures as time progresses.	the model	model	cover
+arx_1208.6130_366702_5	We also give a heuristic condition for when an arbitrary system's nonlinear response means that its ZT ceases to indicate (even qualitatively) the lowest temperature to which the system can refrigerate.	the system	system	refrigerate
+arx_1502.04791_599451_0	  Over the past decade, AI has made a remarkable progress.	  AI	  AI	  make progress
+arx_71_26792_1	But how do LLMs represent relationships between languages?	LLMs	LLM	represent
+arx_584_32746_1	In the realm of article writing, LLMs have witnessed extensive utilization, giving rise to concerns related to intellectual property protection, personal privacy, and academic integrity.	LLMs	LLM	witness
+arx_1706.07107_861842_4	Our model involves only two fitting parameters, the monomer size and the area needed for one molecule during adsorption and is in agreement with the experimental data.	Our model	model	involve
+arx_1708.08160_883172_9	We foresee that our model will bring a new dimension to medical research and the medical industry.	our model	model	bring
+arx_1711.07908_914918_6	We also show that BiLM weight transfer leads to a faster model training and the pretrained model requires fewer training examples to achieve a particular F1 score.	the pretrained model	model	require
+arx_1706.09554_864289_2	The OCC model has established itself as the standard model for emotion synthesis.	The OCC model	model	establish
+acl_3_33196_3	These AI models do not always produce accurate outputs and are known for generating incorrect information, known as hallucinations, whose causes are hard to pinpoint.	These AI models	model	produce
+arx_2009.13222_1354725_0	  AI artificial intelligence brings about new quantitative techniques to assess the state of an economy.	  AI artificial intelligence	  intelligence	  bring about
+arx_2010.08309_1364639_2	Thus, the system requires both a high sampling rate and time synchronization accuracy, leading to a high cost and large size.	the system	system	require
+acl_1023_35862_2	In such cases, LLMs primarily act as an agent to find answer entities within the KG, rather than effectively integrating the internal knowledge of LLMs and external knowledge sources such as KGs.	LLMs	LLM	act
+acl_1262_36095_8	Our RR model is more robust, although our TF model performs better than the RR model without any attacks.	our TF model	model	perform
+arx_2103.01063_1431208_6	Our results demonstrate that the proposed algorithm can find the joint optimal solution for the position/orientation estimation accuracy and EADR, with its optimization performance being robust to slight localization or channel estimation errors and user mobility.	the proposed algorithm	algorithm	find
+arx_2103.13494_1443639_2	The model finds that there is a positive, nonlinear relationship between the density of particulate matter in the air and COVID-19 transmission, which is in alignment with similar studies on other respiratory illnesses.	The model	model	find
+acl_110_36259_1	However, many LLMs exhibit significant performance discrepancies between high- and low-resource languages.	many LLMs	LLM	exhibit
+arx_2108.01174_1509989_0	  AI systems have seen significant adoption in various domains.	  AI systems	  system	  see
+acl_132_36620_1	However, LMs also raise concerns regarding the generation of biased or toxic content and the potential disclosure of private information from the training dataset.	LMs	LM	raise concerns
+acl_16_36793_3	On the other hand, LLM-based methods exhibit a limited capacity to capture the disparities between synthesized and actual data distribution due to the absence of feedback from a discriminator during training.	LLM-based methods	method	exhibit

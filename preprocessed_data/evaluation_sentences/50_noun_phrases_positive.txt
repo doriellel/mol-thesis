@@ -52,6 +52,8 @@ arx_2502.05023_2248014_0	  AI assistants can help developers by recommending cod
 arx_2503.21983_2286295_1	A key prerequisite to developing these safeguards is understanding the ability of these AI assistants to mislead human teammates.
 arx_2503.21983_2286295_3	Unbeknownst to the humans, the AI assistant is adversarial.
 arx_2504.15867_2304570_0	  Due to insufficient domain knowledge, LLM coding assistants often reference related solutions from the Internet to address programming problems.
+acl_6_43304_0	My research theme is to develop an optimal analytical model for various information generated during therapy using multimodal data in psychotherapy, to elucidate the process of psychotherapy, and to create an AI therapist to develop a new psychotherapy.
 arx_2503.03067_2267379_0	  This paper explores the acceptance of human-AI love among young adults, particularly focusing on Chinese women in romantic or intimate relationships with AI companions.
 arx_2411.09224_2191651_5	Although these AI assistants illustrate a high level of progress in language understanding and code generation, along with ethical considerations and responsible usage, they provoke a necessity for discussion.
 280_13090_8	In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model.
+5_43351_1	However, assessing the novelty in scholarly publications, a critical facet of evaluating LLMs as scientific discovery assistants, remains underexplored, despite its potential to accelerate research cycles and prioritize high-impact contributions in scientific workflows.

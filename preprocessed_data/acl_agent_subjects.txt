@@ -5,16 +5,12 @@
 96_5687_1	A language model’s vocabulary—typically selected before training and permanently fixed later—affects its size and is part of what makes it resistant to such adaptation.
 409_5999_0	This paper investigates pre-trained language models to find out which model intrinsically carries the most informative representation for task-oriented dialogue tasks.
 557_6147_6	Our analysis reveals that: (1) BERT and its stronger variant RoBERTa perform poorly on the diagnostic dataset prior to any fine-tuning; (2) fine-tuning with distant supervision brings some improvement; (3) the best supervised model still performs poorly as compared to human performance (54.06% vs. 96.3% in accuracy).
-586_6176_1	While prior research focused on morphosyntactic, semantic, and world knowledge, it remains unclear to which extent LMs also derive lexical type-level knowledge from words in context.
 141_6586_10	Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.
 15_7080_7	This Machine Translation system accepts announcements in the form of English text as input and produces Indian Sign Language (ISL) synthetic animations as output.
 319_7846_5	We investigated four modeling units (phone, syllable, word piece, and word) and found that the syllable-based model performed best in terms of both word and phone recognition accuracy, which were about 60% and over 85% respectively in speaker-open condition.
 333_7860_3	We find that an RNN language model, initialized with pre-trained fastText embeddings, performs best, highlighting the importance of sub-word information for Mi’kmaq language modelling.
 607_8134_5	We show that a cross-domain adapted BERT language model performs significantly better than strong baseline models like vanilla BERT-base and XLNet-base.
-18_8507_4	While the use of additional data and our classifier filter were able to improve results, the paraphrasing model produced too many invalid outputs to further improve the output quality.
 164_9045_3	This architecture was used and evaluated in the context of the SemEval 2020 challenge (task 9), and our system got 72.7% on the F1 score.
-261_9142_1	Our proposed model learns to extract textual features using a BiGRU-based deep neural network supported by a Hierarchical Attention architecture to focus on the most relevant areas in the text.
-19_9312_0	An image captioning system involves modules on computer vision as well as natural language processing.
 28_9483_2	Because of this, given an inappropriate prompt, we might fail to retrieve facts that the LM does know, and thus any given prompt only provides a lower bound estimate of the knowledge contained in an LM.
 28_9483_5	Extensive experiments on the LAMA benchmark for extracting relational knowledge from LMs demonstrate that our methods can improve accuracy from 31.1% to 39.6%, providing a tighter lower bound on what LMs know.
 48_9503_5	Our main findings are that: (a) different LMs exhibit qualitatively different reasoning abilities, e.g., RoBERTa succeeds in reasoning tasks where BERT fails completely; (b) LMs do not reason in an abstract manner and are context-dependent, e.g., while RoBERTa can compare ages, it can do so only when the ages are in the typical range of human ages; (c)
@@ -31,13 +27,9 @@
 110_11556_0	Existing dialog system models require extensive human annotations and are difficult to generalize to different tasks.
 242_11688_1	Here, we introduce the corpus of Chinese linguistic minimal pairs (CLiMP) to investigate what knowledge Chinese LMs acquire.
 296_12174_4	By relation-augmented training, the model learns to align the natural language expressions to the relations in the KB as well as reason over the missing connections in the KB.
-697_12575_1	As a result, it can be hard to identify what the model actually “believes” about the world, making it susceptible to inconsistent behavior and simple errors.
-102_12912_7	Finally, as it is hard to tell given a privacy parameter 𝜖 what was the effect on the trained representation, we present experiments showing that the trained model does not memorize private information.
 280_13090_7	In our approach, we design a teacher-student joint learning and distillation framework to collaboratively learn both teacher and student models, where the student model can learn from the learning experience of the teacher model.
 11_13323_6	Using examples from news analysis, we demonstrate how AttViz can be used to inspect and potentially better understand what a model has learned.
-11_13818_6	Our model, named AfriBERTa, covers 11 African languages, including the first language model for 4 of these languages.
 1_13930_4	• Do LMs recognize when words are used nonliterally in non-compositional MWEs (e.g. do they know whether there are fleas in the flea market)?
-1_13930_5	• Do LMs know idioms, and can they infer the meaning of new idioms from the context as humans often do?
 137_14074_5	Experiments on 11 Chinese natural language understanding tasks show that our model can bring an average increase of 1.5% under the 12-layer setting, which achieves new state-of-the-art among base-size models on the CLUE benchmarks.
 407_14344_3	When scaled up to modern hardware, this model (despite its many limitations) performs much better than expected on word-level language model benchmarks.
 439_14376_3	We find GPT-3 produces plausible definitions that align with human judgments.
@@ -45,9 +37,7 @@
 153_14878_0	We analyse how a transformer-based language model learns the rules of chess from text data of recorded games.
 2_14951_4	Our results also indicate that model distillation may hurt the ability of cross-lingual transfer of sentence representations, while language dissimilarity at most has a modest effect.
 62_15529_1	This success raises the question of whether, in principle, a system can ever “understand” raw text without access to some form of grounding.
-34_15815_4	As the training stages go on, we make the system learn to solve multiple tasks by adding extra information at different training stages gradually.
 25_16094_2	However, two problems exist: first, low-frequency words would have a significant negative impact on the sentence likelihood derived from the language model; second, when it comes to multiple domains, the language model needs to be trained on domain-specific text for domain adaptation.
-25_16094_4	Experimental results show that our word-tag-hybrid BERT model brings improvement on both a sentence acceptability benchmark and a cross-domain sentence acceptability evaluation corpus.
 133_16291_8	Model analysis demonstrates that both strategiescontribute to the performance boost.
 368_16526_0	A well-calibrated neural model produces confidence (probability outputs) closely approximated by the expected accuracy.
 373_16531_1	This creates challenges when AI systems try to reason about language and its relationship with the environment: objects referred to through language (e.g. giving many instructions) are not immediately visible.
@@ -55,7 +45,6 @@
 24_17147_1	However, it is still unclear what GPT-3 has understood or learned especially in linguistic knowledge.
 24_17147_6	Our experiment results suggest that GPT-3 has acquired linguistic knowledge to identify certain semantic information in most cases, but still fails when there are some types of disturbance happening in the sentence.
 24_17147_7	We also perform error analysis to summarize some common types of mistakes that GPT-3 has made when dealing with certain semantic information.
-71_17541_5	Our experimental results suggest that LMs have different generalizations from humans; LMs exhibited less context-dependent behaviors toward topicalization judgment.
 269_17738_1	The OCR model easily gets confused on recognizing handwritten Chinese characters, and the textual information of the answers is missing during the model inference.
 494_17963_6	We also find that the adaptation methods perform differently for different models and that unimodal model counterparts perform on par with the VL models regardless of adaptation, indicating that current VL models do not necessarily gain better language understanding from their multimodal training.
 7_18217_3	We discover that the HITL tool performs with higher precision, while GPT-3 requires some level of engineering in its input prompts as well as post-processing on its output before it can achieve comparable results.
@@ -67,15 +56,10 @@
 234_18681_5	Interestingly, we also observe that, across many languages and tasks, the final model layer exhibits significant performance degradation over time, while linguistic knowledge propagates to lower layers of the network.
 617_19064_5	While we would expect the predictive accuracy to correlate with human judgments of semantic compositionality, we find this is largely not the case, indicating that LMs may not accurately distinguish between compositional and non-compositional phrases.
 661_19108_3	A key improvement over dynamic evaluation is that FWLs can also be applied at training time, so the model learns to make good use of gradient updates.
-65_19388_5	The human evaluation found that our topic model creates coherent topics.
-245_19685_3	We then investigate how an LM performs in generating a CN with regard to an unseen target of hate.
-265_19705_2	The model consists of a pretrained neural sentence LM, a BERT-based contextual encoder, and a masked transfomer decoder that estimates LM probabilities using sentence-internal and contextual evidence.
 265_19705_3	When contextually annotated data is unavailable, our model learns to combine contextual and sentence-internal information using noisy oracle unigram embeddings as a proxy.
-52_19823_2	We propose a framework to analyze what LMs can infer about new entities that did not exist when the LMs were pretrained.
 58_19829_6	This way, the model learns to accomplish the tasks via language generation without the need of training task-specific layers.
 50_20074_6	Here, we fail to find convincing evidence that GPT-3 is reasoning about more than just individual lexical items.
 99_20123_4	Our findings indicate that causal LMs might derive positional awareness not only from the explicit positioning mechanism but also from the effects of the causal mask.
-147_20171_6	On the one hand, experiments show that LMs can memorize millions of temporally-scoped facts with relatively high accuracy and transfer stored knowledge to temporal knowledge queries, thereby expanding the LM-as-KB paradigm to the temporal domain.
 423_20447_2	Can LMs trained on text learn anything at all about the relationship between language and use?
 423_20447_4	When performing next word prediction given a textual context, an LM can infer and represent properties of an agent likely to have produced that context.
 423_20447_6	I survey findings from the recent literature showing that—even in today’s non-robust and error-prone models—LMs infer and use representations of fine-grained communicative intentions and high-level beliefs and goals.
@@ -117,8 +101,6 @@
 59_25119_4	Previous research shows that adding contrastive learning to prompt-based fine-tuning is effective as it helps the model generate embeddings that are more distinguishable between classes, and it can also be more sample-efficient as the model learns from positive and negative examples simultaneously.
 154_25214_1	However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had truly learned how negation morphemes semantically scope.
 162_25222_2	In both tasks, the model must know the entities used to perform the generation properly.
-58_25282_3	In DeepPavlov Dream, multi-skill Generative AI Assistant consists of NLP components that extract features from user utterances, conversational skills that generate or retrieve a response, skill and response selectors that facilitate choice of relevant skills and the best response, as well as a conversational orchestrator that enables creation of multi-skill Generative AI Assistants scalable up to industrial grade AI assistants.
-8_25288_2	It is unclear whether current LMs realize the generalization capacity for temporal inference across languages.
 8_25288_8	Our findings demonstrate that LMs struggle with specific linguistic phenomena, such as habituality, indicating that there is potential for the development of more effective NLI models across languages.
 57_25373_2	By analyzing call transcripts, AI can quickly determine which calls are most relevant for coaching purposes, and provide relevant feedback and insights to the contact center manager or supervisor.
 20_25452_3	Our proposed system for the ALTA shared task, based on ensembling a number of language models, claimed first place on the development set with an accuracy of 99.35% and third place on the test set with an accuracy of 98.35%.
@@ -137,7 +119,6 @@
 5_25860_4	ChatGPT exhibits inconsistent capabilities in generating code-mixed texts, wherein its per-formance varies depending on the prompt template and language pairing.
 5_25860_5	For instance, ChatGPT generates fluent and natural Singlish texts (an English-based creole spoken in Singapore), but for English-Tamil language pair, the system mostly produces grammatically incorrect or semantically meaningless utterances.
 5_25860_7	Based on our investigation, existing multilingual LLMs exhibit a wide range of proficiency in code-mixed data generation for SEA languages.
-78_25975_8	The semantic dependency feature serves as a global signal and helpsthe model learn simile knowledge that can be applied to unseen domains.
 9_25984_4	This way,the system can perform more varied tasks by leveraging different modalities and signals.
 2_26020_0	“Recent months have witnessed significant progress in the field of large language models (LLMs).Represented by ChatGPT and GPT-4, LLMs perform well in various natural language process-ing tasks and have been applied to many downstream applications to facilitate people’s lives.
 2_26020_2	Specifically, LLMs suffer from social bias,robustness problems, and poisoning issues, all of which may induce LLMs to spew harmful con-tents.
@@ -151,7 +132,6 @@
 175_26501_1	In particular, a model may learn a reasoning process on in-domain training data that does not hold for out-of-domain test data.
 16_26737_0	ChatGPT’s emergence heralds a transformative phase in NLP, particularly demonstrated through its excellent performance on many English benchmarks.
 24_26745_4	We find that LLMs perform poorly, especially on words which are tokenized unfavorably by subword tokenization.
-71_26792_1	But how do LLMs represent relationships between languages?
 85_26806_5	We find that ChatGPT performs well on many tasks favoring reasoning capabilities (e.g., arithmetic reasoning) while it still faces challenges when solving specific tasks such as sequence tagging.
 92_26813_1	Given recent developments in Large Language Models (LLMs), models such as ChatGPT demonstrate zero-shot capability on many text-annotation tasks, comparable with or even exceeding human annotators.
 95_26816_0	Large Language Model (LLM) has demonstrated significant ability in various Natural Language Processing tasks.
@@ -165,11 +145,9 @@
 196_26917_4	Our findings demonstrate that ChatGPT produces accurate and semantically richer annotations compared to human-annotated concepts.
 225_26946_7	Evaluation on multiple different reasoning datasets reveal that with our method, a 175 billion parameter LM (text-davinci-003) can produce competitive or even better performance, compared to its orders-of-magnitude larger successor, GPT-4.
 278_26999_4	As a result, we show LLMs exhibit limited ability in solving NLI tasks and simultaneously fail to capture human disagreement distribution.
-299_27020_1	However, it is unclear whether LMs perform these tasks by cheating with answers memorized from pretraining corpus, or, via a multi-step reasoning mechanism.
 313_27034_3	In LINC, the LLM acts as a semantic parser, translating premises and conclusions from natural language to expressions in first-order logic.
 330_27051_0	A trustworthy real-world prediction system should produce well-calibrated confidence scores; that is, its confidence in an answer should be indicative of the likelihood that the answer is correct, enabling deferral to an expert in cases of low-confidence predictions.
 330_27051_2	However, the most widely-used LMs are fine-tuned with reinforcement learning from human feedback (RLHF-LMs), and some studies have suggested that RLHF-LMs produce conditional probabilities that are very poorly calibrated.
-335_27056_0	The increased deployment of LMs for real-world tasks involving knowledge and facts makes it important to understand model epistemology: what LMs think they know, and how their attitudes toward that knowledge are affected by language use in their inputs.
 339_27060_0	In human-AI collaboration, users typically form a mental model of the AI system, which captures the user’s beliefs about when the system performs well and when it does not.
 339_27060_1	The construction of this mental model is guided by both the system’s veracity as well as the system output presented to the user e.g., the system’s confidence and an explanation for the prediction.
 392_27113_4	Specifically, MoT is divided into two stages: 1. before the test stage, the LLM pre-thinks on the unlabeled dataset and saves the high-confidence thoughts as external memory; 2.
@@ -188,7 +166,6 @@
 550_27271_6	It is counter-intuitive that LLMs can exhibit such resilience despite severe disruption to input tokenization caused by scrambled text.
 565_27286_10	Moreover, EasyQuant can be implemented in parallel so that the quantized model could be attained in a few minutes even for LLMs over 100B. To our best knowledge, we are the first work that achieves almost lossless quantization performance for LLMs under a data-independent setting and our algorithm runs over 10 times faster than the data-dependent methods.
 581_27302_4	However, the setup of the evaluation task is crucial — LLMs perform better on coherence ratings of word sets than on intrustion detection.
-615_27336_1	These two sources can disagree, causing competition within the model, and it is unclear how an LM will resolve the conflict.
 636_27357_4	Overall, ChatGPT exhibits consistent advantages under zero-shot settings, but is still at a disadvantage compared to fine-tuned models.
 643_27364_3	We find that LLMs understand the notion of diversity, and that they can reason and critique their own responses for that goal.
 688_27409_5	When using small T5 models as its core selection and deduction components, our system performs competitively compared to GPT-3 despite having only about 1B parameters (i.e., 175 times smaller than GPT-3).
@@ -223,7 +200,6 @@
 247_28383_5	On top of it, we understand ICL as follows: GPT first produces meta-gradients according to the demonstration examples, and then these meta-gradients are applied to the original GPT to build an ICL model.
 284_28420_0	Large language models (LLMs) have recently shown great potential for in-context learning, where LLMs learn a new task simply by conditioning on a few input-label pairs (prompts).
 302_28438_2	Language is a proxy for embodiment and if a metaphor is conventional and lexicalised, it becomes easier for a system without a body to make sense of embodied concepts.
-322_28458_1	To measure whether an LLM prefers factually consistent continuations of its input, we propose a new benchmark called FIB (Factual Inconsistency Benchmark) that focuses on the task of summarization.
 444_28580_2	However, there has always been the assumption that the translation model also learns an implicit target-side language model during training, which interferes with the external language model at decoding time.
 507_28643_8	Third, we reduce both the model size and the amount of data required to outperform LLMs; our finetuned 770M T5 model outperforms the few-shot prompted 540B PaLM model using only 80% of available data on a benchmark, whereas standard finetuning the same T5 model struggles to match even by using 100% of the dataset.
 574_28710_2	Given the fact that programming code may express causal relations more often and explicitly with conditional statements like “if“, we want to explore whether Code-LLMs acquire better causal reasoning abilities.
@@ -253,7 +229,6 @@
 321_29357_2	By selecting important key-value pairs the model makes better use of the cache so that in limited cache size, a longer context history can be stored.
 326_29362_3	The findings reveal that ChatGPT’s performance on a number of evaluated MPC tasks leaves much to be desired, whilst GPT-4’s results portend a promising future.
 334_29370_1	By using only a small number of labeled examples, referred to as demonstrations, LLMs can effectively perform the task at hand through in-context learning.
-378_29414_7	In our method, the model explicitly asks itself (and then answers) follow-up questions before answering the initial question.
 433_29469_5	Additionally, we explore the possibility of GPT-4 simulating human evaluators.
 462_29498_6	Further research demonstrates that leveraging LLMs as tool creators facilitates knowledge transfer, and LLMs exhibit varying levels of tool creation abilities, enabling them to adapt to diverse situations.
 504_29540_3	We show that even the largest LLMs today perform poorly under the zero-shot setting.
@@ -340,7 +315,6 @@
 196_32358_4	Extensive experiments with three LLMs on two datasets demonstrate that instruction tuning on merely 1,000 annotated examples produces specialized LLMs that outperform state-of-the-art baselines by up to 9.1% on both datasets, while LLM-guided manipulation strategies could significantly bring down the performance of existing bot detectors by up to 29.6% and harm the calibration and reliability of bot detection systems.
 198_32360_0	As natural language becomes the default interface for human-AI interaction, there is a need for LMs to appropriately communicate uncertainties in downstream applications.
 237_32399_3	This limitation implies that the model struggles to associate the answer options with their corresponding symbols (e.g., A/B/C/D) effectively.
-242_32404_6	We only conduct retrieval for the missing knowledge in questions that the LLM does not know.
 248_32410_2	To this end, we construct ‘linguistic task spaces’ – representations of an LM’s language conceptualisation – that shed light on the connections LMs draw between language phenomena.
 270_32432_0	A practical large language model (LLM) service may involve a long system prompt, which specifies the instructions, examples, and knowledge documents of the task and is reused across requests.
 304_32466_5	Interestingly, contrary to the expectation that LLMs would perform better when tasks are divided, we find that state-of-the-art LLMs, such as Llama-2-Chat-70B and GPT-4, show up to 7.3% and 12.4% improved performance with Multi-Task Inference compared to Single-Task Inference on the MTI Bench.
@@ -351,14 +325,12 @@
 424_32586_1	However, due to challenges in gathering dialogues involving human participation, current endeavors like Baize and UltraChat rely on ChatGPT conducting roleplay to simulate humans based on instructions, resulting in overdependence on seeds, diminished human-likeness, limited topic diversity, and an absence of genuine multi-round conversational dynamics.
 447_32609_7	Comprehensive experiments on multiple benchmarks indicate that ProLong effectively identifies documents that carry long dependencies, and LLMs trained on these documents exhibit significantly enhanced long-context modeling capabilities.
 473_32635_5	Experimental results on two public DST benchmarks show that with the generated dialogue data, our model performs better than the baseline trained solely on real data.
-497_32659_4	BinLLM converts collaborative embeddings from external models into binary sequences — a specific text format that LLMs can understand and operate on directly, facilitating the direct usage of collaborative information in text-like format by LLMs.
 506_32668_1	One critical factor hindering their widespread adoption is the occurrence of hallucinations, where LLMs invent answers that sound realistic, yet drift away from factual truth.
 516_32678_0	Some prior work has shown that LLMs perform well in NLG evaluation for different tasks.
 531_32693_2	However, LLM-based reasoning still encounters the following challenges: (1) Limited adaptability of preset structures to diverse tasks; (2) Insufficient precision in exploiting known conditions to derive new ones; and (3) Inadequate consideration of historical reasoning experiences for subsequent reasoning steps.
 540_32702_9	Extensive experiments demonstrate that the LLaMA-2 7B model trained using RAAT exhibits significant improvements in F1 and EM scores under diverse noise conditions.
 550_32712_1	We look for evidence of a latent reasoning pathway where an LLM (1) latently identifies “the singer of ‘Superstition’” as Stevie Wonder, the bridge entity, and (2) uses its knowledge of Stevie Wonder’s mother to complete the prompt.
 555_32717_1	To see if MCQA assesses LLMs as intended, we probe if LLMs can perform MCQA with choices-only prompts, where models must select the correct answer only from the choices.
-584_32746_1	In the realm of article writing, LLMs have witnessed extensive utilization, giving rise to concerns related to intellectual property protection, personal privacy, and academic integrity.
 585_32747_1	Despite the integration of RAG, LLMs may still present unsupported or contradictory claims to the retrieved contents.
 593_32755_6	Our experimental results show that while LLMs demonstrate a notable capacity for logical counterfactual thinking, there remains a discernible gap between their current abilities and human performance.
 604_32766_3	We built closely-interconnected reasoning and memorization tasks, and found that some LLMs struggle with memorizing Chinese commonsense, affecting their reasoning ability, while others show differences in reasoning despite similar memorization performance.
@@ -392,7 +364,6 @@
 32_33165_0	Customizing LLMs for a specific task involves separating high-quality responses from lower-quality ones.
 45_33176_1	Existing methods induce the model to produce step-by-step calculations, but this research explores the question: Does making the LLM analyze the question improve its performance?
 48_33177_2	While one line of work in the past has suggested that LLMs learn surface-level statistics from the dataset, another line of work emphasizes that the learned representations are effective for simulating the underlying world model, considering the causal relationship for the next token prediction.
-3_33196_3	These AI models do not always produce accurate outputs and are known for generating incorrect information, known as hallucinations, whose causes are hard to pinpoint.
 18_33218_2	Our findings indicate that ChatGPT-3.5 Turbo exhibits distinct, repetitive probability patterns that enable consistent in-domain detection.
 5_33243_1	However, how LLMs perform NLP tasks for LRLs is less explored.
 5_33243_3	Our results indicate that the LLMs perform worse for the labeling of LRLs in comparison to HRLs in general.
@@ -443,7 +414,6 @@
 7_34361_5	The results show that ChatGPT made more changes than the average post-editor.
 8_34369_4	Our results demonstrate that LLMs exhibit comparable performance in the in-context learning setting, regardless of their parameter scale.
 19_34380_6	GPT-4 accurately identified 96% of the scientific facts and generated relevant and existent academic citations with 78% accuracy.
-22_34383_5	Then, the more general LLM-based expert, through prompting techniques, analyzes the nuanced differences between candidate categories and selects the most suitable target category.
 8_34493_7	Additionally, we demonstrate that LLMs often exhibit strong positional biases when making pairwise comparisons, and we propose debiasing methods that can further improve performance.
 109_34594_6	Results obtained on question-answering and mathematical reasoning benchmarks show that LMs instructed via the Instruction-tuning CoT method produced by LLMs outperform baselines within both in-domain and out-domain scenarios.
 111_34596_10	Our findings highlight the harms and divide that these LLMs can bring to society if we do not take very diligent care in their use.
@@ -542,7 +512,6 @@
 982_35822_3	This paper uses MFT as a lens to analyze whether popular LLMs have acquired a bias towards a particular set of moral values.
 992_35832_2	However, our study shows that such reflection-style methods suffer from the Degeneration-of-Thought (DoT) problem: once the LLM has established confidence in its solutions, it is unable to generate novel thoughts later through reflection even if its initial stance is incorrect.
 1019_35858_4	Despite the potential harms from LLMs in such applications, whether LLMs can reliably identify offensive speech and how they behave when they fail are open questions.
-1023_35862_2	In such cases, LLMs primarily act as an agent to find answer entities within the KG, rather than effectively integrating the internal knowledge of LLMs and external knowledge sources such as KGs.
 1039_35878_5	In a minimal planning task (i.e., graph path-finding), our model exhibits near-perfect performance and effectively mitigates shortcut learning, a feat that standard training methods and baseline models have been unable to accomplish.
 1077_35915_3	We use this to evaluate how well frontier LLMs understand causal and temporal dependencies.
 1107_35944_2	We show that LLMs, pre-trained on extensive corpora rich in human knowledge and preferences, can simulate human behaviours well enough to jump-start contextual multi-armed bandits to reduce online learning regret.
@@ -552,7 +521,6 @@
 1193_36026_1	However, agentic LLMs suffer from a phenomenon known as reasoning derailment, due to the indiscriminate incorporation of observations from partially observable environments.
 1208_36041_3	Our experiments show that LLMs perform better in unrealistic, omniscient simulation settings but struggle in ones that more accurately reflect real-world conditions with information asymmetry.
 1222_36055_1	The challenge lies in the language marks for dementia are unclear, and LLM may struggle with relating its internal knowledge to dementia detection.
-1262_36095_8	Our RR model is more robust, although our TF model performs better than the RR model without any attacks.
 35_36135_4	Unlike most previous work on machine-generated text detection, which focused on binary classification, LLM-DetectAIve supports four categories: (i) human-written, (ii) machine-generated, (iii) machine-written, then machine-humanized, and (iv) human-written, then machine-polished.
 35_36135_6	Our experiments show that LLM-DetectAIve can effectively identify the above four categories, which makes it a potentially useful tool in education, academia, and other domains.
 32_36183_3	The News Risk Alerting System (NRAS) proactively identifies credit-relevant news related to clients and alerts the relevant Credit Officer (CO).
@@ -560,14 +528,12 @@
 83_36232_5	Our evaluation shows that two of these models (GPT-4o and Claude 3.5) performed well on this task, while the third model (LLaVA-NEXT) performs poorly.
 88_36237_3	Our findings indicate that LC LLMs exhibit brittleness at longer context lengths even for simple tasks, with performance deteriorating sharply as task complexity increases.
 96_36245_2	We found that proprietary LLMs such as GPT-3.5-Turbo show potential in this task, but their high cost and latency make them unsuitable for real-time applications.
-110_36259_1	However, many LLMs exhibit significant performance discrepancies between high- and low-resource languages.
 113_36262_2	However, even with RAG, LLMs can still produce inaccurate outputs, such as distorting or misinterpreting source content, posing risks in high-trust scenarios.
 22_36359_5	We also argue that Chain-of-Thought prompts help the LLMs by decomposing the problem-solving process, but the LLMs still learn limitedly.
 47_36384_3	Through our study, we discover that ChatGPT exhibits exceptional proficiency in detecting and reasoning about causal relations, albeit it may not possess the same level of expertise in identifying the temporal order between two events.
 47_36384_5	Concurrently, ChatGPT demonstrates subpar performance in the dialogue discourse parsing task that requires structural understanding in a dialogue before being aware of the discourse relation.
 54_36390_5	Despite the proportion of accurately predicted PII being relatively small, LLMs still demonstrate the capability to predict specific instances of email addresses and phone numbers when provided with appropriate prompts.
 62_36398_6	Our findings highlight that while LMs, including GPT-4, often produce inconsistent author lists for hallucinated references, they also often accurately recall the authors of real references.
-91_36426_4	First, we show that fine-tuning sufficiently large LLMs can produce IC-SF performance comparable to discriminative models.
 1_36492_7	The pruned model requires only few epochs of fine-tuning to restore its performance, ensuring the model’s ability to generalize.
 37_36527_6	REQUAL-LM does not require specialized hardware, does not impose a significant computing load, and uses LLMs as a blackbox.
 37_36527_8	Our system does not require retraining the LLMs, which makes it deployment ready and easy to adapt.
@@ -578,7 +544,6 @@
 101_36589_4	Experiments show that our proposed TagDebias model, when applied to a ranking task, exhibits significant improvements in bias scores.
 124_36612_5	Finally, we propose an explanation for quantization loss based on confidence levels, indicating that quantization disproportionately affects samples where the full model exhibited low confidence levels in the first place.
 129_36617_1	Despite such efforts in human–LLM alignment, we find that instruction tuning does not always make LLMs human-like from a cognitive modeling perspective.
-132_36620_1	However, LMs also raise concerns regarding the generation of biased or toxic content and the potential disclosure of private information from the training dataset.
 157_36643_5	Despite high re-identification rates on Wikipedia, even the best LLMs struggled with court decisions.
 176_36662_1	In this paper, we systematically investigate the advantages and challenges of LLMs for MMT by answering two questions: 1) How well do LLMs perform in translating massive languages?
 176_36662_6	Through further analysis, we discover that LLMs exhibit new working patterns when used for MMT.
@@ -668,7 +633,6 @@
 813_37570_3	We observe that all LLMs struggle to answer questions that require fast-changing world knowledge as well as questions with false premises that need to be debunked.
 844_37600_5	Finally, our method demonstrated that multilingual LMs could create QA including language-specific knowledge, significantly reducing the dataset creation cost compared to manual creation.
 848_37604_5	Experiments on perturbed datasets demonstrate that LLMs still encounter difficulties in handling numeral and measurement conversions.
-867_37623_4	Leveraging the in-context learning capability of LLMs, we ask the LLM to summarise the instances in which the ML model makes mistakes and the correlation between primary predictions and true labels.
 893_37649_6	We also explore how model size and data quantity affect the success of these mitigation efforts.
 907_37663_1	However, LLMs may exhibit flaws such as hallucinations, forgetfulness, or misinterpretations of prompts, causing logical inconsistencies and unexpected deviations from intended designs.
 913_37669_5	Our model evaluation against the annotated GELP then reveals that the full model as well as models with fewer layers and/or self-attention heads exhibit a good-enough performance.

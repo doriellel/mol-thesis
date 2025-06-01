@@ -1,0 +1,7 @@
+693_19140_1	However, existing DA-training methods are in some sense blind as they do not explicitly identify what knowledge in the LM should be preserved and what should be changed by the domain corpus.
+683_21860_6	Next, an experiment is conducted on the dataset to examine to what extent a pretrained masked language model is aware of the constructions.
+7_33855_3	First, collecting task-specific labeled examples does not apply to scenarios where tasks may be too complicated or costly to annotate, or the system is required to handle a new task immediately; second, this is not user-friendly since end-users are probably more willing to provide task description rather than a set of examples before using the system.
+133_36622_2	We study how to better construct in-context example sets, based on whether the model is aware of the in-context examples.
+117_37847_1	However, when LLMs face different types of questions, it is worth exploring whether LLMs are aware that some questions have limited answers and need to respond more deterministically but some do not.
+276_39686_3	(2) Is ChatGPT aware of the underlying commonsense knowledge for answering a specific question?
+2_41732_5	ReLLM is user-friendly and requires no additional LLM training.

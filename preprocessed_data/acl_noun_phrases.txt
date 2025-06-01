@@ -3,8 +3,6 @@
 24_20048_0	It is still a pipe dream that personal AI assistants on the phone and AR glasses can assist our daily life in addressing our questions like “how to adjust the date for this watch?”
 341_22477_5	We distill only one aspect–the commonsense of a general language model teacher, allowing the student to be a different type, a commonsense model.
 58_25282_3	In DeepPavlov Dream, multi-skill Generative AI Assistant consists of NLP components that extract features from user utterances, conversational skills that generate or retrieve a response, skill and response selectors that facilitate choice of relevant skills and the best response, as well as a conversational orchestrator that enables creation of multi-skill Generative AI Assistants scalable up to industrial grade AI assistants.
-64_25713_1	The goal of the task was to benchmark the ability of generative language models to act as AI teachers, replying to a student in a teacher-student dialogue.
-65_25714_2	The task aims to assess the performance of state-of-the-art generative models as AI teachers in producing suitable responses within a student-teacher dialogue.
 65_25714_5	The results highlight the few-shot learning capabilities of large-language models, particularly OpenAI’s GPT-3, in the role of AI teachers.
 183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.
 794_28930_0	A human decision-maker benefits the most from an AI assistant that corrects for their biases.
@@ -12,7 +10,6 @@
 766_32928_7	On CRAFT biomedical parsing, for example, 3-stage MCKD with 50 labeled examples outperforms an LLM teacher and vanilla KD by 7.5% and 3.7% parsing F1, respectively, and matches the performance of supervised finetuning with 500 labeled examples.
 3_34388_0	The development of conversational AI assistants is an iterative process with many components involved.
 3_34388_2	This paper introduces the challenges in evaluating and improving a generative AI assistant for enterprise that is under active development and how we address these challenges.
-27_34894_0	While Large language model (LLM)-based programming assistants such as CoPilot and ChatGPT can help improve the productivity of professional software developers, they can also facilitate cheating in introductory computer programming courses.
 39_34906_4	Recognizing the complexity of this writing task, we built an LLM-powered assistant into the workers’ interface to aid in drafting and refining their comments.
 279_35138_4	Indeed, factors such as an individual’s writing confidence and familiarity with AI writing assistants are shown to moderate the impact of AI assistance disclosure on their writing quality evaluations.
 889_35732_0	Large Language Models (LLMs) and AI assistants driven by these models are experiencing exponential growth in usage among both expert and amateur users.
@@ -23,7 +20,6 @@
 458_38173_3	To address this, we introduce RealInstruct, the first benchmark designed to evaluate LLMs’ ability to follow real-world multi-constrained instructions by leveraging queries real users asked AI assistants.
 649_38360_0	AI personal assistants deployed via robots or wearables require embodied understanding to collaborate with humans effectively.
 209_39619_2	Many existing studies adopt static evaluation, where they assess AI assistants’ API call based on pre-defined dialogue histories.
-209_39619_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.
 209_39619_7	Testing four AI assistants using our crafted benchmark, our method further mirrored human evaluation compared to conventional static evaluations.
 889_40299_8	This evaluation benchmark provides LLMs with a highly challenging and differentiating task that is crucial to an effective AI assistant.
 113_41260_10	We discuss these challenges, demonstrate that a dedicated prompt can improve the performance, and propose a blueprint of an LLM-supporter that actively (but sensitively) seeks user context to provide personalized, empathetic, and reliable responses.
@@ -33,8 +29,6 @@
 50_42804_2	In each of these settings, AI assistants and users have disparate abilities that they must combine to arrive at the best decision: Assistants can access and process large amounts of information, while users have preferences and constraints external to the system.
 254_43821_0	With the rapid development of large language models, AI assistants like ChatGPT have become increasingly integrated into people’s works and lives but are limited in personalized services.
 254_43821_1	In this paper, we present a plug-and-play framework that could facilitate personalized large language model assistants with evolving conditional memory.
-523_44090_1	As such, it can be valuable for a large language model (LLM), particularly as an AI assistant, to be able to empathize with or even explain these various standpoints.
 306_44857_7	Together, our work lays foundation for further studies on clarifying interactions with LM assistants.
 13_45033_5	In this paper, the credit product customization is studied by developing an LLM-based financial AI assistant for the credit loan business.
-57_45359_0	In this paper, we investigate whether current state-of-the-art large language models (LLMs) are effective as AI tutors and whether they demonstrate pedagogical abilities necessary for good AI tutoring in educational dialogues.
-321_45615_1	To deploy LLMs as AI assistants, it is crucial that these models exhibit desirable behavioral traits, such as non-toxicity and resilience against jailbreak attempts.
+

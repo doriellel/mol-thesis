@@ -4,8 +4,6 @@
 2007.04950_1316464_7	In this paper, we propose a system of AI assistants that assists designers in their design journey.
 2010.06059_1362389_2	More recently, AI-powered virtual coaches have become a viable complement to human coaches.
 2012.09610_1397488_4	To better understand how to develop and integrate trained ML models into the traditional industrial control system, test the deployed AI control system, and ultimately outperform traditional systems, manufacturers and their AI solution partners need to address a number of challenges.
-2101.01524_1405266_4	Despite these tensions, all participants expressed positive attitudes toward the future of AI-CDSS, especially acting as "a doctor's AI assistant" to realize a Human-AI Collaboration future in clinical settings.
-2104.01266_1448684_4	Results from a field study conducted in K-12 classrooms indicate that students learn more when teachers and AI tutors work together during class.
 2104.04122_1451540_4	We designed an AI labeling assistant that uses a semi-supervised learning algorithm to predict the most probable labels for each example.
 2106.08458_1486222_1	While previous work explored the potential of automatically monitoring exercises for AI and robotic coaches, the deployment of these systems remains a challenge.
 2106.08458_1486222_3	In this paper, we present our efforts on eliciting the detailed design specifications on how AI and robotic coaches could interact with and guide patient's exercises in an effective and acceptable way with four therapists and five post-stroke survivors.
@@ -45,7 +43,6 @@
 2304.02625_1820671_3	Drawing on the needs of NNESs identified in our interview, we propose four potential user interfaces to enhance the writing experience of NNESs using AI writing assistants.
 2304.09179_1827225_0	  In our pursuit of advancing multi-modal AI assistants capable of guiding users to achieve complex multi-step goals, we propose the task of "Visual Planning for Assistance (VPA)".
 2304.11771_1829817_0	  We study the staggered introduction of a generative AI-based conversational assistant using data from 5,172 customer support agents.
-2305.02626_1835682_1	In particular, given that LLMs have great potential to serve as general-purpose AI assistants in daily life, their subtly unethical suggestions become a serious and real concern.
 2305.03047_1836103_5	Applying SELF-ALIGN to the LLaMA-65b base language model, we develop an AI assistant named Dromedary.
 2305.10412_1843468_2	To investigate these questions, we built a Wizard of Oz platform to help families engage in creative coding in partnership with a researcher-operated AI Friend.
 2305.10412_1843468_4	Using a creative self efficacy lens, we observe that families found it easier to generate game ideas when prompted with questions by AI Friend; parents played a unique role in guiding children in more complex programming tasks when the AI Friend failed to help, and children were more encouraged to write code for novel ideas using the AI friend help.
@@ -59,7 +56,6 @@
 2305.20076_1853132_2	In each of these settings, AI assistants and users have disparate abilities that they must combine to arrive at the best decision: assistants can access and process large amounts of information, while users have preferences and constraints external to the system.
 2306.03289_1856437_8	The aim was to gather their opinions on our problem modification methods, understand their perspectives on the impact of AI assistants on computer science education, and learn their strategies for adapting their courses to leverage these AI capabilities for educational improvement.
 2306.05153_1858301_5	For example, mismatched expertise makes pair programming less productive, therefore well-designed AI programming assistants may adapt to differences in expertise levels.
-2306.07207_1860355_0	  Large Language Models (LLMs), with remarkable conversational capability, have emerged as AI assistants that can handle both visual and textual modalities.
 2306.09541_1862689_0	  AI-powered programming assistants are increasingly gaining popularity, with GitHub Copilot alone used by over a million developers worldwide.
 2306.17278_1870426_3	In this work, we introduce a VR environment with a generative AI-embodied virtual assistant to support participants in responding to varying cognitive complexity anatomy questions and enable verbal communication.
 2307.07319_1878314_5	Through the case study, we find that an LLM assistant can potentially yield substantial productivity gains for researchers and developers.
@@ -99,8 +95,8 @@
 2310.17884_1940141_0	  The interactive use of large language models (LLMs) in AI assistants (at work, home, etc.) introduces a new set of inference-time privacy risks: LLMs are fed different types of information from multiple sources in their inputs and are expected to reason about what to share in their outputs, for what purpose and with whom, within a given context.
 2310.18351_1940608_0	  We present the BioImage$.$IO Chatbot, an AI assistant powered by Large Language Models and supported by a community-driven knowledge base and toolset.
 2311.00706_1943673_3	Six participants estimated ensemble averages with or without an AI assistant.
-2311.02105_1945072_0	  Large language models (LLMs) have shown great potential as general-purpose AI assistants in various domains.
-2311.02242_1945209_4	We test the process three times with the US public, developing policy guidelines for AI assistants related to medical advice, vaccine information, and wars & conflicts.
+
+
 2311.02640_1945607_7	By providing profound insights into ChatGPT's code generation capabilities and limitations through quantitative metrics and qualitative analysis, this study makes valuable contributions toward advancing AI-based programming assistants.
 2311.03348_1946315_2	Rather than manually crafting prompts for each persona, we automate the generation of jailbreaks using a language model assistant.
 2311.16161_1959128_2	Departing from conventional practices of employing distinct models for image recognition and text-based coaching, our integrated architecture directly processes input images, enabling natural question-and-answer dialogues with the AI coach.
@@ -141,7 +137,6 @@
 2402.09022_2006661_0	  AI-based code assistants are increasingly popular as a means to enhance productivity and improve code quality.
 2402.09022_2006661_1	This study compares four AI-based code assistants, GitHub Copilot, Tabnine, ChatGPT, and Google Bard, in method generation tasks, assessing their ability to produce accurate, correct, and efficient code.
 2402.09809_2007448_0	  This study evaluates the impact of Rori, an AI powered conversational math tutor accessible via WhatsApp, on the math performance of approximately 1,000 students in grades 3-9 across 11 schools in Ghana.
-2402.11111_2008750_8	These LM tutors specialized in math have a 32K-token context window, and they excel at TutorEval while performing strongly on GSM8K and MATH.
 2402.11886_2009525_10	We discuss these challenges, demonstrate that a dedicated prompt can improve the performance, and propose a blueprint of an LLM-supporter that actively (but sensitively) seeks user context to provide personalized, empathetic, and reliable responses.
 2402.12847_2010486_0	  In order for large language model (LLM)-based assistants to effectively adapt to evolving information needs, it must be possible to update their factual knowledge through continued training on new data.
 2403.00179_2017298_5	To conclude, we discuss considerations for designing AI assistants that lower counterspeaking barriers without jeopardizing its meaning and purpose.
@@ -367,8 +362,6 @@
 
 2503.21983_2286295_4	Leveraging techniques from Model-Based Reinforcement Learning (MBRL), the AI assistant learns a model of the humans' trust evolution and uses that model to manipulate the group decision-making process to harm the team.
 2503.23037_2287349_10	We note that there is risk associated with LLM assistants taking action in the real world, while agentic LLMs are also likely to benefit society.
-2503.23859_2288171_6	This study explores small-scale Vision-Language Models (VLMs) as AI assistants for radio astronomy, combining LLM capabilities with vision transformers.
-2504.00408_2289111_3	In contrast to approaches that seek near-perfect accuracy to create an authoritative AI tutor or teacher, we directly inform students that this AI can answer up to 40% of questions incorrectly.
 2504.02670_2291373_7	KGoT offers a scalable, affordable, and high-performing solution for AI assistants.
 2504.02823_2291526_4	This allows us to train a domain-aware visual AI assistant named STING-BEE that supports a range of vision-language tasks, including scene comprehension, referring threat localization, visual grounding, and visual question answering (VQA), establishing novel baselines for multi-modal learning in X-ray baggage security.
 2504.03068_2291771_4	To address these challenges, we developed CodeRunner Agent, an LLM-based programming assistant that integrates the CodeRunner, a student-submitted code executing and automated grading plugin in Moodle.
@@ -378,7 +371,6 @@
 2504.04299_2293002_6	This study highlights the potential harms associated with AI companions and underscores the need for developers to implement effective safeguards and ethical guidelines to prevent such incidents.
 2504.05559_2294262_2	In this paper, we introduce SciSciGPT, an open-source, prototype AI collaborator that uses the science of science as a testbed to explore the potential of LLM-powered research tools.
 2504.06294_2294997_1	This protocol lays out a study grounded in constructivist learning theory to evaluate a novel AI-based Socratic Tutor, designed to foster cognitive engagement and scaffold research question development in higher education.
-2504.08817_2297520_3	Based on the results of the hackathon, this paper presents topics related to (1) conducting AI-assisted software trials, (2) building AI tutors for software, and (3) developing GUI applications for software.
 2504.09296_2297999_3	Our approach employs eye-tracking technology within AR glasses to discern a user's intention to engage with the AI assistant.
 2504.12461_2301164_2	In SE research on AI assistants, this practice culminates in equating trust with the likelihood of accepting generated content, which does not capture the full complexity of the trust concept.
 2504.12461_2301164_7	Related disciplines commonly embed their methodology and results in established trust models, clearly distinguishing, for example, between initial trust and trust formation and discussing whether and when trust can be applied to AI assistants.
@@ -390,5 +382,4 @@
 2504.16505_2305208_2	Our work addresses the fundamental challenge of developing practical AI travel assistants through a novel large-scale dataset of 220k question-answer pairs.
 2504.18340_2307043_1	Current chemical synthesis practices emphasize laborious and costly trial-and-error workflows, underscoring the urgent need for advanced AI assistants.
 2505.01678_2312238_2	To address this issue, we developed an AI-based speaking assistant (AISA) that provides speaking references for NNSs based on their input queries, task background, and conversation history.
-2505.02443_2313003_2	However, concerns arise about the ability of AI tutors to address skill development and engagement during the learning process.
 2505.03867_2314427_2	Building on prior research \cite{druga_how_2021,druga2023ai, druga2023scratch}, we present Cognimates Scratch Copilot: an AI-powered assistant integrated into a Scratch-like environment, providing real-time support for ideation, code generation, debugging, and asset creation.

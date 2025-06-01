@@ -319,7 +319,6 @@
 2311.02847_1945814_5	Building upon this unified description, a kinematic-aware planner model is proposed to generate precise 3D manipulation waypoints via a designed kinematic-aware chain-of-thoughts prompting method.
 2311.02849_1945816_1	However, most smaller models fail to surpass the performance of the original larger model, resulting in sacrificing performance to improve inference speed.
 2311.02849_1945816_6	Extensive ablation studies demonstrate the effectiveness of CTCD, and the small model distilled by CTCD outperforms the original larger model by a significant margin of 1.66 on the GLUE benchmark.
-2311.03287_1946254_6	Moreover, GPT-4V(ision) is vulnerable to leading questions and is often confused when interpreting multiple images together.
 2311.03595_1946562_2	But, unlike past technologies, generative AI is creative, cognitive, and potentially ubiquitous which makes the usual assumptions of automation predictions ill-suited for today.
 2311.03920_1946887_1	This paper introduces an intelligent system dedicated to monitoring air quality and categorizing activities within indoor environments using a DL approach based on 1D Convolutional Neural Networks (1D-CNNs).
 2311.08244_1951211_0	  The socially-aware navigation system has evolved to adeptly avoid various obstacles while performing multiple tasks, such as point-to-point navigation, human-following, and -guiding.

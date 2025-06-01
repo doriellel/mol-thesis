@@ -139,7 +139,6 @@
 1812.06965_1064539_3	Stability analysis of different steady states is performed and threshold parameters are identified where the model exhibits clearance of infection or maintenance of a chronic infection.
 1812.08200_1065774_3	The model makes predictions of the effective wave dissipation coefficient, as a function of the volumetric ratio of air to water, as well as to the rainfall rate.
 1812.08597_1066171_1	Such decisions will need to be justified due to ethical concerns as well as trust, but achieving this has become difficult due to the `black-box' nature many AI models have adopted.
-1901.00912_1070459_9	We conclude by discussing how future AI developments may affect the fight between malicious bots and the public.
 1901.03729_1073276_0	  Automated rationale generation is an approach for real-time explanation generation whereby a computational model learns to translate an autonomous agent's internal state and action data representations into natural language.
 1901.05049_1074596_7	Our AI pipeline consists of four modular main steps: i) data ingestion, ii) model training, iii) deployment optimization and, iv) the IoT hub integration.
 1901.08579_1078126_7	These findings suggest that AI experts expect major advances in AI technology to continue over the next decade to a degree that will likely have profound transformative impacts on society.
@@ -643,7 +642,7 @@
 2208.11243_1701955_3	However, most algorithms involve tricky parameter selection and complicated procedures that make the algorithm's decision rule obscure, so it is often difficult to explain and predict the errors and uncertainties of the resulting DTM.
 2208.11282_1701994_3	In this paper we describe how these multi-AI systems can arise, even in relatively simple real-world humanitarian response scenarios, and lead to potentially emergent and erratic erroneous behavior.
 2208.11910_1702622_6	From numerical experiments, we show that the DL model trained by the GAN generated samples performs close to that trained by the real samples.
-2208.12505_1703217_1	The OCR model easily gets confused on recognizing handwritten Chinese characters, and the textual information of the answers is missing during the model inference.
+
 2208.12539_1703251_1	Our system involves task-specific pre-training to improve LM representation of the masked object tokens, prompt decomposition for progressive generation of candidate objects, among other methods for higher-quality retrieval.
 2208.12816_1703528_6	Unlike typical methods, our proposed complexity-driven algorithm selects a particular layer for filter-pruning based on its contribution to overall network complexity.
 2209.00282_1705997_7	A second model, accounting for the Comptonization of the thermal emission from accretion disc along with an Fe emission line, describes the broad-band spectra of 2S 0921-63 equally well.

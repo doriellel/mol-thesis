@@ -57,3 +57,4 @@ acl_497_32659_4	BinLLM converts collaborative embeddings from external models in
 22_34383_5	Then, the more general LLM-based expert, through prompting techniques, analyzes the nuanced differences between candidate categories and selects the most suitable target category.	the more general LLM-based expert	expert	analyze,select
 2107.04022_1498034_6	To understand when AI agents need to break rules, we examine the conditions under which humans break rules for pro-social reasons.	AI agents	agent	break rules
 519_45829_8	These results suggest that LLMs can autonomously develop effective model-improvement techniques beyond human intuition.	LLMs	LLM	develop
+4_arx_2204.07644_1637782_4	The results also demonstrate that users perceive co-creative AI as more reliable, personal and intelligent when it can communicate with the users.	co-creative AI	AI	reliable,personal and intelligent

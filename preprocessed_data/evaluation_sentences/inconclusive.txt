@@ -1,18 +1,13 @@
-5_acl_13_45033_5	In this paper, the credit product customization is studied by developing an LLM-based financial AI assistant for the credit loan business.	LLM-based financial AI assistant	AI	assistant
-5_acl_3_34388_0	The development of conversational AI assistants is an iterative process with many components involved.	conversational AI assistants	AI	assistant
-5_arx_2408.10758_2130939_4	This study aims to examine the influence of AI assistants on software maintainability, specifically assessing how these tools affect the ability of developers to evolve code.	AI assistants	AI	assistant
-5_arx_2504.16505_2305208_2	Our work addresses the fundamental challenge of developing practical AI travel assistants through a novel large-scale dataset of 220k question-answer pairs.	practical AI travel assistants	AI	assistant
-5_arx_2410.03736_2161937_3	To address this gap, we introduce CliMB, a no-code AI-enabled partner designed to empower clinician scientists to create predictive models using natural language.	no-code AI-enabled partner	AI	partner
-5_arx_2402.11111_2008750_8	These LM tutors specialized in math have a 32K-token context window, and they excel at TutorEval while performing strongly on GSM8K and MATH.	These LM tutors	LM	tutor
-5_arx_2504.08817_2297520_3	Based on the results of the hackathon, this paper presents topics related to (1) conducting AI-assisted software trials, (2) building AI tutors for software, and (3) developing GUI applications for software.	AI tutors	AI	tutor
-5_acl_3_34388_2	This paper introduces the challenges in evaluating and improving a generative AI assistant for enterprise that is under active development and how we address these challenges.	generative AI assistant	AI	assistant
-5_arx_2306.05153_1858301_5	For example, mismatched expertise makes pair programming less productive, therefore well-designed AI programming assistants may adapt to differences in expertise levels.	AI programming assistants	AI	assistant
-5_arx_2503.23859_2288171_6	This study explores small-scale Vision-Language Models (VLMs) as AI assistants for radio astronomy, combining LLM capabilities with vision transformers.	small-scale Vision-Language Models (VLMs)	model	assistant
-5_arx_2311.02105_1945072_0	  Large language models (LLMs) have shown great potential as general-purpose AI assistants in various domains.	  Large language models (LLMs)	  model	  assistant
+\\ both
+
+5_acl_649_38360_0	AI personal assistants deployed via robots or wearables require embodied understanding to collaborate with humans effectively.	AI personal assistants	AI	assistant,embodied understanding,collaborate
+5_acl_6_43304_0	My research theme is to develop an optimal analytical model for various information generated during therapy using multimodal data in psychotherapy, to elucidate the process of psychotherapy, and to create an AI therapist to develop a new psychotherapy.	an AI therapist	AI	therapist
+5_acl_280_13090_8	In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model.	the teacher model	model	teacher,learn
+5_arx_2309.17024_1921828_0	  Building an interactive AI assistant that can perceive, reason, and collaborate with humans in the real world has been a long-standing pursuit in the AI community.	  an interactive AI assistant	  AI	  assistant,perceive,reason,collaborate
 
 
 
-\\ inconclusive
+\\ neither
 
 5_acl_183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.	an AI assistant	AI	assistant
 5_acl_306_44857_7	Together, our work lays foundation for further studies on clarifying interactions with LM assistants.	LM assistants	LM	assistant

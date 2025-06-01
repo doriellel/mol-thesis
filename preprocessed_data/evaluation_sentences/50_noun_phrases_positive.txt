@@ -1,59 +1,48 @@
-acl_306_44857_7	Together, our work lays foundation for further studies on clarifying interactions with LM assistants.
-acl_341_22477_5	We distill only one aspect–the commonsense of a general language model teacher, allowing the student to be a different type, a commonsense model.
-acl_794_28930_0	A human decision-maker benefits the most from an AI assistant that corrects for their biases.
-acl_183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.
-acl_50_42804_0	We describe a class of tasks called decision-oriented dialogues, in which AI assistants such as large language models (LMs) must collaborate with one or more humans via natural language to help them make complex decisions.
-acl_296_32458_0	In order for large language model (LLM)-based assistants to effectively adapt to evolving information needs, it must be possible to update their factual knowledge through continued training on new data.
-acl_113_41260_10	We discuss these challenges, demonstrate that a dedicated prompt can improve the performance, and propose a blueprint of an LLM-supporter that actively (but sensitively) seeks user context to provide personalized, empathetic, and reliable responses.
-acl_50_42804_2	In each of these settings, AI assistants and users have disparate abilities that they must combine to arrive at the best decision: Assistants can access and process large amounts of information, while users have preferences and constraints external to the system.
-acl_358_41505_5	Leveraging the strong language abilities of LLMs, we instruct LLM teachers to synthesize diverse contexts and anticipate more potential errors for the student.
-acl_649_38360_0	AI personal assistants deployed via robots or wearables require embodied understanding to collaborate with humans effectively.
-acl_209_39619_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.
-acl_991_40401_3	First, we train a teacher model to quantify each sample’s degree of relying on shortcuts.
-arx_2008.12095_1339817_1	Future conversational AI assistants promise even greater capabilities and a better user experience through a deeper understanding of the domain, the user, or the user's purposes.
-arx_2211.05030_1743936_6	In order for AI-powered writing assistants to realize their full potential, it is essential that they take into account the diverse goals and expertise of human writers.
-arx_2303.18116_1817913_4	It is demonstrated that if the typical pitfalls are avoided, we can substantially benefit from collaborating with an AI partner.
-arx_2304.07297_1825343_2	We propose a novel framework, instructRL, that enables humans to specify what kind of strategies they expect from their AI partners through natural language instructions.
-arx_2306.05153_1858301_5	For example, mismatched expertise makes pair programming less productive, therefore well-designed AI programming assistants may adapt to differences in expertise levels.
-arx_2306.16092_1869240_0	  AI legal assistants based on Large Language Models (LLMs) can provide accessible legal consulting services, but the hallucination problem poses potential legal risks.
-arx_2309.13060_1917864_8	This research demonstrates the ability of personal AI tutors to model human learning processes and effectively enhance academic performance.
-arx_2401.13275_1992829_2	These untruthful responses from the AI assistant may cause significant risks in practical applications.
-arx_2403.09751_2026870_0	  AI assistants are becoming an integral part of society, used for asking advice or help in personal and confidential issues.
-arx_2404.16244_2053695_5	Extending the circle of inquiry further, we next consider the relationship between advanced AI assistants and individual users in more detail, exploring topics such as manipulation and persuasion, anthropomorphism, appropriate relationships, trust and privacy.
-arx_2407.13900_2112287_2	The advanced capabilities of LLM-based programming assistants to support software development tasks have led to a rise in the adoption of LLMs in SE.
-arx_2407.19096_2117483_4	Study 3 finds that AI companions successfully alleviate loneliness on par only with interacting with another person, and more than other activities such watching YouTube videos.
-arx_2501.13945_2237529_2	These social AI assistants too need to explain themselves in order to enhance transparency and trust with the learners.
-arx_2505.03380_2313940_0	  Medical AI assistants support doctors in disease diagnosis, medical image analysis, and report generation.
-arx_2505.04260_2314820_1	However, untrained lay users have poor prompt specification abilities and often struggle with conveying their latent preferences to AI assistants.
-arx_2504.15236_2303939_0	  AI assistants can impart value judgments that shape people's decisions and worldviews, yet little is known empirically about what values these systems rely on in practice.
-arx_2503.03067_2267379_3	We identify various roles users assign to AI companions, such as friends, mentors, or romantic partners, and highlights the importance of customization and emotional support in these interactions.
-arx_2503.05455_2269767_4	In another experiment, we enable human control, showing that participants perceive AI partners as more effective and enjoyable when they can directly dictate AI behavior.
-arx_2409.14565_2152197_8	We show that certain AI assistants were able to improve human performance and that reinforcement-learning based assistants were objectively more effective but rated as less trusted and preferable by humans.
-arx_2407.15718_2114105_7	When students posed questions within the intended scope, the AI tutors delivered accurate responses 98% of the time.
-arx_2407.19096_2117483_5	Moreover, consumers underestimate the degree to which AI companions improve their loneliness.
-arx_2407.17489_2115876_0	  How does the presence of an AI assistant affect the collective attention of a team?
-arx_2407.19096_2117483_6	Study 4 uses a longitudinal design and finds that an AI companion consistently reduces loneliness over the course of a week.
-arx_2407.14116_2112503_4	This AI assistant not only reduces the manual effort involved in compliance checks but also enhances accuracy and efficiency, supporting professionals in maintaining high standards of practice and ensuring regulatory compliance in their respective fields.
-arx_2404.10225_2047676_4	These AI partners engage in iterative, conversation-driven development processes, aligning closely with human goals and facilitating informed decision-making.
-arx_2403.14592_2031711_1	AI coding assistants should set clear expectations for usage, integrate with advanced IDE capabilities and existing extensions, use extendable backend designs, and collect app data responsibly for downstream analyses.
-arx_2403.11128_2028247_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.
-arx_2407.15718_2114105_6	Overall, about half of the students engaged with the AI tutors, and the vast majority of the interactions were legitimate homework questions.
-arx_2408.09078_2129259_0	  AI-powered coding assistants such as GitHub Copilot and OpenAI ChatGPT have achieved notable success in automating code generation.
-arx_2410.10039_2168240_7	The result is an adaptive, privacy centric AI assistant capable of offering deeper, more relevant interactions while minimizing the risk of hallucinations.
-arx_2501.13945_2237529_6	We evaluate the self-explanation of the AI social assistant for completeness and correctness.
-arx_2502.13321_2256312_1	We propose that AI assistants should adapt their behavior through trust-adaptive interventions to mitigate such inappropriate reliance.
-arx_2503.16491_2280803_4	Specifically, the AI coding assistant often exacerbated existing accessibility barriers and introduced new challenges.
-arx_2503.03067_2267379_2	Key findings reveal that users engage with AI companions for emotional comfort, stress relief, and to avoid social pressures.
-arx_2411.15692_2198119_5	DrugAgent employs an LLM Planner that formulates high-level ideas and an LLM Instructor that identifies and integrates domain knowledge when implementing those ideas.
-arx_2407.11072_2109459_0	  LLM-based programming assistants offer the promise of programming faster but with the risk of introducing more security vulnerabilities.
-arx_2401.13275_1992829_0	  Recently, AI assistants based on large language models (LLMs) show surprising performance in many tasks, such as dialogue, solving math problems, writing code, and using tools.
-arx_2409.00862_2138494_0	  Large language model-based AI companions are increasingly viewed by users as friends or romantic partners, leading to deep emotional bonds.
-arx_2502.05023_2248014_0	  AI assistants can help developers by recommending code to be included in their implementations (e.g., suggesting the implementation of a method from its signature).
-arx_2503.21983_2286295_1	A key prerequisite to developing these safeguards is understanding the ability of these AI assistants to mislead human teammates.
-arx_2503.21983_2286295_3	Unbeknownst to the humans, the AI assistant is adversarial.
-arx_2504.15867_2304570_0	  Due to insufficient domain knowledge, LLM coding assistants often reference related solutions from the Internet to address programming problems.
-acl_6_43304_0	My research theme is to develop an optimal analytical model for various information generated during therapy using multimodal data in psychotherapy, to elucidate the process of psychotherapy, and to create an AI therapist to develop a new psychotherapy.
-arx_2503.03067_2267379_0	  This paper explores the acceptance of human-AI love among young adults, particularly focusing on Chinese women in romantic or intimate relationships with AI companions.
-arx_2411.09224_2191651_5	Although these AI assistants illustrate a high level of progress in language understanding and code generation, along with ethical considerations and responsible usage, they provoke a necessity for discussion.
-280_13090_8	In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model.
-5_43351_1	However, assessing the novelty in scholarly publications, a critical facet of evaluating LLMs as scientific discovery assistants, remains underexplored, despite its potential to accelerate research cycles and prioritize high-impact contributions in scientific workflows.
+5_acl_50_42804_0	We describe a class of tasks called decision-oriented dialogues, in which AI assistants such as large language models (LMs) must collaborate with one or more humans via natural language to help them make complex decisions.	AI assistants	AI	assistant
+5_acl_296_32458_0	In order for large language model (LLM)-based assistants to effectively adapt to evolving information needs, it must be possible to update their factual knowledge through continued training on new data.	large language model (LLM)-based assistants	model	assistant
+5_acl_113_41260_10	We discuss these challenges, demonstrate that a dedicated prompt can improve the performance, and propose a blueprint of an LLM-supporter that actively (but sensitively) seeks user context to provide personalized, empathetic, and reliable responses.	an LLM-supporter	LLM	supporter
+5_acl_50_42804_2	In each of these settings, AI assistants and users have disparate abilities that they must combine to arrive at the best decision: Assistants can access and process large amounts of information, while users have preferences and constraints external to the system.	AI assistants	AI	assistant
+5_acl_358_41505_5	Leveraging the strong language abilities of LLMs, we instruct LLM teachers to synthesize diverse contexts and anticipate more potential errors for the student.	LLM teachers	LLM	teacher
+5_arx_2008.12095_1339817_1	Future conversational AI assistants promise even greater capabilities and a better user experience through a deeper understanding of the domain, the user, or the user's purposes.	Future conversational AI assistants	AI	assistant
+5_arx_2211.05030_1743936_6	In order for AI-powered writing assistants to realize their full potential, it is essential that they take into account the diverse goals and expertise of human writers.	AI-powered writing assistants	AI	assistant
+5_arx_2303.18116_1817913_4	It is demonstrated that if the typical pitfalls are avoided, we can substantially benefit from collaborating with an AI partner.	an AI partner	AI	partner
+5_arx_2304.07297_1825343_2	We propose a novel framework, instructRL, that enables humans to specify what kind of strategies they expect from their AI partners through natural language instructions.	AI partners	AI	partner
+5_arx_2309.13060_1917864_8	This research demonstrates the ability of personal AI tutors to model human learning processes and effectively enhance academic performance.	  personal AI tutors	AI	tutor
+5_arx_2401.13275_1992829_2	These untruthful responses from the AI assistant may cause significant risks in practical applications.	  the AI assistant	  AI	assistant
+5_arx_2403.09751_2026870_0	  AI assistants are becoming an integral part of society, used for asking advice or help in personal and confidential issues.	  AI assistants	  assistants	assistant
+5_arx_2407.19096_2117483_4	Study 3 finds that AI companions successfully alleviate loneliness on par only with interacting with another person, and more than other activities such watching YouTube videos.	  AI companions	  companions	companion
+5_arx_2501.13945_2237529_2	These social AI assistants too need to explain themselves in order to enhance transparency and trust with the learners.	These social AI assistants	  AI	assistant
+5_arx_2504.15236_2303939_0	  AI assistants can impart value judgments that shape people's decisions and worldviews, yet little is known empirically about what values these systems rely on in practice.	  AI assistants	  AI	assistant
+5_arx_2503.03067_2267379_3	We identify various roles users assign to AI companions, such as friends, mentors, or romantic partners, and highlights the importance of customization and emotional support in these interactions.	  AI companions	  companions	companion
+5_arx_2407.15718_2114105_7	When students posed questions within the intended scope, the AI tutors delivered accurate responses 98% of the time.	the AI tutors	AI	tutor
+5_arx_2407.19096_2117483_5	Moreover, consumers underestimate the degree to which AI companions improve their loneliness.	AI companions	AI	companion
+5_arx_2407.19096_2117483_6	Study 4 uses a longitudinal design and finds that an AI companion consistently reduces loneliness over the course of a week.	an AI companion	AI	companion
+5_arx_2404.10225_2047676_4	These AI partners engage in iterative, conversation-driven development processes, aligning closely with human goals and facilitating informed decision-making.	These AI partners	AI	partner
+5_arx_2403.14592_2031711_1	AI coding assistants should set clear expectations for usage, integrate with advanced IDE capabilities and existing extensions, use extendable backend designs, and collect app data responsibly for downstream analyses.	AI coding assistants	AI	assistant
+5_arx_2407.15718_2114105_6	Overall, about half of the students engaged with the AI tutors, and the vast majority of the interactions were legitimate homework questions.	the AI tutors	AI	tutor
+5_arx_2408.09078_2129259_0	  AI-powered coding assistants such as GitHub Copilot and OpenAI ChatGPT have achieved notable success in automating code generation.	AI-powered coding assistants	AI	assistant
+5_arx_2410.10039_2168240_7	The result is an adaptive, privacy centric AI assistant capable of offering deeper, more relevant interactions while minimizing the risk of hallucinations.	an adaptive, privacy centric AI assistant	AI	assistant
+5_arx_2501.13945_2237529_6	We evaluate the self-explanation of the AI social assistant for completeness and correctness.	the AI social assistant	AI	assistant
+5_arx_2502.13321_2256312_1	We propose that AI assistants should adapt their behavior through trust-adaptive interventions to mitigate such inappropriate reliance.	AI assistants	AI	assistant
+5_arx_2503.03067_2267379_2	Key findings reveal that users engage with AI companions for emotional comfort, stress relief, and to avoid social pressures.	the AI companions 	AI	companion
+5_arx_2411.15692_2198119_5	DrugAgent employs an LLM Planner that formulates high-level ideas and an LLM Instructor that identifies and integrates domain knowledge when implementing those ideas.	an LLM planner	LLM	planner
+5_arx_2411.15692_2198119_5	DrugAgent employs an LLM Planner that formulates high-level ideas and an LLM Instructor that identifies and integrates domain knowledge when implementing those ideas.	an LLM Instructor	LLM	instructor
+5_arx_2401.13275_1992829_0	  Recently, AI assistants based on large language models (LLMs) show surprising performance in many tasks, such as dialogue, solving math problems, writing code, and using tools.	  AI assistants based on large language models (LLMs)	  AI	assistant
+5_arx_2409.00862_2138494_0	  Large language model-based AI companions are increasingly viewed by users as friends or romantic partners, leading to deep emotional bonds.	  Large language model-based AI companions	  companions	companion
+5_5_arx_2306.16092_1869240_0	  AI legal assistants based on Large Language Models (LLMs) can provide accessible legal consulting services, but the hallucination problem poses potential legal risks.	  AI legal assistants based on Large Language Models (LLMs)	  AI	assistant
+5_arx_2502.05023_2248014_0	  AI assistants can help developers by recommending code to be included in their implementations (e.g., suggesting the implementation of a method from its signature).	  AI assistants	  assistants	assistant
+5_arx_2503.21983_2286295_1	A key prerequisite to developing these safeguards is understanding the ability of these AI assistants to mislead human teammates.	  AI assistants	  AI	assistant
+5_arx_2503.21983_2286295_3	Unbeknownst to the humans, the AI assistant is adversarial.	  the AI assistant	  AI	assistant
+5_arx_2504.15867_2304570_0	  Due to insufficient domain knowledge, LLM coding assistants often reference related solutions from the Internet to address programming problems.	  LLM coding assistants	  LLM	assistant
+5_arx_2503.03067_2267379_0	  This paper explores the acceptance of human-AI love among young adults, particularly focusing on Chinese women in romantic or intimate relationships with AI companions.	  AI companions	  AI	companion
+5_arx_2411.09224_2191651_5	Although these AI assistants illustrate a high level of progress in language understanding and code generation, along with ethical considerations and responsible usage, they provoke a necessity for discussion.	these AI assistants	AI	assistant
+5_arx_2104.01266_1448684_4	Results from a field study conducted in K-12 classrooms indicate that students learn more when teachers and AI tutors work together during class.	AI tutors	AI	tutor
+5_arx_2505.02443_2313003_2	However, concerns arise about the ability of AI tutors to address skill development and engagement during the learning process.	AI tutors	AI	tutor
+5_acl_991_40401_3	First, we train a teacher model to quantify each sample’s degree of relying on shortcuts.	a teacher model	model	teacher
+2305.02626_1835682_1	In particular, given that LLMs have great potential to serve as general-purpose AI assistants in daily life, their subtly unethical suggestions become a serious and real concern.	LLMs	LLM	assistant
+5_acl_64_25713_1	The goal of the task was to benchmark the ability of generative language models to act as AI teachers, replying to a student in a teacher-student dialogue.	generative language models	model	teacher
+5_acl_65_25714_2	The task aims to assess the performance of state-of-the-art generative models as AI teachers in producing suitable responses within a student-teacher dialogue.	state-of-the-art generative models	model	teacher
+5_acl_57_45359_0	In this paper, we investigate whether current state-of-the-art large language models (LLMs) are effective as AI tutors and whether they demonstrate pedagogical abilities necessary for good AI tutoring in educational dialogues.	current state-of-the-art large language models (LLMs)	model	tutor
+5_acl_523_44090_1	As such, it can be valuable for a large language model (LLM), particularly as an AI assistant, to be able to empathize with or even explain these various standpoints.	a large language model (LLM)	model	assistant
+5_acl_321_45615_1	To deploy LLMs as AI assistants, it is crucial that these models exhibit desirable behavioral traits, such as non-toxicity and resilience against jailbreak attempts.	LLMs	LLM	assistant
+5_arx_2306.07207_1860355_0	  Large Language Models (LLMs), with remarkable conversational capability, have emerged as AI assistants that can handle both visual and textual modalities.	  Large Language Models (LLMs)	  model	  assistant

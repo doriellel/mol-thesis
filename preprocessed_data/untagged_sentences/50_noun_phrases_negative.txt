@@ -9,5 +9,3 @@
 5_arx_2306.05153_1858301_5	For example, mismatched expertise makes pair programming less productive, therefore well-designed AI programming assistants may adapt to differences in expertise levels.	AI programming assistants	AI	assistant
 5_arx_2503.23859_2288171_6	This study explores small-scale Vision-Language Models (VLMs) as AI assistants for radio astronomy, combining LLM capabilities with vision transformers.	small-scale Vision-Language Models (VLMs)	model	assistant
 5_arx_2311.02105_1945072_0	  Large language models (LLMs) have shown great potential as general-purpose AI assistants in various domains.	  Large language models (LLMs)	  model	  assistant
-
-

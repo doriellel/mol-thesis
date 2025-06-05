@@ -1,14 +1,7 @@
-\\ both
-
 5_acl_649_38360_0	AI personal assistants deployed via robots or wearables require embodied understanding to collaborate with humans effectively.	AI personal assistants	AI	assistant,embodied understanding,collaborate
 5_acl_6_43304_0	My research theme is to develop an optimal analytical model for various information generated during therapy using multimodal data in psychotherapy, to elucidate the process of psychotherapy, and to create an AI therapist to develop a new psychotherapy.	an AI therapist	AI	therapist
 5_acl_280_13090_8	In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model.	the teacher model	model	teacher,learn
 5_arx_2309.17024_1921828_0	  Building an interactive AI assistant that can perceive, reason, and collaborate with humans in the real world has been a long-standing pursuit in the AI community.	  an interactive AI assistant	  AI	  assistant,perceive,reason,collaborate
-
-
-
-\\ neither
-
 5_acl_183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.	an AI assistant	AI	assistant
 5_acl_306_44857_7	Together, our work lays foundation for further studies on clarifying interactions with LM assistants.	LM assistants	LM	assistant
 5_acl_209_39619_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.	an AI assistant	AI	assistant

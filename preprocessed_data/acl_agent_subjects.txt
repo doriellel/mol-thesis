@@ -102,7 +102,6 @@
 154_25214_1	However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had truly learned how negation morphemes semantically scope.
 162_25222_2	In both tasks, the model must know the entities used to perform the generation properly.
 8_25288_8	Our findings demonstrate that LMs struggle with specific linguistic phenomena, such as habituality, indicating that there is potential for the development of more effective NLI models across languages.
-57_25373_2	By analyzing call transcripts, AI can quickly determine which calls are most relevant for coaching purposes, and provide relevant feedback and insights to the contact center manager or supervisor.
 20_25452_3	Our proposed system for the ALTA shared task, based on ensembling a number of language models, claimed first place on the development set with an accuracy of 99.35% and third place on the test set with an accuracy of 98.35%.
 6_25484_3	Our analysis indicates that LLMs may encounter challenges with dialects for which minimal public datasets exist, but on average are better translators of dialects than existing commercial systems.
 56_25534_1	The proposed system for all the tasks’ sub-tasks consisted of preprocessing the data and finetuning AraBERT on the given datasets, in addition to several procedures performed for each subtask to adapt to the problems faced in it.
@@ -161,7 +160,6 @@
 502_27223_2	However, LMs do not describe unweighted formal languages—rather, they define probability distributions over strings.
 502_27223_3	In this work, we study what classes of such probability distributions RNN LMs can represent, which allows us to make more direct statements about their capabilities.
 502_27223_7	These results present a first step towards characterizing the classes of distributions RNN LMs can represent and thus help us understand their capabilities and limitations.
-507_27228_1	However, LLMs can still struggle with problems that are easy for humans, such as generating action plans for executing tasks or performing complex math or logical reasoning.
 550_27271_3	The experimental results indicate that multiple advanced LLMs demonstrate the capability akin to typoglycemia, a phenomenon where humans can understand the meaning of words even when the letters within those words are scrambled, as long as the first and last letters remain in place.
 550_27271_6	It is counter-intuitive that LLMs can exhibit such resilience despite severe disruption to input tokenization caused by scrambled text.
 565_27286_10	Moreover, EasyQuant can be implemented in parallel so that the quantized model could be attained in a few minutes even for LLMs over 100B. To our best knowledge, we are the first work that achieves almost lossless quantization performance for LLMs under a data-independent setting and our algorithm runs over 10 times faster than the data-dependent methods.
@@ -234,7 +232,6 @@
 504_29540_3	We show that even the largest LLMs today perform poorly under the zero-shot setting.
 508_29544_2	To examine whether LLMs can collaborate effectively to achieve a consensus for a shared goal, we focus on commonsense reasoning, and introduce a formal debate framework (FORD) to conduct a three-stage debate among LLMs with real-world scenarios alignment: fair debate, mismatched debate, and roundtable debate.
 508_29544_3	Through extensive experiments on various datasets, LLMs can effectively collaborate to reach a consensus despite noticeable inter-inconsistencies, but imbalances in their abilities can lead to domination by superior LLMs.
-518_29554_3	Consequently, LLMs struggle to recall facts whose subject and object rarely co-occur in the pre-training dataset although they are seen during finetuning.
 518_29554_6	Although debiased finetuning allows LLMs to memorize rare facts in the training set, it is not effective in recalling rare facts unseen during finetuning.
 531_29567_4	Compared to existing models, our personalized language model demonstrated superior performance in predicting an individual’s language in a test set.
 578_29614_4	In particular, our approach extracts knowledge from LLMs to construct a knowledge store, from which the small-scale model can retrieve relevant information and leverage it for effective inference.
@@ -247,7 +244,6 @@
 732_29768_4	For adding new syntactic knowledge and keeping a good balance between the original and additional knowledge, we addressed the problem of catastrophic forgetting that prevents the model from keeping semantic information when the model learns additional syntactic knowledge.
 743_29779_1	Despite the impressive emerging ability of ChatGPT in various NLP tasks, it is unclear how well ChatGPT performs in causal reasoning.
 782_29818_5	We also observe that LMs memorize the limited task-specific training data despite the use of known regularization methods.
-787_29823_5	Without imposing a biased persona, where would an AI-based news outlet lie within the bias ratings?
 795_29831_2	In this work, we explore testing LLMs’ reasoning by engaging with them in a debate-like conversation, where given a question, the LLM and the user need to discuss to make the correct decision starting from opposing arguments.
 804_29840_3	In particular, human evaluations on assessing edit trustworthiness show that GPT-4 exhibits a large improvement over the prior state-of-the-art LLM.
 804_29840_5	However, we also show that GPT-4 could produce hallucinated edits, thereby urging caution in its use as an expert translation post-editor.
@@ -262,7 +258,6 @@
 11_30322_6	Our results show that ChatGPT’s performance gets closer to an optimal agent only when prompted to explicitly list the updated space stepwise.
 15_30326_3	Our findings show that LLMs struggle in particular with generating coherent continuations in this rather simple setting, indicating a lack of discourse knowledge beyond the well-known IC bias.
 24_30335_3	Our findings suggest that LLMs still struggle to generate children’s stories at the level of quality and nuance found in actual stories.
-14_30365_3	The model produces summaries covering meeting topics and next steps and performs comparably to a large language model at a fraction of the cost.
 30_30462_6	token, the average matched accuracy improved further to 92.0, indicating that the model could learn to control the formality of the translation output based solely on the embedding of the <bos> token.
 15_30697_0	This paper describes our multiclass classification system developed as part of the LT-EDI@RANLP-2023 shared task.
 5_30743_4	Additionally, we compare factual, counter-factual and fictional statements, and show that there is a significant connection between what the LLM already knows about the data it is parsing and the quality of the output text.
@@ -317,7 +312,6 @@
 237_32399_3	This limitation implies that the model struggles to associate the answer options with their corresponding symbols (e.g., A/B/C/D) effectively.
 248_32410_2	To this end, we construct ‘linguistic task spaces’ – representations of an LM’s language conceptualisation – that shed light on the connections LMs draw between language phenomena.
 270_32432_0	A practical large language model (LLM) service may involve a long system prompt, which specifies the instructions, examples, and knowledge documents of the task and is reused across requests.
-304_32466_5	Interestingly, contrary to the expectation that LLMs would perform better when tasks are divided, we find that state-of-the-art LLMs, such as Llama-2-Chat-70B and GPT-4, show up to 7.3% and 12.4% improved performance with Multi-Task Inference compared to Single-Task Inference on the MTI Bench.
 336_32498_5	On the other hand, we observe that the model produces less literal translations after fine-tuning on parallel data.
 345_32507_3	Empirical results show that the representative GPT models suffer from the culture dominance problem, where GPT-4 is the most affected while text-davinci-003 suffers the least from this problem.
 358_32520_7	We train Spoken-LLM using the StyleTalk dataset and devise a two-stage training pipeline to help the Spoken-LLM better learn the speaking styles.
@@ -441,8 +435,6 @@
 93_34958_0	Large language model agents have exhibited exceptional performance across a range of complex interactive tasks.
 102_34967_0	The advent of large language models (LLMs) like GPT-4 has catalyzed the exploration of multi-task learning (MTL), in which a single model demonstrates proficiency across diverse tasks.
 114_34979_7	Our CVR-LLM presents the first comprehensive study across a wide array of complex visual reasoning tasks and achieves SOTA performance among all.
-131_34995_1	We propose metrics to evaluate the trade-off between performance improvements and user burden, and investigate whether LLMs can determine when to request help under varying information availability.
-131_34995_2	Our experiments show that without external feedback, many LLMs struggle to recognize their need for user support.
 177_35039_2	This raises the question: To what extent can LLMs learn orthographic information?
 212_35072_9	When an LLM encounters questions outside its domain, the system recognizes its knowledge scope and determines whether it can answer the question independently.
 222_35082_5	All the LLMs we tested make some basic mistakes with conditionals or modals, though zero-shot chain-of-thought prompting helps them make fewer mistakes.

@@ -27,7 +27,6 @@
 743_29779_6	Additionally, the causal reasoning ability of ChatGPT is sensitive to the words used to express the causal concept in prompts, and close-ended prompts perform better than open-ended prompts.
 755_29791_7	These three modules perform the divide-and-conquer procedure iteratively until the model is confident about the final answer to the main question.
 877_29913_7	These preliminary results underscore the promise of concept-aware LLMs.
-911_29947_3	In this paper, we present a time-aware language model named TALM, to learn temporal word representations by transferring language models of general domains to those of time-specific ones.
 1_30970_8	Moreover, our error analysis shows that language models are generally less sensitive to the changes in claim length and source than the SVM model.
 5_31744_0	This paper presents an ontology-aware pretrained language model (OPAL) for end-to-end task-oriented dialogue (TOD).
 80_32086_2	We annotate random source words with pseudo-terminology translations obtained from word alignment to first train a terminology-aware model.
@@ -57,7 +56,6 @@
 685_37445_4	Specifically, within the temporal space, we construct Temporal Belief State Chain (TBSC) for each character and inspired by the cognition perspective of the social world model, we divide TBSC into self-world beliefs and social world beliefs, aligning with first-order ToM (first-order beliefs) and higher-order ToM (higher-order beliefs) questions, respectively.
 818_37575_1	In practical use, users might provide feedback based on the model’s output, hoping for a responsive model that can complete responses according to their feedback.
 948_37703_0	Although many large language models (LLMs) have been trained to refuse harmful requests, they are still vulnerable to jailbreaking attacks which rewrite the original prompt to conceal its harmful intent.
-963_37718_2	To quantify moral emotions, we employ a context-aware NLP model that is designed to capture the subtle nuances of emotions across cultures.
 97_37826_4	Our method constructs a counterpart for each piece of data with the same distribution, and performs statistical analysis of the corresponding confidence to test whether the model is significantly more confident under the original benchmark.
 117_37846_1	However, when LLMs face different types of questions, it is worth exploring whether LLMs are aware that some questions have limited answers and need to respond more deterministically but some do not.
 293_38016_1	Despite their impressive performance, recent studies have shown that LLMs are vulnerable to deliberately crafted adversarial prompts even when aligned via Reinforcement Learning from Human Feedback or supervised fine-tuning.

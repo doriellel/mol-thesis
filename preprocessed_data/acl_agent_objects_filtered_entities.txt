@@ -1,0 +1,175 @@
+479_6069_1	However, while knowledge is both written and queried in many languages, studies on LMs’ factual representation ability have almost invariably been performed on English.
+230_10195_6	EnsLM can be trained jointly with mATM with a flexible LM backbone.
+490_10455_5	The student is then trained on combination of the original and GPT-generated data while being led by the anchor knowledge from the teacher.
+153_11599_1	However, this emerging LM-as-KB paradigm has so far only been considered in a very limited setting, which only allows handling 21k entities whose name is found in common LM vocabularies.
+620_12498_3	We report improvements in state tracking performance in MultiWOZ 2.0 against a strong GPT-2 baseline and investigate a simplified sparse training scenario in which DST models are trained only on session-level annotations but evaluated at the turn level.
+192_13002_0	Large-scale language models such as GPT-3 are excellent few-shot learners, allowing them to be controlled via natural text prompts.
+96_16254_0	Class-based language models (LMs) have been long devised to address context sparsity in n-gram LMs.
+502_20526_4	We find that 4 pretrained transfomer LMs obtain high performance on our probing tasks even on manipulated data, suggesting that semantic and syntactic knowledge in their representations can be separated and that constituency information is in fact learned by the LM.
+502_20526_5	Moreover, we show that a complete constituency tree can be linearly separated from LM representations.
+6_20896_1	Due to computational constraints, existing analyses are mostly conducted on publicly-released LM checkpoints, which makes it difficult to study how various factors during training affect the models’ acquisition of linguistic knowledge.
+68_24218_7	Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM, ThinkSum is less sensitive to prompt design, yields more interpretable predictions, and can be flexibly combined with latent variable models to extract structured knowledge from LLMs.
+36_26102_3	Expert human scrutiny indicates that notes generated via the ICL-based approach with GPT-4 are preferred about as often as human-written notes, making it a promising path toward automated note generation from doctor-patient conversations.
+38_26180_1	Specifically, we formulate CDEC as a multi-category classification problem on pairs of events that are represented as decontextualized sentences, and compare the predictions of GPT-4 with the judgment of fully trained annotators and crowdworkers on the same data set.
+51_26772_5	We find that the task remains extremely challenging, including for GPT-4, whose generated disambiguations are considered correct only 32% of the time in crowdworker evaluation, compared to 90% for disambiguations in our dataset.
+107_26828_4	To overcome these, we propose to verify the output and the knowledge of the knowledge-augmented LMs with a separate verifier, which is a small LM that is trained to detect those two types of errors through instruction-finetuning.
+146_26867_4	We compare these queries against existing NLP benchmark tasks and identify a significant gap between the tasks that users frequently request from LLMs and the tasks that are commonly studied in academic research.
+319_27040_0	The success of large language models (LLMs), like GPT-4 and ChatGPT, has led to the development of numerous cost-effective and accessible alternatives that are created by finetuning open-access LLMs with task-specific data (e.g., ChatDoctor) or instruction data (e.g., Alpaca).
+322_27043_5	A small language model is adopted as a trainable rewriter to cater to the black-box LLM reader.
+322_27043_6	The rewriter is trained using the feedback of the LLM reader by reinforcement learning.
+322_27043_8	Experiments results show consistent performance improvement, indicating that our framework is proven effective and scalable, and brings a new framework for retrieval-augmented LLM.
+335_27056_0	The increased deployment of LMs for real-world tasks involving knowledge and facts makes it important to understand model epistemology: what LMs think they know, and how their attitudes toward that knowledge are affected by language use in their inputs.
+453_27174_0	In this work, we carry out a data archaeology to infer books that are known to ChatGPT and GPT-4 using a name cloze membership inference query.
+531_27252_3	We have used our dataset with the largest available open LLMs in a zero-shot approach to grasp their generalization and inference capability and we have also fine-tuned some of the models to assess whether the understanding of negation can be trained.
+782_27503_0	Language models (LMs) with less than 100B parameters are known to perform poorly on chain-of-thought (CoT) reasoning in contrast to large LMs when solving unseen tasks.
+167_28303_8	The code for this work can be found at https://github.com/Ziems/llm-url.
+223_29259_2	Several perspectives of robustness for LMs have been studied independently, but lacking a unified consideration in multiple perspectives.
+326_29362_2	An empirical analysis is conducted to assess the zero-shot learning capabilities of ChatGPT and GPT-4 by subjecting them to evaluation across three MPC datasets that encompass five representative tasks.
+511_29547_1	To maintain the knowledge acquired by LLMs, we need to ensure that the editing of learned facts respects internal logical constraints, which are known as dependency of knowledge.
+546_29582_1	It is currently conjectured that shortcomings of LLMs in multi-linguality and reasoning are due to a lack of ability to generalize.
+782_29818_2	We focus on the fine-tuning of pre-trained LMs, which is expected to be performed much more frequently as the pre-trained models are adapted to downstream tasks.
+981_30017_6	The evaluation is performed over four NLP tasks (two generative and two classification tasks) among four widely used multilingual LMs in seven languages.
+1032_30068_1	To achieve this goal, we re-examine existing detection approaches based on the self-consistency of LMs and uncover two types of hallucinations resulting from 1) question-level and 2) model-level, which cannot be effectively identified through self-consistency check alone.
+1055_30091_0	Multi-modal large language models are regarded as a crucial step towards Artificial General Intelligence (AGI) and have garnered significant interest with the emergence of ChatGPT.
+16_30125_8	The evaluation results show an overall good quality of the dialogues, though research is still needed to improve the quality of the GPT-4 evaluation metrics.
+18_30127_2	Our extensive findings provide empirical proof of how globally recognized models like ChatGPT may be considered less effective and may require more refined prompts for these generative tasks compared to other open-sourced models such as BLOOMZ and FlanT5—which have shown promising results.
+5_30231_1	However, the performance of such LMs have not been studied in detail with respect to finer language related aspects in the context of NER tasks.
+2_30841_2	However, it is not yet known the performance of LLMs on CLS.
+1_31215_4	We present an account of the different datasets constructed for detecting ChatGPT-generated text, the various methods utilized, what qualitative analyses into the characteristics of human versus ChatGPT-generated text have been performed, and finally, summarize our findings into general insights.
+23_31608_4	To improve the performance of ChatGPT, several experiments utilising different prompt engineering techniques were conducted.
+14_32176_3	Extensive experiments are conducted on Causal Question Answering (CQA), where IBE-Eval is tasked to select the most plausible causal explanation amongst competing ones generated by LLMs (i.e., GPT 3.5 and Llama 2).
+73_32235_1	It is known that the effective design of task-specific prompts is critical for LLMs’ ability to produce high-quality answers.
+185_32347_6	The code to reproduce our experiments can be found at https://github.com/sail-sg/lm-random-memory-access.
+225_32387_1	Numerous benchmarks have been established to assess the reasoning abilities of LLMs.
+226_32388_2	Preliminary empirical results from two LLMs and three watermarking methods reveal that current text watermarking technologies lack consistency when texts are translated into various languages.
+226_32388_3	Based on this observation, we propose a Cross-lingual Watermark Removal Attack (CWRA) to bypass watermarking by first obtaining a response from an LLM in a pivot language, which is then translated into the target language.
+331_32493_5	Our code can be found in https://github.com/HKUST-KnowComp/LLM-discussion.
+332_32494_3	However, these methods would be affected by the noise in the knowledge and the context length limitation of LLM.
+409_32571_2	This learning method is designed to enhance the performance of open LLM agents.
+423_32585_5	Furthermore, we present the first cross-supervision role-play experiment, revealing that the role-play styles can be easily acquired, while the intrinsic capabilities of LLMs confine the knowledge within role-play.
+530_32692_5	Though backdoor attacks have been studied extensively in natural language processing, to the best of our knowledge, we could be the first to study them on LLM agents that are more dangerous due to the permission to use external tools.
+538_32700_6	The evaluation framework and experimental results are expected to provide an in-depth understanding of the editorial capabilities of LLMs and speed up the development of LLMs in journalism.
+563_32725_5	A synthetic dataset (TGQA), which is fully controllable and requires minimal supervision, is constructed for fine-tuning LLMs on this text-to-TG translation task.
+568_32730_4	RA-LLM can be directly constructed upon an existing aligned LLM with a robust alignment checking function, without requiring any expensive retraining or fine-tuning process of the original LLM.
+589_32751_0	Large language models (LLMs) have successfully served as a general-purpose interface across multiple tasks and languages, while the adaptation of voice LLMs is mostly designed for specific purposes (either single-task or monolingual), where the advantages of LLMs especially for low-resource language processing and zero-shot task generalization are less exploited in the audio community.
+591_32753_2	More recent LLMs often incorporate an additional layer of defense, a Guard Model, which is a second LLM that is designed to check and moderate the output response of the primary LLM.
+809_32971_2	However, currently known techniques presume that corpora used for safety alignment of LLMs are solely interpreted by semantics.
+809_32971_5	In this paper, we propose a novel ASCII art-based jailbreak attack and introduce a comprehensive benchmark Vision-in-Text Challenge (ViTC) to evaluate the capabilities of LLMs in recognizing prompts that cannot be solely interpreted by semantics.
+818_32980_1	Despite LLMs advancements in recent times, their performance consistency across different input lengths is not well understood.
+15_33149_1	However, the procedure to optimizing the mixing of instruction datasets for LLM fine-tuning is still poorly understood.
+29_33163_2	What research has been conducted on these vulnerabilities was predominantly on English, limiting the understanding of LLM behavior in other languages.
+5_33198_1	While LLMs such as ChatGPT has been developed and used for various tasks, there remain several weakness of the LLMs.
+21_33287_5	We also reveal that, while the results for ChatGPT 4 are not significantly language dependent, meaning that the performances in avoiding biases are not affected by the prompting language, their difference with ChatGPT 3.5 is statistically significant.
+7_33909_0	Syntactic learning curves in LMs are usually reported as relatively stable and power law-shaped.
+34_33980_3	Our experiments show that expectations in terms of usefulness and trustworthiness of LLM-generated explanations are not met, as their ratings decrease by 47.78% and 64.32%, respectively, after treatment.
+91_34037_3	These parallel corpora were analyzed using both complexity and similarity metrics to assess the outcomes of LLMs and human participants.
+6_34090_4	Our results highlight the importance of prioritizing information presentation in the design of domain-specific LLMs to ensure that scientific information is effectively communicated, especially as even expert audiences find it challenging to assess the credibility of AI-generated content.
+16_34187_1	Our framework is constructed around an LLM with knowledge self-generation and output refinement.
+7_34206_4	A positive correlation of 0.40 was found between the emotion intensity scores reproduced by GPT-4 and those manually annotated by humans.
+9_34675_5	Further, we describe tradeoff curves between the LLM evaluator performance (i.e., correlation with humans) and evaluation set size; loss in correlation can be compensated with modest increases in the evaluation set size.
+244_35103_6	Intriguingly, although LLMs were not asked to persuade users to support Biden, about 20% of Trump supporters reduced their support for Trump after LLM interaction.
+250_35109_4	The retrieval system harnesses both dense text embedding and sparse bag-of-words representations given by the LLM.Our experimental evaluation on the MSMARCO, TREC deep learning and BEIR zero-shot document retrieval datasets illustrates that this simple prompt-based LLM retrieval method can achieve a similar or higher retrieval effectiveness than state-of-the-art LLM embedding methods that are trained with large amounts of unsupervised data, especially when using a larger LLM.
+476_35330_5	Rigorous evaluations and ablation studies are conducted on two commercial LLMs (ChatGPT and GLM) and three open-source LLMs, revealing PeT’s superiority in producing less harmful responses, outperforming five strong baselines.
+484_35338_2	To deepen our understanding of CD, we first theoretically prove that CD could be viewed as linearly extrapolating the next-token logits from a huge and hypothetical LM.
+606_35456_4	This is supported by empirical findings on variants on GPT-2, demonstrating improved stability and lower perplexities, even at deeper layer counts.
+651_35501_3	We conclude by showing that it would apply to LLMs only if they were interpreted in the manner of how the CTM conceives the mind, i.e., by postulating that LLMs rely on a version of a language of thought, or by adopting said questionable theories of meaning; since neither option is rational, we conclude that the SGP does not apply to LLMs.
+769_35615_5	Our results suggest that the behavior of pre-trained LLMs can be explained by heuristics studied in cognitive science and that both ICL and SFT improve model performance on valid inferences, although only the latter can mitigate most reasoning biases while being consistent.
+781_35626_4	By carefully analyzing the internal computations of transformer-based LLMs, we discover that the bridge entity is resolved in the early layers of the model.
+860_35703_4	MT-Ladder is trained on pseudo-refinement triplets which can be easily obtained from existing LLMs without additional human cost.
+889_35732_9	Moreover, we observe an alarming trend where human evaluators are deceived by incorrect responses from GPT-4 Turbo.
+1014_35853_5	Our attacks are easy to employ, requiring only black-box access to an LLM and a few samples from the user, which _need not be the ones that were trained on_.
+1034_35873_3	However, when using Arabic transliteration and chatspeak (or arabizi), we found that unsafe content could be produced on platforms like OpenAI GPT-4 and Anthropic Claude 3 Sonnet.
+1035_35874_2	We use GlobalBias to directly probe a suite of LMs via perplexity, which we use as a proxy to determine how certain stereotypes are represented in the model’s internal representations.
+86_36236_1	When using Large Language Models (LLMs) for this task, a new call to the LLM inference endpoint/API is required for each new query even if the context stays the same.
+135_36470_1	However, though the evaluation of LLMs encompasses various domains within the realm of Natural Language Processing, limited attention has been paid to probing their linguistic capability of understanding contextual features.
+14_36792_0	Large language models (LLMs) are typically trained on general source data forvarious domains, but a recent surge in domain-specific LLMs has shown theirpotential to outperform general-purpose models in domain-specific tasks (e.g.,biomedicine).
+275_37048_3	In this work, we ask: do variations in the way a prompt is constructed change the ultimate decision of the LLM?
+379_37149_4	Experiments were performed on SLURP to quantify the performance of LLMs, including GPT-3.5-turbo, GPT-4, LLaMA-13B, LLaMA-2-13B and Vicuna-13B (v1.1 and v1.5) with different ASR error rates.
+400_37170_3	We show how a small language model could be trained to act as a verifier module for the output of an LLM(i.e., ChatGPT, GPT-4), and to iteratively improve its performance via fine-grained corrective instructions.
+460_37225_3	Such outliers are found to allocate most of the attention scores on initial tokens of input, termed as pivot tokens, which are crucial to the performance of quantized LLMs.
+473_37238_1	This disparity is demanded in further fine-tuning and affecting the cross-lingual abilities of LLMs.
+529_37294_8	Human evaluation are conducted to verify the quality of LLM-REDIAL.
+704_37465_1	To curtail the frequency of these calls, one can employ a local smaller language model -a student- which is continuously trained on the responses of the LLM.
+724_37485_2	While representations of translationally equivalent sentences in different languages are known to be similar after convergence, however, it remains unclear how such cross-lingual alignment emerges during pre-training of LLMs.
+726_37487_2	However, most quantization studies use pre-trained LLMs, and the impact of quantization on instruction-tuned LLMs and the relationship between perplexity and benchmark performance of quantized LLMs are not well understood.
+804_37562_4	A multi-module framework is developed for the task, including three different feedback mechanisms to boost performance, which exhibits superior performance in terms of both GPT-4 based and expert-based evaluation.
+924_37681_5	Our experimental results show improved self-correction abilities of two models on five datasets spanning math and commonsense reasoning, with notable performance gains when paired with a strong GPT-4-based verifier, though limitations are identified when using a weak self-verifier for determining when to correct.
+51_37781_5	ALRO is designed to bridge the gap between the capabilities of LLMs and the nuanced requirements of ranking tasks.
+96_37826_0	Prior research has revealed that certain abstract concepts are linearly represented as directions in the representation space of LLMs, predominantly centered around English.
+240_37966_3	Yet, its application in LLMs has not been extensively studied.
+251_37977_5	Using emotion attribution, we explore how different religions are represented in LLMs.
+400_38118_2	Named Entity Recognition (NER) is a critical task in information extraction that is not covered in recent LLM benchmarks.
+540_38252_3	However, the diversity aspect in LLM outputs has not been systematically studied before.
+569_38281_1	While many strategies and datasets to enhance LLMs’ mathematics are developed, it remains a challenge to simultaneously maintain and improve both language and mathematical capabilities in deployed LLM systems.
+623_38335_2	NL’s status as the optimal format for LLMs, particularly in single-LLM reasoning and multi-agent communication, has not been thoroughly examined.
+766_38473_4	In experiments across four LLMs, we find that multilingual instruction tuning with as few as two to three languages is both necessary and sufficient to elicit effective cross-lingual generalisation, with the limiting factor being the degree to which a target language is seen during pretraining.
+802_38509_2	Due to the scale of LLM, PEFT operations are usually executed in the public environment (e.g., cloud server).
+996_38700_5	The robustness of our benchmark is demonstrated by the poor performance of existing Code-LLMs.
+3_38763_2	We find that hegemonic norms are consistently reproduced; dominant identities are often treated as ‘default’; and discussion of identity itself may be considered ‘inappropriate’ by the safety features applied to some LLMs.
+22_38782_2	The research field of bias in LLMs has seen massive growth, but few attempts have been made to detect or mitigate other biases than gender bias, and most focus has been on English LLMs.
+9_38795_1	We study a range of LLMs and find that the largest models we tested are able to draw human-like inferences when the inference is determined by context and can generalize to unseen adjective-noun combinations.
+19_38961_4	We argue that analogous standardization processes are required for LLM assessments, given their differential functioning as compared to humans.
+17_39033_2	While such modifications have been proven effective in tasks like machine translation, tailoring them to LLMs demands specific modifications given the diverse nature of LLM applications.
+22_39432_0	Large Language Models (LLMs) have been developed without a theoretical framework, yet we posit that evaluating and improving LLMs will benefit from the development of theoretical frameworks that enable comparison of the structures of human language and the model of language built up by LLMs through the processing of text.
+53_39463_3	We identify this as a primary factor constraining the reasoning capabilities of LLMs, a limitation that cannot be resolved solely based on the predicted answers.
+197_39607_8	Additionally, we observe improved performance when test sets are translated to English before inputting them into GPT-3.5.
+916_40326_5	LHMKE is designed to provide a comprehensive evaluation of the knowledge acquisition capabilities of Chinese LLMs.
+930_40340_6	We also discuss the challenges and limitations of LLMs that need to be addressed before they can be widely adopted in clinical settings.
+1090_40500_1	Counterspeech generation is one such key task where efforts are made to develop generative models by fine-tuning LLMs with hatespeech - counterspeech pairs, but none of these attempts explores the intrinsic properties of large language models in zero-shot settings.
+1539_40949_1	However, this awareness of LMs has been insufficiently studied, since the computer science community lacks access to the large-scale real-world data about multi-cultural values.
+51_41198_1	However, the comprehensive effects of fine-tuning on the LLMs’ generalization ability are not fully understood.
+78_41225_6	Such a constitution discovery pipeline can be run iteratively and automatically to discover new constitutions that specifically target the alignment gaps in the current LLM.
+118_41265_0	Large Language Models (LLMs), such as ChatGPT and GPT-4, are designed to provide useful and safe responses.
+284_41431_1	In affixal negation, the negated meaning is expressed through a negative morpheme, which is potentially challenging for LLMs as their tokenizers are often not morphologically plausible.
+379_41526_11	Notably, with GPT-3.5-Turbo and I3C-Select, we achieve an accuracy of 96.0 and 94.1 on GSM-IC2-1K and GSM-ICM-1K, respectively, significantly outperforming the state-of-the-art few-shot prompting method Complex-CoT by +11.7 and +11.1.Our implementation is made publicly available at https://wzy6642.github.io/I3C.github.io/.
+456_41603_2	The evaluation of such LMs would ideally be performed using human judgement, however, this is not scalable.
+464_41611_1	While autoregressive LMs have benefited immensely from scaling and instruction-based learning, existing studies of diffusion LMs have been conducted on a smaller scale.
+1_41816_2	In this work, we probe LLMs from a human behavioral perspective, correlating values from LLMs with eye-tracking measures, which are widely recognized as meaningful indicators of human reading patterns.
+51_41912_2	Popular LLMs such as ChatGPT have been examined as a research assistant and as an analysis tool, and several discrepancies regarding both transparency and the generative content have been uncovered.
+2_41940_5	We also show that techniques like Chain-of-Thought and Cross-Lingual Prompting, which are designed to improve reasoning abilities, do not necessarily improve the fact-checking abilities of LLMs.
+4_42205_2	The dialogue system is constructed on top of LLMs, focusing on defining specific roles for individual modules.
+22_42262_2	This problem is known as hallucination and has reduced the confidence in the output of LLMs.
+43_42823_2	In this work, we investigate the effect of IT and RLHF on decision making and reasoning in LMs, focusing on three cognitive biases—the decoy effect, the certainty effect, and the belief bias—all of which are known to influence human decision-making and reasoning.
+66_42846_1	However, typically the retriever is not trained jointly as a native component of the LM, but added post-hoc to an already-pretrained LM, which limits the ability of the LM and the retriever to adapt to one another.
+9_43050_4	MBIAS is designed to significantly reduce biases and toxic elements in LLM outputs while preserving the main information.
+10_43051_2	The echo chamber has been viewed as a human-specific problem, but this implicit assumption is becoming less reasonable as large language models, such as ChatGPT, acquire social abilities.
+12_43053_2	The recent emergence in Large Language Models (LLM) has significantly advanced general NLP tasks, however, the capability of such LLMs in cross-lingual sentiment analysis has not been fully studied.
+80_43202_2	Our method uses a ViT image encoder to extract visual representations as visual tokenembeddings which are projected to the LLM space by an adapter layer and generates translation in an autoregressive fashion.
+10_43284_4	This work uses linguistic examples identified in research literature to introduce a taxonomy for Algospeak and shows that with the use of an LLM (GPT-4), 79.4% of the established terms can be corrected to their true form, or if needed, their underlying associated concepts.
+5_43562_2	More than 250,000 pages have been translated into English, emphasizing the potential of LLMs to cross language barriers and increase global access to Islamic knowledge.
+17_43610_3	This framework is designed to adaptively transfer knowledge from the server’s LLM to clients’ SLMs while concurrently enhancing the LLM with clients’ unique domain insights.
+20_43613_3	In this work, we examine the problem from a novel angle, focusing on how data can be better represented for more data-efficient retrieval in the context of LLM customization.
+39_43632_1	While extensive research has been conducted on the safety of LLMs in chat mode, the security implications of their function calling feature have been largely overlooked.
+207_43800_1	However, for clinical diagnosis, higher expectations are required for LLM’s reliability and sensitivity: thinking like physicians and remaining sensitive to key medical information that affects diagnostic reasoning, as subtle variations can lead to different diagnosis results.
+403_43996_6	Our experimental results reveal a meaningful correlation between LLM rankings on the revised benchmark and the original benchmark when these attributes are accounted for.
+404_43997_1	Yet, the basic linguistic units processed in these LMs are determined by subword-based tokenization, which limits their validity as models of learning at and below the word level.
+466_44059_2	Experiments are conducted with several LLMs, including proprietary GPT models and open-source models, using zero-shot prompting with adjectives that represent varying levels of semantic equivalence (e.g., “the same”) or inequivalence (e.g., “different”).
+501_44094_3	Experiments were conducted using two leading VQA benchmark datasets, ChartQA and PlotQA, with visualizations generated by OpenAI’s GPT-3.5 Turbo and Meta’s Llama 3.1 70B-Instruct models.
+529_44122_3	Our framework is designed to investigate and quantify the presence of gender stereotypes in LLMs’ behavior via multi-round question answering.
+548_44141_1	However, this evaluation approach is affected by potential biases within LLMs, raising concerns about the accuracy and reliability of the evaluation results of LLMs.
+577_44170_4	A supervised fine-tuning (SFT) strategy is also presented to enhance the performance of LLMs, together with an algorithm for automatic dataset annotation to avoid additional manual costs.
+603_44196_7	The present paper can be thought of as a pocket guide to conducting ethical research with LLMs.
+693_44286_1	Evaluating the ICL ability of LLMs can enhance their utilization and deepen our understanding of how this ability is acquired at the training stage.
+710_44303_1	While their correlation against human annotators has been widely studied, consistency as evaluators is still understudied, raising concerns about the reliability of LLM evaluators.
+69_44441_6	Experiments are conducted on nine benchmarks which demonstrates that our approach improves the reasoning accuracy of LLMs.
+142_44723_1	However, the large size and high computation demands of LLMs limit their practicality in many applications, especially when further fine-tuning is required.
+147_44727_3	These datasets are meant to reduce data contamination while providing an accurate assessment of Persian LLMs.
+179_44759_5	The proposed attacker is trained within a reinforcement learning scheme with the LLM outputting probability of the target answer as the reward.
+209_44788_1	However, pre-training of Vision Encoder and the integrated training of LLMs with Vision Encoder are mainly conducted using English training data, leaving it uncertain whether LVLMs can completely handle their potential when generating explanations in languages other than English.
+234_44813_5	In this work, we argue that MIA still works on LLMs, but only when multiple documents are presented for testing.
+265_44843_7	Mechanistic Interpretability analysis showed that this latent behaviour of LLMs could be traced to specific neurons that became activated or amplified after PEFT.
+464_45036_4	To address this issue, we find that the syntactic tree is minimally affected by disturbances and exhibits distinct differences between human-written and LLM-generated text.
+52_45380_1	While this mechanism has been extensively studied in explainability research, particularly through the attention values obtained during the forward pass of LMs, the backward pass of attention has been largely overlooked.
+57_45385_2	To bridge this gap, we propose a unified evaluation taxonomy with eight pedagogical dimensions based on key learning sciences principles, which is designed to assess the pedagogical value of LLM-powered AI tutor responses grounded in student mistakes or confusions in the mathematical domain.
+99_45425_3	How can we recover what training data is known to LLMs?
+101_45427_1	However, this integration also introduces new security vulnerabilities, particularly in the tool scheduling mechanisms of LLM, which have not been extensively studied.
+109_45435_2	We propose MORCELA, a new linking theory between LM scores and acceptability judgments where the optimal level of adjustment for these effects is estimated from data via learned parameters for length and unigram frequency.
+362_45679_4	Therefore, in this paper, we propose a Counterfactual Augmented Calibration Network (FACTUAL), which a novel calibration network is devised to calibrate potential bias in the stance prediction of LLMs.
+394_45709_5	To enhance consistency across languages, we propose novel “Compositional Representations” where tokens are represented as composition of equivalent tokens across languages, with resulting conflict reduction (up to -4.7%) indicating benefits of shared LLM representations.
+411_45726_0	Although the multilingual capability of LLMs offers new opportunities to overcome the language barrier, do these capabilities translate into real-life scenarios where linguistic divide and knowledge conflicts between multilingual sources are known occurrences?
+600_45909_2	In this paper, we introduce a new multilingual parallel dataset SHADES to help address this issue, designed for examining culturally-specific stereotypes that may be learned by LLMs.
+5_46162_0	This tutorial on adaptation of Large Language Models (LLMs) is designed to address the growing demand for models that go beyond the static capabilities of generic LLMs by providing an overview of dynamic, domain-specific, and task-adaptive LLM adaptation techniques.
+7_46291_2	Experiments are run on four LLMs, two NER datasets, two input and output data formats, and ten and nine prompt versions per dataset.
+78_46378_3	This limited-size benchmark was found to produce a robust ranking that correlates to human feedback at 𝜌 ∼ 0.8 with GPT-4 and Claude Opus models achieving the highest rankings.
+96_49500_5	We introduce a novel type of LM using a modified version of bidirectional LSTM (BLSTM) called contextual BLSTM (cBLSTM), where the probability of a word is estimated based on its full left and right contexts.
+3_59582_5	We apply two different sub-approaches in the LM Based approach and the combined result of these two approaches is considered as the final output of the system.

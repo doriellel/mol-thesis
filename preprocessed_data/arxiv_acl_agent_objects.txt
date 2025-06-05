@@ -69,21 +69,17 @@
 1311.0642_474303_7	The discrepancy between discrete model predictions and Monte Carlo predictions for the depth of maximum can therefore not be explained from the number of generations that is taken into consideration.
 1311.7183_480844_5	For practical applications, a reduced-dimension version of the proposed KA-STAP algorithm is also developed.
 1401.3566_492797_4	An expression for the excess mean square error (MSE) of the algorithm is also derived which suggests that under the right conditions, the reweighted l1-norm penalized LMS algorithm outperforms the standard LMS, which is expected.
-1402.6663_504188_6	The growing complexity of the ontogenetic mechanisms to be activated can therefore be compensated by an interactive guidance system emanating from the environment.
 1403.5933_510832_3	The proposed classifier is named as AIS-INMACA introduces a novel concept to combine CA with artificial immune system to produce a better classifier which can address major problems in bioinformatics.
 1404.1605_514658_3	{Associating the position of the streamer head with the maximum value of the self-enhanced electric field, a delay of 160$\,$ps was experimentally found for the peak emission of the first negative system of N$_2^+$.} {For the first time, a delay dilatation was observed experimentally on early-stage streamers and clarified theoretically.}
 1404.6813_519866_4	This brings up the issue of studying the performance of the diffusion LMS algorithm when it is run, either intentionally or unintentionally, in a multitask environment.
 1404.7824_520877_9	Very similar results are found for the energy dissipation in a 2-D "hybrid" shell model of loop magneto-turbulence, based on reduced magnetohydrodynamics, which is compatible with nanoflare statistics.
 1406.0975_529858_1	In this paper the novelty of information system is presented, in a dynamic, easily accessible and user-friendly manner.
-1406.1213_530096_0	  Covert channels can be used to circumvent system and network policies by establishing communications that have not been considered in the design of the computing system.
 1406.1213_530096_2	The underlying network stack is based on a communication system that was originally designed for robust underwater communication.
 1408.6109_551415_2	Extensive Monte Carlo experiments have been carried out to validate the efficiency of the developed analytical model and to investigate the realistic performance of NCCARQ.
 1409.3083_555508_5	An extended overview on the control system approach, as well as details of each element of the flight controller, are presented.
 1411.0237_570209_4	While it is known that software can intentionally create radio emissions from a video display unit, this is the first time that mobile phones are considered in an attack model as the intended receivers of maliciously crafted radio signals.
-1411.1373_571345_2	The behavior of future AI systems can be described by mathematical equations, which are adapted to analyze possible unintended AI behaviors and ways that AI designs can avoid them.
 1411.1629_571601_1	The primary problem is that these tests are designed to test aspects of knowledge and ability that are challenging for people; the aspects that are challenging for AI systems are very different.
 1411.1629_571601_2	In particular, standardized tests do not test knowledge that is obvious for people; none of this knowledge can be assumed in AI systems.
-1412.1752_579730_2	This dichotomy was resolved in two recent publications by Chattopadhyay, {\it et al} where it was shown that such instabilities, especially for non-magnetized accretion flows, were introduced through interaction of the inherent stochastic noise in the system (even a \enquote{cold} accretion flow at 3000K is too \enquote{hot} in the statistical parlance and is capable of inducing strong thermal modes) with the underlying Taylor-Couette flow profiles.
 1412.6223_584201_4	Tractable density evolution (DE) equations are derived to analyze the convergence property of iterative receivers in the large-system limit, via a tool developed in statistical physics---replica method.
 1412.7239_585217_1	A systematic analysis of the experimental angular distributions was performed using the coupled channels method with an extended double folding potential derived from realistic wave functions for $^{12}$C and $^{16}$O calculated with a microscopic $\alpha$ cluster model and a finite-range density-dependent nucleon-nucleon force.
 1501.04448_591196_6	Model parameters are estimated through the expectation-maximization algorithm, based on the forward-backward recursions, which is implemented in the main functions of the package.
@@ -97,7 +93,6 @@
 1505.00422_620694_2	The management of this system is carried out using specialized equipment and software.
 1507.08932_646593_2	For a complete understanding of this phenomenon and the underlying physical processes, an absolute calibration of the detecting antenna system is needed.
 1508.05494_652150_8	Based on the developed model, the setup of the optimal control problem (OCP) is described in detail along with its numerical solution based on the direct multiple shooting method in the CasADi optimization environment.
-1509.00364_655003_1	Based on this model, we show how the size of the pionic component followed by muons can be estimated.
 1509.00671_655310_0	  The Airy structure in $^{16}$O+$^{14}$C rainbow scattering is studied with an extended double folding (EDF) model that describes all the diagonal and off-diagonal coupling potentials derived from the microscopic realistic wave functions for $^{16}$O using a density-dependent nucleon-nucleon force.
 1509.06739_661378_2	We show that the precession period in the time interval 1991--2015 is near its equilibrium value $P_{sup} = 30.370$ days, while the observed historical changes in the phase of this variability can be interpreted in terms of the "red noise" model.
 1509.08378_663017_3	Experimental results are presented for silica aerogel arranged in parallel with either 1 or 2 acoustic ports, and are in very good agreement with the theoretical model.
@@ -106,10 +101,8 @@
 1602.06913_707192_3	Specifically, the transmit power minimization problem and the max-min fairness energy harvesting problem are formulated for both the bounded CSI error model and the probabilistic CSI error model.
 1603.01658_711079_1	We investigate the simulation cell size dependence of the surface tension of water from force field molecular dynamics (MD) simulations, which show that the calculated surface tension increases with increasing simulation cell size, thereby illustrating that a correction for finite size effects is required for the small system used in the AIMD simulation.
 1603.06194_715615_5	Since there is a large uncertainty in the range, we cannot concretely rule out any of the geometries or spectral models, but the analysis suggests that a boundary layer type geometry with a 'cold' seed spectral model is favoured over an accretion corona model.
-1603.07276_716697_5	It is shown that even without the knowledge of system topology and parameters, the SPRs can be estimated by learning from historical load and price data.
 1603.07276_716697_6	Visualization and illustration of the proposed data-driven approach are performed on a 3-bus system as well as the IEEE 118-bus system.
 1603.09022_718443_0	  A new Lp-norm constraint least mean square (Lp-LMS) algorithm with new strategy of varying p is presented, which is applied to system identification in this letter.
-1604.02246_721413_2	The transducer characterization is supported and aided by finite element simulations of the measurement system and the measured frequency responses.
 1604.08796_727963_4	The Ar 4p population, determined through absolute optical emission spectroscopy, is seen to decrease with separation distance, whereas a rise in emission from the N2(C--B) system is measured.
 1605.02797_730912_3	Machine learning tools are thought to predict within a fraction of a millisecond if a model is excluded or not directly from the model parameters.
 1605.07059_735174_7	The radii are found to be $R_1=1.835\pm0.014$ R$_{\odot}$, $R_2=2.912\pm0.014$ R$_{\odot}$ and the masses $M_1=1.1973\pm0.0037$ M$_{\odot}$, $M_2=1.2473\pm0.0039$ M$_{\odot}$. From the best-fit stellar models we infer a mixing length of 1.78, a helium abundance of $Y_{AI}=0.26^{+0.02}_{-0.01}$ and an age of $4.39\pm0.32$ Gyr.
@@ -124,14 +117,11 @@
 1608.03990_760452_3	Model augmentations are developed for the Spalart Allmaras (SA) model using adjoint-based full field inference on experimentally measured lift coefficient data.
 1608.07046_763508_4	In this work, a detailed analysis in the mean and mean-square sense is carried out in order to examine the behavior of the algorithm.
 1608.08644_765106_3	A measurement campaign was conducted to compare the performance of the beam-space MIMO system with a conventional 2-by-?2 MIMO system under realistic propagation conditions.
-1609.00141_765619_7	Model selection and assessment is performed by cross-validation with the final model offering substantial increases in predictive accuracy, particularly in regions where there is sparse ground monitoring, when compared to current approaches: root mean square error (RMSE) reduced from 17.1 to 10.7, and population weighted RMSE from 23.1 to 12.1 $\mu$gm$^{-3}$. Based on summaries of the posterior distributions for each grid cell, it is estimated that 92% of the world's population reside in areas exceeding the World Health Organization's Air Quality Guidelines.
 1609.01235_766713_2	However, unlike NCE, it was considered inapplicable for the purpose of learning the parameters of a language model.
 1609.01462_766940_3	Evaluation of the language model and online SLU model is made on the ATIS benchmarking data set.
 1609.07049_772527_2	These masks are designed for an average facial model and are often difficult to adjust due to poor fit to the actual patient.
-1609.08030_773508_5	Once a flight trajectory has been made conflict-free, the model searches for possible improvements of the system efficiency by issuing directs.
 1610.00058_775405_6	An analysis of the computational complexity of the proposed algorithms, the delay and a study of the greedy algorithm are then carried out.
 1610.06108_781455_3	We show that also in this case the universal limit can be expressed as a matrix integral ("matrix Bessel function") known in the literature as generalized Kontsevich matrix model.
-1611.00196_785643_2	This paper proposes a novel distributed vector representation of a document: a simple recurrent-neural-network language model (RNN-LM) or a long short-term memory RNN language model (LSTM-LM) is first created from all documents in a task; some of the LM parameters are then adapted by each document, and the adapted parameters are vectorized to represent the document.
 1701.05677_811085_2	For the evaluation purpose, the problems of system identification and channel equalization are considered.
 1701.07338_812746_3	These offsets were found to be proportional to the geometric distance to $X_{\rm max}$. We have compared the results to a simple model based on the Cherenkov angle.
 1702.00178_814772_2	Due to their ability to learn longer-term dependencies, these models are supposed to learn and to apply musical knowledge, instead of just smoothing the output of the acoustic model.
@@ -141,7 +131,6 @@
 1703.10724_834228_6	Building LSTM $n$-gram LMs may be appealing for some practical situations: the state in a $n$-gram LM can be succinctly represented with $(n-1)*4$ bytes storing the identity of the words in the context and batches of $n$-gram contexts can be processed in parallel.
 1704.00717_835229_7	We find that using just a few examples (50), lay people can be trained to better predict responses and oncoming failures of a complex VQA model.
 1706.02565_857300_0	  In this paper, investigations are conducted using Reynolds-averaged Navier-Stokes (RANS) turbulence models to investigate the importance of turbulence modelling for nasal inspiration at a constant flow rate of 250 ml/s. Four different, standard turbulence models are tested in a model geometry based on pre-operative CT images of a selected obstructive sleep-apnea syndrome (OSAS) patient.
-1707.01659_866691_0	  In this work, a dynamic system is controlled by multiple sensor-actuator agents, each of them commanding and observing parts of the system's input and output.
 1707.04959_869991_4	In the paper, conditions for the complete controllability for the case of a magnetically controlled satellite with passive air drag panels are developed, and simulation case studies with the LQR and MPC control designs applied in combination with a nonlinear time-varying input transformation are presented to demonstrate the ability of the closed-loop system to satisfy mission objectives despite disturbance torques.
 1707.07240_872272_7	A number of technical contributions, including employing deep convolutional neural networks (CNNs) to define the potentials and incorporating the joint stochastic approximation (JSA) strategy in the training algorithm, are developed in this work, which enable us to successfully train neural TRF LMs.
 1707.09095_874127_1	After many hype cycles and lessons from AI history, it is clear that a big conceptual leap is needed for crossing the starting line to kick-start mainstream AGI research.
@@ -169,7 +158,6 @@
 1801.02485_931416_5	The models are trained and evaluated using real market data in the Midcontinent Independent System Operator (MISO) region.
 1801.02782_931713_1	In this system, the propulsion energy consumption at the UAV is taken into account so that the UAV's velocity and acceleration should not exceed a certain threshold.
 1801.07844_936775_12	Our scheme is proven secure in the standard model (in a selective manner), based on the hardness of the Learning With Errors (LWE) problem.
-1802.01799_941339_4	Multi-band resource allocation with the QoS guarantee between the licensed and unlicensed bands is formulated to minimize the licensed bandwidth, convexified by exploiting Block Coordinate Descent (BCD) and difference of two convex functions (DC) programming, and solved efficiently with a new iterative algorithm.
 1802.02172_941712_5	The mathematical foundations of AI non-destructive correction are presented and a series of new stochastic separation theorems is proven.
 1802.04451_943991_7	The alliance of AI and blockchain is expected to create numerous possibilities.
 1802.06588_946128_7	Different predictive models based on multinomial logistic regression and decision trees are formulated and calibrated with historical traffic data, and a critical evaluation of each model is conducted.
@@ -183,12 +171,10 @@
 1805.02386_975431_1	It is shown that all these correlations exhibit the quantum phase transitions at $\Delta=-1$. However, only information deficit and local quantum uncertainty can demonstrate quantum phase transitions at $\Delta=1$. The analytical and numerical behaviors of the quantum correlations for the $XXZ$ system are presented.
 1805.06217_979262_4	Experimental evaluation is also performed in an enterprise environment to demonstrate the competence of the proposed AI-framework in perceiving such a dense scenario and reason the extender deployment that achieves user quality of service (QoS).
 1805.06247_979292_2	Therefore, Artificial Intelligence (AI) is adopted to support network autonomy and to capture insights on system and environment evolution.
-1805.10410_983455_3	On the basis of the theory of invariant observer design by Barrau and Bonnabel, and in particular, the Invariant EKF (InEKF), we show that the error dynamics of the point contact-inertial system follows a log-linear autonomous differential equation; hence, the observable state variables can be rendered convergent with a domain of attraction that is independent of the system's trajectory.
 1806.01782_987422_3	Convergence analysis of the LMS algorithm in the case of coloured input signal, i.e., correlated input signal is demonstrated on adaptive FIR filter via power spectral density of the input signals and Fourier transform of the autocorrelation matrix of the input signal.
 1806.01782_987422_4	Simulations have been carried out on adaptive filtering of FIR and IIR filters and tested on white and coloured input signals to validate the powerfulness of the genetic-based LMS algorithm.
 1806.02615_988255_7	As a proof-of-concept case study, a rich longitudinal dataset is selected to evaluate the effectiveness of the proposed approach versus a standard regression model.
 1806.03777_989417_4	Practicability and repeatability of the developed programme has been established for monophasic system using backscattered imaging mode of SEM.
-1806.08544_994184_4	The game is designed to be fun to play for humans, and is directly playable by General Video Game AI agents.
 1807.06695_1003903_6	Monte-Carlo simulation results are presented for validating our theoretical analysis as well as for investigating the impact of the key system parameters.
 1807.07157_1004365_2	Science observations are taken simultaneously with environmental data revealing information about the turbulence in the telescope environment as well as limitations of GPI's AO system.
 1807.07395_1004603_5	Convergence of the proposed method is investigated and it is proved that the rate of convergence of the introduced method is equal to that of LMS algorithm in the expected value sense, provided that the distribution of the added noise is uniform.
@@ -692,7 +678,6 @@
 2207.14086_1689984_5	However, it can be seen that general interest in AI and a higher educational level are predictive of some engagement with AI.
 2207.14086_1689984_8	These have been identified in several ethical guidelines (including the EU Commission's proposal) as key elements for the development of ethical AI.
 2207.14086_1689984_10	We conclude that the low level of ethical implications may pose a serious problem for the actual implementation of ethical AI for the Common Good and emphasize that those who are presumably most affected by ethical issues of AI are especially unaware of ethical risks.
-2207.14382_1690280_7	What appears to be intelligence in LLMs may in fact be a mirror that reflects the intelligence of the interviewer, a remarkable twist that could be considered a Reverse Turing Test.
 2208.00681_1691393_0	  Efforts to promote fairness, accountability, and transparency are assumed to be critical in fostering Trust in AI (TAI), but extant literature is frustratingly vague regarding this 'trust'.
 2208.01740_1692452_5	In order to showcase the methodology, a tool that visualizes different outputs of the algorithm is developed.
 2208.02502_1693214_1	At the same time, little focus is made on how such loss affects the dynamics of the formation as a system.
@@ -716,7 +701,6 @@
 2209.15615_1721330_6	An expectation-conditional-maximization (ECM) algorithm is developed for estimation of such a model and some properties of the algorithm are established.
 2210.00439_1721794_1	The URANS simulation with the Spalart-Allmaras (SA) turbulence model is checked for the quality of the generated mesh and compared with the available wind tunnel data.
 2210.00811_1722166_4	The performance of the algorithm and the sequence of improvements leading to the achieved results are presented and discussed.
-2210.01293_1722648_7	Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM, ThinkSum is less sensitive to prompt design, yields more interpretable predictions, and can be flexibly combined with latent variable models to extract structured knowledge from LLMs.
 2210.01478_1722833_3	A central challenge for AI safety is capturing the flexibility of the human moral mind -- the ability to determine when a rule should be broken, especially in novel or unusual situations.
 2210.03221_1724576_7	Our work establishes a theoretical foundation for a portable quantum pre-trained language model that could be trained on private data and made available for public use with privacy protection guarantees.
 2210.03332_1724687_2	Numerous efforts have been made to automate the entire glaucoma classification procedure however, these existing models in general have a black box characteristics that prevents users from understanding the key reasons behind the prediction and thus medical practitioners generally can not rely on these system.
@@ -729,8 +713,6 @@
 2210.08984_1730339_3	Social diversity, equity and inclusion are considered key success factors of AI to mitigate risks, create values and drive social justice.
 2210.10585_1731940_1	Through surveys of human subjects enrolled in the crowdsourcing platform Prolific.co and queries submitted to the OpenAI's language model GPT-3, I test whether the numerical response for what wage is deemed fair for a particular job description changes when respondents and GPT-3 are prompted with additional information that includes a numerical minimum wage, whether realistic or unrealistic, relative to a control where no minimum wage is stated.
 2210.11584_1732939_0	  Explainable AI (XAI) is widely viewed as a sine qua non for ever-expanding AI research.
-2210.12353_1733708_1	MCQA tasks have traditionally been presented to LLMs like cloze tasks.
-2210.12770_1734125_2	We compare Transformer models that are trained from scratch to fine-tuned BERT-based LLMs namely BERT, BioBERT, and ClinicalBERT.
 2210.13569_1734924_7	Further, the transformers' retrieval was markedly enhanced when they were trained on a larger corpus and with greater model depth.
 2210.13966_1735321_0	  We survey a current, heated debate in the AI research community on whether large pre-trained language models can be said to "understand" language -- and the physical and social situations language encodes -- in any important sense.
 2210.14596_1735951_0	  Digital Twins are digital representations of systems in the Internet of Things (IoT) that are often based on AI models that are trained on data from those systems.
@@ -752,7 +734,6 @@
 2211.10806_1749712_6	CESO has also been chosen as the prominent way to express both fragments and the final proposed scenario content by our AI-assisted Cyber Exercise Framework (AiCEF).
 2211.10859_1749765_0	  Intelligent human inputs are required both in the training and operation of AI systems, and within the governance of blockchain systems and decentralized autonomous organizations (DAOs).
 2211.11483_1750389_0	  This work is intended as a voice in the discussion over previous claims that a pretrained large language model (LLM) based on the Transformer model architecture can be sentient.
-2211.11483_1750389_1	Such claims have been made concerning the LaMDA model and also concerning the current wave of LLM-powered chatbots, such as ChatGPT.
 2211.12035_1750941_11	It is hoped that this data set will further accelerate research in data-driven urban AI, even as our baseline model facilitates quantitative comparison to future methods.
 2211.12143_1751049_1	To mitigate the negative effects of false information more effectively, the development of Artificial Intelligence (AI) systems assisting fact-checkers is needed.
 2211.13125_1752031_9	Additionally, to better understand the distillation approach, extensive experimentation on the independent modules of the proposed model was conducted.
@@ -768,7 +749,7 @@
 2212.06576_1762753_5	In contrast to clean AI models, the poisoned AI models were trained with traffic sign images containing systematic, physically realizable, traffic sign modifications (i.e., triggers) to change a correct class label to another label in a presence of such a trigger.
 2212.06828_1763005_2	Although there comes a fast increasing trend to study the quality issues of deep neural networks (DNNs) at the model level, few studies have been performed to investigate the quality of DNNs at both the unit level and the potential impacts on the system level.
 2212.07996_1764173_4	OHAAI is designed to serve as a research hub to keep track of the latest and upcoming PhD-driven research on the theory and application of argumentation in all areas related to AI.
-2212.08104_1764281_5	Note from the human-authors: This article was created to test the ability of ChatGPT, a chatbot based on the GPT-3.5 language model, to assist human authors in writing review articles.
+
 2212.08364_1764541_6	The article is intended to inform decision-makers at leading AI companies, regulators, and standard-setting bodies.
 2212.09172_1765349_1	Considering the rapidly emerging new machine learning techniques, such as graph learning, federated learning, and transfer learning, a timely survey is needed to provide an overview of resource management and network slicing techniques of AI-enabled wireless networks.
 2212.09292_1765469_4	Further research is needed to fully understand the implications of large language models like ChatGPT and to devise strategies for combating the risk of cheating using these tools.
@@ -816,3 +797,228 @@
 2302.13142_1798076_7	Control development and validations were conducted on two fuel cell system (FCS) models, a nonlinear open-source model and a proprietary Ford high-fidelity model
 2302.14229_1799163_2	However, it is not yet known the performance of LLMs on CLS.
 2302.14360_1799294_3	The study findings suggest that users are comfortable with AI systems if they have control and their privacy is not affected.
+1_1150_2	Due to its tuned MT engine, the approach can be seen as a human-aided machine translation (HAMT) system circumventing major obstacles in full-scale Japanese-English MT.
+13_2240_4	We therefore investigate in this paper the use of a maximum entropy language model for Russian whose features are specifically designed to deal with the inflections in Russian, as well as the loose word order.
+27_2273_0	A novel variation of modified KNESER-NEY model using monomial discounting is presented and integrated into the MOSES statistical machine translation toolkit.
+18_3437_3	The design of the model architecture is based on two aspects: content selection from input data and language modeling to compose coherent sentences, which can be acquired from prior knowledge.
+36_5439_1	Such a procedure is possible due to the design of the softmax classification layer, which previous work has shown to comprise a viable set of semantic representations for the model vocabulary, and these these output embeddings are known to perform well on word similarity benchmarks.
+479_6069_1	However, while knowledge is both written and queried in many languages, studies on LMs’ factual representation ability have almost invariably been performed on English.
+7_8463_3	The model is designed based on the BART language model that receives a linear representation of unordered and non-inflected tokens in a sentence along with their corresponding Universal Dependency information and produces the linear sequence of inflected tokens along with the missing words.
+230_10195_6	EnsLM can be trained jointly with mATM with a flexible LM backbone.
+416_10381_4	Although this is a rapidly growing area of research, existing literature lacks in two important aspects: 1) they mainly evaluate bias of pretrained language models on a small set of artificial sentences, even though these models are trained on natural data 2) current evaluations focus on measuring bias without considering the language modeling ability of a model, which could lead to misleading trust on a model even if it is a poor language model.
+18_11464_4	To further strengthen the speed advantage of the proposed model, we propose a new decoding strategy, ratio-first, for applications where the output lengths can be approximately estimated beforehand.
+153_11599_1	However, this emerging LM-as-KB paradigm has so far only been considered in a very limited setting, which only allows handling 21k entities whose name is found in common LM vocabularies.
+620_12498_3	We report improvements in state tracking performance in MultiWOZ 2.0 against a strong GPT-2 baseline and investigate a simplified sparse training scenario in which DST models are trained only on session-level annotations but evaluated at the turn level.
+718_12596_0	As unlabeled data carry rich task-relevant information, they are proven useful for few-shot learning of language model.
+805_12683_0	As a prominent attribution-based explanation algorithm, Integrated Gradients (IG) is widely adopted due to its desirable explanation axioms and the ease of gradient computation.
+192_13002_0	Large-scale language models such as GPT-3 are excellent few-shot learners, allowing them to be controlled via natural text prompts.
+75_14800_4	In terms of quality metrics (the proportion of words, semantically related to the target word), the multilingual BERT is recognized as the best model.
+37_16019_2	In the previous work, these two modules are loosely connected in the model training and are shallowly integrated during inference, where a simple switching or copy mechanism is adopted to incorporate recommended items into generated responses.
+96_16254_0	Class-based language models (LMs) have been long devised to address context sparsity in n-gram LMs.
+19_16936_1	Recently, techniques based on Deep Learning and Natural Language Processing have been proven effective in detecting anomalous activities from system logs.
+280_17749_3	In this paper, we present a structure-aware self-attention language model to capture structural information of target representations and propose a knowledge distillation based approach to incorporating the target language model into a seq2seq model, where grammar rules or sketches are not required in the training process.
+28_18152_6	Further, the transformers’ retrieval was markedly enhanced when they were trained on a larger corpus and with greater model depth.
+16_18260_2	These languages are considered to be filled with complexities and challenges that make their study incredibly difficult in the NLP and AI fields.
+502_20526_5	Moreover, we show that a complete constituency tree can be linearly separated from LM representations.
+2_20574_4	Specifically, we collect a sheer number of source codes (both Java and Python) from the Alipay code repository and incorporate both syntactic and semantic code knowledge into our model through the help of code parsers, in which AST information of the source codes can be interpreted and integrated.
+8_20676_4	Furthermore, we show that gender information is represented increasingly locally in the input embeddings of the model and that, as a consequence, debiasing these can be effective in reducing the downstream bias.
+6_20896_1	Due to computational constraints, existing analyses are mostly conducted on publicly-released LM checkpoints, which makes it difficult to study how various factors during training affect the models’ acquisition of linguistic knowledge.
+102_22238_3	AcTune switches between data annotation and model self-training based on uncertainty: the unlabeled samples of high-uncertainty are selected for annotation, while the ones from low-uncertainty regions are used for model self-training.
+25_23457_6	The spell checker was developed as a testing environment for the language model.
+1_23460_3	Some simulation experiments demonstrating the benefits of personalized language model ensembling via the library are presented.
+72_23690_3	This difference is expressed in terms of model weights and sublayer structure through our proposed dynamic low-rank reparameterization and learned architecture controller.
+68_24218_7	Our results suggest that because the probabilistic inference in ThinkSum is performed outside of calls to the LLM, ThinkSum is less sensitive to prompt design, yields more interpretable predictions, and can be flexibly combined with latent variable models to extract structured knowledge from LLMs.
+109_24259_1	While it is thought to be essential for robust reasoning in AI systems, conventional approaches require significant training and/or hard-coding of domain knowledge to be applied to benchmark tasks.
+148_24298_5	It is designed to improve the quality of semantic representation where all contextualized embeddings of the pre-trained model can be leveraged.
+754_24904_4	Applying our method to the vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT-001, which was trained with private user data and human annotations.
+5_25654_1	Despite AI-enhanced applications having the potential to provide personalized learning experiences, more studies are needed on the design of generative AI systems and evidence for using them in real educational settings.
+36_26102_3	Expert human scrutiny indicates that notes generated via the ICL-based approach with GPT-4 are preferred about as often as human-written notes, making it a promising path toward automated note generation from doctor-patient conversations.
+38_26180_1	Specifically, we formulate CDEC as a multi-category classification problem on pairs of events that are represented as decontextualized sentences, and compare the predictions of GPT-4 with the judgment of fully trained annotators and crowdworkers on the same data set.
+51_26772_5	We find that the task remains extremely challenging, including for GPT-4, whose generated disambiguations are considered correct only 32% of the time in crowdworker evaluation, compared to 90% for disambiguations in our dataset.
+85_26806_2	However, it is not yet known whether ChatGPT can serve as a generalist model that can perform many NLP tasks zero-shot.
+107_26828_4	To overcome these, we propose to verify the output and the knowledge of the knowledge-augmented LMs with a separate verifier, which is a small LM that is trained to detect those two types of errors through instruction-finetuning.
+146_26867_4	We compare these queries against existing NLP benchmark tasks and identify a significant gap between the tasks that users frequently request from LLMs and the tasks that are commonly studied in academic research.
+174_26895_1	Some risks may only be discovered after the model training is completed, such as the model memorizing a specific phone number and frequently outputting it.
+322_27043_5	A small language model is adopted as a trainable rewriter to cater to the black-box LLM reader.
+322_27043_8	Experiments results show consistent performance improvement, indicating that our framework is proven effective and scalable, and brings a new framework for retrieval-augmented LLM.
+453_27174_0	In this work, we carry out a data archaeology to infer books that are known to ChatGPT and GPT-4 using a name cloze membership inference query.
+531_27252_3	We have used our dataset with the largest available open LLMs in a zero-shot approach to grasp their generalization and inference capability and we have also fine-tuned some of the models to assess whether the understanding of negation can be trained.
+695_27416_1	The interaction between pretraining data and task data is commonly assumed to determine this variance: a task with data that is more similar to a model’s pretraining data is assumed to be easier for that model.
+782_27503_0	Language models (LMs) with less than 100B parameters are known to perform poorly on chain-of-thought (CoT) reasoning in contrast to large LMs when solving unseen tasks.
+885_27606_5	Our experiments with state-of-the-art instruction- and commonsense language models reveal a significant gap between human and model performance, which is further widened when consistency across adversarial formats is considered.
+921_27642_1	While it is well known that parametric models are prone to leaking private data, it remains unclear how the addition of a retrieval datastore impacts model privacy.
+75_27901_1	It’s designed as a search-based system, maintaining a user index of past successful interactions with the conversational AI.
+167_28303_8	The code for this work can be found at https://github.com/Ziems/llm-url.
+441_28577_1	However, the success of the CoT approach is fundamentally tied to the model size, and billion parameter-scale models are often needed to get CoT to work.
+680_28816_0	In this study, we investigate the capability of a Neural Language Model (NLM) to distinguish between coherent and incoherent text, where the latter has been artificially created to gradually undermine local coherence within text.
+94_29130_1	To address the issue of misuse associated with AI-generated text, various high-performing detectors have been developed, including the OpenAI detector and the Stanford DetectGPT.
+128_29164_0	Recent psycholinguistic studies have drawn conflicting conclusions about the relationship between the quality of a language model and the ability of its surprisal estimates to predict human reading times, which has been speculated to be due to the large gap in both the amount of training data and model capacity across studies.
+223_29259_2	Several perspectives of robustness for LMs have been studied independently, but lacking a unified consideration in multiple perspectives.
+418_29454_0	Current language models are mainly trained on snap-shots of data gathered at a particular time, which decreases their capability to generalize over time and model language change.
+445_29481_3	Significant efforts are underway to make PTLM training more efficient through innovations in model architectures, training pipelines, and loss function design, with scant attention being paid to optimizing the utility of training data.
+546_29582_1	It is currently conjectured that shortcomings of LLMs in multi-linguality and reasoning are due to a lack of ability to generalize.
+782_29818_2	We focus on the fine-tuning of pre-trained LMs, which is expected to be performed much more frequently as the pre-trained models are adapted to downstream tasks.
+981_30017_6	The evaluation is performed over four NLP tasks (two generative and two classification tasks) among four widely used multilingual LMs in seven languages.
+1032_30068_1	To achieve this goal, we re-examine existing detection approaches based on the self-consistency of LMs and uncover two types of hallucinations resulting from 1) question-level and 2) model-level, which cannot be effectively identified through self-consistency check alone.
+1055_30091_0	Multi-modal large language models are regarded as a crucial step towards Artificial General Intelligence (AGI) and have garnered significant interest with the emergence of ChatGPT.
+16_30125_8	The evaluation results show an overall good quality of the dialogues, though research is still needed to improve the quality of the GPT-4 evaluation metrics.
+18_30127_2	Our extensive findings provide empirical proof of how globally recognized models like ChatGPT may be considered less effective and may require more refined prompts for these generative tasks compared to other open-sourced models such as BLOOMZ and FlanT5—which have shown promising results.
+19_30128_2	While no additional domain knowledge or fine-tuning is performed, we provide a single training example of this decompilation process in the model’s prompt.
+5_30231_1	However, the performance of such LMs have not been studied in detail with respect to finer language related aspects in the context of NER tasks.
+2_30841_2	However, it is not yet known the performance of LLMs on CLS.
+1_31215_4	We present an account of the different datasets constructed for detecting ChatGPT-generated text, the various methods utilized, what qualitative analyses into the characteristics of human versus ChatGPT-generated text have been performed, and finally, summarize our findings into general insights.
+306_31566_2	Then, a set of experiments has been conducted with a Wikipedia-based reclassification system.
+23_31608_4	To improve the performance of ChatGPT, several experiments utilising different prompt engineering techniques were conducted.
+4_32166_2	On the other hand, more and more attention is paid to unrestricted model accesses that may bring malicious privacy risks of data leakage.
+73_32235_1	It is known that the effective design of task-specific prompts is critical for LLMs’ ability to produce high-quality answers.
+185_32347_6	The code to reproduce our experiments can be found at https://github.com/sail-sg/lm-random-memory-access.
+225_32387_1	Numerous benchmarks have been established to assess the reasoning abilities of LLMs.
+226_32388_2	Preliminary empirical results from two LLMs and three watermarking methods reveal that current text watermarking technologies lack consistency when texts are translated into various languages.
+331_32493_5	Our code can be found in https://github.com/HKUST-KnowComp/LLM-discussion.
+409_32571_2	This learning method is designed to enhance the performance of open LLM agents.
+423_32585_5	Furthermore, we present the first cross-supervision role-play experiment, revealing that the role-play styles can be easily acquired, while the intrinsic capabilities of LLMs confine the knowledge within role-play.
+521_32683_1	AnyGPT can be trained stably without any alterations to the current large language model (LLM) architecture or training paradigms.
+530_32692_5	Though backdoor attacks have been studied extensively in natural language processing, to the best of our knowledge, we could be the first to study them on LLM agents that are more dangerous due to the permission to use external tools.
+538_32700_6	The evaluation framework and experimental results are expected to provide an in-depth understanding of the editorial capabilities of LLMs and speed up the development of LLMs in journalism.
+563_32725_5	A synthetic dataset (TGQA), which is fully controllable and requires minimal supervision, is constructed for fine-tuning LLMs on this text-to-TG translation task.
+568_32730_4	RA-LLM can be directly constructed upon an existing aligned LLM with a robust alignment checking function, without requiring any expensive retraining or fine-tuning process of the original LLM.
+589_32751_0	Large language models (LLMs) have successfully served as a general-purpose interface across multiple tasks and languages, while the adaptation of voice LLMs is mostly designed for specific purposes (either single-task or monolingual), where the advantages of LLMs especially for low-resource language processing and zero-shot task generalization are less exploited in the audio community.
+591_32753_2	More recent LLMs often incorporate an additional layer of defense, a Guard Model, which is a second LLM that is designed to check and moderate the output response of the primary LLM.
+818_32980_1	Despite LLMs advancements in recent times, their performance consistency across different input lengths is not well understood.
+864_33026_1	Although word embeddings are usually interpreted as feature vectors for individual words, their roles in language model generation remain underexplored.
+6_33109_1	Differently from previously existing tools that focus on isolated parts of the decision-making process, our framework is designed to make the entire prediction process transparent, and allows tracing back model behavior from the top-layer representation to very fine-grained parts of the model.
+15_33149_1	However, the procedure to optimizing the mixing of instruction datasets for LLM fine-tuning is still poorly understood.
+29_33163_2	What research has been conducted on these vulnerabilities was predominantly on English, limiting the understanding of LLM behavior in other languages.
+5_33198_1	While LLMs such as ChatGPT has been developed and used for various tasks, there remain several weakness of the LLMs.
+5_33198_4	Experiments and evaluations were conducted using “AI-Werewolf,” a communication game for AI with incomplete information.
+10_33210_5	We therefore carefully examine the effect of learning paradigms on the extent to which genetic entities are fabricated, and the limitations of exact matching to determine performance of the model.
+20_33258_2	We perform a preliminary analysis to determine to what degree the performance of our model is due to prior exposure to the task languages, finding that generally our performance is better explained as being derived from in-context learning capabilities.
+9_33838_5	We synthesize recent results to highlight what is currently known about large language model capabilities, thus providing a resource for applied work and for research in adjacent fields that use language models.
+7_33909_0	Syntactic learning curves in LMs are usually reported as relatively stable and power law-shaped.
+15_33926_5	A significant association was found between the teachers’ familiarity with and use of AI technology and their age-related generational traits.
+91_34037_3	These parallel corpora were analyzed using both complexity and similarity metrics to assess the outcomes of LLMs and human participants.
+6_34090_4	Our results highlight the importance of prioritizing information presentation in the design of domain-specific LLMs to ensure that scientific information is effectively communicated, especially as even expert audiences find it challenging to assess the credibility of AI-generated content.
+19_34123_2	We consider questions from PubMedQA and several tasks, ranging from binary (yes/no) responses to long answer generation, where the answer of the model is produced after an interaction with a physician.
+16_34187_1	Our framework is constructed around an LLM with knowledge self-generation and output refinement.
+9_34675_5	Further, we describe tradeoff curves between the LLM evaluator performance (i.e., correlation with humans) and evaluation set size; loss in correlation can be compensated with modest increases in the evaluation set size.
+84_34950_5	The lookback ratio-based detector—**Lookback Lens**—is found to transfer across tasks and even models, allowing a detector that is trained on a 7B model to be applied (without retraining) to a larger 13B model.
+147_35011_3	We find evidence that they indeed circumvent the requirement to perform multi-hop reasoning, but they do so in more subtle ways than what was reported about their fine-tuned pre-trained language model (PLM) predecessors.
+244_35103_6	Intriguingly, although LLMs were not asked to persuade users to support Biden, about 20% of Trump supporters reduced their support for Trump after LLM interaction.
+279_35138_1	To understand how people perceive writings that are produced under this paradigm, in this paper, we conduct an experimental study to understand whether and how the disclosure of the level and type of AI assistance in the writing process would affect people’s perceptions of the writing on various aspects, including their evaluation on the quality of the writing, and their ranking of different writings.
+344_35202_2	Moreover, maximum likelihood training has been discovered to give rise to anisotropy: representations of tokens in a model tend to cluster tightly in a high-dimensional cone, rather than spreading out over their representational capacity.
+444_35299_4	We demonstrate that large language models struggle to acquire new factual knowledge through fine-tuning, as fine-tuning examples that introduce new knowledge are learned significantly slower than those consistent with the model’s knowledge.
+476_35330_5	Rigorous evaluations and ablation studies are conducted on two commercial LLMs (ChatGPT and GLM) and three open-source LLMs, revealing PeT’s superiority in producing less harmful responses, outperforming five strong baselines.
+484_35338_2	To deepen our understanding of CD, we first theoretically prove that CD could be viewed as linearly extrapolating the next-token logits from a huge and hypothetical LM.
+595_35446_3	More interestingly, we show that these methods are additive; combining them achieves the best win rates in head-to-head comparison, resulting in responses that are preferred or tied to the base model in 76.2% of comparisons on average.
+833_35677_0	Large language models(LLMs) have been adopted to process textual task description and accomplish procedural planning in embodied AI tasks because of their powerful reasoning ability.
+860_35703_4	MT-Ladder is trained on pseudo-refinement triplets which can be easily obtained from existing LLMs without additional human cost.
+899_35742_1	Even though their capabilities of data synthesis have been studied well in recent years, the generated data suffers from a lack of diversity, less adherence to the prompt, and potential biases that creep into the data from the generator model.
+1014_35853_5	Our attacks are easy to employ, requiring only black-box access to an LLM and a few samples from the user, which _need not be the ones that were trained on_.
+1034_35873_3	However, when using Arabic transliteration and chatspeak (or arabizi), we found that unsafe content could be produced on platforms like OpenAI GPT-4 and Anthropic Claude 3 Sonnet.
+1035_35874_2	We use GlobalBias to directly probe a suite of LMs via perplexity, which we use as a proxy to determine how certain stereotypes are represented in the model’s internal representations.
+86_36235_1	When using Large Language Models (LLMs) for this task, a new call to the LLM inference endpoint/API is required for each new query even if the context stays the same.
+135_36469_1	However, though the evaluation of LLMs encompasses various domains within the realm of Natural Language Processing, limited attention has been paid to probing their linguistic capability of understanding contextual features.
+14_36791_0	Large language models (LLMs) are typically trained on general source data forvarious domains, but a recent surge in domain-specific LLMs has shown theirpotential to outperform general-purpose models in domain-specific tasks (e.g.,biomedicine).
+145_36920_3	Our method is conducted in the form of model merging, where the fine-tuned language model is merged with the pre-trained base model or the peer models from other domains through weighted average.
+275_37047_3	In this work, we ask: do variations in the way a prompt is constructed change the ultimate decision of the LLM?
+379_37148_4	Experiments were performed on SLURP to quantify the performance of LLMs, including GPT-3.5-turbo, GPT-4, LLaMA-13B, LLaMA-2-13B and Vicuna-13B (v1.1 and v1.5) with different ASR error rates.
+400_37169_3	We show how a small language model could be trained to act as a verifier module for the output of an LLM(i.e., ChatGPT, GPT-4), and to iteratively improve its performance via fine-grained corrective instructions.
+460_37224_3	Such outliers are found to allocate most of the attention scores on initial tokens of input, termed as pivot tokens, which are crucial to the performance of quantized LLMs.
+473_37237_1	This disparity is demanded in further fine-tuning and affecting the cross-lingual abilities of LLMs.
+529_37293_8	Human evaluation are conducted to verify the quality of LLM-REDIAL.
+659_37420_0	A language model may be viewed as a 𝛴-valued stochastic process for some alphabet 𝛴.However, in some pathological situations, such a stochastic process may “leak” probability mass onto the set of infinite strings and hence is not equivalent to the conventional view of a language model as a distribution over ordinary (finite) strings.
+704_37464_1	To curtail the frequency of these calls, one can employ a local smaller language model -a student- which is continuously trained on the responses of the LLM.
+722_37482_0	While supervised fine-tuning (SFT) has been a straightforward approach for tailoring the output of foundation large language model (LLM) to specific preferences, concerns have been raised about the depth of this alignment, with some critiques suggesting it is merely “superficial”.
+724_37484_2	While representations of translationally equivalent sentences in different languages are known to be similar after convergence, however, it remains unclear how such cross-lingual alignment emerges during pre-training of LLMs.
+726_37486_2	However, most quantization studies use pre-trained LLMs, and the impact of quantization on instruction-tuned LLMs and the relationship between perplexity and benchmark performance of quantized LLMs are not well understood.
+804_37561_4	A multi-module framework is developed for the task, including three different feedback mechanisms to boost performance, which exhibits superior performance in terms of both GPT-4 based and expert-based evaluation.
+924_37680_5	Our experimental results show improved self-correction abilities of two models on five datasets spanning math and commonsense reasoning, with notable performance gains when paired with a strong GPT-4-based verifier, though limitations are identified when using a weak self-verifier for determining when to correct.
+51_37780_5	ALRO is designed to bridge the gap between the capabilities of LLMs and the nuanced requirements of ranking tasks.
+96_37825_0	Prior research has revealed that certain abstract concepts are linearly represented as directions in the representation space of LLMs, predominantly centered around English.
+197_37923_6	Our results imply that changes are needed in QA dataset design and evaluation to more effectively assess the correctness and downstream impacts of model abstention.
+240_37965_3	Yet, its application in LLMs has not been extensively studied.
+251_37976_5	Using emotion attribution, we explore how different religions are represented in LLMs.
+400_38117_2	Named Entity Recognition (NER) is a critical task in information extraction that is not covered in recent LLM benchmarks.
+521_38233_4	This automatic mining process is efficiently accomplished through the collaboration between a large-scale teacher model and a small-scale student model.
+540_38251_3	However, the diversity aspect in LLM outputs has not been systematically studied before.
+551_38262_1	RPI employs integration on internal attention scores and their gradients along a randomized path, which is dynamically established between a baseline representation and the attention scores of the model.
+569_38280_1	While many strategies and datasets to enhance LLMs’ mathematics are developed, it remains a challenge to simultaneously maintain and improve both language and mathematical capabilities in deployed LLM systems.
+623_38334_2	NL’s status as the optimal format for LLMs, particularly in single-LLM reasoning and multi-agent communication, has not been thoroughly examined.
+766_38472_4	In experiments across four LLMs, we find that multilingual instruction tuning with as few as two to three languages is both necessary and sufficient to elicit effective cross-lingual generalisation, with the limiting factor being the degree to which a target language is seen during pretraining.
+802_38508_2	Due to the scale of LLM, PEFT operations are usually executed in the public environment (e.g., cloud server).
+813_38518_7	Code and data are made publicly available at https://turningpoint-ai.github.io/DrAttack/.
+22_38781_2	The research field of bias in LLMs has seen massive growth, but few attempts have been made to detect or mitigate other biases than gender bias, and most focus has been on English LLMs.
+19_38960_4	We argue that analogous standardization processes are required for LLM assessments, given their differential functioning as compared to humans.
+37_38978_1	The toolkit enables access to a wide selection of AI assets, including datasets, models, and metrics, from both academic and commercial sources, which can be selected, executed and evaluated in one place through different services in a standardized format with consistent documentation provided.
+53_38994_3	We find that cross-lingual transfer does happen successfully in IT even if all stages of model training are English-centric, but only if multiliguality is taken into account in hyperparameter tuning and with large enough IT data.
+17_39032_2	While such modifications have been proven effective in tasks like machine translation, tailoring them to LLMs demands specific modifications given the diverse nature of LLM applications.
+53_39462_3	We identify this as a primary factor constraining the reasoning capabilities of LLMs, a limitation that cannot be resolved solely based on the predicted answers.
+197_39606_8	Additionally, we observe improved performance when test sets are translated to English before inputting them into GPT-3.5.
+916_40325_5	LHMKE is designed to provide a comprehensive evaluation of the knowledge acquisition capabilities of Chinese LLMs.
+930_40339_6	We also discuss the challenges and limitations of LLMs that need to be addressed before they can be widely adopted in clinical settings.
+1539_40948_1	However, this awareness of LMs has been insufficiently studied, since the computer science community lacks access to the large-scale real-world data about multi-cultural values.
+51_41197_1	However, the comprehensive effects of fine-tuning on the LLMs’ generalization ability are not fully understood.
+78_41224_6	Such a constitution discovery pipeline can be run iteratively and automatically to discover new constitutions that specifically target the alignment gaps in the current LLM.
+118_41264_0	Large Language Models (LLMs), such as ChatGPT and GPT-4, are designed to provide useful and safe responses.
+249_41395_3	Our proposed approach, dubbed Mixture of Word Experts (MoWE), can be seen as a memory augmented model, where a large set of word-specific experts play the role of a sparse memory.
+284_41430_1	In affixal negation, the negated meaning is expressed through a negative morpheme, which is potentially challenging for LLMs as their tokenizers are often not morphologically plausible.
+456_41602_2	The evaluation of such LMs would ideally be performed using human judgement, however, this is not scalable.
+464_41610_1	While autoregressive LMs have benefited immensely from scaling and instruction-based learning, existing studies of diffusion LMs have been conducted on a smaller scale.
+1_41815_2	In this work, we probe LLMs from a human behavioral perspective, correlating values from LLMs with eye-tracking measures, which are widely recognized as meaningful indicators of human reading patterns.
+51_41911_2	Popular LLMs such as ChatGPT have been examined as a research assistant and as an analysis tool, and several discrepancies regarding both transparency and the generative content have been uncovered.
+2_41939_5	We also show that techniques like Chain-of-Thought and Cross-Lingual Prompting, which are designed to improve reasoning abilities, do not necessarily improve the fact-checking abilities of LLMs.
+4_42178_2	The dialogue system is constructed on top of LLMs, focusing on defining specific roles for individual modules.
+22_42235_2	This problem is known as hallucination and has reduced the confidence in the output of LLMs.
+90_42303_0	For our submission for Subtask 1, we developed a custom classification head that is designed to be applied atop of a Large Language Model.
+14_42620_1	However, evaluating the intersection of these two skills—multilingual few-shot reasoning—is difficult: even relatively low-resource languages can be found in large training corpora, raising the concern that when we intend to evaluate a model’s ability to generalize to a new language, that language may have in fact been present during the model’s training.
+43_42796_2	In this work, we investigate the effect of IT and RLHF on decision making and reasoning in LMs, focusing on three cognitive biases—the decoy effect, the certainty effect, and the belief bias—all of which are known to influence human decision-making and reasoning.
+66_42819_1	However, typically the retriever is not trained jointly as a native component of the LM, but added post-hoc to an already-pretrained LM, which limits the ability of the LM and the retriever to adapt to one another.
+9_43023_4	MBIAS is designed to significantly reduce biases and toxic elements in LLM outputs while preserving the main information.
+10_43024_2	The echo chamber has been viewed as a human-specific problem, but this implicit assumption is becoming less reasonable as large language models, such as ChatGPT, acquire social abilities.
+12_43026_2	The recent emergence in Large Language Models (LLM) has significantly advanced general NLP tasks, however, the capability of such LLMs in cross-lingual sentiment analysis has not been fully studied.
+10_43257_4	This work uses linguistic examples identified in research literature to introduce a taxonomy for Algospeak and shows that with the use of an LLM (GPT-4), 79.4% of the established terms can be corrected to their true form, or if needed, their underlying associated concepts.
+5_43535_2	More than 250,000 pages have been translated into English, emphasizing the potential of LLMs to cross language barriers and increase global access to Islamic knowledge.
+17_43583_3	This framework is designed to adaptively transfer knowledge from the server’s LLM to clients’ SLMs while concurrently enhancing the LLM with clients’ unique domain insights.
+20_43586_3	In this work, we examine the problem from a novel angle, focusing on how data can be better represented for more data-efficient retrieval in the context of LLM customization.
+39_43605_1	While extensive research has been conducted on the safety of LLMs in chat mode, the security implications of their function calling feature have been largely overlooked.
+207_43773_1	However, for clinical diagnosis, higher expectations are required for LLM’s reliability and sensitivity: thinking like physicians and remaining sensitive to key medical information that affects diagnostic reasoning, as subtle variations can lead to different diagnosis results.
+403_43969_6	Our experimental results reveal a meaningful correlation between LLM rankings on the revised benchmark and the original benchmark when these attributes are accounted for.
+466_44032_2	Experiments are conducted with several LLMs, including proprietary GPT models and open-source models, using zero-shot prompting with adjectives that represent varying levels of semantic equivalence (e.g., “the same”) or inequivalence (e.g., “different”).
+529_44095_3	Our framework is designed to investigate and quantify the presence of gender stereotypes in LLMs’ behavior via multi-round question answering.
+577_44143_4	A supervised fine-tuning (SFT) strategy is also presented to enhance the performance of LLMs, together with an algorithm for automatic dataset annotation to avoid additional manual costs.
+603_44169_7	The present paper can be thought of as a pocket guide to conducting ethical research with LLMs.
+693_44259_1	Evaluating the ICL ability of LLMs can enhance their utilization and deepen our understanding of how this ability is acquired at the training stage.
+710_44276_1	While their correlation against human annotators has been widely studied, consistency as evaluators is still understudied, raising concerns about the reliability of LLM evaluators.
+738_44304_5	It is developed through a two-phase training approach over a base LLaMa model.
+69_44414_6	Experiments are conducted on nine benchmarks which demonstrates that our approach improves the reasoning accuracy of LLMs.
+22_44451_5	The experiments are conducted using labeled datasets that contain a mix of human-written and AI-generated reviews.
+79_44507_0	Fake news and hard-to-detect AI-generated content are pressing issues in online media, which are expected to exacerbate due to the recent advances in generative AI.
+79_44637_6	Different short-context models can be used effectively for token scoring, including models that are much smaller than the long-context model that is trained.
+142_44696_1	However, the large size and high computation demands of LLMs limit their practicality in many applications, especially when further fine-tuning is required.
+147_44700_3	These datasets are meant to reduce data contamination while providing an accurate assessment of Persian LLMs.
+179_44732_5	The proposed attacker is trained within a reinforcement learning scheme with the LLM outputting probability of the target answer as the reward.
+209_44761_1	However, pre-training of Vision Encoder and the integrated training of LLMs with Vision Encoder are mainly conducted using English training data, leaving it uncertain whether LVLMs can completely handle their potential when generating explanations in languages other than English.
+234_44786_5	In this work, we argue that MIA still works on LLMs, but only when multiple documents are presented for testing.
+265_44816_7	Mechanistic Interpretability analysis showed that this latent behaviour of LLMs could be traced to specific neurons that became activated or amplified after PEFT.
+52_45353_1	While this mechanism has been extensively studied in explainability research, particularly through the attention values obtained during the forward pass of LMs, the backward pass of attention has been largely overlooked.
+57_45358_2	To bridge this gap, we propose a unified evaluation taxonomy with eight pedagogical dimensions based on key learning sciences principles, which is designed to assess the pedagogical value of LLM-powered AI tutor responses grounded in student mistakes or confusions in the mathematical domain.
+99_45398_3	How can we recover what training data is known to LLMs?
+101_45400_1	However, this integration also introduces new security vulnerabilities, particularly in the tool scheduling mechanisms of LLM, which have not been extensively studied.
+109_45408_2	We propose MORCELA, a new linking theory between LM scores and acceptability judgments where the optimal level of adjustment for these effects is estimated from data via learned parameters for length and unigram frequency.
+362_45652_4	Therefore, in this paper, we propose a Counterfactual Augmented Calibration Network (FACTUAL), which a novel calibration network is devised to calibrate potential bias in the stance prediction of LLMs.
+394_45682_5	To enhance consistency across languages, we propose novel “Compositional Representations” where tokens are represented as composition of equivalent tokens across languages, with resulting conflict reduction (up to -4.7%) indicating benefits of shared LLM representations.
+411_45699_0	Although the multilingual capability of LLMs offers new opportunities to overcome the language barrier, do these capabilities translate into real-life scenarios where linguistic divide and knowledge conflicts between multilingual sources are known occurrences?
+486_45771_4	All our puzzles have exact solutions that can be found from the algorithm without tedious human calculations.
+22_46098_1	Adapting the Bigger Analogy Test Set, we show that the linear transformation W s , where s is a middle-layer representation of a subject token and W is derived from model derivatives, can accurately reproduce final object states for many relations.
+43_46204_2	Unlike conventional conversational AI applications that are designed for one-to-one interactions, our bot addresses the challenges of facilitating multi-actor conversations.
+7_46218_2	Experiments are run on four LLMs, two NER datasets, two input and output data formats, and ten and nine prompt versions per dataset.
+78_46305_3	This limited-size benchmark was found to produce a robust ranking that correlates to human feedback at 𝜌 ∼ 0.8 with GPT-4 and Claude Opus models achieving the highest rankings.
+153_47796_6	In model training, LMs are learned with layer-wise dropouts for better robustness.
+96_49426_5	We introduce a novel type of LM using a modified version of bidirectional LSTM (BLSTM) called contextual BLSTM (cBLSTM), where the probability of a word is estimated based on its full left and right contexts.
+86_50206_2	The resultant model can be seen as a combination of character-aware language model and simple word-level language model.
+147_51598_4	Our experiments are conducted on Czech which is a morphologically rich language and has a considerably free word order, therefore a syntactic language model is expected to contribute positively to the unigram and bigram language model based on surface word order.
+2_55900_0	This tutorial surveys neural approaches to conversational AI that were developed in the last few years.
+22_57298_2	In our system, rich features are involved, including Ontology based, word embedding based, Corpus based, Alignment based and Literal based feature.
+3_59508_5	We apply two different sub-approaches in the LM Based approach and the combined result of these two approaches is considered as the final output of the system.
+26_59837_1	We show that ‘diagnostic classifiers’, trained to predict number from the internal states of a language model, provide a detailed understanding of how, when, and where this information is represented.
+21_60092_1	We investigate an alternative simple method to use monolingual data for NMT training: We combine the scores of a pre-trained and fixed language model (LM) with the scores of a translation model (TM) while the TM is trained from scratch.

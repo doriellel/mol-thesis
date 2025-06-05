@@ -841,7 +841,6 @@
 2504.21770_2310473_6	In-context learning and asking the model to 'think again' improves LASHED's precision.
 2505.00626_2311186_2	Although recent work often targets state-of-the-art prompt injection defenses, it remains unclear whether such methods truly teach LLMs to differentiate roles or merely memorize known triggers.
 2505.00626_2311186_3	In this paper, we examine \emph{role-separation learning}: the process of teaching LLMs to robustly distinguish system and user tokens.
-2505.02062_2312622_0	  The adoption of Artificial Intelligence (AI) in the healthcare service industry presents numerous ethical challenges, yet current frameworks often fail to offer a comprehensive, empirical understanding of the multidimensional factors influencing ethical AI integration.
 2505.02252_2312812_6	Our findings reveal that context personalisation significantly influences LLMs' responses in this sensitive area.
 2505.02313_2312873_3	Despite its simplicity and appeal, we argue that The Safety Conception is in tension with at least two trends in the ways AI safety researchers and organizations think and talk about AI safety: first, a tendency to characterize the goal of AI safety research in terms of catastrophic risks from future systems; second, the increasingly popular idea that AI safety can be thought of as a branch of safety engineering.
 2505.02865_2313425_3	Specifically, SpecSearch utilizes a small model to strategically collaborate with a large model at both thought and token levels, efficiently generating high-quality reasoning thoughts.

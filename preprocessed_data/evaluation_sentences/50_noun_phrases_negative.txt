@@ -11,21 +11,3 @@
 5_arx_2311.02105_1945072_0	  Large language models (LLMs) have shown great potential as general-purpose AI assistants in various domains.	  Large language models (LLMs)	  model	  assistant
 
 
-
-\\ inconclusive
-
-5_acl_183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.	an AI assistant	AI	assistant
-5_acl_306_44857_7	Together, our work lays foundation for further studies on clarifying interactions with LM assistants.	LM assistants	LM	assistant
-5_acl_209_39619_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.	an AI assistant	AI	assistant
-5_arx_2505.04260_2314820_1	However, untrained lay users have poor prompt specification abilities and often struggle with conveying their latent preferences to AI assistants.	AI assistants	AI	assistant
-5_arx_2409.14565_2152197_8	We show that certain AI assistants were able to improve human performance and that reinforcement-learning based assistants were objectively more effective but rated as less trusted and preferable by humans.	  certain AI assistants	  AI	assistant
-5_arx_2407.14116_2112503_4	This AI assistant not only reduces the manual effort involved in compliance checks but also enhances accuracy and efficiency, supporting professionals in maintaining high standards of practice and ensuring regulatory compliance in their respective fields.	This AI assistant	AI	assistant
-5_arx_2403.11128_2028247_3	However, such evaluation method can be misleading, as an AI assistant might fail in generating API calls from preceding human interaction in real cases.	an AI assistant	AI	assistant
-arx_2407.11072_2109459_0	  LLM-based programming assistants offer the promise of programming faster but with the risk of introducing more security vulnerabilities.	  LLM-based programming assistants	  LLM	assistant
-2311.02242_1945209_4	We test the process three times with the US public, developing policy guidelines for AI assistants related to medical advice, vaccine information, and wars & conflicts.	AI assistants	AI	assistant
-5_arx_2407.13900_2112287_2	The advanced capabilities of LLM-based programming assistants to support software development tasks have led to a rise in the adoption of LLMs in SE.	  LLM-based programming assistants	  assistants	assistant
-5_arx_2505.03380_2313940_0	  Medical AI assistants support doctors in disease diagnosis, medical image analysis, and report generation.	  Medical AI assistants	  assistants	assistant
-5_arx_2503.05455_2269767_4	In another experiment, we enable human control, showing that participants perceive AI partners as more effective and enjoyable when they can directly dictate AI behavior.	  AI partners	  AI	partner
-5_arx_2407.17489_2115876_0	  How does the presence of an AI assistant affect the collective attention of a team?	an AI assistant	AI	assistant
-5_arx_2503.16491_2280803_4	Specifically, the AI coding assistant often exacerbated existing accessibility barriers and introduced new challenges.	the AI coding assistant	AI	assistant
-5_acl_5_43351_1	However, assessing the novelty in scholarly publications, a critical facet of evaluating LLMs as scientific discovery assistants, remains underexplored, despite its potential to accelerate research cycles and prioritize high-impact contributions in scientific workflows.	LLMs	LLM	assistant

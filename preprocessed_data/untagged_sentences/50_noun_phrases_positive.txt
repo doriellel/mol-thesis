@@ -38,6 +38,7 @@
 5_arx_2411.09224_2191651_5	Although these AI assistants illustrate a high level of progress in language understanding and code generation, along with ethical considerations and responsible usage, they provoke a necessity for discussion.	these AI assistants	AI	assistant
 5_arx_2104.01266_1448684_4	Results from a field study conducted in K-12 classrooms indicate that students learn more when teachers and AI tutors work together during class.	AI tutors	AI	tutor
 5_arx_2505.02443_2313003_2	However, concerns arise about the ability of AI tutors to address skill development and engagement during the learning process.	AI tutors	AI	tutor
+5_arx_1902.03271_1084355_5	In particular, we will study the individual treatment profiles suggested by their AI Clinician to gain insight into how their AI Clinician intends to treat patients on an individual level.
 5_acl_991_40401_3	First, we train a teacher model to quantify each sample’s degree of relying on shortcuts.	a teacher model	model	teacher
 2305.02626_1835682_1	In particular, given that LLMs have great potential to serve as general-purpose AI assistants in daily life, their subtly unethical suggestions become a serious and real concern.	LLMs	LLM	assistant
 5_acl_64_25713_1	The goal of the task was to benchmark the ability of generative language models to act as AI teachers, replying to a student in a teacher-student dialogue.	generative language models	model	teacher

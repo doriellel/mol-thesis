@@ -1,12 +1,4 @@
-54_3473_0	The goal-oriented dialogue system needs to be optimized for tracking the dialogue flow and carrying out an effective conversation under various situations to meet the user goal.
-54_3473_4	This scheme makes it difficult for goal-oriented dialogues where the system needs to integrate with external systems or to provide interpretable information about why the system generated a particular response.
-327_3746_2	The model takes the paired source, reference, and hypothesis sentence all together as an input.
-153_4884_5	By combining relation prediction and relevance ranking tasks with our target link prediction, the proposed model can learn more relational properties in KGs and properly perform even when lexical similarity occurs.
 96_5687_1	A language model’s vocabulary—typically selected before training and permanently fixed later—affects its size and is part of what makes it resistant to such adaptation.
-409_5999_0	This paper investigates pre-trained language models to find out which model intrinsically carries the most informative representation for task-oriented dialogue tasks.
-557_6147_6	Our analysis reveals that: (1) BERT and its stronger variant RoBERTa perform poorly on the diagnostic dataset prior to any fine-tuning; (2) fine-tuning with distant supervision brings some improvement; (3) the best supervised model still performs poorly as compared to human performance (54.06% vs. 96.3% in accuracy).
-141_6586_10	Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.
-15_7080_7	This Machine Translation system accepts announcements in the form of English text as input and produces Indian Sign Language (ISL) synthetic animations as output.
 319_7846_5	We investigated four modeling units (phone, syllable, word piece, and word) and found that the syllable-based model performed best in terms of both word and phone recognition accuracy, which were about 60% and over 85% respectively in speaker-open condition.
 333_7860_3	We find that an RNN language model, initialized with pre-trained fastText embeddings, performs best, highlighting the importance of sub-word information for Mi’kmaq language modelling.
 607_8134_5	We show that a cross-domain adapted BERT language model performs significantly better than strong baseline models like vanilla BERT-base and XLNet-base.
@@ -43,7 +35,6 @@
 373_16531_1	This creates challenges when AI systems try to reason about language and its relationship with the environment: objects referred to through language (e.g. giving many instructions) are not immediately visible.
 19_16936_6	Using masked token prediction and centroid distance minimisation as training objectives, the LogFiT model learns to recognise the linguistic patterns associated with the normal log data.
 24_17147_1	However, it is still unclear what GPT-3 has understood or learned especially in linguistic knowledge.
-24_17147_6	Our experiment results suggest that GPT-3 has acquired linguistic knowledge to identify certain semantic information in most cases, but still fails when there are some types of disturbance happening in the sentence.
 24_17147_7	We also perform error analysis to summarize some common types of mistakes that GPT-3 has made when dealing with certain semantic information.
 269_17738_1	The OCR model easily gets confused on recognizing handwritten Chinese characters, and the textual information of the answers is missing during the model inference.
 494_17963_6	We also find that the adaptation methods perform differently for different models and that unimodal model counterparts perform on par with the VL models regardless of adaptation, indicating that current VL models do not necessarily gain better language understanding from their multimodal training.
@@ -99,7 +90,6 @@
 626_24776_2	GPT-3, a large-scale language model developed by OpenAI, has demonstrated im- impressive zero- and few-shot performance on a wide range of NLP tasks.
 845_24995_4	We then assess whether a large language model (GPT-3) can identify dogwhistles and their meanings, and find that GPT-3’s performance varies widely across types of dogwhistles and targeted groups.
 59_25119_4	Previous research shows that adding contrastive learning to prompt-based fine-tuning is effective as it helps the model generate embeddings that are more distinguishable between classes, and it can also be more sample-efficient as the model learns from positive and negative examples simultaneously.
-154_25214_1	However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had truly learned how negation morphemes semantically scope.
 162_25222_2	In both tasks, the model must know the entities used to perform the generation properly.
 8_25288_8	Our findings demonstrate that LMs struggle with specific linguistic phenomena, such as habituality, indicating that there is potential for the development of more effective NLI models across languages.
 20_25452_3	Our proposed system for the ALTA shared task, based on ensembling a number of language models, claimed first place on the development set with an accuracy of 99.35% and third place on the test set with an accuracy of 98.35%.
@@ -136,7 +126,6 @@
 95_26816_0	Large Language Model (LLM) has demonstrated significant ability in various Natural Language Processing tasks.
 134_26855_2	Therefore, it is crucial for LLMs to learn novel interpretations in-context.
 134_26855_5	Experimental results on MAGNIFICo demonstrate that LLMs exhibit a surprisingly robust capacity for comprehending novel interpretations from natural language descriptions as well as from discussions within long conversations.
-150_26871_4	Further, to help LLMs distinguish confusing classes, we design a progressive revision framework, which can improve the thinking steps by correcting hard demonstrations.
 160_26881_7	Our comprehensive analysis reveals that existing open-source instruction tuned LLMs still struggle to understand SM across various languages, performing close to a random baseline in some cases.
 162_26883_2	However, LLMs can struggle with multi-step problems and long-term planning, which are crucial for designing scientific experiments.
 174_26895_2	In such cases, model developers need to eliminate specific data influences from the model to mitigate legal and ethical penalties.
@@ -216,10 +205,8 @@
 167_29203_6	By performing a backward verification of the answers that LLM deduced for itself, we can obtain interpretable answer validation scores to select the candidate answer with the highest score.
 182_29218_5	We demonstrate that LLMs perform significantly worse on NLI test samples which do not conform to these biases than those which do, and we offer these as valuable controls for future LLM evaluation.
 193_29229_3	One direct solution for this problem is to make the model see and learn an explanation of sentiment expression rather than certain words.
-201_29237_3	Apart from generating the wrong reasoning processes, LLMs can misinterpret the meaning of the question, and also exhibit difficulty in understanding the given questions’ rationales when attempting to correct students’ answers.
 212_29248_9	Our human and GPT-4 evaluations also lead to a consistent conclusion that LLM performs well on this task.
 214_29250_3	Our experimental analysis reveals that ChatGPT exhibits inferior extractive summarization performance in terms of ROUGE scores compared to existing supervised systems, while achieving higher performance based on LLM-based evaluation metrics.
-245_29281_1	With large language models like GPT-4 taking over the field, prompting techniques such as chain-of-thought (CoT) were proposed to unlock compositional, multi-step reasoning capabilities of LLMs.
 261_29297_2	In this work, we introduce proto-lm, a prototypical network-based white-box framework that allows LLMs to learn immediately interpretable embeddings during the fine-tuning stage while maintaining competitive performance.
 267_29303_1	In this work, we focus on two novel ideas: (1) generating definitions from examples and using them for zero-shot classification, and (2) investigating how an LLM makes use of the definitions.
 272_29308_2	As powerful LLMs are devouring existing text data from various domains (e.g., GPT-3 is trained on 45TB texts), it is natural to doubt whether the private information is included in the training data and what privacy threats can these LLMs and their downstream applications bring.
@@ -326,7 +313,6 @@
 550_32712_1	We look for evidence of a latent reasoning pathway where an LLM (1) latently identifies “the singer of ‘Superstition’” as Stevie Wonder, the bridge entity, and (2) uses its knowledge of Stevie Wonder’s mother to complete the prompt.
 555_32717_1	To see if MCQA assesses LLMs as intended, we probe if LLMs can perform MCQA with choices-only prompts, where models must select the correct answer only from the choices.
 585_32747_1	Despite the integration of RAG, LLMs may still present unsupported or contradictory claims to the retrieved contents.
-593_32755_6	Our experimental results show that while LLMs demonstrate a notable capacity for logical counterfactual thinking, there remains a discernible gap between their current abilities and human performance.
 604_32766_3	We built closely-interconnected reasoning and memorization tasks, and found that some LLMs struggle with memorizing Chinese commonsense, affecting their reasoning ability, while others show differences in reasoning despite similar memorization performance.
 606_32768_6	Experiments on this benchmark and four other multimodal understanding tasks show significant improvements over baselines, proving that model composition can create a versatile model capable of processing inputs from multiple modalities.
 617_32779_4	The resulting model can judge preferences of on-the-fly responses from current policy initialized from itself.
@@ -348,7 +334,6 @@
 782_32944_5	Moreover, our results further illustrate that LLM agents manifest human-like social behaviors, such as conformity and consensus reaching, mirroring foundational social psychology theories.
 787_32949_5	Our core finding is that GPT-2 struggles to learn impossible languages when compared to English as a control, challenging the core claim.
 809_32971_6	We show that five SOTA LLMs (GPT-3.5, GPT-4, Gemini, Claude, and Llama2) struggle to recognize prompts provided in the form of ASCII art.
-852_33014_0	Recent LLMs have demonstrated remarkable performance in solving exam-like math word problems.
 18_33044_5	For example, by patching activations along a “birthyear” direction we can make the LM express an increasingly late birthyear.
 25_33051_2	However, the mechanism through which LLMs memorize PII remains poorly understood.
 26_33052_3	Our findings show that LLMs struggle to generate contextually relevant responses to non-literal language.
@@ -402,7 +387,6 @@
 4_34203_4	In addition, ChatGPT, but not Vicuna, nonliterally interpreted implausible sentences that were likely to have been corrupted by noise, drew reasonable inferences, and overlooked semantic fallacies in a sentence.
 6_34228_4	Evaluating on a corpus of German actors in newspaper reports, we find surprisingly that the LLM performs worse.
 1_34271_0	Chinese LLMs demonstrate impressive performance on NLP tasks, particularly on discipline knowledge benchmarks, with some results approaching those of GPT-4.
-2_34276_7	Our results show that not all extracted utterances are correctly structured, indicating that either LLMs do not fully acquire syntactic-semantic rules or they acquire them but cannot apply them effectively.
 24_34298_2	Consistent with human results, we find that LLM recall uncertainty, measured via token probability, is influenced by the fan effect.
 13_34327_6	During the final training phase, we only train a lightweight linear classifier layer on top of the logits that the model determines for the latent semantic properties.
 7_34361_5	The results show that ChatGPT made more changes than the average post-editor.
@@ -468,7 +452,6 @@
 525_35379_3	Our strategies include (i) program- and data-aware techniques for proposing effective instructions, (ii) a stochastic mini-batch evaluation function for learning a surrogate model of our objective, and (iii) a meta-optimization procedure in which we refine how LMs construct proposals over time.
 574_35427_1	We observe curious components: good-performing ones that individually do well on a classification task, even when the model performs poorly; bad-performing ones that do much worse than chance; and label-biased components that always predict the same label.
 586_35437_7	We evaluate ~30 LMs across diverse prompting strategies and found that LMs generally struggle to appropriately revise their beliefs in response to new information.
-590_35441_1	However, it is unclear if this success is limited to explicitly-mentioned causal facts in the pretraining data which the model can memorize.
 590_35441_2	Thus, this work investigates: Can LLMs infer causal relations from other relational data in text?
 590_35441_3	To disentangle the role of memorized causal facts vs inferred causal relations, we finetune LLMs on synthetic data containing temporal, spatial and counterfactual relations, and measure whether the LLM can then infer causal relations.
 590_35441_4	We find that: (a) LLMs are susceptible to inferring causal relations from the order of two entity mentions in text (e.g. X mentioned before Y implies X causes Y); (b) if the order is randomized, LLMs still suffer from the post hoc fallacy, i.e. X occurs before Y (temporal relation) implies X causes Y. We also find that while LLMs can correctly deduce the absence of causal relations from temporal and spatial relations, they have difficulty inferring causal relations from counterfactuals, questioning their understanding of causality.
@@ -885,7 +868,6 @@
 7_43391_4	Evaluated on Korean hate speech dataset with Indonesian and German participants, our system achieves 78% accuracy (surpassing GPT-4o’s 71% baseline) while reducing human workload by 83.6%.In addition, cultural context annotations improved non-native moderator accuracy from 22% to 61%, with humans notably excelling at nuanced tasks where LLMs struggle.
 11_43395_1	For example, a model should correctly identify kimchi (Korean food) in an image both when an Asian woman is eating it, as well as an African man is eating it.
 13_43423_5	The GPT-4o model exhibited promising performance, with an accuracy of around 55-80% accuracy for a complete match, accuracy varying among different fields.
-7_43457_1	We introduce Pragmatic Metacognitive Prompting (PMP) to improve the performance of Large Language Models (LLMs) in sarcasm detection, which leverages principles from pragmatics and reflection helping LLMs interpret implied meanings, consider contextual cues, and reflect on discrepancies to identify sarcasm.
 8_43458_2	Our findings show that AI-generated jokes elicited as much laughter as human-crafted ones, indicating that advanced AI joke generators can now produce original jokes on par with those of a professional human comedy writer.
 8_43469_3	LLM-generated text detection, conceptualized as a binary classification task, seeks to determine whether an LLM produced a given text.
 11_43478_3	The LLM acts as a filter in the action selection.
@@ -917,7 +899,6 @@
 300_43866_2	To enhance the reasoning and understanding of LLMs on long and complex contexts, we propose a novel prompting strategy Multi-Lingual Prompt, namely MLPrompt, which automatically translates the error-prone rule that an LLM struggles to follow into another language, thus drawing greater attention to it.
 326_43892_1	Pretrained LLMs, due to limited training context size, struggle with handling long token sequences, limiting their performance on various downstream tasks.
 348_43914_1	However, because subwords are marked as initial- or intra-word, we find that LLMs perform poorly at handling some types of affixations, which hinders their ability to generate novel (unobserved) word forms.
-350_43916_2	For instance, it is widely accepted that LLMs perform well in terms of grammar, but it is unclear in what specific cognitive areas they excel or struggle in.
 350_43916_4	Specifically, we explore the most widely used benchmarks for LLMs to systematically identify how well these existing evaluation methods cover the levels of Bloom’s Taxonomy, a hierarchical framework for categorizing cognitive skills.
 350_43916_6	Our findings reveal that LLMs generally perform better on the lower end of Bloom’s Taxonomy.
 360_43926_4	Our analysis indicates that LLM agents can understand probabilities, but they struggle with probability sampling.
@@ -925,7 +906,6 @@
 390_43956_4	Building upon previous discussions on the issue of variability, we reveal an additional dimension of concern: LLMs may perform MCQA by selecting the least incorrect option rather than distinctly correct.
 390_43956_5	This observation suggests that LLMs might regard multiple options as correct, which could undermine the reliability of MCQA as a metric for evaluating LLMs.
 395_43961_4	Experimental results indicate that: (1) LLMs with a better understanding of Japanese and richer biomedical knowledge achieve better performance in Japanese biomedical tasks, (2) LLMs that are not mainly designed for Japanese biomedical domains can still perform unexpectedly well, and (3) there is still much room for improving the existing LLMs in certain Japanese biomedical tasks.
-403_43969_2	In this paper, we investigate whether current LLM benchmarks adequately consider these data attributes.
 404_43970_0	Recent work investigates whether LMs learn human-like linguistic generalizations and representations from developmentally plausible amounts of data.
 437_44003_3	In the second experiment, qualitative analysis showed that while GPT-4o demonstrated near-perfect coherence and used less cliche phrases, it tended to produce more predictable language, with only 3% of its synopses featuring surprising associations (compared to 15% for BART).
 440_44006_0	Traditional language model compression techniques, like knowledge distillation, require a fixed architecture, limiting flexibility, while structured pruning methods often fail to preserve performance.
@@ -937,7 +917,6 @@
 529_44095_6	The distinct preferences of GPT-3.5-turbo and Llama2-70b-chat, along with additional analysis indicating GPT-4o-mini favors female subjects, may imply that the current alignment methods are insufficient for debiasing and could introduce new biases contradicting the traditional gender stereotypes.
 533_44099_0	Large Language Models(LLMs) have brought significant transformations to various aspects of human life and productivity.
 533_44099_2	Moreover, many LLMs exhibit significant performance discrepancies between high-and lowresource languages, thereby restricting equitable access to technological advances for all linguistic communities.
-541_44107_3	Our findings reveal that: (1) LLMs require further enhancement to accurately distinguish between harmful and argumentative essays, and (2) both current AES models and LLMs fail to consider the ethical dimensions of content during scoring.
 548_44114_5	Experimental results show that advanced LLMs, such as GPT-4, perform better in the many-shot regime than in the zero-shot regime.
 567_44133_4	Our study demonstrates that while all LLMs struggle to grasp cultural values, GPT-4 shows a unique capability to adapt to cultural nuances, particularly in Chinese settings.
 572_44138_3	This model consists of two core components: (1) Metapath-based Heterogeneous Graph Reconstruction.

@@ -1,16 +1,8 @@
-0705.4412_8414_2	Materials and Methods: The system consists of a computer and a localizer allowing spatial localization of the position of the various instruments.
 0708.4198_22049_4	The population dynamics model determines nitrogen in two components, nutrients and phytoplankton, which are assumed to be passively advected by the simulated surface currents.
-0709.0625_22890_4	For cases where an exact low-rank representation of the IBD matrix is available a-priori, the improved AI-REML algorithm normally runs almost twice as fast compared to the standard version.
-0802.0733_48030_1	The model that I employ assumes that the time that a passenger requires to load his or her luggage is the dominant contribution to the time needed to completely fill the aircraft.
-0810.3447_89026_3	A simple model of Thomson scattering in the stellar wind can account for the modulation seen in the X-ray light curves.
-0811.1711_93063_8	However, the Adaptive Neuro-Fuzzy Inference system out performed the other methods in terms of accuracy and ease of implementation, while still achieving a fast execution time as well as a reasonable training time.
 0912.5208_164959_8	We find that the LMC cluster system exhibits disk-like rotation with no clusters appearing to have halo kinematics and there is no evidence of a metallicity gradient in the LMC, in contrast with the stellar population of the MW and M33, where the metallicity decreases as galactocentric distance increases.
-1101.3316_238729_3	The test shows that the model correctly identifies ~80% of known QSOs with a 25% false positive rate.
-1106.0253_265888_5	While the AIS-BN algorithm always performed better than the other two algorithms, in the majority of the test cases it achieved orders of magnitude improvement in precision of the results.
 1109.0704_285072_7	The model covers coronal temperatures that are representative of plasma conditions in coronal holes and quiet sun.
 1201.0815_312802_8	A hybrid model, combining both wave and non-wave components, can explain many, but not all, of the observations.
 1203.3470_328829_8	Then, we propose a framework whereby an automated system can plan to address these hazards in cooperation with the pilot, using a Time-Dependent Markov Process (TMDP).
-1205.6986_345987_9	At the same time, our model dissects this variability into components that result from individual SNP effects and population structure.
 1210.2715_376509_4	The model which we will offer will consist of final automata and first order formulas.
 1301.2158_398748_8	Given careful design and problem formulation, an AI simulation framework can approximate optimal decisions even in complex and uncertain environments.
 1304.0938_420071_1	The model approximates the effective C_d by the area-weighted averaging of the distinct drag coefficients associated with the foam-free and foam totally-covered portions of the sea surface, and identifies the roughness of the sea surface totally covered by foam with the foam bubble size.
@@ -115,9 +107,7 @@
 1810.00485_1031672_1	The sensor system consists of optical time-of-flight range measurement modules covered in a clear elastomer.
 1810.02596_1033783_1	The system needs to efficiently allocate its frequency spectrum such that the spectrum utilization can be maximized while ensuring the quality of service (QoS) level.
 1810.02866_1034053_5	The results indicate that the proposed hardening model through decentralized and distributed local energy resources can produce a more robust solution that can protect the system significantly against multiple component outages due to an extreme event.
-1810.06338_1037525_0	  In order to engender trust in AI, humans must understand what an AI system is trying to achieve, and why.
 1810.06338_1037525_1	To overcome this problem, the underlying AI process must produce justifications and explanations that are both transparent and comprehensible to the user.
-1810.09030_1040217_7	AI developers found that our system can help them discover unknown errors made by the AI models, and engage in the process of proactive testing.
 1810.09568_1040755_5	Furthermore, the model trains quickly, is compact, and allows for efficient real-time inference.
 1811.00189_1044822_3	On the other hand, other unauthorized AI models cannot recognize it correctly because it functions as an adversarial example.
 1811.01133_1045766_5	The introduced algorithm does not require knowledge or estimation of the directional interferers' directions nor the second-order statistics of noise-only components.
@@ -172,7 +162,6 @@
 1907.05575_1150111_5	The model takes the form of a stochastic policy for a Markov decision process (MDP) in which the reward function is learned from pairwise queries of a domain expert.
 1907.12118_1156654_1	Based on the pay-per-click pricing model and the keyword targeting technology, the sponsored system runs online auctions to determine the allocations and prices of search advertisements.
 1908.01551_1159721_5	Instead, we use room impulse responses (RIRs) to compute robust adversarial examples for arbitrary room characteristics and employ the ASR system Kaldi to demonstrate the attack.
-1908.02624_1160794_1	AI systems can now translate across multiple languages, identify objects in images and video, streamline manufacturing processes, and control cars.
 1908.09730_1167900_5	These results suggest that the DPLMS algorithm can perform better in identifying the unknown coefficients under the complex and changeable impulsive interference environments.
 1908.11860_1170030_5	We show that a cross-domain adapted BERT language model performs significantly better than strong baseline models like vanilla BERT-base and XLNet-base.
 1909.06842_1176880_1	Yet, training a deep neural network (DNNs) model requires a considerable amount of calculations, long running time, and much energy.
@@ -261,7 +250,6 @@
 2005.14165_1293960_8	At the same time, we also identify some datasets where GPT-3's few-shot learning still struggles, as well as some datasets where GPT-3 faces methodological issues related to training on large web corpora.
 2005.14410_1294205_10	Our results show that within a limited number of iterations our proposed model learns an effective scaling policy per workload, improving the performance compared to the default auto-scaling configuration.
 2006.03291_1297805_7	A more complex three-component model comprising a multi-colour disc blackbody $\approx 0.30$ keV, single temperature blackbody $\approx 0.65$ keV and Comptonization from the disc, partially absorbed (about 38 per cent) by an ionized absorber (log($\xi$) $\approx$ 4) describes the broad-band spectrum equally well.
-2006.04013_1298527_1	This shows the imperative need to develop means to endow common people with a minimum understanding of what AI means.
 2006.04560_1299074_8	Furthermore, numerical results show that the proposed hybrid beamforming design substantially enhances the computation MSE performance as compared to other benchmark schemes, while the SCA-based algorithm performs closely to the performance upper bound achieved by the fully-digital beamforming.
 2006.05509_1300023_9	All AI algorithms performed worse among the older age and people with prior TB history.
 2006.05784_1300298_6	Moreover, in addition to automating the complex electricity procurement task, this algorithm demonstrates more consistent results throughout the years.
@@ -316,7 +304,6 @@
 2010.09101_1365431_1	Recent work on language applications has made the AI code closer to biological reality in several ways.
 2010.09101_1365431_2	This commentary examines this convergence and, in light of what is known of neocortical structure, addresses the question of whether ``general AI'' looks attainable with these tools.
 2010.09890_1366220_1	In WAH, an AI agent needs to help a human-like agent perform a complex household task efficiently.
-2010.09890_1366220_2	To succeed, the AI agent needs to i) understand the underlying goal of the task by watching a single demonstration of the human-like agent performing the same task (social perception), and ii) coordinate with the human-like agent to solve the task in an unseen environment as fast as possible (human-AI collaboration).
 2010.11604_1367934_5	Unlike prior efforts in natural language generation, our model can learn the judge's questioning intention through predefined knowledge.
 2010.11639_1367969_4	Our bilingual model performs on par with Google's original English BERT on GLUE and nearly matches the performance of monolingual Finnish BERT on a range of Finnish NLP tasks, clearly outperforming multilingual BERT.
 2010.11982_1368312_5	Despite our lenient evaluation methodology, we observe that a large pretrained language model performs poorly across all tasks.
@@ -326,7 +313,6 @@
 2011.01991_1374739_2	Trained with audio-transcript pairs, an E2E model implicitly learns an internal LM that characterizes the training data in the source domain.
 2011.03751_1376499_1	However, developing AI/ML systems has presented several engineering problems that are different from those that arise in, non-AI/ML software development.
 2011.08779_1381527_3	In this work, we consider the scenario where an AI system may need to operate at less-than-maximum accuracy in order to meet application-dependent energy requirements.
-2011.09031_1381779_0	  Language model pre-training has proven to be useful in many language understanding tasks.
 2011.09159_1381907_3	Since these are commonsense benchmarks, a model that generalizes on commonsense reasoning should not experience much performance loss across multiple commonsense benchmarks.
 2011.09740_1382488_6	This model accounts for the main physical processes that determines the WSS, more particularly the compliance of the airways, the air inertia and the tree structure.
 2011.10367_1383115_4	The algorithm implementation produces a GINI of 0.68 after tuning the hyper-parameters.
@@ -798,7 +784,6 @@
 2302.03287_1788221_6	As such, in this paper, we examine how well ChatGPT performs when tasked with answering common questions in a popular software testing curriculum.
 2302.04023_1788957_9	ChatGPT suffers from hallucination problems like other LLMs and it generates more extrinsic hallucinations from its parametric memory as it does not have access to an external knowledge base.
 2302.04116_1789050_3	The additional training process however diminishes the stealthiness of the attacks, as training a language model usually requires long optimization time, a massive amount of data, and considerable modifications to the model parameters.
-2302.04335_1789269_6	In other words, ChatGPT can create content on many topics with high originality as if they were written by someone.
 2302.04361_1789295_2	The algorithm developed is applied to an Urban Air Mobility case study.
 2302.04536_1789470_7	In the experimental group, AI classifier recognized more potential AI-generated texts.
 2302.04863_1789797_3	Specifically, we demonstrate that finetuned models that were optimized for high performance, reside in well-defined regions in weight space, and vice versa -- that any model that resides anywhere in those regions also exhibits high performance.

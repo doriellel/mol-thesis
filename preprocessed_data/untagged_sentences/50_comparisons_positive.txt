@@ -16,3 +16,9 @@ acl_9_38794_1	We study a range of LLMs and find that the largest models we teste
 
 
 2303.09038_1808835_0	  The large language model called ChatGPT has drawn extensively attention because of its human-like expression and reasoning abilities.
+
+
+
+POSSESSIVE
+
+245_29281_1	With large language models like GPT-4 taking over the field, prompting techniques such as chain-of-thought (CoT) were proposed to unlock compositional, multi-step reasoning capabilities of LLMs.

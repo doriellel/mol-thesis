@@ -96,7 +96,6 @@
 2310.18351_1940608_0	  We present the BioImage$.$IO Chatbot, an AI assistant powered by Large Language Models and supported by a community-driven knowledge base and toolset.
 2311.00706_1943673_3	Six participants estimated ensemble averages with or without an AI assistant.
 
-
 2311.02640_1945607_7	By providing profound insights into ChatGPT's code generation capabilities and limitations through quantitative metrics and qualitative analysis, this study makes valuable contributions toward advancing AI-based programming assistants.
 2311.03348_1946315_2	Rather than manually crafting prompts for each persona, we automate the generation of jailbreaks using a language model assistant.
 2311.16161_1959128_2	Departing from conventional practices of employing distinct models for image recognition and text-based coaching, our integrated architecture directly processes input images, enabling natural question-and-answer dialogues with the AI coach.
@@ -357,9 +356,6 @@
 2503.20934_2285246_4	We introduce the first LLM fully powered assistant for MOVEMETHOD refactoring that automates its whole end-to-end lifecycle, from recommendation to execution.
 2503.21888_2286200_1	While large language model (LLM)-based assistants have shown promise in mental health interventions, existing research often defines "effective" support primarily in terms of empathetic acknowledgments, overlooking other essential dimensions such as informational guidance, community validation, and tangible coping strategies.
 2503.21983_2286295_0	  As artificial intelligence (AI) assistants become more widely adopted in safety-critical domains, it becomes important to develop safeguards against potential failures or adversarial attacks.
-
-
-
 2503.21983_2286295_4	Leveraging techniques from Model-Based Reinforcement Learning (MBRL), the AI assistant learns a model of the humans' trust evolution and uses that model to manipulate the group decision-making process to harm the team.
 2503.23037_2287349_10	We note that there is risk associated with LLM assistants taking action in the real world, while agentic LLMs are also likely to benefit society.
 2504.02670_2291373_7	KGoT offers a scalable, affordable, and high-performing solution for AI assistants.
@@ -422,7 +418,6 @@
 2201.06796_1592168_5	We demonstrate that CoAuthor can address questions about GPT-3's language, ideation, and collaboration capabilities, and reveal its contribution as a writing "collaborator" under various definitions of good collaboration.
 2203.01556_1614418_5	Participants of the AI track are asked to develop their AI algorithm that controls a character given only sound as the input (blind AI) to fight against their opponent; a sample deep-learning blind AI will be provided by us.
 2204.12000_1642138_8	Our estimation scheme sheds light on an important anthropomorphic element found in such AI models and can help stakeholders decide how they should be applied as well as how society could perceive them.
-2206.13703_1674123_2	In this work, we extended Kwame, our previous AI teaching assistant, adapted it for science education, and deployed it as a web app.
 2207.04692_1680590_4	In this article, we propose a classification system using ML based on a novel `PUF-Phenotype' concept to accurately identify the origin and determine the validity of noisy memory derived (DRAM) PUF responses as an alternative to helper data-reliant denoising techniques.
 2208.07960_1698672_4	Our results show that while recommendations from an AI-Assistant can aid user decision making, factors such as users' baseline performance relative to the AI and complementary tuning of AI error types significantly impact overall team performance.
 2210.01369_1722724_5	Therefore, they held mixed views towards AI-enabled products such as AI, an aid, or an adversary.
@@ -435,7 +430,6 @@
 2211.13230_1752136_3	As with all new technologies, use of AI should be preceded by a fundamental understanding of the risks and benefits to those it is intended to help.
 2212.07542_1763719_5	The model uses contexts given by their instructor, such as chapters of a textbook, to answer questions and is deployed on an interactive chatbot/voice agent.
 2212.08073_1764250_0	  As AI systems become more capable, we would like to enlist their help to supervise other AIs.
-2212.08073_1764250_7	As a result we are able to train a harmless but non-evasive AI assistant that engages with harmful queries by explaining its objections to them.
 2301.10095_1781159_0	  Artificial Intelligence (AI) is taking on increasingly autonomous roles, e.g., browsing the web as a research assistant and managing money.
 2301.10412_1781476_2	Specifically, the adversary injects a backdoor into the model during the training phase, so that input samples with backdoor triggers are classified as the target class.
 2301.13867_1784931_7	We find that ChatGPT can be used most successfully as a mathematical assistant for querying facts, acting as a mathematical search engine and knowledge base interface.
@@ -468,7 +462,6 @@
 2305.18011_1851067_0	  Explainable AI (XAI) techniques have been widely used to help explain and understand the output of deep learning models in fields such as image classification and Natural Language Processing.
 2305.18239_1851295_5	These factors are: (i) the impact of teacher model quality on DWT effectiveness, (ii) guidelines for adjusting the weighting value for DWT loss, and (iii) the impact of parameter remapping as a student model initialization technique for DWT.
 2305.18279_1851335_4	Moreover, we present ContextDET, a unified multimodal model that is capable of end-to-end differentiable modeling of visual-language contexts, so as to locate, identify, and associate visual objects with language inputs for human-AI interaction.
-2305.20076_1853132_0	  We describe a class of tasks called decision-oriented dialogues, in which AI assistants such as large language models (LMs) must collaborate with one or more humans via natural language to help them make complex decisions.
 2306.01058_1854206_2	Layout-infused LMs are often evaluated on documents with familiar layout features (e.g., papers from the same publisher), but in practice models encounter documents with unfamiliar distributions of layout features, such as new combinations of text sizes and styles, or new spatial configurations of textual elements.
 2306.01615_1854763_3	I propose that viewing AI as a tool or an instrument, rather than a collaborator, is more accurate, and ultimately fairer.
 2306.03090_1856238_2	We explore whether generative AI could become a cost-effective complement to expert feedback by serving as an automated teacher coach.
@@ -512,7 +505,6 @@
 2310.02421_1924678_1	Knowledge distillation, a technique aiming to transfer knowledge from a high-capacity "teacher" model to a streamlined "student" model, emerges as a promising solution to this dilemma.
 2310.02439_1924696_1	Our primary approach is to simulate LLMs as a novice learner and an expert tutor, aiming to identify the incorrect answer to math question resulted from a specific misconception and to recognize the misconception(s) behind an incorrect answer, respectively.
 2310.02527_1924784_2	In this paper, we exploit the idea of leveraging AI models in lieu of humans as the teacher to train student LLMs.
-2310.02739_1924996_6	This system is hosted on Streamlit, where users will be prompted to provide an image to serve as their AI assistant.
 2310.03684_1925941_0	  Despite efforts to align large language models (LLMs) with human intentions, widely-used LLMs such as GPT, Llama, and Claude are susceptible to jailbreaking attacks, wherein an adversary fools a targeted LLM into generating objectionable content.
 2310.03780_1926037_4	As a first step, our technique leverages GPT-4 as a ``tutor'' model to generate hints -- it boosts the generative quality by using symbolic information of failing test cases and fixes in prompts.
 2310.05191_1927448_0	  In the context of English as a Foreign Language (EFL) writing education, LLM-as-a-tutor can assist students by providing real-time feedback on their essays.
@@ -547,8 +539,6 @@
 2312.04724_1966532_0	  This paper presents CyberSecEval, a comprehensive benchmark developed to help bolster the cybersecurity of Large Language Models (LLMs) employed as coding assistants.
 2312.06731_1968539_6	Through experiments and synthetic data analysis, our findings are: (1) current MLLMs can serve as robust data generators without assistance from GPT-4V; (2) MLLMs trained with task-specific datasets can surpass GPT-4V in generating complex instruction tuning data; (3) synthetic datasets enhance performance across various multimodal benchmarks and help mitigate model hallucinations.
 2312.07343_1969151_1	This paper explores the potential of using ChatGPT, an LLM, as a virtual Teaching Assistant (TA) in an Introductory Programming Course.
-2312.07814_1969622_4	We compare PathChat against several multimodal vision language AI assistants as well as GPT4V, which powers the commercially available multimodal general purpose AI assistant ChatGPT-4.
-2312.07814_1969622_7	As an interactive and general vision language AI assistant that can flexibly handle both visual and natural language inputs, PathChat can potentially find impactful applications in pathology education, research, and human-in-the-loop clinical decision making.
 2312.12006_1973814_1	This study aims to evaluate the potential of using a fine-tuned ChatGPT model as a personal medical assistant in the Arabic language.
 2312.13103_1974911_1	This paper proposes one of the first clinical applications of multimodal large language models (LLMs) as an assistant for radiologists to check errors in their reports.
 2312.15842_1977650_2	Our methodology involves training the smaller student model (Neural Network) using the prediction probabilities (as soft labels) of the LLM, which serves as a teacher model.
@@ -570,7 +560,6 @@
 2402.01536_1999175_0	  Large language models (LLMs) are now being used in a wide variety of contexts, including as creativity support tools (CSTs) intended to help their users come up with new ideas.
 2402.02676_2000315_1	This paper uses ChatGPT as a research assistant to explore how far ChatGPT can replicate Quora question and answers, using data from the gig economy as an indicative case study.
 2402.03630_2001269_0	  Large Language Models (LLMs) have achieved remarkable success in code completion, as evidenced by their essential roles in developing code assistant services such as Copilot.
-2402.05605_2003244_4	To determine the best selection of a control agent, we propose the addition of an AI manager (via Reinforcement Learning) which learns as an outside observer of the team.
 2402.06264_2003903_1	Art appreciation, often perceived as an unfamiliar and challenging endeavor for most students, can be more accessible with a generative AI enabled conversation partner that provides tailored questions and encourages the audience to deeply appreciate artwork.
 2402.06264_2003903_2	This study explores the application of multimodal large language models (MLLMs) in art appreciation education, with a focus on developing LLaVA-Docent, a model designed to serve as a personal tutor for art appreciation.
 2402.08761_2006400_3	Our approach builds on small language models such as GPT2-XL in order to help avoid disclosing the original content to proprietary LLM's APIs, while also reducing the performance gap between small and large language models via algorithmic enhancement.
@@ -597,8 +586,6 @@
 2403.17336_2034455_8	Building on the insights from the user study, we also developed a system using AI as the assistant to automate the process of jailbreak prompt generation.
 2403.18721_2035840_7	Hence, despite the relatively lower response quality of PhysicsAssistant than GPT-4, it has shown potential for being used as a real-time lab assistant to provide timely responses and can offload teachers' labor to assist with repetitive tasks.
 2403.19049_2036168_0	  Past work has sought to design AI ethics interventions--such as checklists or toolkits--to help practitioners design more ethical AI systems.
-2404.02548_2039999_2	However, the scientific evaluation of Large Language Models (LLMs) used in Automated Programming Assessment Systems (APASs) as an AI-Tutor remains largely unexplored.
-2404.02548_2039999_4	In this paper, we conducted an exploratory case study by integrating the GPT-3.5-Turbo model as an AI-Tutor within the APAS Artemis.
 2404.02616_2040067_4	To tackle above two problems, we first take query concatenated with the query-based summary and the document summary without query as the input of topic relevance model, which can help model learn the relevance degree between query and the core topic of document.
 2404.02798_2040249_7	Finally, we explore the potential of generative AI, such as ChatGPT, and propose a hybrid model that blends artificial intelligence with a collaborative, teacher-facilitated approach to personalized learning.
 2404.03715_2041166_7	Moreover, DNO enjoys monotonic improvement across iterations that help it improve even over a strong teacher (such as GPT-4).
@@ -611,7 +598,6 @@
 2405.00715_2057927_4	We introduced a new approach, DistillDirect, for performing on-policy reinforcement learning with Gemini 1.0 Pro as the teacher model.
 2405.00995_2058207_5	Knowledge workers also expressed worries about Gen AI undermining trust in the relationship between instructor and student and discussed potential solutions, such as pedagogy readiness, to mitigate them.
 2405.00995_2058207_6	Additionally, participants recognized Gen AI's potential to democratize knowledge by accelerating the learning process and act as an accessible research assistant.
-2405.06626_2063838_11	The results show that low-rank decomposition can be a promising direction for LLM-based applications that require real-time service at scale (e.g., AI agent and real-time coding assistant), where the latency is as important as the model accuracy.
 2405.06800_2064012_0	  Large Language Models (LLMs) are becoming vital tools that help us solve and understand complex problems by acting as digital assistants.
 2405.08828_2066040_2	The primary aim of this study is to contribute to the methodological discussion regarding the integration of AI tools, offering a practical guide to validation for using GPT as a collaborative research assistant.
 2405.09186_2066398_0	  Language models (LMs) as conversational assistants recently became popular tools that help people accomplish a variety of tasks.
@@ -673,7 +659,6 @@
 2408.17097_2137278_4	Our approach employs an LLM as a ''teacher'' model through zero-shot prompting to generate teaching CoT rationales, followed by a CoT ''student'' model that is fine-tuned by the generated teaching data for learning to reason about performance declines.
 2409.00558_2138190_3	Specifically, given an input textual prompt, our scheme consists of three stages: 1) We leverage LLM as the director to first decompose the complex query into several sub-prompts that indicate individual concepts within the video~(\textit{e.g.}, scene, objects, motions), then we let LLM to invoke pre-trained expert models to obtain corresponding 3D representations of concepts.
 2409.04056_2141688_3	Operations on the taxonomy, such as cutting links or merging classes, are performed with the help of zero-shot prompting on an open-source LLM.
-2409.07110_2144742_2	Leveraging cutting-edge open-source Large Language Models (LLMs), Bio-Eng-LMM operates as a sophisticated AI assistant, exploiting the capabilities of traditional models like ChatGPT.
 2409.09047_2146679_0	  The effect of large language models (LLMs) in education is debated: Previous research shows that LLMs can help as well as hurt learning.
 2409.11654_2149286_6	We envision a future where AI Virtual Cells help identify new drug targets, predict cellular responses to perturbations, as well as scale hypothesis exploration.
 2409.12586_2150218_5	These important tokens are then provided as rationales to a student model, aiming to distill the knowledge of the teacher model.
@@ -712,7 +697,6 @@
 2410.24148_2182349_4	In this paper, we propose to utilize vision language models (VLMs) such as generative pre-trained transformer (GPT), GEMINI, large language and vision assistant (LLAVA), PaliGemma, and Microsoft Florence2 to recognize facial attributes such as race, gender, age, and emotion from images with human faces.
 2411.00780_2183207_6	Based on our findings, we envision MLMs as a teacher for knowledge distillation, a machine labeler, and a part of the ensembled and tiered seasonality detection system, which can empower ads ranking systems with enriched seasonal information.
 2411.02725_2185152_4	Key insights for LLM tutor use are as follows: NNES students signed up for the LLM tutor at a similar rate to native English speakers (NES); NNES students used the system at a lower rate than NES students -- to a small effect; NNES students asked significantly more questions in languages other than English compared to NES students, with many of the questions being multilingual by incorporating English programming keywords.
-2411.02725_2185152_5	Results for views of the LLM tutor are as follows: both NNES and NES students appreciated the LLM tutor for its accessibility, conversational style, and the guardrails put in place to guide users to answers rather than directly providing solutions; NNES students highlighted its approachability as they did not need to communicate in perfect English; NNES students rated help-seeking preferences of online resources higher than NES students; Many NNES students were unfamiliar with computing terminology in their native languages.
 2411.03495_2185922_3	We present here the study of several dimensions: 1) identifying error patterns made by simulated students on secondary-level math exercises; 2) developing various prompts for GPT-4o as a teacher and evaluating their effectiveness in generating hints that enable simulated students to self-correct; and 3) testing the best-performing prompts, based on their ability to produce relevant hints and facilitate error correction, with Llama-3-8B-Instruct as the teacher, allowing for a performance comparison with GPT-4o.
 2411.03495_2185922_6	Interestingly, Llama-3-8B-Instruct as a teacher showed better overall performance than GPT-4o.
 2411.05681_2188108_1	To fully achieve the potential of MaaS, a range of AI (including machine learning and data mining) algorithms are needed to learn personal requirements and needs, to optimise journey planning of each traveller and all travellers as a whole, to help transport service operators and relevant governmental bodies to operate and plan their services, and to detect and prevent cyber attacks from various threat actors including dishonest and malicious travellers and transport operators.
@@ -763,7 +747,6 @@
 2501.14877_2238461_7	We also find that synthetic QAs, though imperfect, can yield similar model rankings as teacher-written QAs.
 2501.15247_2238831_6	While generative AI shows potential as a personalized tutor, further evaluation is needed to assess its effectiveness.
 2501.16548_2240132_0	  As the climate crisis deepens, artificial intelligence (AI) has emerged as a contested force: some champion its potential to advance renewable energy, materials discovery, and large-scale emissions monitoring, while others underscore its growing carbon footprint, water consumption, and material resource demands.
-2501.16661_2240245_4	Building on the potential of LLMs to generate coherent narratives with commonsense reasoning, we contribute Jupybara, an AI-enabled assistant for actionable EDA and storytelling implemented as a Jupyter Notebook extension.
 2501.18948_2242532_3	Meanwhile, Human-Centered AI (HCAI), which envisions AI as a collaborator augmenting human capabilities and aligning with societal values, remains a fugitive from the mainstream narrative.
 2501.19361_2242945_1	Although these LLMs are marketed as helpful creative assistants, several works have shown that using an LLM as a creative partner results in a narrower set of creative outputs.
 2501.19377_2242961_0	  In this work, we present and evaluate SELMA, a Speech-Enabled Language Model for virtual Assistant interactions that integrates audio and text as inputs to a Large Language Model (LLM).
@@ -771,10 +754,8 @@
 2502.01493_2244484_4	These attributes foster balanced interaction, enabling AI to act as a responsive partner, evolving with users over time.
 2502.01671_2244662_4	We include detailed descriptions of our LCA to act as a tutorial, road map, and inspiration for other computer engineers to perform similar LCAs to help us all understand the environmental impacts of our chips and of AI.   
 2502.03129_2246120_3	Specifically, a teacher LLM is employed to generate TEN rationales as supervision data, which are then used to teach and fine-tune a student LLM.
-2502.03333_2246324_7	Together, these findings highlight the potential of RadVLM as a clinically relevant AI assistant, providing structured CXR interpretation and conversational capabilities to support more effective and accessible diagnostic workflows.
 2502.04390_2247381_3	We implement two key components inspired by human cognition: (1) Dissonance and Familiarity Awareness, analyzing model behavior to classify information as novel, familiar, or dissonant; and (2) Targeted Network Updates, which track neural activity to identify frequently used (stubborn) and rarely used (plastic) neurons.
 2502.04964_2247955_3	Our investigation reveals distinctive characteristics of LLMs as probabilistic models, which help to explain why these UQ methods underperform in certain tasks.
-2502.05497_2248488_4	Experiments demonstrate that DeepThink achieves an average performance improvement of 7.92% compared to a GPT-4-turbo+RAG-based assistant on the real user test set in the advertising domain across dimensions such as relevance, completeness, clarity, accuracy, and actionability.
 2502.09532_2252523_7	Our results provide evidence that writers who engage with an LLM-based writing assistant violate choice independence, as prior exposure to a Spanish LLM reduces subsequent utilization of an English LLM.
 2502.12102_2255093_4	As AI agents and chatbots powered by large language models are increasingly designed to serve roles analogous to human positions - such as assistant, mental health provider, tutor, or romantic partner - it is imperative to examine whether and how human relational norms should extend to human-AI interactions.
 2502.12134_2255125_4	Specifically, we employ a lightweight assistant model to generate instance-specific soft thought tokens speculatively as the initial chain of thoughts, which are then mapped into the LLM's representation space via a projection module.
@@ -784,8 +765,6 @@
 2502.17855_2260846_2	Participants envisioned AI playing multidimensional roles, such as an operational assistant, personal trainer, group coach, and evaluator, as solutions to address unique instructional and operational challenges in K-12 PE classes.
 2502.18357_2261348_1	In these tasks, the AI system acts as a co-creative partner, making novel contributions to an artifact-under-creation alongside its human partner(s).
 2502.18476_2261467_2	However, with the help of automated tools and models such as OpenAI Codex and GPT-4, many aspects of the Software Development Life Cycle (SDLC) have been made possible.
-2502.18527_2261518_6	Specifically, users mine with their data, and the mining rate is determined by GOD's evaluation of how well their AI assistant understands them across categories such as shopping, social interactions, productivity, trading, and Web3.
-2502.19410_2262401_0	  Large Language Models (LLMs) have shown remarkable potential in recommending everyday actions as personal AI assistants, while Explainable AI (XAI) techniques are being increasingly utilized to help users understand why a recommendation is given.
 2502.19557_2262548_2	Extracting reliable reward signals directly from teacher models is challenging, as LLMs are optimized for generation rather than evaluation, often resulting in biased or inconsistent assessments.
 2502.20541_2263532_1	The system leverages the capabilities of a sophisticated language model to serve as an intelligent research assistant, enhancing the efficiency and comprehensiveness of literature reviews in the nanotechnology domain.
 2503.00144_2264456_3	To explore user preferences for AI-supported programming learning tools, we conducted a participatory design study with 15 undergraduate novice programmers and 10 instructors to gather insights on their desired help features and control preferences, as well as a follow-up survey with 172 introductory programming students.   
@@ -795,7 +774,6 @@
 2503.02250_2266562_4	In this paper, through a synthesis of related literature and extensive examples of existing AI systems intended to mimic humans, we develop a conceptual framework to help foreground key axes of design variations and provide analytical scaffolding to foster greater recognition of the design choices available to developers, as well as the possible ethical implications these choices might have.
 2503.04743_2269055_7	I conclude with why building a system safety discipline can help us overcome limitations in the European AI Act, as well as how the discipline can help shape sustainable investments into Public Interest AI.
 2503.05839_2270151_6	The system's architecture includes key components such as a bootloader, boot manager, and bootloader updater to facilitate seamless firmware updates.
-2503.05926_2270238_2	We provide insights drawn from interviews with industry personnel working on building human-AI collaboration systems, as well as our collaborations with end-users to build a multimodal AI assistant for task support.
 2503.09838_2274150_0	  We present BioSpark, a system for analogical innovation designed to act as a creativity partner in reducing the cognitive effort in finding, mapping, and creatively adapting diverse inspirations.
 2503.13440_2277752_6	Subsequently, we employ a single-stage distillation process, using the pre-trained VLM as the teacher model to transfer knowledge to the MaTVLM, further enhancing convergence speed and performance.
 2503.13533_2277845_0	  As artificial intelligence (AI) technology becomes increasingly prevalent in the filed of education, there is a growing need for mathematics teacher education students (MTES) to demonstrate proficiency in the integration of AI with the technological pedagogical content knowledge (AI-TPACK).
@@ -811,7 +789,6 @@
 2504.03966_2292669_8	Despite these benefits and positive perception of AI tools, concerns emerged regarding over-reliance on AI, accuracy limitations, and ethical issues such as plagiarism and reduced student-teacher interaction.
 2504.04253_2292956_6	Finally, we present our vision for a user-centered system that leverages GenAI not only for automation but as an intelligent collaborator in visual data exploration.
 2504.05333_2294036_9	The expected utility assessment approach presented here is intended to help AI developers and deployment decision makers to navigate the subtle but substantial impact of counterfactuals so as to better ensure that beneficial AI capabilities are used.
-2504.05559_2294262_2	In this paper, we introduce SciSciGPT, an open-source, prototype AI collaborator that uses the science of science as a testbed to explore the potential of LLM-powered research tools.
 2504.08670_2297373_4	These strategies -- long refined in Disney animation -- function as multimodal scaffolds for attention, understanding, and emotional attunement, thereby forming a structured design grammar familiar to children and transferable to AI interface design.
 2504.09283_2297986_9	We argue that AI agent interfaces, such as software IDEs like Cursor and Windsurf, should provide affordances for impact analysis and help users validate AI retrieval independently from generation.
 2504.09720_2298423_0	  This study explores NotebookLM, a Google Gemini powered AI platform that integrates Retrieval Augmented Generation (RAG), as a collaborative physics tutor, an area of research that is developing quickly.

@@ -8,9 +8,9 @@
 4_acl_243_44794_7	In addition, we found that the model becomes more confident and refuses to provide an answer in only few cases.	the model	model	model	confident	p2
 4_acl_276_39685_3	(2) Is ChatGPT aware of the underlying commonsense knowledge for answering a specific question?	ChatGPT	ChatGPT	ChatGPT	aware	p2
 4_acl_117_37846_1	However, when LLMs face different types of questions, it is worth exploring whether LLMs are aware that some questions have limited answers and need to respond more deterministically but some do not.	LLMs	LLMs	LLM	aware	p2
-4_acl_450_41596_3	The goal is to cultivate culturally cognizant and value-aligned Arabic LLMs capable of accommodating the diverse, application-specific needs of Arabic-speaking communities.	culturally cognizant and value-aligned Arabic LLMs	Arabic LLMs	LLM	culturally cognizant and value-aligned	p2
+4_acl_450_41596_3	The goal is to cultivate culturally cognizant and value-aligned Arabic LLMs capable of accommodating the diverse, application-specific needs of Arabic-speaking communities.	culturally cognizant and value-aligned Arabic LLMs	Arabic LLMs	LLM	culturally cognizant,value-aligned	p2
 4_acl_45_49661_2	We also show that an “attentive” RNN-LM needs less contextual information to achieve similar results to the state-of-the-art on the wikitext2 dataset.	an "attentive" RNN-LM	RNN-LM	LM	attentive	p3
-4_arx_2311.04177_1947144_0	Large Language Models (LLMs) are smart but forgetful.	Large Language Models (LLMs)	Large Language Models (LLMs)	model	smart but forgetful	p2
+4_arx_2311.04177_1947144_0	Large Language Models (LLMs) are smart but forgetful.	Large Language Models (LLMs)	Large Language Models (LLMs)	model	smart,forgetful	p2
 4_arx_1511.03246_676426_3	In this work, we survey, classify and analyze a number of circumstances, which might lead to arrival of malicious AI.	malicious AI	AI	AI	malicious	p2
 4_arx_2005.13635_1293430_5	Our evaluation using convolutional neural networks illustrates challenges and ideas for identifying malicious AI.	malicious AI	AI	AI	malicious	p2
 4_arx_2504.03726_2292429_5_1	In particular, simulated users demonstrate resistance to manipulation initially, but become increasingly vulnerable to malicious AI Assistants as the depth of the interaction increases, highlighting the significant risks associated with extended engagement with potentially manipulative systems.	malicious AI Assistants	AI Assistants	AI assistant	malicious	p2
@@ -18,7 +18,7 @@
 4_arx_2305.02626_1835682_10	We apply our OTF scheme on two LLMs (Llama-13B and ChatGPT), which generates valid repair to a considerable amount of unethical ones, paving the way for more ethically conscious LLMs.	ethically conscious LLMs	LLMs	LLM	ethically conscious	p2
 4_arx_2401.10727_1990281_4	Therefore, in this paper, we propose MLLM-Tool, a system incorporating open-source LLMs and multi-modal encoders so that the learned LLMs can be conscious of multi-modal input instruction and then select the function-matched tool correctly.	the learned LLMs	LLMs	LLM	conscious	p2
 4_arx_1301.6359_402949_3	We consider a number of issues related to the development of the set of patterns which will be used by the intelligent system when interacting with environment.	the intelligent system	system	system	intelligent	p3
-4_arx_2308.03688_1891580_0	  Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.	Large Language Models (LLMs)	Large Language Models (LLMs)	model	smart and autonomous	p1
+4_arx_2308.03688_1891580_0	  Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.	Large Language Models (LLMs)	Large Language Models (LLMs)	model	smart,autonomous	p1
 4_arx_2403.11805_2028924_0	Being more powerful and intrusive into user-device interactions, LLMs are eager for on-device execution to better preserve user privacy.	LLMs	LLMs	LLM	eager	p2
 4_arx_2405.06715_2063927_2	However, whether the same strategies can help LLMs become more creative remains under-explored.	LLMs	LLMs	LLM	creative	p3
 4_arx_2008.00312_1328034_4	To bridge this gap, this work studies the security threats posed by malicious LMs to NLP systems.	malicious LMs	LMs	LM	malicious	p2
@@ -29,7 +29,7 @@
 4_arx_2305.14985_1848041_7	These three modules perform the divide-and-conquer procedure iteratively until the model is confident about the final answer to the main question.	the model	model	model	confident	p2
 4_arx_2406.18326_2096614_4	Our method constructs a counterpart for each piece of data with the same distribution, and performs statistical analysis of the corresponding confidence to test whether the model is significantly more confident under the original benchmark.	the model	model	model	confident	p2
 4_arx_2407.13164_2111551_3	This is in part because LLMs might be overly confident in their predictions, overriding the influence of the constraints.	LLMs	LLMs	LLM	confident	p2
-4_arx_1812.08960_1066534_3	A smart autonomous system (SAS) combines analytics and autonomy to understand, learn, decide and act autonomously.	A smart autonomous system (SAS)	system (SAS)	system	smart autonomous	p2
+4_arx_1812.08960_1066534_3	A smart autonomous system (SAS) combines analytics and autonomy to understand, learn, decide and act autonomously.	A smart autonomous system (SAS)	system (SAS)	system	smart,autonomous	p2
 4_arx_2304.09655_1827701_7	Results suggest that ChatGPT is aware of potential vulnerabilities, but nonetheless often generates source code that are not robust to certain attacks.	ChatGPT	ChatGPT	ChatGPT	aware	p2
 4_arx_2305.08883_1841939_5	A detection algorithm aware of the list can identify the watermarked text.	A detection algorithm	algorithm	algorithm	aware	p2
 4_arx_2407.09517_2107904_5	Consequently, we argue that the emergence of a conscious AI model is plausible in the near term.	a conscious AI model	AI model	model	conscious	p2

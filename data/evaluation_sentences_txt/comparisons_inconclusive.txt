@@ -1,4 +1,3 @@
-id	sentence	AI phrase	mask	AI entity	score
 7_acl_8_10945_3	Although the best bidirectional model performs similarly to humans, they display different strengths: humans outperform neural networks in conversational contexts, while RoBERTa excels at written genres.	the best bidirectional model	bidirectional model	model	perform similarly to humans	inc
 7_acl_5_26147_5	Adding a power-law recency bias to these attention heads yielded a model that performs much more similarly to humans.	a model	model	model	perform similarly to humans	inc
 7_acl_24_22807_4	Our results show that GPT-3 scores similarly to human samples in terms of personality and - when provided with a model response memory - in terms of the values it holds.	GPT-3	GPT-3	GPT-3	score similarly to human samples in terms of personality	inc

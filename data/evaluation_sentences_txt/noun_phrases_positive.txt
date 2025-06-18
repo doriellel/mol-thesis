@@ -1,4 +1,3 @@
-id	sentence	AI phrase	mask	AI entity	score
 5_arx_2102.07536_1424025_6	Testing human behaviour in interaction with actual AI outputs, we provide first behavioural insights into the role of AI as an advisor.	AI	AI	AI	advisor	p
 5_acl_183_26904_4	Our objective is to capture the breadth of interactions between a human user and an AI assistant and employs a comprehensive framework to generate multi-turn conversation iteratively.	an AI assistant	AI	AI	assistant	p
 5_arx_2505.03380_2313940_0	Medical AI assistants support doctors in disease diagnosis, medical image analysis, and report generation.	Medical AI assistants	AI	AI	medical assistant	p

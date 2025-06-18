@@ -1,4 +1,3 @@
-id	sentence	AI phrase	mask	AI entity	score
 1_acl_131_34995_1	We propose metrics to evaluate the trade-off between performance improvements and user burden, and investigate whether LLMs can determine when to request help under varying information availability.	LLMs	LLMs	LLM	determine	p3
 1_acl_7_26333_1	In particular, we rewrite Winograd-style co-reference resolution problems by replacing the key concept word with a synthetic but plausible word that the model must understand to complete the task.	the model	model	model	understand	p2
 1_acl_1_13930_4	• Do LMs recognize when words are used nonliterally in non-compositional MWEs (e.g. do they know whether there are fleas in the flea market)?	LMs	LMs	LM	recognize	p2

@@ -1,4 +1,3 @@
-id	sentence	AI phrase	mask	AI entity	score
 1_acl_586_6176_1	While prior research focused on morphosyntactic, semantic, and world knowledge, it remains unclear to which extent LMs also derive lexical type-level knowledge from words in context.	LMs	LMs	LM	derive knowledge	inc
 1_acl_5_9514_1	In some applications, however, having an additional context can help the model make the right prediction, e.g., by taking the domain or the time of writing into account.	the model	model	model	make a prediction	inc
 1_acl_65_19388_5	The human evaluation found that our topic model creates coherent topics.	our topic model	topic model	model	create	inc

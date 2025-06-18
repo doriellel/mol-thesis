@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 4_acl_683_21860_6	Next, an experiment is conducted on the dataset to examine to what extent a pretrained masked language model is aware of the constructions.	a pretrained masked language model	pretrained masked language model	model	aware	p2
 4_acl_348_35206_2	A desired characteristic of an intelligent system is its ability to recognize the scope of its own knowledge.	an intelligent system	system	system	intelligent	p3
 4_acl_3_45070_1	LLMs are intelligent and slowly replacing the search engines.	LLMs	LLMs	LLM	intelligent	p2

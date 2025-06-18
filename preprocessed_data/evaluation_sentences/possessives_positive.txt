@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 6_arx_2104.14506_1461924_5	The end users can be domain experts, regulatory agencies, managers and executive board members, data scientists, users that use AI, with or without awareness, or someone who is affected by the decisions of an AI model.	an AI model	AI model	model	decisions	p
 6_acl_183_18630_5	On four tasks (two lexical tasks, two advanced ethical reasoning tasks), we show how a (simulated) user can interactively teach a deployed GPT-3, substantially increasing its accuracy over the queries with different kinds of misunderstandings by the GPT-3.	the GPT-3	GPT-3	GPT-3	misunderstandings	p
 6_arx_1912.03652_1215548_4	We investigate how inputs of humans can be altered to reduce misinterpretation by the AI system and to improve efficiency of input generation for the human while altered inputs should remain as similar as possible to the original inputs.	the AI system	AI system	system	misinterpretations	p

@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 4_acl_7_46407_0	Language models (LMs) are vulnerable to exploitation for adversarial misuse.	Language models (LMs)	Language models (LMs)	model	vulnerable	inc
 4_arx_2005.06620_1286415_1	While governments and businesses are eager to enjoy the benefits of AI innovations, the mixed impact of these autonomous and intelligent systems on human well-being has become a pressing issue.	these autonomous and intelligent systems	systems	system	autonomous,intelligent	inc
 4_arx_2408.08878_2129059_6	Integrating LLMs into KE tasks needs to be mindful of potential risks and harms related to responsible AI.	responsible AI	AI	AI	responsible	inc

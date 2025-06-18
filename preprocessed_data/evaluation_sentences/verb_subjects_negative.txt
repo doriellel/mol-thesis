@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 1_acl_141_6586_10	Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.	our model	model	model	perform	n2
 1_arx_2304.09655_1827701_1	ChatGPT in particular, an AI chatbot developed and recently released by OpenAI, has taken the field to the next level.	ChatGPT	ChatGPT	ChatGPT	take the field to the next level	n1
 1_arx_2304.06122_1824168_2	While recent works have explored the use of ChatGPT in the context of humanities, business school, or medical school, this work explores how ChatGPT performs in the context of an introductory computer engineering course.	ChatGPT	ChatGPT	ChatGPT	perform	n2

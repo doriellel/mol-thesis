@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 2_acl_119_34984_3	However, even state-of-the-art large language models (LLMs) still face challenges in such scenarios, primarily due to the following hurdles: (1) LLMs are not explicitly trained to deal with ambiguous utterances; (2) the degree of ambiguity perceived by the LLMs may vary depending on the possessed knowledge.	the LLMs	LLMs	LLM	perceive	p2
 2_acl_738_35585_4	Since a fallacious procedure is generally considered fake and thus harmless by LLMs, it helps bypass the safeguard mechanism.	LLMs	LLMs	LLM	consider	p2
 2_acl_304_37076_3	However their explicitly mention of malicious intent will be easily recognized and defended by LLMs.	LLMs	LLMs	LLM	recognize,defend	p2

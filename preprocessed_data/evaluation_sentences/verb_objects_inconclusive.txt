@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 2_acl_143_43709_5	Our experiments show that these errors can be identified with high accuracy by an LLM.	an LLM	LLM	LLM	identify	inc
 2_acl_511_29547_1	To maintain the knowledge acquired by LLMs, we need to ensure that the editing of learned facts respects internal logical constraints, which are known as dependency of knowledge.	LLMs	LLMs	LLM	acquire	inc
 2_arx_2001.08625_1234038_4	Examination prioritization was performed by the AI, classifying eight different pathological findings ranked in descending order of urgency: pneumothorax, pleural effusion, infiltrate, congestion, atelectasis, cardiomegaly, mass and foreign object.	the AI	AI	AI	perform	inc

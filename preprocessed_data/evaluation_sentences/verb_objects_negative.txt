@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 2_arx_1910.06294_1190213_4	In this work-in-progress we combined the effectiveness of transfer learning provided by pre-trained masked language models with a semi-supervised approach to train a fast and compact model using labeled and unlabeled examples.	pre-trained masked language models	pre-trained masked language models	model	provide	n2
 2_arx_2006.05347_1299861_5	As for the passive eavesdropping, an average secrecy rate maximization problem is formulated, which is addressed by a low complexity algorithm.	a low complexity algorithm	algorithm	algorithm	address	n2
 2_arx_2007.00900_1312414_5	We introduce an explainable VQA system that uses spatial and object features and is powered by the BERT language model.	the BERT language model	BERT language model	model	power	n1

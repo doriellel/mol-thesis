@@ -1,3 +1,4 @@
+id	sentence	AI phrase	mask	AI entity	score
 4_arx_2203.01556_1614418_5	Participants of the AI track are asked to develop their AI algorithm that controls a character given only sound as the input (blind AI) to fight against their opponent; a sample deep-learning blind AI will be provided by us.	a sample deep-learning blind AI	AI	AI	deep-learning,blind	n3
 4_acl_104_28240_1	Without requiring any multilingual caption data, we propose LMCap, an image-blind few-shot multilingual captioning model that works by prompting a language model with retrieved captions.	an image-blind few-shot multilingual captioning model	captioning model	model	image-blind,few-shot,multilingual	n1
 4_acl_877_29913_4	We then discuss ways to develop concept-aware LLMs, taking place at different stages of the pipeline.	concept-aware LLMs	LLMs	LLM	concept-aware	n1

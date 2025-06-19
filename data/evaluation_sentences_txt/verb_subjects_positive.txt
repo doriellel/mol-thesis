@@ -9,7 +9,6 @@
 1_acl_102_12912_7	Finally, as it is hard to tell given a privacy parameter 𝜖 what was the effect on the trained representation, we present experiments showing that the trained model does not memorize private information.	the trained model	trained model	model	memorize	p2
 1_acl_263_41409_3	That is, the LLM only remembers the answer style for open-ended safety questions, which makes it unable to solve other forms of safety tests.	the LLM	LLM	LLM	remember	p2
 1_acl_392_27113_5	During the test stage, given a test question, the LLM recalls relevant memory to help itself reason and answer it.	the LLM	LLM	LLM	recall	p2
-1_acl_682_37442_3	Motivated by this, we propose that LLMs have an inherent awareness from where the text was copied, likely captured in the hidden states of the LLM.	LLMs	LLMs	LLM	have awareness	p2
 1_arx_2304.10149_1828195_10	And the human evaluations show ChatGPT can truly understand the provided information and generate clearer and more reasonable results.	ChatGPT	ChatGPT	ChatGPT	understand	p2
 1_arx_2212.13371_1769548_6	In our first experiment, we find that the AI agent decides to trust humans at higher rates when facing actual incentives than when making hypothetical decisions.	the AI agent	AI agent	agent	decide to trust	p2
 1_arx_2109.14723_1537544_1	As a result, it can be hard to identify what the model actually "believes" about the world, making it susceptible to inconsistent behavior and simple errors.	the model	model	model	believe	p2
@@ -54,3 +53,4 @@
 1_acl_1477_40886_4	The experimental results showcase that ChatGPT demonstrates proficiency in identifying topic structures in general-domain conversations yet struggles considerably in specific-domain conversations.	ChatGPT	ChatGPT	ChatGPT	demonstrate proficiency,struggle	p3
 1_arx_2303.09387_1809184_9	In the absence of a consensus definition and reliable tools for measurement, we cannot rule out the possibility that AI systems learn to manipulate humans without the intent of the system designers.	AI systems	AI systems	system	learn to manipulate	p3
 1_arx_2212.01681_1757858_4	When performing next word prediction given a textual context, an LM can infer and represent properties of an agent likely to have produced that context.	an LM	LM	LM	infer	p2
+1_arx_1808.10627_1019773_2	We show that the model finds a relation between the licensing context and the negative polarity item and appears to be aware of the scope of this context, which we extract from a parse tree of the sentence.	the model	model	model	find	p3

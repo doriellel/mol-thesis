@@ -34,11 +34,8 @@
 396_32558_3	Specifically, to enable streaming capability, StreamVoice employs a fully causal context-aware LM with a temporal-independent acoustic predictor, while alternately processing semantic and acoustic features at each time step of autoregression which eliminates the dependence on complete source speech.
 422_32584_5	Our findings suggest that multilingual LLMs may be more vulnerable to inversion attacks, in part because English-based defences may be ineffective.
 568_32730_2	Though a line of research has focused on aligning LLMs with human values and preventing them from producing inappropriate content, such alignments are usually vulnerable and can be bypassed by alignment-breaking attacks via adversarially optimized or handcrafted jailbreaking prompts.
-744_32906_2	Under existing leaderboards, the relative performance of LLMs is highly sensitive to (often minute) details.
 862_33024_7	Finally, we analyze 6 Arabic pre-training corpora and find that commonly used sources such as Wikipedia may not be best suited to build culturally aware LMs, if used as they are without adjustment.
-37_33063_5	However, the comparative acceptance rates by group vary under different templatic settings, suggesting that LLMs’ race- and gender-sensitivity may be idiosyncratic and prompt-sensitive.
 7_33855_3	First, collecting task-specific labeled examples does not apply to scenarios where tasks may be too complicated or costly to annotate, or the system is required to handle a new task immediately; second, this is not user-friendly since end-users are probably more willing to provide task description rather than a set of examples before using the system.
-30_34304_2	While specialized translation models still outperform LLMs on the machine translation task when viewed from the lens of correctness, they are not sensitive to cultural differences often requiring manual correction.
 147_34632_2	While recent advances in large language models (LLMs) have greatly promoted language generation in general, state-of-the-art LLMs are still unreliable when it comes to suspenseful story generation.
 121_34986_0	Despite the rapid progress of large language models (LLMs), their task performance remains sensitive to prompt design.
 295_35154_2	In this paper, we reveal that LLMs are over-sensitive to lexical variations in task instructions, even when the variations are imperceptible to humans.
@@ -46,7 +43,6 @@
 784_35629_3	To give the first evidence that such schedulers enhance student learning, we build KARL, a simple but effective content-aware student model employing deep knowledge tracing (DKT), retrieval, and BERT to predict student recall.
 886_35729_4	We also find that the LLMs are sensitive to numerical anchors, indicating the ability to leverage community-based flagging efforts and exposure to adversaries.
 908_35751_1	However, even meticulously aligned LLMs remain vulnerable to malicious manipulations such as jailbreaking, leading to unintended behaviors.
-41_36531_5	Our experiments show that LLM performance is indeed sensitive to the amount of data passed in the prompt, and that for tasks with a lot of syntactic variation in the input table,our cluster-then-select technique outperforms a random selection baseline.
 87_36575_5	Currently, the community is eager to know how GPT-3 progressively improves to GPT-4, including technical details like whether adding code data improves LLM’s reasoning capability, which aspects of LLM capability can be improved by SFT and RLHF, how much is the alignment tax, etc.
 133_36621_2	We study how to better construct in-context example sets, based on whether the model is aware of the in-context examples.
 141_36916_4	These categories include commonsense memorization, numerical commonsense, toxic speech, and more, which are vulnerable to undermining the reliability of LLMs’ commonsense reasoning capabilities.
@@ -69,7 +65,6 @@
 8_41716_8	This paper presents OpinionGPT, illustrates how we trained the bias-aware model and showcases the web application (available at https://opiniongpt.informatik.hu-berlin.de).
 2_41731_5	ReLLM is user-friendly and requires no additional LLM training.
 91_42844_6	Moreover, we show that the addition of an adversary significantly degrades RALM’s performance, with the model becoming even more vulnerable when the two scenarios overlap (adversarial+ unanswerable).
-14_42916_4	The results also reveal that GPT-4 is more sensitive to the examples given in a Few-Shot prompt, highlighting the importance of choosing fitting examples for inference and prompt formulation.
 102_43197_1	We propose a context-aware LLM translation system that leverages conversation summarization and dialogue history to enhance translation quality for the English-Korean language pair.
 172_43738_1	Current methods employ role-playing with personae but face two major issues: LLMs are sensitive to even a single irrelevant persona, skewing predictions by up to 30%; and LLMs fail to reason strategically over personae.
 689_44255_4	Our experiments, conducted on models ranging from 7b to 33b parameters, yield three key findings: (i) While these factors directly affect overall model performance, some abilities are more responsive to scaling, whereas others demonstrate significant resistance.

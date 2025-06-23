@@ -1,0 +1,10 @@
+model
+AI-model
+algorithm
+method
+LLM
+LLMs
+agent
+AI
+ChatGPT
+system

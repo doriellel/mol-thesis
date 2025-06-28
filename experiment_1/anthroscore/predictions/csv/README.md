@@ -1,0 +1,1 @@
+these .csv files are the result of obtaining the masked sentences and the anthroscores from the sentence_scores files, and presenting them alongside the original information provided in the expectations.

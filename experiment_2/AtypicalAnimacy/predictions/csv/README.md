@@ -1,0 +1,1 @@
+The files in this directory are the AtypicalAnimacy predictions for experiment 2: our own masking strategy.

@@ -1,0 +1,12 @@
+
+        Corpus: machines19thC_animacy
+        Test set: verb_subjects_positive
+        Context: both
+        Weighted: True
+        Time Period: contemporary
+        WSD: bert
+        Best threshold: 0.3
+        Best cutoff: 200
+
+        ==========================
+        

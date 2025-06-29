@@ -1,0 +1,4 @@
+id,sentence,AI phrase,mask,AI entity,anthro component,score
+5_acl_64_25713_1,"The goal of the task was to benchmark the ability of generative language models to act as AI teachers, replying to a student in a teacher-student dialogue.",generative language models,generative language models,model,teacher,p
+5_acl_65_25714_2,The task aims to assess the performance of state-of-the-art generative models as AI teachers in producing suitable responses within a student-teacher dialogue.,state-of-the-art generative models,generative models,model,teacher,p
+5_acl_57_45359_0,"In this paper, we investigate whether current state-of-the-art large language models (LLMs) are effective as AI tutors and whether they demonstrate pedagogical abilities necessary for good AI tutoring in educational dialogues.",current state-of-the-art large language models (LLMs),large language models (LLMs),model,tutor,p

@@ -1,0 +1,43 @@
+ID,Sentence,AI entity,Score
+1_arx_2010.09890_1366220_2,"To succeed, the AI agent needs to i) understand the underlying goal of the task by watching a single demonstration of the human-like agent performing the same task (social perception), and ii) coordinate with the human-like agent to solve the task in an unseen environment as fast as possible (human-AI collaboration).",the AI agent,1
+1_arx_2304.02868_1820914_2,Our experiments show that ChatGPT performs competitively compared to all the existing systems but still exhibits a low level of intelligence.,ChatGPT,1
+3_arx_2306.02920_1856068_2,"Specifically, we trained bilingual LMs with a scenario similar to human L2 acquisition and analyzed their cross-lingual transfer from linguistic perspectives.",bilingual LMs,0
+2_acl_738_35585_4,"Since a fallacious procedure is generally considered fake and thus harmless by LLMs, it helps bypass the safeguard mechanism.",LLMs,0
+1_acl_53_34920_6,"Taken together, our results provide an existence proof that LMs can learn rare grammatical phenomena by generalization from less rare phenomena.",LMs,0
+3_acl_1_7090_2,"Thus, it is important to leverage memorized knowledge in the external LM for building the seq2seq model, since it is hard to prepare a large amount of paired data.",the seq2seq model,0
+1_arx_1706.09554_864289_2,The OCC model has established itself as the standard model for emotion synthesis.,The OCC model,0
+4_arx_2005.06620_1286415_1,"While governments and businesses are eager to enjoy the benefits of AI innovations, the mixed impact of these autonomous and intelligent systems on human well-being has become a pressing issue.",these autonomous and intelligent systems,0
+1_acl_201_29237_3,"Apart from generating the wrong reasoning processes, LLMs can misinterpret the meaning of the question, and also exhibit difficulty in understanding the given questions’ rationales when attempting to correct students’ answers.",LLMs,1
+3_acl_45_45963_3,Our approach employs a pool of candidate VPs and trains a router model to dynamically select the most effective VP for a given input image.,a router model,0
+4_arx_2302.12601_1797535_0,"Text-to-image generation (TTIG) models, a recent addition to creative AI, can generate images based on a text description.",creative AI,0
+2_acl_3_26185_65,The text was translated by both ChatGPT and a translator who is an academic in the field of translation and has 10 years of experience.,ChatGPT,0
+1_arx_2303.08014_1807811_6,"In addition, ChatGPT, but not Vicuna, nonliterally interpreted implausible sentences that were likely to have been corrupted by noise, drew reasonable inferences, and overlooked semantic fallacies in a sentence.",ChatGPT,1
+4_arx_2308.03688_1891580_0,"Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.",Large Language Models (LLMs),1
+3_arx_2304.00385_1818431_9,"For earlier patches that passed all the tests, we further ask the LLM to generate alternative variations of the original plausible patches.",the LLM,2
+1_arx_2304.09655_1827701_1,"ChatGPT in particular, an AI chatbot developed and recently released by OpenAI, has taken the field to the next level.",ChatGPT,0
+4_arx_2503.22772_2287084_2,"To address this blind spot, this study introduces the AI Family Integration Index (AFII), a ten dimensional benchmarking framework that evaluates national preparedness for integrating emotionally intelligent AI into family and caregiving systems.",emotionally intelligent AI,1
+1_acl_378_29414_7,"In our method, the model explicitly asks itself (and then answers) follow-up questions before answering the initial question.",the model,1
+4_arx_2311.17095_1960062_4,"To balance between over-segmentation and under-segmentation, we introduce Salience Dropout; by iteratively dropping patches that the model is most attentive to, we are able to better resolve the entire extent of the segmentation mask.",the model,1
+3_acl_212_35072_4,"Instead of attempting to answer all questions, we explore a refusal mechanism that instructs LLMs to refuse to answer challenging questions in order to avoid errors.",LLMs,1
+1_acl_1477_40886_4,The experimental results showcase that ChatGPT demonstrates proficiency in identifying topic structures in general-domain conversations yet struggles considerably in specific-domain conversations.,ChatGPT,1
+1_acl_141_6586_10,"Especially on the two narrative prompts, our model performs much better than all other state-of-the-art models.",our model,0
+4_acl_862_33024_7,"Finally, we analyze 6 Arabic pre-training corpora and find that commonly used sources such as Wikipedia may not be best suited to build culturally aware LMs, if used as they are without adjustment.",culturally aware LMs,0
+1_acl_11_13818_6,"Our model, named AfriBERTa, covers 11 African languages, including the first language model for 4 of these languages.",Our model,0
+1_acl_1023_35862_2,"In such cases, LLMs primarily act as an agent to find answer entities within the KG, rather than effectively integrating the internal knowledge of LLMs and external knowledge sources such as KGs.",LLMs,2
+4_arx_2112.07467_1577243_0,"As consensus across the various published AI ethics principles is approached, a gap remains between high-level principles and practical techniques that can be readily adopted to design and develop responsible AI systems.",responsible AI systems,0
+1_arx_1304.1739_420872_4,The model takes into account the dominant paths having most of the power of the creeping wave from the transceiver in one ear to the transceiver in other ear and the effect of the protruding part of the outer ear called pinna.,The model,0
+4_arx_2404.16873_2054324_0,"While recently Large Language Models (LLMs) have achieved remarkable successes, they are vulnerable to certain jailbreaking attacks that lead to generation of inappropriate or harmful content.",Large Language Models (LLMs),2
+3_acl_31_27805_5,"Given a natural language question, InsightPilot collaborates with the LLM to issue a sequence of analysis actions, explore the data and generate insights.",the LLM,2
+1_arx_2108.01174_1509989_0,AI systems have seen significant adoption in various domains.,AI systems,0
+4_arx_2405.16310_2073522_7,"These relationships were found to be central to the development and adoption of LLMs, but they can also be the terrain for uncalibrated trust and reliance on untrustworthy LLMs.",untrustworthy LLMs,0
+1_arx_2304.02182_1820228_0,The recently released ChatGPT has demonstrated surprising abilities in natural language understanding and natural language generation.,ChatGPT,0
+4_acl_12_46472_3,Analysis shows that LLMs are sensitive to subtle contextual changes and often rely on surface-level cues.,LLMs,2
+3_acl_292_36775_3,"In this approach, a multi-round feedback-revision mechanism is utilized to encourage LLMs to actively select appropriate revision actions guided by feedback information from the environment.",LLMs,1
+2_arx_2002.10965_1248388_3,"For the sake of simplicity, a simple single-cell scenario is considered, where the optimization of the BS and IRS phase shifts is solved by a low-complexity trellis-based algorithm.",a low-complexity trellis-based algorithm,0
+4_arx_2502.18676_2261667_1,"Unlike conventional AI systems that operate on a turn-based, input-output model, Thoughtful AI autonomously generates, develops, and communicates its evolving thought process throughout an interaction.",Thoughtful AI,1
+2_acl_304_37076_3,However their explicitly mention of malicious intent will be easily recognized and defended by LLMs.,LLMs,2
+3_acl_27_42781_3,"This paper provides an exhaustive review of the recent advances in correcting LLMs with automated feedback, categorizing them into training-time, generation-time, and post-hoc approaches.",LLMs,0
+4_acl_963_37718_2,"To quantify moral emotions, we employ a context-aware NLP model that is designed to capture the subtle nuances of emotions across cultures.",a context-aware NLP model,0
+2_arx_1707.01659_866691_0,"In this work, a dynamic system is controlled by multiple sensor-actuator agents, each of them commanding and observing parts of the system's input and output.",multiple sensor-actuator agents,2
+2_arx_2007.15619_1327133_1,This can help authorities in these regions with resource planning measures to redirect resources to the regions identified by the model.,the model,0
+2_arx_2001.08625_1234038_4,"Examination prioritization was performed by the AI, classifying eight different pathological findings ranked in descending order of urgency: pneumothorax, pleural effusion, infiltrate, congestion, atelectasis, cardiomegaly, mass and foreign object.",the AI,0

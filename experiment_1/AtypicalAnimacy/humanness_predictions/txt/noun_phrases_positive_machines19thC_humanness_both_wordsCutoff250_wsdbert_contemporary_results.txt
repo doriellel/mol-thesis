@@ -1,0 +1,23 @@
+
+        Corpus: machines19thC_humanness
+        Test set: noun_phrases_positive
+        Context: both
+        Weighted: True
+        Time Period: contemporary
+        WSD: bert
+        Best threshold: 0.2
+        Best cutoff: 10
+
+        ==========================
+        
+        Corpus: machines19thC_humanness
+        Test set: noun_phrases_positive
+        Context: both
+        Weighted: True
+        Time Period: contemporary
+        WSD: bert
+        Best threshold: 0.2
+        Best cutoff: 10
+
+        ==========================
+        

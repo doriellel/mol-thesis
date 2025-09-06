@@ -1,20 +1,33 @@
-# thesis
-code for the NLP task section of the MoL thesis.
+# MoL thesis: A Linguistically Grounded Evaluation of Anthropomorphic Language Detection in AI Research
+
+This repository contains code for retreiving and pre-processing data used towards the compilation of AnthroSet - an evaluation set developed as part of the MoL thesis work. 
+Additionally, it contains auxiliary scripts for post-processing the results of the evaluation, and measuring the results in terms of precision, recall, F1, and accuracy, and examining prediction trends.
 
 /code
 
-contains notebooks for extracting extracting data from the ArXiv and ACL anthology corpora, including specific functionalities for identifying candidates for anthropomorphic structures (manual review is necessary).
-also contains a notebook that converts text to conllu format (its application is deprecated).
-
-/preprocessed_data
-
-.txt files containing sentences extracted from abstracts of papers from ArXiv and ACL which contain certain keywords (specified in the code) 
+/code/get_sentences.ipynb: code that extracts data from the arXiv and ACL anthology corpora, including specific functionalities for identifying candidates for anthropomorphic structures (manual review is necessary).
+/code/validate_sentences.ipynb: validate annotated sets according to specific criteria (avoid duplicate sentences, conflicting annotations, etc)
+/code/calculate_IAA.ipynb: calculate IAA on 20% of the data based on redundant annotations, using Cohen's kappa
+/code/get_masks_and_context.ipynb: code that obtains masked sentences for each masking strategy (anthroscore and minimal entity masking)
+/code/get_final_evaluation_sets.ipynb: creates final evaluation sets with uniform configuration
+/code/evaluation.ipynb: obtain precision, recall, F1, and accuracy scores as well as prediction trends for final results.
+auxiliary processing notebooks:
+/code/anthroscore_preprocessing.ipynb, /code/conversion_utils.ipynb
+/code/tools/wordnet_syns.py: obtain wordnet synsets, as well as conceptually simnilar words for entries in the wordlists
 
 /data
 
-will contain processed data adhering to the structure of AnthroScore and Atypical Animacy evaluation.
-also contains a sample conllu format (its application is deprecated).
+/data/IAA: IAA sets
+/data/candidate_sentences: preprocessed, untagged pool of candidate sentences collected automatically -- requires manual review
+/data/dataframes: dataframe equivalents of candidate sentences, including also previous and next sentences
+/data/evaluation_sentences_csv: selected and annotated sentences in csv format
+/data/evaluation_sentences_txt: selected and annotated sentences in txt format
+
+/experiment_1: input and output files for experiment 1, using both anthroscore and atypicalanimacy models
+/experiment_2: input and output files for experiment 2, using both anthroscore and atypicalanimacy models
+
+/final_sets: uniform configuration of outputs from both experiments and both models, including expectations and predictions
 
 /wordlists
 
-.txt files containing anthropomorphic verbs/nouns/adjectives (1-token per line)
+txt files containing anthropomorphic verbs/nouns/adjectives (1-token per line)

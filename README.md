@@ -1,4 +1,4 @@
-## MoL thesis: A Linguistically Grounded Evaluation of Anthropomorphic Language Detection in AI Research
+## MoL thesis: A Linguistically Grounded Evaluation of Anthropomorphic Language Detection in AI Research (Dorielle Lonke)
 
 This repository contains code for retrieving and pre-processing data used towards the compilation of AnthroSet - an evaluation set developed as part of the MoL thesis work. 
 Additionally, it contains auxiliary scripts for post-processing the results of the evaluation, and measuring the results in terms of precision, recall, F1, and accuracy, and examining prediction trends.

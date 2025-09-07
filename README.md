@@ -1,9 +1,9 @@
-# MoL thesis: A Linguistically Grounded Evaluation of Anthropomorphic Language Detection in AI Research
+## MoL thesis: A Linguistically Grounded Evaluation of Anthropomorphic Language Detection in AI Research
 
 This repository contains code for retrieving and pre-processing data used towards the compilation of AnthroSet - an evaluation set developed as part of the MoL thesis work. 
 Additionally, it contains auxiliary scripts for post-processing the results of the evaluation, and measuring the results in terms of precision, recall, F1, and accuracy, and examining prediction trends.
 
-/code
+#### /code
 
 1. get_sentences.ipynb: code that extracts data from the arXiv and ACL anthology corpora, including specific functionalities for identifying candidates for anthropomorphic structures (manual review is necessary).
 2. validate_sentences.ipynb: validate annotated sets according to specific criteria (avoid duplicate sentences, conflicting annotations, etc)
@@ -19,7 +19,7 @@ auxiliary processing notebooks:
 
 /code/tools/wordnet_syns.py: obtain wordnet synsets, as well as conceptually simnilar words for entries in the wordlists
 
-/data
+#### /data
 
 1. IAA: IAA sets
 2. candidate_sentences: preprocessed, untagged pool of candidate sentences collected automatically -- requires manual review
@@ -27,10 +27,14 @@ auxiliary processing notebooks:
 4. evaluation_sentences_csv: selected and annotated sentences in csv format
 5. evaluation_sentences_txt: selected and annotated sentences in txt format
 
-/experiment_1: input and output files for experiment 1, using both anthroscore and atypicalanimacy models
+#### /experiment_1
+input and output files for experiment 1, using both anthroscore and atypicalanimacy models
 
-/experiment_2: input and output files for experiment 2, using both anthroscore and atypicalanimacy models
+#### /experiment_2
+input and output files for experiment 2, using both anthroscore and atypicalanimacy models
 
-/final_sets: uniform configuration of outputs from both experiments and both models, including expectations and predictions
+#### /final_sets
+uniform configuration of outputs from both experiments and both models, including expectations and predictions
 
-/wordlists: txt files containing anthropomorphic verbs/nouns/adjectives (1-token per line)
+#### /wordlists
+txt files containing anthropomorphic verbs/nouns/adjectives (1-token per line)
